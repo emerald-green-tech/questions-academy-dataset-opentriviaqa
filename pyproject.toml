@@ -1,0 +1,9 @@
+[project]
+name = "questions-academy-dataset-opentriviaqa"
+version = "0.0.0"
+description = "A Creative Commons dataset of trivia questions and answers"
+dependencies = []
+
+[build-system]
+requires = ["setuptools>=78.0.0"]
+build-backend = "setuptools.build_meta"
