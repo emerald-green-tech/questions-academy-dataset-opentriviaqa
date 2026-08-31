@@ -7,3 +7,20 @@ dependencies = []
 [build-system]
 requires = ["setuptools>=78.0.0"]
 build-backend = "setuptools.build_meta"
+
+[dependency-groups]
+# Pip supports `dependency-groups` from version 25.1 and onwards. Example usage:
+#
+#   pip install --group test
+#   pip install --group build
+#
+test = [
+    "pytest",
+]
+build = [
+    # A simple, correct Python build frontend: https://pypi.org/project/build/
+    "build",
+]
+
+[tool.pytest.ini_options]
+addopts = "-vv --capture no --show-capture all"
