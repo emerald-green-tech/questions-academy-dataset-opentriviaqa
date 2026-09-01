@@ -881,7 +881,7 @@ B 50
 C 58
 D 60
 
-#Q In the following division problem, the quotient is 2: 
+#Q In the following division problem, the quotient is 2:
 12 / 6 = 2.
 ^ True
 A True
@@ -2092,7 +2092,7 @@ B An angle greater than 180 degrees but less than 360 degrees.
 C Any angle greater than 360 degrees
 D The angle you need to look a fish in the eye.
 
-#Q How many of these statements are true: 
+#Q How many of these statements are true:
 - negative one has no square root
 - the logarithm of negative one is negative
 - the reciprocal of negative one is positive one
