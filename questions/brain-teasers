@@ -1,11 +1,3 @@
-
-#Q Which of these is true about the sleep of zebras?
-^ They sleep standing up.
-A All of these
-B They sleep standing up.
-C They would fall asleep every 5 to 6 hours.
-D They need more than 12 hours of sleep a day.
-
 #Q A farmer had 12 sheep and 3 cows. All of the animals except 9 sheep died. How many animals did he have left in his farm?
 ^ 9 sheep
 A 5 cows and 1 sheep
@@ -13,14 +5,14 @@ B 9 sheep
 C 2 cows
 D none
 
-#Q I don't speak, I cannot hear, but I always tell the truth.
+#Q I don't speak, I cannot hear, but I always tell the truth. What am I?
 ^ The Mirror
 A The watch
 B Fish
 C The Mirror
 D Old granny
 
-#Q Can a Roman Catholic man from California marry his widows sister who is from Texas?
+#Q Can a Roman Catholic man from California marry his widow's sister who is from Texas?
 ^ No
 A Yes
 B No
@@ -32,7 +24,7 @@ B Removed
 C The broken
 D The grease
 
-#Q An old man was looking at a photograph of a young man. Somebody asked him who it was. The mans answer was the following: Brothers and sisters, I have none. But that mans father is my fathers son. Who was in the photograph?
+#Q An old man was looking at a photograph of a young man. Somebody asked him who it was. The man's answer was the following: Brothers and sisters, I have none. But that man's father is my father's son. Who was in the photograph?
 ^ His son
 A His cousin
 B His grandfather
@@ -336,12 +328,12 @@ B 3
 C 9
 D None of these
 
-#Q Suppose youre taking a multiple-choice quiz.  One question has three choices - A, B, C.  You do not know the answer and guess A. The instructor then announces that C is incorrect. Should you switch to B before turning in your paper?
+#Q Suppose you're taking a multiple-choice quiz. One question has three choices - A, B, C. You do not know the answer and guess A. The instructor then announces that C is incorrect. Should you switch to B before turning in your paper?
 ^ Yes, this should help
 A No, it would be worse
 B Yes, this should help
 C It depends on when the announcement was made
-D It doesnt matter
+D It doesn't matter
 
 #Q A worm can gnaw through 1 mm of paper for a single day. On a bookshelf there are two volumes, each 4 cm thick. Each of the covers is 2 mm thick. How long will it take the warm to gnaw from the first page of the first volume to the last page of the second volume?
 ^ 4 days
@@ -416,14 +408,14 @@ B Africa
 C Asia
 D Europe
 
-#Q One kid has a toy car with a strange remote control- it has only one button on it. When the car is switched on, it starts moving forward and doesnt stop until its switched off. When the boy presses the button, the car makes a 60 degree turn clockwise. Considering that this is a very lazy boy, try calculating the smallest number of times he has to press the button so that the car travels back to him.
+#Q One kid has a toy car with a strange remote control- it has only one button on it. When the car is switched on, it starts moving forward and doesn't stop until its switched off. When the boy presses the button, the car makes a 60 degree turn clockwise. Considering that this is a very lazy boy, try calculating the smallest number of times he has to press the button so that the car travels back to him.
 ^ 5
 A 4
 B 5
 C 7
 D 3
 
-#Q Here is something like a warm-up before you get to the next one. Three friends, Peter, Nick and Tom were competing in a race. After they finished, a person ,who was late for the race, asked them who was the winner. Tom said I didnt finish first and Peter didnt finish second. Then Nick said Tom didnt finish second either. Who was the winner?
+#Q Here is something like a warm-up before you get to the next one. Three friends, Peter, Nick and Tom were competing in a race. After they finished, a person ,who was late for the race, asked them who was the winner. Tom said I didn't finish first and Peter didn't finish second. Then Nick said Tom didn't finish second either. Who was the winner?
 ^ Peter
 A Peter
 B Nick
@@ -477,10 +469,12 @@ B - $20
 C $20
 D 0
 
-#Q Somewhere, there is a very interesting village. And whats so interesting about it? Well, in this village there is a barber, a very special barber. He cuts the hair of everybody in the village that doesnt cut his own hair.  Who then cuts the barbers hair?
+#Q Somewhere, there is a very interesting village. And what's so interesting about it? Well, in this village there is a
+barber, a very special barber. He cuts the hair of everybody in the village that doesn't cut his own hair. Who then cuts
+the barbers hair?
 ^ Such village cannot exist, it is a paradox
 A The barber of another village
-B Noone
+B No one
 C Himself
 D Such village cannot exist, it is a paradox
 
@@ -809,7 +803,7 @@ B excessive concentration one one subject
 C extremely wealthy
 D patronising culture
 
-#Q It wasnt accidental it was pure KISMET that Joey fell in love with Laura. What does kismet mean?
+#Q It wasn't accidental it was pure KISMET that Joey fell in love with Laura. What does kismet mean?
 ^ fate, destiny
 A fate, destiny
 B contrived, forced
@@ -887,7 +881,8 @@ B 59 seconds
 C 15 seconds
 D 60 seconds
 
-#Q Two people get to a river and find a boat capable of accommodating only one person. Using this boat, both of them manage to cross the river. If they crossed without any of the them swiming the river which of the following is true?
+#Q Two people get to a river and find a boat capable of accommodating only one person. Using this boat, both of them
+manage to cross the river. If they crossed without any of the them swimming the river which of the following is true?
 ^ They were on different banks of the river.
 A The river was wider than longer.
 B This is impossible.

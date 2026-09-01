@@ -4,21 +4,28 @@ COMMON_SPELLING_MISTAKES = [
     "arent",  # aren't
     "cant",  # can't
     "couldnt",
+    "didnt",
+    "doesnt",
     "dont",  # don't
     "hes",  # he's
     "hadnt",
     # "im",  # I'm -- Comment in to check if needed, but there are false positives.
     # "id",  # I'd -- Comment in to check if needed, but there are false positives.
     "isnt",  # isn't
+    "oclock",
     "shes",  # she's
     "shouldnt",  # shouldn't
+    "thats",
     "theres",  # there's
+    "theyre",
     "werent",  # weren't
+    "whats",
     "wheres",  # where's
     "whos",  # who's"
     "wouldve",  # would've
     "youll",  # you'll
     "youve",  # you've
+    "youre",
 ]
 
 

@@ -20,6 +20,13 @@ B Luxemburg
 C Brussels
 D Stockholm
 
+#Q This country's capital is Buenos Aires. It is the second largest country in South America.
+^ Argentina
+A Andorra
+B Antigua and Barbuda
+C Austria
+D Argentina
+
 #Q What is the capital of Greece?
 ^ Athens
 A Ankara
@@ -614,7 +621,7 @@ B Washington
 C Pennsylvania
 D New York
 
-#Q Which of these states has an official motto that doesnt include the word rights in it?
+#Q Which of these states has an official motto that doesn't include the word rights in it?
 ^ Indiana
 A Iowa
 B Indiana
@@ -1440,7 +1447,7 @@ B Copenhagen (Denmark)
 C Madrid (Spain)
 D Boston (Massachusetts)
 
-#Q Which of the following flags doesnt include a cross?
+#Q Which of the following flags doesn't include a cross?
 ^ the flag of Alaska
 A the flag of Mississippi
 B the flag of the UK
@@ -2844,7 +2851,7 @@ B New Guinea
 C Timor
 D Flores
 
-#Q This island, the second largest in the world, is shared by Indonesia and another country. Because of its impenetrable swamps, jungles and towering mountains, it wasnt explored by outsiders until the past 100 years, and new tribes of humans with stone-age societies are still being discovered in the interior.
+#Q This island, the second largest in the world, is shared by Indonesia and another country. Because of its impenetrable swamps, jungles and towering mountains, it wasn't explored by outsiders until the past 100 years, and new tribes of humans with stone-age societies are still being discovered in the interior.
 ^ New Guinea
 A New Guinea
 B Flores

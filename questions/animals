@@ -1065,7 +1065,7 @@ B Scooby Doo
 C Snoopy
 D Clifford
 
-#Q The beagle is not a good choice for a childrens pet because it is aggressive.
+#Q The beagle is not a good choice for a children's pet because it is aggressive.
 ^ False
 A False
 B True
@@ -1440,7 +1440,7 @@ B 30 days
 C 120 days
 D 60 days
 
-#Q Do white lions exsist in the wild?
+#Q Do white lions exist in the wild?
 ^ Yes
 A Yes
 B No
@@ -1688,9 +1688,9 @@ A False
 B True
 
 #Q The North American Beaver is Canadas National symbol that adorns which Canadian coin?
-^ Nickle
+^ Nickel
 A Penny
-B Nickle
+B Nickel
 C Quarter
 D Dime
 
@@ -1730,7 +1730,7 @@ B Their faceted eyes
 C The proboscis
 D The legs
 
-#Q Butterflies do not have lungs. They breathe trough this organ.
+#Q Butterflies do not have lungs. They breathe through this organ.
 ^ The abdomen
 A The proboscis
 B The abdomen
@@ -1756,14 +1756,14 @@ B Behaves quite self-conceited
 C Flits from one person to another
 D Wears clothes with bright colors
 
-#Q Why does your cat interrupt you and want petting when youre on the phone?
+#Q Why does your cat interrupt you and want petting when you're on the phone?
 ^ your cat thinks you are talking to him/ her
 A your cat thinks you are talking to him/ her
 B to annoy you
 C to be a part of your telephone call
-D your cats is jealous that youre talking to someone else
+D your cats is jealous that you're talking to someone else
 
-#Q Why do cats seem to be attracted to the one person who doesnt like cats?
+#Q Why do cats seem to be attracted to the one person who doesn't like cats?
 ^ Kitty sees that person as unintimidating
 A Kitty wants to annoy them
 B Kitty thinks that person has food
@@ -2359,11 +2359,11 @@ C Lesser Flamingo
 D James Flamingo
 
 #Q Why do flamingos often stand on one leg?
-^ Noone knows for sure.
+^ No one knows for sure.
 A To keep their feet from becoming waterlogged.
 B To keep feet from getting tired.
 C To stir up as little silt from bottom as possible.
-D Noone knows for sure.
+D No one knows for sure.
 
 #Q Are baby flamingos pink?
 ^ No
@@ -4023,7 +4023,7 @@ D photosynthesis
 #Q What is the deadliest jellyfish in the world?
 ^ Box Jellyfish
 A Box Jellyfish
-B Lions Mane Jellyfish
+B Lion's Mane Jellyfish
 C Moon Jellyfish
 D Sea Nettle
 
@@ -4167,7 +4167,7 @@ B False
 A False
 B True
 
-#Q A vampire bat will die if it doesnt find blood for how many nights in a row?
+#Q A vampire bat will die if it doesn't find blood for how many nights in a row?
 ^ 2
 A 2
 B 5
@@ -4623,7 +4623,7 @@ B Nibbler
 C Squirrel
 D Stripes
 
-#Q What would some species of  porcupine consume in order to supply calcium ans salts?
+#Q What would some species of porcupine consume in order to supply calcium and salts?
 ^ Bones
 A Nails
 B All of these
@@ -7069,7 +7069,7 @@ D Its brain size is extremely reduced.
 ^ Pouch bear
 A Ash-colored
 B Pouch bear
-C Doesnt drink
+C Doesn't drink
 D Monkey bear
 
 #Q When anxious, the koala produces a loud sound similar to the cry made by this creature.
@@ -7524,7 +7524,7 @@ D 1901
 A Missy
 B Pumpkin
 C Socks
-D Tigger
+D Tiger
 
 #Q Finish this old phrase:
 When you call a dog, he comes right over to you. When you call a cat, she________________.
@@ -8036,7 +8036,7 @@ B True
 A Yes
 B No
 
-#Q The Giant Panda and which of the following serve as an Asian countrys national emblem?
+#Q The Giant Panda and which of the following serve as an Asian country's national emblem?
 ^ The dragon
 A The dragon
 B The Golden Lion Tamarin
@@ -8863,3 +8863,9 @@ B None of these
 C Yarn knitter
 D Lively wings
 
+#Q Which of these is true about the sleep of zebras?
+^ They sleep standing up.
+A All of these
+B They sleep standing up.
+C They would fall asleep every 5 to 6 hours.
+D They need more than 12 hours of sleep a day.
