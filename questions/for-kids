@@ -1788,7 +1788,6 @@ C 19
 D 16
 
 #Q What does x equal in this equation?
-
 4x+4=12
 ^ 2
 A 8
@@ -1822,7 +1821,6 @@ C 12
 D 13
 
 #Q Is this correct?
-
 2-3+1-4+4-=0
 ^ Yes
 A No
@@ -1836,7 +1834,6 @@ C 207
 D 17
 
 #Q What is the missing number?
-
 2,4,7,11,?,22
 ^ 16
 A 16
@@ -4668,7 +4665,6 @@ B Throat
 C Elf
 D Harry
 
-
 #Q Whats the last line of the nursery rhyme Little Bo Peep:
 Little Bo Peep has lost her sheep 
 And cant tell where to find them. 
@@ -4690,12 +4686,6 @@ A A diamond ring
 B A cart and bull
 C A billy goat
 D A looking glass
-
-#Q In the following division problem, the quotient is 2: 
-12 / 6 = 2.
-^ True
-A False
-B True
 
 #Q If your dog is licking him/herself, he/she is actually doing this.
 ^ Taking a bath
@@ -4757,69 +4747,6 @@ A To stay in shape for competition, athletes must exercise on a regular basis to
 B Most of the evidence seemed convincing. Still, the credibility of some witnesses was in question.
 C Preparing and submitting his report to the review board for evaluation and possible publication, was one of the most difficult tasks Bill had ever attempted.
 D After the adjustment for inflation, real wages have decreased while corporate profits have grown.
-
-#Q In which movie did Hermione Granger say the following:
-Im going to bed, before either one of you have another clever idea to get us killed, or worse, expelled
-^ Harry Potter and the Sorcerers Stone
-A Harry Potter and the Chamber of Secrets
-B Harry Potter and the Goblet of Fire
-C Harry Potter and the Sorcerers Stone
-D Harry Potter and the Prisoner of Azkaban
-
-#Q Complete this line from the classic childrens book Green Eggs and Ham:
-I am ______.
-^ Sam
-A Bam-Bam
-B Jean-Claude Van Damme
-C Sam
-D A Lamb
-
-#Q Complete this line from the book Green Eggs and Ham:
-I do not like them in a box! I do not like them with a _____!
-^ Fox
-A Clock
-B Dog with Chicken Pox
-C Bag of Rocks
-D Fox
-
-#Q What word is missing in this line from the book Green Eggs and Ham:
-Would you? Could you?
-In a ........?
-^ Car
-A Jeep
-B Car
-C Line at the DMV
-D Bucket of boiled beets
-
-#Q What does x equal in this equation?
-4x+4=12
-^ 2
-A 4
-B 2
-C 8
-D 6
-
-#Q What is the answer to the following:
-(2*5)-5
-^ 5
-A 0
-B 5
-C 10
-D 2
-
-#Q Is this correct?
-2-3+1-4+4-=0
-^ Yes
-A Yes
-B No
-
-#Q What is the missing number?
-2,4,7,11,?,22
-^ 16
-A 16
-B 17
-C 14
-D 15
 
 #Q What year did the animated series The Adventures of Jimmy Neutron: Boy Genius 1st air?
 ^ 2002

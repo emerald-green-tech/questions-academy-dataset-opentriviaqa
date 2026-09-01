@@ -452,14 +452,12 @@ C 19:36
 D 35:36
 
 #Q Yesterday I heard an interesting conversation in a shop:
-
 Client: How much is one?
 Salesman: Twenty cents.
 Client: What about ninety four?
 Salesman: Thirty cents.
 Client: OK, Ill buy twenty nine. How much is it?
 Salesman: Twenty cents.
-
 Is it possible that it was a real product they were talking about?
 ^ Yes
 A No
@@ -1128,7 +1126,6 @@ Asking the middle one: Who are you?
 Wisdom.
 And at last question for the right one: Who is your neighbor?
 Lie, she replied.
-
 From left to right in what order are goddesses sitting?
 ^ 1. Wisdom 2. Lie 3. Truth
 A 1. Wisdom 2. Truth 3. Lie
@@ -1293,44 +1290,6 @@ B S
 C Y
 D A
 
-
-#Q A woman has 7 children, half of them are boys.
-Can this statement be true?
-^ Yes
-A Yes
-B No
-
-#Q Which letter comes next in this series:
-W-L-C-N-I-T-?
-^ S
-A S
-B W
-C T
-D Z
-
-#Q A total of 15 delegates from Africa, Asia, America, and Europe meet at an international conference.
-Each continent sends a different number of delegates, and each is represented by at least 1 delegate.
-America and Asia send a total of 6 delegates.
-Asia and Europe send a total of 7 delegates.
-Which continent has sent 4 delegates?
-^ Asia
-A Europe
-B Asia
-C America
-D Africa
-
-#Q Yesterday I heard an interesting conversation in a shop:
-Client: How much is one?
-Salesman: Twenty cents.
-Client: What about ninety four?
-Salesman: Thirty cents.
-Client: OK, Ill buy twenty nine. How much is it?
-Salesman: Twenty cents.
-Is it possible that it was a real product they were talking about?
-^ Yes
-A Yes
-B No
-
 #Q What can dance without legs, live without lungs, and die without being alive?
 ^ Fire
 A Water
@@ -1367,53 +1326,6 @@ A a dog
 B nine
 C a cat
 D one
-
-#Q Two children were on their way to school, when they began to question what day of the week it was. They were so confused in their reckoning that one of them gave the following riddle to help sort the matter out: When the day after tomorrow is yesterday, then today will be as far from Sunday as that day was which was today when the day before yesterday was tomorrow!
-On which day of the week were the children heading to school?
-^ Sunday
-A Monday
-B Sunday
-C Friday
-D Saturday
-
-#Q We know very little about the life of the mathematician Diophantus (called the father of algebra) except that he lived around the year 250 B.C. Due to one admirer of his, who described his life by the means of an algebraic riddle, we can at least determine his age at death:
-Diophantuss youth lasted 1/6 of his life. He had his first beard in the next 1/12 of his life. At the end of the following 1/7 of his life Diophantus got married. Five years from then his son was born. His son lived exactly 1/2 of Diophantuss life. Diophantus died 4 years after the death of his son.
-How long did Diophantus live?
-^ 84 years
-A 96 years
-B 84 years
-C 72 years
-D 90 years
-
-#Q Three goddesses were sitting in an old Indian temple. Their names were Truth (who always tells the truth), Lie (who is always lying) and Wisdom (who sometimes lies). In order to figure out which goddess was which you posed the following questions to each:
-Asking the left one: Who is sitting next to you?
-Truth, she answered.
-Asking the middle one: Who are you?
-Wisdom.
-And at last question for the right one: Who is your neighbor?
-Lie, she replied.
-From left to right in what order are goddesses sitting?
-^ 1. Wisdom 2. Lie 3. Truth
-A 1. Truth 2. Lie 3. Wisdom
-B 1. Wisdom 2. Truth 3. Lie
-C 1. Wisdom 2. Lie 3. Truth
-D 1. Lie 2.Truth 3. Wisdom
-
-#Q There are two kinds of people who live on a mysterious island. They are the so-called Honestants, who always speak the truth, and the others are the Swindlecants, who always lie.
-A visitor to the island went to a local pub and had a few drinks. When he was ready to leave he asked the bartender how much he owed. The bartender told him the total for his bill. It was quite expensive, so he asked the bartender if he spoke the truth. But the visitor did not hear the whispered answer so he asked a man sitting next to him about it. And the man said: The bartender said yes, but he is a big liar.
-Was the bartender a Honestant?
-^ No
-A Yes
-B No
-
-#Q You are on your way to visit your Grandma, who lives at the end of the valley. Its her birthday, and you want to give her the cakes youve made.
-Between your house and her house, you have to cross 7 bridges, and as it goes in the land of make believe, there is a troll under every bridge! Each troll, quite rightly, insists that you pay a troll toll. Before you can cross their bridge, you have to give them half of the cakes you are carrying, but as they are kind trolls, they each give you back a single cake.
-What is the minimum number of cakes you will have to leave home with to make sure that you arrive at Grandmas with exactly 2 cakes?
-^ 2
-A 14
-B 24
-C 2
-D 5
 
 #Q There are these two country farmers milking their cows. While the one farmer is milking, a fly zooms into the cows ear. The cow starts jumping around, shaking its head and mooing. He tries to steady the cow and suddenly it settles down. He looks down and sees the
 fly swimming in the milk pail. He turns to his friend and asks Golly, howd that fly get down there so fast? His friend replies...___________________.

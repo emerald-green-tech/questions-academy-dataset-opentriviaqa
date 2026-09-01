@@ -1477,15 +1477,6 @@ B True
 A True
 B False
 
-
-#Q Which movie is this Warcraft 3 quote from?
-Bandit: -What we have here is a failure to communicate.
-^ Cool Hand Luke
-A Cool Hand Luke
-B For a Fistful of Dollars
-C Metal Man
-D Dirty Sanchez
-
 #Q In the cartoon series Calvin and Hobbes, what is Hobbes?
 ^ A stuffed tiger
 A A stuffed leopard
@@ -1564,14 +1555,6 @@ B Rocky III
 C Rocky IV
 D Rocky II
 
-#Q Which video game is the following quote from?
-Ive got muscles in places youve never even heard of.
-^ Escape from Monkey Island
-A Grim Fandango
-B Escape from Monkey Island
-C Monkey Island 2: LeChucks Revenge
-D Simon the Sorcerer 3D
-
 #Q Which video game are the following quotes from?
 A: Come on, comrades! Up to the rooftop! Go!
 B: Get that flag up! Berlin is ours!
@@ -1580,19 +1563,6 @@ A Medal of Honor
 B Hidden and Dangerous 2
 C Battlefield 1942
 D Call of Duty
-
-#Q Choose the missing words in the following lyrics to get the name of a song from Guitar Hero 3:
-___________ _____, if you know what I mean
-___________ _____, she taught me everything
-This lady she asked me, if I would be her man
-You know that I told her, Id do what I can
-To keep her looking pretty
-Buy her dresses that shine
-^ Mississippi queen
-A Dance queen
-B Pretty woman
-C Mississippi queen
-D Gorgeous lady
 
 #Q Emmett Kelly, who initially was a trapeze artist, started working as a clown in what year?
 ^ 1931
@@ -1716,14 +1686,6 @@ A It is not specified.
 B 3
 C 2
 D 1
-
-#Q What hero do these words belong to: I fear no death, I fear no enemy, our
-strength is eternal
-^ Fenix
-A Tessadar
-B Artanis
-C Fenix
-D Zeratul
 
 #Q Who created Popeye, Olive Oyl and Bluto?
 ^ Elzie C. Segar

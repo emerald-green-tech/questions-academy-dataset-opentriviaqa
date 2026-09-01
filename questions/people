@@ -740,7 +740,6 @@ A False
 B True
 
 #Q The lefty, Henry Ford, founded the Ford Motor Company. Finish this quote and find out how he defined quality. 
-
 Quality means doing it right when ___________________________.
 ^ ...no one is looking.
 A ...everyone is looking.
@@ -862,14 +861,6 @@ A Georges Remi
 B William Sydney Porter
 C Harry Hart Frank
 D Stanley Martin Lieber
-
-#Q Both in the year when Mark Twain was born and the year when he died, the Halleys Comet passed by Earth.
--Mark borrowed his pseudonym from Mississippi riverboat terminology, where calling "mark twain" marked safe water.
-^ Samuel Langhorne Clemens
-A Johann Kaspar Schmidt
-B Samuel Langhorne Clemens
-C Don Novello
-D Charles Farrar Browne
 
 #Q This Roman dictator proclaimed himself a god and built statues and temples to himself in Rome. He even ordered his statue to be placed in Jerusalem, so Jews can worship him.
 ^ Caligula
@@ -4778,7 +4769,6 @@ C Fudge
 D Marshmallows
 
 #Q The following citation is taken from this novel of F. Scott Fitzgerald. 
-
 He wanted not association with glittering things and glittering people — he wanted the glittering things themselves.
 ^ The Great Gatsby
 A Tender Is the Night
@@ -7647,14 +7637,6 @@ A 1090
 B 1087
 C 1081
 D 1080
-
-#Q Finish the nursery rhyme:
-Peter Piper picked a peck of .........
-^ pickled peppers
-A pickles
-B Peppers
-C pickled peppers
-D pickled pickles
 
 #Q Name the famous Peter who played Frank Barone in Everybody Loves Raymond.
 ^ Peter Boyle
