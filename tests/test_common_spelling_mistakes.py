@@ -8,6 +8,7 @@ COMMON_SPELLING_MISTAKES = [
     "hes",  # he's
     "hadnt",
     # "im",  # I'm -- Comment in to check if needed, but there are false positives.
+    # "id",  # I'd -- Comment in to check if needed, but there are false positives.
     "isnt",  # isn't
     "shes",  # she's
     "shouldnt",  # shouldn't
