@@ -26,11 +26,14 @@ def test_duplicate_questions() -> None:
                     )
                 )
 
+    total_duplicates = len([question for question in questions if len(questions[question]) > 1])
+
     for question in questions:
         assert len(questions[question]) < 2, (
             "\n"
             "https://github.com/emerald-green-tech/questions-academy-dataset-opentriviaqa/blob/main/"
-            f"{questions[question][0].category}#L{questions[question][0].line_index+1} /n"
+            f"{questions[question][0].category}#L{questions[question][0].line_index+1} "
             "https://github.com/emerald-green-tech/questions-academy-dataset-opentriviaqa/blob/main/"
-            f"{questions[question][1].category}#L{questions[question][1].line_index+1} /n"
+            f"{questions[question][1].category}#L{questions[question][1].line_index+1} "
+            f"(out of {total_duplicates} duplicates)"
         )
