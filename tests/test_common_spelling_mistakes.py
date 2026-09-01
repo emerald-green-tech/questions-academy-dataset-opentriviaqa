@@ -3,9 +3,11 @@ from pathlib import Path
 COMMON_SPELLING_MISTAKES = [
     "arent",  # aren't
     "cant",  # can't
+    "couldnt",
     "dont",  # don't
     "hes",  # he's
-    "im",  # I'm
+    "hadnt",
+    # "im",  # I'm -- Comment in to check if needed, but there are false positives.
     "isnt",  # isn't
     "shes",  # she's
     "shouldnt",  # shouldn't
