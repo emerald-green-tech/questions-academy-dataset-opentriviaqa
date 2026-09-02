@@ -9,9 +9,12 @@ COMMON_SPELLING_MISTAKES = [
     "dont",  # don't
     "hes",  # he's
     "hadnt",
+    "havent",
+    "hasnt",
     # "im",  # I'm -- Comment in to check if needed, but there are false positives.
     # "id",  # I'd -- Comment in to check if needed, but there are false positives.
     "isnt",  # isn't
+    "ive",  # I've
     "oclock",
     "shes",  # she's
     "shouldnt",  # shouldn't
