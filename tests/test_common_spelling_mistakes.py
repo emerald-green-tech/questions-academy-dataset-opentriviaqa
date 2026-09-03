@@ -13,6 +13,7 @@ COMMON_SPELLING_MISTAKES = [
     "hasnt",
     # "im",  # I'm -- Comment in to check if needed, but there are false positives.
     # "id",  # I'd -- Comment in to check if needed, but there are false positives.
+    # "ill",  # I'll -- Comment in to check if needed, but there are false positives.
     "isnt",  # isn't
     "ive",  # I've
     "oclock",
@@ -21,14 +22,17 @@ COMMON_SPELLING_MISTAKES = [
     "thats",
     "theres",  # there's
     "theyre",
+    "theyll",
     "werent",  # weren't
     "whats",
     "wheres",  # where's
     "whos",  # who's"
     "wouldve",  # would've
+    "wont",
     "youll",  # you'll
     "youve",  # you've
     "youre",
+    "youd",  # you'd
 ]
 
 
