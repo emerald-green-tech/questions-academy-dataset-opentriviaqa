@@ -15,12 +15,13 @@ COMMON_SPELLING_MISTAKES = [
     # "id",  # I'd -- Comment in to check if needed, but there are false positives.
     # "ill",  # I'll -- Comment in to check if needed, but there are false positives.
     "isnt",  # isn't
-    "ive",  # I've
+    # "ive",  # I've -- False positive with designer Jonathan Ive
     "oclock",
     "shes",  # she's
     "shouldnt",  # shouldn't
     "thats",
     "theres",  # there's
+    "thered",
     "theyre",
     "theyll",
     "werent",  # weren't
