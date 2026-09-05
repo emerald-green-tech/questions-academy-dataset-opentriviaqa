@@ -1,23 +1,14 @@
-#Q What is the capital of Afghanistan?
-^ Kabul
-A Tirana
-B Kabul
-C Dushanbe
-D Tashkent
+#Q What is the name of the state capital of the Australian state of Tasmania?
+^ Hobart
+A Brisbane
+B Perth
+C Hobart
+D Adelaide
 
-#Q What is the capital of Australia?
-^ Canberra
-A Canberra
-B Sydney
-C Melbourne
-D Ottawa
-
-#Q What is the capital of Belgium?
-^ Brussels
-A Amsterdam
-B Luxemburg
-C Brussels
-D Stockholm
+#Q The capital of Ibiza is its largest city Eivissa or Ibiza City.
+^ False
+A False
+B True
 
 #Q This country's capital is Buenos Aires. It is the second largest country in South America.
 ^ Argentina
@@ -26,40 +17,12 @@ B Antigua and Barbuda
 C Austria
 D Argentina
 
-#Q What is the capital of Greece?
-^ Athens
-A Ankara
-B Athens
-C Sofia
-D Thessaloniki
-
-#Q What is the capital of Italy?
-^ Rome
-A Venice
-B Rome
-C Naples
-D Milan
-
-#Q What is the capital of Israel?
-^ Jerusalem
-A Tel Aviv
-B Kabul
-C Jerusalem
-D Islamabad
-
-#Q What is the capital of Germany?
-^ Berlin
-A Frankfurt
-B Berlin
-C Munich
-D Hamburg
-
-#Q What is the capital of Norway?
-^ Oslo
-A Stockholm
-B Helsinki
-C Oslo
-D Copenhagen
+#Q This Indian city was the capital of Mogul sovereigns from 1526 to 1658. Its most notable building is the Taj Mahal.
+^ Agra
+A Agra
+B Varanasi
+C Mumbay
+D Jaipur
 
 #Q What is the capital and largest city of Hawaii, the 50th US state?
 ^ Honolulu
@@ -641,7 +604,7 @@ B Hekla
 C El Misti
 D Santorini
 
-#Q Popocatépetl, a volcano whose name means Smoking Mountain, is 70 km away from the capital of which American country?
+#Q Popocatépetl, a volcano whose name means Smoking Mountain, is 70 km away from the capital of which South American country?
 ^ Mexico
 A Mexico
 B Peru
@@ -1084,55 +1047,6 @@ B Blue, White, Green
 C Blue, White, Orange
 D Red, Green, Orange
 
-#Q Little Rock is the capital and most populous city of this US state.
-^ Arkansas
-A Arkansas
-B Wichita
-C Kansas
-D Topeka
-
-#Q What US state borders the states of Virginia, Kentucky, Ohio, Pennsylvania and Maryland?
-^ West Virginia
-A Tennessee
-B Virginia
-C West Virginia
-D North Carolina
-
-#Q Which US state is nicknamed The Pine Tree State?
-^ Maine
-A New Hampshire
-B Missouri
-C Massachusetts
-D Maine
-
-#Q The southern region of what US state is known as Little Egypt?
-^ Illinois
-A Virginia
-B Illinois
-C Ohio
-D Maryland
-
-#Q The capital city of this US state is Trenton, and its largest city is Newark.
-^ New Jersey
-A Montana
-B New Hampshire
-C New Mexico
-D New Jersey
-
-#Q The name of which American state means red people in the Choctaw language?
-^ Oklahoma
-A Ohio
-B Oklahoma
-C North Dakota
-D Oregon
-
-#Q What US state is known as The Volunteer State?
-^ Tennessee
-A Utah
-B Delaware
-C Tennessee
-D Colorado
-
 #Q The flag of what US state features a gold torch and nineteen stars on a blue rectangular field?
 ^ Indiana
 A Illinois
@@ -1160,13 +1074,6 @@ A Bulgaria
 B Germany
 C Austria
 D The Netherlands
-
-#Q Which country's capital city is considered de facto capital of the European Union?
-^ Belgiums
-A UKs
-B Hollands
-C Belgiums
-D Frances
 
 #Q Which country has the river Danube as most of its northern border?
 ^ Bulgaria
@@ -1432,13 +1339,6 @@ B Both have laboratories of equal size.
 C In the US
 D In neither of them
 
-#Q Which of the following countries and states shares its name with its capital city?
-^ Luxembourg
-A New York
-B Malta
-C Luxembourg
-D Oklahoma
-
 #Q Which of these cities was established first?
 ^ Madrid (Spain)
 A New York City (New York)
@@ -1565,26 +1465,12 @@ B Fort Campbell
 C Fort Polk
 D Fort Dix
 
-#Q Riga is the capital of which Baltic country?
-^ Latvia
-A Estonia
-B Lithuania
-C Belarus
-D Latvia
-
 #Q What country gained independence from the British Mandate for Palestine in 1948?
 ^ Israel
 A Syria
 B Sierra Leone
 C Jordan
 D Israel
-
-#Q What city is the capital of Madagascar?
-^ Antananarivo
-A Antananarivo
-B Toamasina
-C Harare
-D Maputo
 
 #Q What river encountered during the Lewis and Clark expedition (1804-1806) flows directly into the Pacific Ocean between Washington and Oregon?
 ^ Columbia
@@ -1877,13 +1763,6 @@ B False
 ^ True
 A False
 B True
-
-#Q What is the capital city of the Netherlands?
-^ Amsterdam
-A Amsterdam
-B Amersfort
-C The Hague
-D Zwolle
 
 #Q What two countries border the Netherlands?
 ^ Belgium and Germany
@@ -5697,13 +5576,6 @@ B Eastern Orthodoxy
 C Protestantism
 D Roman Catholicism
 
-#Q What is the capital city of the Federative Republic of Brazil?
-^ Brasilia
-A Sao Paulo
-B Bogota
-C Rio de Janeiro
-D Brasilia
-
 #Q What is the meaning of the Portuguese word brasa from which the name of Brazil possibly originated?
 ^ Ember
 A Jungle
@@ -5760,10 +5632,16 @@ B Drink
 C Salad
 D Stew
 
-#Q On what day of the week does the parade of the famous Rio Carnival traditionally start?
+#Q On what day of the week does the parade of the famous Rio Carnival traditionally start in Brazil?
 ^ Sunday
 A Sunday
 B Thursday
 C Wednesday
 D Friday
 
+#Q This is the world's smallest country with a territory of only 0.44 sq. km. (0.2 sq. miles) and population of 921 people. It is considered the capital of all Catholics and is ruled by the Pope.
+^ Vatican
+A San Marino
+B Tuvalu
+C Monaco
+D Vatican

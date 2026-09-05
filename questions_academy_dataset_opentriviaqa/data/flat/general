@@ -42,13 +42,6 @@ B Samuel Beckett
 C William Faulkner
 D James Joyce
 
-#Q The capital of Mongolia is this city.
-^ Ulaanbaatar
-A Davao
-B Islamabad
-C Quezon
-D Ulaanbaatar
-
 #Q Mitochondrias function in cells is to perform this.
 ^ To convert organic materials into energy
 A To control chemical reactions within the cytoplasm
@@ -2275,13 +2268,6 @@ B East Side Story
 C The Gangs of New York
 D Jets and Sharks
 
-#Q If I were to visit the wrist-wrestling capital of the world, where would I go?
-^ Petaluma, California.
-A Riga, Latvia
-B Sofia, Bulgaria
-C Norman, Oklahoma
-D Petaluma, California.
-
 #Q Which is the only US state to have two Ivy League colleges in it ?
 ^ New York
 A Connecticut
@@ -2825,26 +2811,12 @@ B Pirouette, Arabesque, Pas des deux, Grande cabriole
 C Cabriole, Pirouette, Arabesque , Atimitudes
 D Fouette, Attitude, Pirouette, Arabesque
 
-#Q The USA owns a territory in the Pacific called  The Commonwealth of the Northern Mariana Islands. What is its capital city?
-^ Saipan
-A Pago Pago
-B Saipan
-C Agana
-D Charlotte Amalie
-
 #Q The Kojiki and the Nihon Shoki are the sacred texts of which religion?
 ^ Shinto
 A Taoism
 B Sikhism
 C Shinto
 D Zoroastrianism
-
-#Q The dram is the monetary unit of this country whose capital city is Yerevan.
-^ Armenia
-A Moldova
-B Azerbaijan
-C Armenia
-D Andorra
 
 #Q The Virginia General Assembly was founded in Jamestown in what year?
 ^ 1619
@@ -6569,13 +6541,6 @@ B Alabama
 C Iowa
 D Colorado
 
-#Q Which of these cities is not a capital of a country in the European Union?
-^ Zurich
-A Warsaw
-B Copenhagen
-C Lisbon
-D Zurich
-
 #Q Which of these is not an actual name of a sea?
 ^ Blue Sea
 A Red Sea
@@ -7126,24 +7091,10 @@ D Prince
 A False
 B True
 
-#Q What is the capital of Finland?
-^ Helsinki
-A Prague
-B Suva
-C Malabo
-D Helsinki
-
 #Q Is it true that the maximum score you can get on SAT is 2400?
 ^ Yes
 A No
 B Yes
-
-#Q What is the capital and largest city of Austria?
-^ Vienna
-A Canberra
-B Sydney
-C Stockholm
-D Vienna
 
 #Q The number Pi is larger than the number 4.
 ^ False
@@ -7166,11 +7117,6 @@ D DDA
 ^ True
 A False
 B True
-
-#Q Is New York City the capital of New York?
-^ No
-A No
-B Yes
 
 #Q 12 squared is 24.
 ^ False
@@ -7253,13 +7199,6 @@ A Martin Van Buren
 B John Adams
 C James Monroe
 D Thomas Jefferson
-
-#Q What is the capital city of Iceland?
-^ Reykjavik
-A Neyjavicik
-B Leykjastick
-C Lolymyestic
-D Reykjavik
 
 #Q The actress's father created The Today Show, The Wide World of Sports, Your Show of Shows (aka the Sid Caesar Show) and helped create The Tonight Show.
 ^ Sigourney  Weaver
@@ -9452,7 +9391,7 @@ B Nuremberg
 C Munich
 D Berlin
 
-#Q This word is Sanskrit for Great Soul, and is used like the title Saint. Some believe that it was first used in 1915 when speaking of Gandhi.
+#Q This word is Sanskrit for "Great Soul", and is used like the title Saint. Some believe that it was first used in 1915 when speaking of Gandhi.
 ^ Mahatma
 A Master
 B Mahatma
@@ -10570,11 +10509,6 @@ B True
 A True
 B False
 
-#Q Conakry is the capital of Turkey.
-^ False
-A False
-B True
-
 #Q More than 5 million Jews were killed during the Holocaust.
 ^ True
 A True
@@ -11282,13 +11216,6 @@ B The Sidecar
 C The Manhattan
 D The Sloe Gin Fizz
 
-#Q The USA has an extensive Interstate Highway System. What five state capitals are NOT directly served by this system?
-^ Juneau, Dover, Jefferson City, Pierre, Carson City
-A Juneau, Dover, Carson City, Honolulu, Pierre
-B Juneau, Honolulu, Jefferson City, Carson City, Pierre
-C Juneau, Honolulu, Salem, Columbia,  Salt Lake City
-D Juneau, Dover, Jefferson City, Pierre, Carson City
-
 #Q Which best defines the word Sanhedrin?
 ^ The court of 23  judges biblically required to be present in every city
 A The condition of being without mental faculties
@@ -11894,26 +11821,12 @@ B Amino acids
 C Nitrates
 D Polypeptides
 
-#Q What is the capital city of Bahrain?
-^ Manama
-A Niamey
-B Bahrain City
-C Manama
-D Muscat
-
 #Q Which of the following languages is spoken as primary language by the most people?
 ^ Bengali
 A German
 B Italian
 C Bengali
 D Russian
-
-#Q Almaty, or Alma-Ata as formerly known, is the largest city and capital of which country?
-^ Kazakhstan
-A Krgyzstan
-B Tajikistan
-C Kyrgyzstan
-D Kazakhstan
 
 #Q Under whose rule was the island of Cyprus when it was conquered by the Ottoman Empire in 1571?
 ^ Venice
@@ -12148,13 +12061,6 @@ B vitreous humor
 C baud talk
 D red humor
 
-#Q What is the southernmost capital city?
-^ Wellington
-A Perth
-B Cape Town
-C Sydney
-D Wellington
-
 #Q In what year was the World Series first broadcast on radio?
 ^ 1922
 A 1932
@@ -12176,14 +12082,7 @@ B John Caponera
 C Jimmy Pardo
 D John Pinette
 
-#Q In terms of population of the city proper, which is the first capital city with over 10,000,000 people?
-^ Moscow
-A Karachi
-B Sao Paulo
-C New York City
-D Moscow
-
-#Q What did the Treaty of Maastricht  result in?
+#Q What did the Treaty of Maastricht result in?
 ^ The European Union was set up.
 A The Hundreds Year War ended.
 B World War II formally ended in Europe.
@@ -13266,13 +13165,6 @@ A Wild West is the title of several Western movies
 B Wild West is a Nintendo game
 C Wild West was a common name for territories west of the Rio Grande river
 D Wild West is an album of Dottie West
-
-#Q During the Cold War, which city was the capital of West Germany?
-^ Bonn
-A Bonn
-B Munich
-C West Berlin
-D Frankfurt
 
 #Q Which is a major US airline and a subsidiary of Delta Air Lines?
 ^ Northwest Airlines
@@ -15727,13 +15619,6 @@ B The equatorial circumference
 C None of these
 D They are equal
 
-#Q Which country has Bratislava as its capital city, and the koruna as its unit of currency?
-^ Slovakia
-A Slovenia
-B Slovakia
-C Macedonia
-D Latvia
-
 #Q A specimen from which of these species was listed in the Guinness Book of World Records as the longest bony fish alive?
 ^ Oarfish
 A Whale shark
@@ -16046,13 +15931,6 @@ A Mickey Mouse
 B Overlord
 C Sceptre
 D Ike
-
-#Q This American city was the site of the first musicians union in the USA. Its zoo housed the lion that roared before every MGM movie. It is called Bluff City. Although it is the largest city in the state it has never been the state capital. What is this city?
-^ Memphis
-A Burbank
-B Newark
-C Memphis
-D New York City
 
 #Q What is the term for a small, thin piece of skin, especially the skin that comes off the body after a sunburn?
 ^ blype
@@ -18271,7 +18149,6 @@ B China
 C United States
 D All of these
 
-
 #Q This US states name means People of the south wind. The buffalo and the honeybee are just two of its symbols. It is located equidistant from the Pacific and the Atlantic Ocean. Susanna Salter (the first woman mayor in the US) was elected mayor of a city in this state.
 ^ Kansas
 A Wyoming
@@ -18915,19 +18792,12 @@ B AB-
 C A+
 D O+
 
-#Q Which actor sued a Los Angeles magazine for publishing a computer-generated image of him wearing a dress?
+#Q Which actor sued a Los Angeles magazine for publishing a computer generated image of him wearing a dress?
 ^ Dustin Hoffman
 A Al Pacino
 B Patrick Swayze
 C Dustin Hoffman
-D Weslery Snipes
-
-#Q This country, whose capital city is Tegucigalpa, uses the lempira as its currency.
-^ Honduras
-A El Salvador
-B Bolivia
-C Nicaragua
-D Honduras
+D Wesley Snipes
 
 #Q Ironically the song Video Killed the Radio Star by the Buggles was the first video played on MTV in the USA. Which was the second song aired on the Music Television?
 ^ Pat Benatar, You Better Run
@@ -19618,14 +19488,7 @@ B She was the first child born after the demise of the USSR.
 C She was the first child born by a surrogate mother.
 D She was the first child born in the offices of the KGB.
 
-#Q The capital city of this country was once known as The Little Paris of Eastern Europe.
-^ Romania
-A Bulgaria
-B Latvia
-C Croatia
-D Romania
-
-#Q The Krahule hill , known as the geographic center of Europe, is it located in this country.
+#Q The Krahule hill, known as the geographic center of Europe, is it located in this country.
 ^ Slovakia
 A Slovakia
 B Austria
@@ -19725,13 +19588,6 @@ A Near-sightedness
 B A disease that is characterized by difficulty in reading
 C A recurrent  pain, hardness or ache in the upper abdomen
 D A religious calendar used by several non-Western groups
-
-#Q Which of these is NOT a state capital?
-^ Dallas
-A Dover
-B Des Moines
-C Denver
-D Dallas
 
 #Q What is a doula?
 ^ A non-professional person who assists a woman during the time of  giving birth and during the postpartum period
@@ -21721,13 +21577,6 @@ A Brussels
 B Strasbourg
 C Luxembourg
 D The EU has no official capital.
-
-#Q What city is the capital of the United Arab Emirates?
-^ Abu Dhabi
-A Al Riyadh
-B Dauha
-C Abu Dhabi
-D Dubai
 
 #Q What airport is the largest hub of United Airlines?
 ^ OHare in Chicago
