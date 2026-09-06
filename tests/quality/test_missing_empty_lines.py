@@ -1,6 +1,9 @@
 from pathlib import Path
 
+import pytest
 
+
+@pytest.mark.quality
 def test_missing_empty_lines() -> None:
     questions_dir = Path().parent / "questions_academy_dataset_opentriviaqa/data/flat"
     assert questions_dir.is_dir(), f"Could not find questions directory {questions_dir.absolute()}"
@@ -13,9 +16,10 @@ def test_missing_empty_lines() -> None:
 
             previous_line = lines[line_index-1]
 
-            if line.startswith("#Q "):
+            if line.startswith("* ID: "):
                 assert len(previous_line) == 0, (
                     "\n"
-                    "https://github.com/emerald-green-tech/questions-academy-dataset-opentriviaqa/blob/main/"
-                    f"{category}#L{line_index+1}"
+                    f"Missing an empty line before a new question in {category} line {line_index+1}\n"
+                    "VS Code shortcut:\n"
+                    f'code --goto "{category}:{line_index+1}"\n'
                 )

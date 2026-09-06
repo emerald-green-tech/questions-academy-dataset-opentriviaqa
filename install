@@ -1,0 +1,18 @@
+#!/usr/bin/env sh
+
+# This script installs this Python package on the local system.
+
+set -x
+
+python -m pip uninstall --yes questions-academy-dataset-opentriviaqa
+
+# --wheel       If omitted, then `build` creates both a wheel and sdist packages. Since this install script specifically
+#               installs the wheel, there is no need to waste time building an sdist package.
+# -vv           Increased verbosity.
+python -m build --wheel -vv
+
+python -m pip install dist/questions_academy_dataset_opentriviaqa-*-py3-none-any.whl
+
+rm -vrf questions_academy_dataset_opentriviaqa.egg-info
+rm -vrf dist
+rm -vrf build

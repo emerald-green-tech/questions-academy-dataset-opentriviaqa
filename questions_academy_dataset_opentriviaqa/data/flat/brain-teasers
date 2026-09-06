@@ -1,3 +1,4 @@
+* ID: b9ae74c9-07f3-4431-9d5b-6ebaf7a74ff4
 #Q A farmer had 12 sheep and 3 cows. All of the animals except 9 sheep died. How many animals did he have left in his farm?
 ^ 9 sheep
 A 5 cows and 1 sheep
@@ -5,6 +6,7 @@ B 9 sheep
 C 2 cows
 D none
 
+* ID: bd5faf44-e4e2-4267-8304-3db0510bfcf7
 #Q I don't speak, I cannot hear, but I always tell the truth. What am I?
 ^ The Mirror
 A The watch
@@ -12,11 +14,13 @@ B Fish
 C The Mirror
 D Old granny
 
+* ID: c3aa6ee6-0e7f-46b2-b633-2c1a834c3624
 #Q Can a Roman Catholic man from California marry his widow's sister who is from Texas?
 ^ No
 A Yes
 B No
 
+* ID: 20c55913-c8e4-4788-99b9-a665f0ff9bb1
 #Q How does this proverb continue: The squeaking wheel gets ...
 ^ The grease
 A The rust
@@ -24,6 +28,7 @@ B Removed
 C The broken
 D The grease
 
+* ID: 84db9b87-1cf2-431e-b663-7d84d782bc65
 #Q An old man was looking at a photograph of a young man. Somebody asked him who it was. The man's answer was the following: Brothers and sisters, I have none. But that man's father is my father's son. Who was in the photograph?
 ^ His son
 A His cousin
@@ -31,26 +36,31 @@ B His grandfather
 C His son
 D His nephew
 
+* ID: 0b261723-9852-45d6-b2e7-f2f714891e07
 #Q A shepherd from a village tended the sheep of those of his fellow villagers who did not tend their own. However, he did not tend the sheep of those villagers who tended their own sheep. In that village, there was only one shepherd and he also had several sheep. Can all this be true?
 ^ No
 A Yes
 B No
 
+* ID: 5725693e-1e97-4398-9099-7e2b521a430a
 #Q A famous story begins like that, It was a clear summer day and my family was preparing dinner for the New Years Eve. Can this story be true?
 ^ Yes
 A Yes
 B No
 
+* ID: 774f7128-589d-48f1-ac1e-85b610077a87
 #Q In a basket there are five apples. We give the five apples to five kids so that each kid receives an apple. However, in the basket there is still one apple. Is this possible?
 ^ Yes
 A Yes
 B No
 
+* ID: 6ca899b4-7771-48e1-9022-c6d077a37327
 #Q Two days ago my son was three years old and next year he will be 6.  This could be a correct statement.
 ^ True
 A False
 B True
 
+* ID: e667fe92-2df9-40b7-b354-0103cb48b2f4
 #Q The single difference between the two cities A and B was that the citizens of A always said the truth, while the citizens of B never did. Once, a man who had never been to either city arrived at one of them. Which question should the man have asked in order to identify the city he was in? Have in mind, that people from A often visited their friends in B and vice versa.
 ^ Are you a citizen of this city?
 A How old are you?
@@ -58,11 +68,13 @@ B Are you married?
 C Is this city A ?
 D Are you a citizen of this city?
 
+* ID: f80857ba-c77f-43b3-aa32-e2520351ad31
 #Q You have two right triangles. The sides of the first one are 3 m, 4 m and 5 m. The sides of the second are 3 m, 4 m and 7 m. The area of the second triangle is bigger.
 ^ False
 A True
 B False
 
+* ID: 498d9d57-3ba5-47af-ab43-46d3496fa23d
 #Q What number comes next in the row - 31, 28, 31, 30, ?
 ^ 31
 A 32
@@ -70,6 +82,7 @@ B 31
 C 30
 D 29
 
+* ID: b77f885d-ea9a-4eb0-82e7-ecef028e8235
 #Q If you were running a race and passed the person in second place, what place would you be in?
 ^ 2nd
 A 1st
@@ -77,6 +90,7 @@ B 2nd
 C 3rd
 D Out of the race
 
+* ID: 0ba240e3-3cf2-441f-8ab5-b0c534e8af63
 #Q What number comes next: 1, 11, 21, 1211, 111221, 312211, 13112221?
 ^ 1113213211
 A 131122211211
@@ -84,6 +98,7 @@ B 11221311
 C 31221113112221
 D 1113213211
 
+* ID: bd300100-f792-4eb2-8d96-aaaa16965978
 #Q What is the largest number you can write out with numbers 1, 2, and 3?
 ^ 10,460,353,203
 A 10,460,353,203
@@ -91,6 +106,7 @@ B 6
 C 123
 D 321
 
+* ID: f2d0f963-5d62-475b-adca-419a83c7c273
 #Q John went to a party one night.  The next day he was asked if he met a lot people at the gathering.  Figure it out for yourself, John said.  Of the girls I spoke to, all but two were blondes, all but two were brunettes, and all but two were redheads.  How many girls did he talk to?
 ^ 3
 A 3
@@ -98,6 +114,7 @@ B 6
 C 4
 D 2
 
+* ID: 1be7eb64-71a1-48ce-b567-539fee2d6b4e
 #Q A kid found two old coins. The first coin said it was minted in 43 BC, while the other said it was minted during the reign of Emperor Nicholas I. Which of the coins was fake?
 ^ Both
 A Neither one
@@ -105,6 +122,7 @@ B Both
 C The one minted during the reign of Emperor Nicholas I
 D The one minted in 43 BC
 
+* ID: 26124b65-d612-4ac6-a7b6-1b3d418c1433
 #Q A contestant on a TV show had to answer 26 questions. For each correct answer he received 8 points, while a wrong answer penalized him 5 points. How many answers did the man answer correctly, bearing in mind that he eventually had 0 points?
 ^ 10
 A 12
@@ -112,16 +130,19 @@ B 8
 C 16
 D 10
 
+* ID: ac4a817c-01cf-4bc8-b9ce-647e943223c3
 #Q Lets suppose that I offer you a bet under the following conditions: I bet $1 and claim that if you give me $5 I will give you $99 in return. Will you gain something from this bet?
 ^ No
 A Yes
 B No
 
+* ID: c871855b-ad7d-4550-9bb6-e4c01c537475
 #Q You can put something between the digits 2 and 3 so that the resultant number is bigger than 2 and smaller than 3.
 ^ True
 A True
 B False
 
+* ID: 929debf6-151e-4c08-82cc-b98e25fb3a99
 #Q A row consists of 10 letters. The first six are - Z, O, T, T, F, F.  Which is the tenth letter?
 ^ N
 A T
@@ -129,6 +150,7 @@ B E
 C S
 D N
 
+* ID: 858182b6-d3a9-4110-8531-70be33e6ec14
 #Q You have a square and a circle and the perimeter of the square is equal to the circumference of the circle. Which of the two figures covers a bigger area?
 ^ The circle
 A The square
@@ -136,16 +158,19 @@ B The circle
 C No conclusion can be drawn from the given information.
 D Both cover the same are.
 
+* ID: d3a25efa-1da9-405a-b2a0-563cace217a4
 #Q Sometimes we see 10 but say 22, see 4 but say 16.
 ^ True
 A False
 B True
 
+* ID: 13f21431-a475-42df-b32d-59c2144e200d
 #Q Can you build a house so that all its walls face north?
 ^ Yes
 A Yes
 B No
 
+* ID: ae05784f-a91c-4525-b022-bc08deb195bb
 #Q At the beginning of the day, I was behind a car at a stoplight, whose vanity plate read: 4SBWIU.  What is the driver of this car most likely a fan of?
 ^ Movies
 A NASCAR
@@ -153,6 +178,7 @@ B Fly Fishing
 C Movies
 D Sports
 
+* ID: 50fc25b9-f468-4268-8bab-a9ed1f2bda85
 #Q My first stop was the supermarket.  When I had completed my shopping and was in the parking lot, I spied this snazzy auto with the following vanity plate: 10S42.  What sport is the driver of this vehicle most likely a fan of?
 ^ Tennis
 A Golf
@@ -160,6 +186,7 @@ B Badminton
 C Bowling
 D Tennis
 
+* ID: 515851e0-d5e6-4192-aa12-277e40b0ac34
 #Q My next errand took me all the way across town.  I decided to take a shortcut which put me on a boulevard of small, eclectic businesses.  One of these businesses I passed on my way was a fortune tellers shop.  A Cadillac was parked out front, which, I assume, belonged to the owner of the shop. What would be the most appropriate vanity plate for this automobile?
 ^ N2IT
 A PASS  THE CASH
@@ -167,6 +194,7 @@ B N2IT
 C N3IT
 D N4IT
 
+* ID: 555205d8-f746-48a9-aeed-a00cd2c3b7ad
 #Q On the on-ramp to the freeway, I was behind an auto with the following plate:  4IS.  What is the likely profession of the driver of this car?
 ^ Optometrist
 A Zoologist
@@ -174,6 +202,7 @@ B Optometrist
 C Biologist
 D Geologist
 
+* ID: b222471e-561c-4caa-ad26-fc0a20bb4ff2
 #Q Well, I got caught in noon rush hour.  As luck would have it, I saw yet another vanity plate.  This one told me that the driver at least checks in his / her rear view mirror.  What plate did I see?
 ^ OICU2
 A OIUC2
@@ -181,6 +210,7 @@ B OIC3
 C RU2
 D OICU2
 
+* ID: 195df42a-cf5d-4881-9ba7-0cc05ae107b1
 #Q I went to my favorite restaurant to pick up some carry out for an early dinner.  I saw the owners car parked out front. The vanity plate asked a question.  What do you suppose the plate read?
 ^ E10YET
 A N0TABL42
@@ -188,6 +218,7 @@ B E10YET
 C RESORV8NS
 D 8ISENUF
 
+* ID: 7b1fc39a-f080-4b79-a1bc-e611fbb2fb1d
 #Q I always go up and down the stairs without moving.
 ^ A rug
 A A scarf
@@ -195,6 +226,7 @@ B A curtain
 C A towel
 D A rug
 
+* ID: 00cf2c5e-d167-42ac-9883-bc0496238609
 #Q If the mother of a boy spanks him and then his father comes and does the same, who hurts the most?
 ^ The boy
 A The boys brother
@@ -202,6 +234,7 @@ B The mother
 C The boy
 D The father
 
+* ID: c703a474-8f45-4596-8517-5171b45556bf
 #Q Which letter behaves as a selfish friend?
 ^ P
 A S
@@ -209,6 +242,7 @@ B A
 C P
 D D
 
+* ID: 17e9e524-ff5d-4230-a0d7-2aa754509206
 #Q You always wear these flowers.
 ^ Tulips
 A Roses
@@ -216,6 +250,7 @@ B Daises
 C Tulips
 D Poppies
 
+* ID: f0e014c0-d7bb-4fb9-a2f5-8555437d2709
 #Q 12 candles were alight. The wind blew out 5 of them. How many candles were left?
 ^ 12
 A 0
@@ -223,6 +258,7 @@ B 7
 C 12
 D 5
 
+* ID: cee16e83-59ef-44c3-85b7-eb8335a64791
 #Q A team of two horses ran for 3 miles. How many miles did each of the horses run?
 ^ 3
 A 1.5
@@ -230,6 +266,7 @@ B 0
 C 3
 D 6
 
+* ID: 1bfcd63e-1eb7-4f69-8bf6-7086973b83f4
 #Q Nine passengers carried with them enough food for five days. Several other passengers joined the first group and they all shared the same food, which was now enough for three days. How many passengers joined the first group?
 ^ 6
 A 7
@@ -237,6 +274,7 @@ B 8
 C 6
 D 5
 
+* ID: 4049bb99-480d-4def-a3d6-730c25e0b23c
 #Q How many times does the digit 3 occur in the numbers from 1 to 50?
 ^ 15
 A 15
@@ -244,6 +282,7 @@ B 14
 C 10
 D 13
 
+* ID: ac62d8e6-474a-421f-bbd6-80ab31cd2d56
 #Q A pole is 20 m high. An ant is climbing it as follows - every day she ascends 5 m and every night she descends 4 m. In how many days will the ant be on the top of the post?
 ^ 16
 A 16
@@ -251,6 +290,7 @@ B 19
 C 15
 D 20
 
+* ID: f7eff811-c700-4c37-8df5-3b7c2a9f91f2
 #Q A butcher had to stick a total number of 50 sheep in a week. Every day he sticked an equal number of sheep and managed to fulfill the task. How many sheep did he kill per day?
 ^ 10
 A 10
@@ -258,6 +298,7 @@ B 4
 C 8
 D 7
 
+* ID: 7af4cae3-325f-4011-8f76-7edbd4706d09
 #Q In a basket there are three sorts of apples. How many apples do you have to  take from the basket to make sure you have at least 2 apples of the same sort?
 ^ 4
 A 5
@@ -265,6 +306,7 @@ B 4
 C 3
 D 2
 
+* ID: 22d74852-0f1c-4fb5-a429-ad072ee27f47
 #Q An old potter was selling pots. Once, a woman came and bought a pot for its sticker price.  She had to pay $1 plus half its price.  What was the price?
 ^ 2
 A 2
@@ -272,6 +314,7 @@ B 4
 C 3
 D 1
 
+* ID: 50773c11-4b5a-417e-a30a-dca3ec0e3d19
 #Q Four glasses and a jug weigh as mush  as 17 iron balls do. The jug weighs as much as a glass and 7 balls. How many balls does the jug weigh?
 ^ 9
 A 9
@@ -279,6 +322,7 @@ B 8
 C 10
 D 5
 
+* ID: d3542fa4-c317-46d4-8d9d-2941c654055f
 #Q Three cats can eat 3 mice in 1.5 hours. How long will it take 10 cats to eat 20 mice?
 ^ 3 hours
 A 10 hours
@@ -286,11 +330,13 @@ B 6 hours
 C 3 hours
 D 1.5 hour
 
+* ID: 83b2586c-c561-4aaf-8124-0d178a2bedf8
 #Q Is there a way you can divide 7 identical pieces of bread equally among 12 people?
 ^ Yes
 A No
 B Yes
 
+* ID: f598315e-a9ad-4bd3-b4d6-0527f4d2328b
 #Q A lion can eat a sheep in 2 hours, a wolf - in 3 hours, and a dog - in 6 hours. How long will it take the three animals to eat a sheep if they eat together?
 ^ 1 hour
 A 2 hours
@@ -298,21 +344,25 @@ B 8 hours
 C 1/2 hour
 D 1 hour
 
+* ID: 4ae0f0b7-b202-4f3a-8e8b-9a9a326e137a
 #Q Two men were walking towards a river. There was a boat on one of the riverbanks. However, this boat could carry only one man at a time.  Nevertheless, both men managed to cross the river with the boat.  This is possible.
 ^ True
 A True
 B False
 
+* ID: 81b2fb54-60e9-4cce-9ab6-dfe70414072b
 #Q Some of my relatives are 600 times younger than me. Can this be true?
 ^ Yes
 A Yes
 B No
 
+* ID: c6da68a7-57cd-42c2-9cb0-5b973ea97c88
 #Q A man is carrying three croquet balls across a bridge. The bridge has a sign that says bridge can only hold 200 pounds. The man weighs 195 pounds and the croquet balls weigh 2 pounds each. The man ends up crossing the bridge in one trip and no one else helps him. This is possible.
 ^ True
 A False
 B True
 
+* ID: 1c45e152-5b92-45d9-a55b-513b55ce3ce2
 #Q Which letter comes next in this series:
 W-L-C-N-I-T-?
 ^ S
@@ -321,6 +371,7 @@ B W
 C S
 D Z
 
+* ID: 870872c2-d132-426e-b6f5-e54671ac59c7
 #Q A squirrel finds a hollow log with 9 ears of corn in it.  If he can carry out 3 ears every day, how many days will it take him to empty the log?
 ^ 9
 A 6
@@ -328,6 +379,7 @@ B 3
 C 9
 D None of these
 
+* ID: e71b2bd3-0b14-40cc-b636-2c5ad3531414
 #Q Suppose you're taking a multiple-choice quiz. One question has three choices - A, B, C. You do not know the answer and guess A. The instructor then announces that C is incorrect. Should you switch to B before turning in your paper?
 ^ Yes, this should help
 A No, it would be worse
@@ -335,6 +387,7 @@ B Yes, this should help
 C It depends on when the announcement was made
 D It doesn't matter
 
+* ID: e2f87c94-3d0b-4c34-8920-2ed6ea36caf6
 #Q A worm can gnaw through 1 mm of paper for a single day. On a bookshelf there are two volumes, each 4 cm thick. Each of the covers is 2 mm thick. How long will it take the warm to gnaw from the first page of the first volume to the last page of the second volume?
 ^ 4 days
 A 60 days
@@ -342,6 +395,7 @@ B 80 days
 C 14 days
 D 4 days
 
+* ID: e0919378-e081-475f-a4d9-81de8cdf18d2
 #Q The train leaves in 2 minutes and the distance to the train station is 2 miles. If you drive the first mile at 30 miles/h, at what speed should you drive the second mile?
 ^ It does not matter.
 A It does not matter.
@@ -349,6 +403,7 @@ B 90 miles/h
 C 120 miles/h
 D 60 miles/h
 
+* ID: fd984768-adb1-4138-9d73-b24285adde1f
 #Q A driver noticed that the dashboard showed he had driven a total number of 15951 miles. He thought that this was a strange number because no matter in what direction it was read (from left to right or from right to left) it was the same. However, in two hours, the dashboard showed a number that had that same characteristic. What was the speed of the car?
 ^ 55
 A 110
@@ -356,16 +411,19 @@ B 55
 C 65
 D 450
 
+* ID: ca45b64d-1f6d-4b30-8dcd-b64c1b4d8780
 #Q Three hunters, different in height, got stuck in a pit. They tried to get out of it and stepped one onto the other. However, the shortest, who was on top, could not reach the edge for just 5 cm. Can these three hunters ever get out of the pit without the help of anyone else or of any additional object?
 ^ Yes
 A Yes
 B No
 
+* ID: 506fbc6e-d388-472b-b7cd-a8ad75adc589
 #Q In the Middle Ages a thief went into a church and fell asleep on a pew. He dreamed about stealing the cross of the minister and being sentenced to execution for that. However, just as he was about to be executed, he was woken by a local lady. Immediately after that the thief died. Modern scientists say it was due to a heart attack. Is everything okay with the story?
 ^ No
 A No
 B Yes
 
+* ID: 97c3b99b-30cc-4781-a3ef-ef34a4a9b4a2
 #Q One of these pairs of numbers has this strange characteristic - when you subtract one of them from the other you get a number equal to what you will get if you divide one by the other. Can you spot it?
 ^ 25/4 and 5/4
 A 25/4 and 5/4
@@ -373,6 +431,7 @@ B 24/6 and 24/8
 C 3 and 2/12
 D 30/6 and 36/6
 
+* ID: ea9aadc7-e02d-45c9-9cc1-9686239799ba
 #Q The local limo company have recently expanded their inventory and no longer have enough room for all of their limos. Fifteen of the limos have to be stored outside. If they decide to increase their garage space by 50%, this will give them enough room for all of their current limos, plus enough room to store another fifteen in the future. How many limos does the company currently own?
 ^ 75
 A 60
@@ -380,11 +439,13 @@ B 80
 C 85
 D 75
 
+* ID: 0bb44a5d-ed99-4579-bb41-72f81e65d285
 #Q A horse is tied to a five meter rope in front of an old saloon. Six meters directly behind the horse is a bale of hay. Without breaking his rope, the horse is able to eat the hay whenever he chooses. Assuming the horse is perfectly normal, is this possible?
 ^ Yes
 A No
 B Yes
 
+* ID: a0b8a456-e433-4e1b-96d8-91c3eb396002
 #Q A famous playboy explained to a beautiful woman his system for playing roulette: In each round, I always bet half of the money I have at the time on red. Yesterday, I counted and I had won as many rounds as I had lost. Over the course of the night, did the gambler win, lose or break even?
 ^ lose
 A lose
@@ -392,11 +453,13 @@ B break even
 C win
 D None of these
 
+* ID: c54c389b-a55b-40fd-8b00-e8ab375ac687
 #Q A horse travels a certain distance each day. Strangely enough, two of its legs travel 30 miles each day and the other two legs travel nearly 31 miles. Can this be true?
 ^ Yes
 A Yes
 B No
 
+* ID: 63fa3db2-ddaf-4e35-b9f9-bd9bee697a5a
 #Q A total of 15 delegates from Africa, Asia, America, and Europe meet at an international conference.
 Each continent sends a different number of delegates, and each is represented by at least 1 delegate.
 America and Asia send a total of 6 delegates.
@@ -408,6 +471,7 @@ B Africa
 C Asia
 D Europe
 
+* ID: 68f90df3-0bc1-47ce-8454-fd99829cf6f8
 #Q One kid has a toy car with a strange remote control- it has only one button on it. When the car is switched on, it starts moving forward and doesn't stop until its switched off. When the boy presses the button, the car makes a 60 degree turn clockwise. Considering that this is a very lazy boy, try calculating the smallest number of times he has to press the button so that the car travels back to him.
 ^ 5
 A 4
@@ -415,6 +479,7 @@ B 5
 C 7
 D 3
 
+* ID: 9610b72d-1f77-480f-a372-ac3b4cc2463d
 #Q Here is something like a warm-up before you get to the next one. Three friends, Peter, Nick and Tom were competing in a race. After they finished, a person ,who was late for the race, asked them who was the winner. Tom said I didn't finish first and Peter didn't finish second. Then Nick said Tom didn't finish second either. Who was the winner?
 ^ Peter
 A Peter
@@ -422,6 +487,7 @@ B Nick
 C Its impossible
 D Tom
 
+* ID: a3504a36-f4a1-4eaa-ae50-4032db21b51f
 #Q One watermelon weighs 10kg (22 lbs)  plus the half of its own weight. How much does it weigh?
 ^ 20kg (44 lbs)
 A 10kg (22 lbs)
@@ -429,6 +495,7 @@ B 25kg (55 lbs)
 C 5kg (11 lbs)
 D 20kg (44 lbs)
 
+* ID: c700b3d6-98fb-4b03-ab1e-f3a085e751ed
 #Q Try thinking out a random 3-digit number and writing it twice on a piece of paper, forming a 6-digit number (for example the number is  123, than you will have to put down 123123 on the paper). Now divide this 6-digit number by 7. There will be no remainder, I guarantee. Now divide the result by 11. No remainder again, I guarantee. Now divide the new result by 13.  What happened?
 ^ The result is your original number
 A The result is your original number
@@ -436,6 +503,7 @@ B The result is zero
 C There is remainder
 D The result is twice your original number
 
+* ID: 2b2fa1d7-a60b-4686-a60d-923b54203e54
 #Q Two dice are randomly thrown. What is the possibility that the number, formed by the two digits that come form the dice, is a prime?
 ^ 5:12
 A 5:12
@@ -443,6 +511,7 @@ B 5:18
 C 19:36
 D 35:36
 
+* ID: 5f442d0f-f122-48d1-aa95-8d26709d81a2
 #Q Yesterday I heard an interesting conversation in a shop:
 Client: How much is one?
 Salesman: Twenty cents.
@@ -455,6 +524,7 @@ Is it possible that it was a real product they were talking about?
 A No
 B Yes
 
+* ID: e05e9707-1a96-4fc1-abe0-29c4ef0c4258
 #Q 4, 7, 12, 19, 28, 39, ??
 ^ 52
 A 11
@@ -462,6 +532,7 @@ B 67
 C 78
 D 52
 
+* ID: d1974111-ae9b-4bf3-916e-1d42e4bed952
 #Q A man buys a horse for $60. After a while he sells it for 70$. Some time passes and the man regrets his decision and goes to buy the horse again. But now he has to pay $80 for it and he does. After a while he regrets to have bought the horse back and sells it for $90. Now in total, how much loss/profit did the man make from the three transactions?
 ^ $10
 A $10
@@ -469,6 +540,7 @@ B - $20
 C $20
 D 0
 
+* ID: 91056147-768e-42f2-a810-f536f5c2cedb
 #Q Somewhere, there is a very interesting village. And what's so interesting about it? Well, in this village there is a
 barber, a very special barber. He cuts the hair of everybody in the village that doesn't cut his own hair. Who then cuts
 the barbers hair?
@@ -478,11 +550,13 @@ B No one
 C Himself
 D Such village cannot exist, it is a paradox
 
+* ID: ca19d724-3613-4d83-8421-f26673040c02
 #Q Two men were playing for title of  championship of the world for the checkers tournament. They each played five games and they each won three. There were no ties, is this possible?
 ^ Yes
 A No
 B Yes
 
+* ID: 4887f137-557f-44ab-b814-284ff9285340
 #Q Take two apples from three apples and what do you have?
 ^ two apples
 A no apples
@@ -490,11 +564,13 @@ B two apples
 C three apples
 D one apple
 
+* ID: 8dd56101-aacd-481a-8b0f-67714c340138
 #Q A famous, well respected archaeologist went on a dig in Jerusalem. He found a coin dated 56 B.C. He was so excited, he rushed to the museum so it could be put on display. But the museum wouldn't accept the coin because they said it could not possibly be authentic. They said that the coin had to be a fake.
 ^ True
 A True
 B False
 
+* ID: 351cc2df-df3f-41a2-8bf8-ee72a8b30551
 #Q In what country can your spouse be jailed along with you if you are caught drinking and driving?
 ^ Malaysia
 A Pakistan
@@ -502,6 +578,7 @@ B Germany
 C India
 D Malaysia
 
+* ID: 09c0df05-4d7d-43b8-9f75-772b9f455f05
 #Q Approximately how much money does the taxpayer spend on a prisoner serving a life sentence in California?
 ^ 1,550,000
 A 750,000
@@ -509,6 +586,7 @@ B 500,000
 C 100,000
 D 1,550,000
 
+* ID: f6219890-e6c9-45ef-bdea-a976e8c9cc73
 #Q What creature is responsible for the most human deaths?
 ^ The mosquito
 A The brown recluse spider
@@ -516,6 +594,7 @@ B The hippo
 C The great white shark
 D The mosquito
 
+* ID: d9e39cec-28f3-40be-a870-497777fd47fe
 #Q What is the largest county in the US?
 ^ San Bernadino, CA
 A Bernalillo, NM
@@ -523,11 +602,13 @@ B Maricopa, AZ
 C Dade, FL
 D San Bernadino, CA
 
+* ID: 870fff3b-637b-4346-b6bf-b85edd1fcb14
 #Q Is it possible to test positive on a breathalyzer after drinking only a glass of milk?
 ^ Yes
 A Yes
 B No
 
+* ID: e819b22a-7909-4379-85ee-ea2dcb135026
 #Q I have four legs in the morning, two legs in the afternoon and three legs in the evening. What am I?
 ^ A human
 A A tortoise
@@ -535,6 +616,7 @@ B A sloth
 C A human
 D A raven
 
+* ID: de40b2cb-3c34-4330-99fc-e26f3af0f769
 #Q Why do Chinese people eat more rice than Japanese people?
 ^ Because Chinese people are more than Japanese people
 A Because Chinese rice ripens more quickly than Japanese rice
@@ -542,6 +624,7 @@ B Because Chinese people are more than Japanese people
 C Because Japanese people export rice for other countries and the Chinese don't
 D Because Chinese rice is more delicious than Japanese rice
 
+* ID: aa6b55b1-e2e9-4799-88d1-9c5778d842f4
 #Q This is the smartest letter.
 ^ Y
 A A
@@ -549,6 +632,7 @@ B Y
 C C
 D W
 
+* ID: 970fd9c7-11c6-46c0-9e6e-a59b38215365
 #Q Which is the month that allows women to talk the least?
 ^ February
 A February
@@ -556,6 +640,7 @@ B December
 C August
 D March
 
+* ID: ffd39d1e-644e-4688-a715-c6e8355abc44
 #Q What is the number of men born last year in USA?
 ^ None
 A None
@@ -563,6 +648,7 @@ B 2 013 841
 C 6 914 381
 D 1 502 106
 
+* ID: 82bc6630-0806-4445-8a54-cb55a571fb60
 #Q This is what you can see once in a minute, twice in a moment, but never in a thousand years.
 ^ The letter M
 A The sun
@@ -570,6 +656,7 @@ B An eclipse
 C A Solstice
 D The letter M
 
+* ID: d8f86cf9-8b2d-464c-88e1-dfa4d8088b4e
 #Q With a red beard, gray mustache and black sideburns, the man had a distinct HIRSUTE quality. What does hirsute mean?
 ^ hairy, shaggy, covered in hair
 A hairy, shaggy, covered in hair
@@ -577,6 +664,7 @@ B mysterious, always in disguise
 C eccentric
 D multicolored
 
+* ID: 9f1f07b2-d192-495b-a044-3c4369084817
 #Q Stacy was extremely annoyed by Jills PECCADILLO. Jill constantly ate food with her mouth open. What does the word peccadillo mean?
 ^ a petty fault
 A chewing loudly
@@ -584,11 +672,13 @@ B vegetarian
 C disgusting manners
 D a petty fault
 
+* ID: 7347378f-ae84-4fe9-b0e2-fab0731dc79e
 #Q DERIDE means to laugh at someone with contempt.
 ^ True
 A False
 B True
 
+* ID: c10b36fa-2d9d-4cb4-bffe-fb0258886229
 #Q Jerry was worried he would mumble and slur his words, so he had to go slowly and try to ENUNCIATE each word. Words might get lost if you don't enunciate. What does enunciate mean?
 ^ pronounce articulately
 A shout and project
@@ -596,6 +686,7 @@ B mask drunkenness
 C pronounce articulately
 D mime and gesticulate
 
+* ID: 1bbfd05d-9c9b-4cbd-802c-422e687883c3
 #Q Annas brother took his AVUNCULAR duties very seriously. He taught her children how to read, write and speak German. What does avuncular mean?
 ^ Adjective of an uncle
 A Adjective of a mentor
@@ -603,6 +694,7 @@ B Qualities of a Germanic monk
 C Adjective of a father
 D Adjective of an uncle
 
+* ID: 8e2abfad-904f-45fe-8603-69dc72ab192f
 #Q When Jack and Jill went to see The Notebook, Jill was surprised at Jacks obvious display of his LACHRYMOSITY. What was Jack doing?
 ^ crying
 A talking loudly
@@ -610,11 +702,13 @@ B crying
 C laughing
 D sleeping
 
+* ID: 37d047c3-e443-42df-a7a1-4f6692ceed2e
 #Q A CHORTLE is an tool used to cut pastry dough.
 ^ False
 A False
 B True
 
+* ID: 2a395e8e-abfe-406c-a165-e6420ee52ca5
 #Q The rancid meat attracted flies and maggots and wafting from it was a FETID odor. What is the meaning of fetid?
 ^ stinking
 A stinking
@@ -622,6 +716,7 @@ B chemical
 C sweet
 D food
 
+* ID: 126e58fa-2182-46da-8bc8-b36e946d3ebc
 #Q The king required FEALTY from all his vassals. What does the word fealty mean?
 ^ allegiance
 A allegiance
@@ -629,6 +724,7 @@ B food
 C payment, rent
 D livestock
 
+* ID: cde5fcbd-80e6-4e56-8d0c-dc678e9edb24
 #Q The siblings were complete opposites. Tom was pedantic and read all the time and Lucy was LUDIC. She was always getting mud on her clothes. What is the meaning of ludic?
 ^ playful
 A outdoor-loving
@@ -636,6 +732,7 @@ B playful
 C clumsy
 D illiterate
 
+* ID: 1463d752-0cd8-4bfd-82bf-2ce107faa9a8
 #Q The vegetable rhubarb is delicious but its leaves are poisonous. What did rhubarb originally mean?
 ^ root of the barbarian
 A edible poison
@@ -643,6 +740,7 @@ B beware
 C root of the barbarian
 D poisoned ruby
 
+* ID: 11c55676-6f43-40af-80ad-ab9c3fb8986e
 #Q What modern slang term once meant a carnival worker who performed disgusting tasks such as biting off the heads of live chickens?
 ^ Geek
 A Nerd
@@ -650,6 +748,7 @@ B Geek
 C Dork
 D Freak
 
+* ID: b4ee1cd3-16c7-46fb-ad53-8e4c9df9f6bd
 #Q What is heavier a pound of bricks or a pound of feathers?
 ^ Their weight is equal
 A There is no way to tell
@@ -657,6 +756,7 @@ B The feathers
 C Their weight is equal
 D The bricks
 
+* ID: 1af2b811-8733-48d0-890e-bc45d59a6651
 #Q A farmer had 20 sheep. All but 8 died. How many are still alive?
 ^ 8
 A 0
@@ -664,6 +764,7 @@ B 12
 C 15
 D 8
 
+* ID: 55c6a46d-c0c6-47c8-9bae-d79d957e826e
 #Q In a house with a maid, a mail receiver, and a chef, the owner was murdered on a Sunday morning. The police questioned all the 3 people (the chef, the mail receiver, and the maid). The chef said; I was making her breakfast. The mail receiver said; I was getting the mail., and finally the maid said; I was cleaning her living room. The police arrested one of them right after the interview. Who got arrested?
 ^ The mail receiver
 A The maid
@@ -671,6 +772,7 @@ B The mail receiver
 C The chef
 D She committed suicide
 
+* ID: 8709de64-eeb2-4758-b356-a60f97cffb58
 #Q There is a branch with 10 birds on it. I shot 2 of them and then 1 more. How many birds are left on the branch?
 ^ 0
 A 0
@@ -678,6 +780,7 @@ B 2
 C 8
 D 7
 
+* ID: c33515b3-5d21-49ed-b5cb-cd1dc93e0dbe
 #Q If you have in your suitcase 6 white socks, 4 red socks, 8 green socks, and 2 brown socks, how many socks would you have to pull out (without looking at them) to be sure you have a matching pair?
 ^ 5
 A 6
@@ -685,6 +788,7 @@ B 8
 C 4
 D 5
 
+* ID: 1f774194-2405-4a70-b82d-53fde25bdfa7
 #Q Joe had 29 pairs of socks. How many socks did he have?
 ^ 58
 A 60
@@ -692,6 +796,7 @@ B 58
 C 56
 D 29
 
+* ID: 1454a8b1-3a18-4ce1-a82b-ec81e506ea40
 #Q One camera could take 350 pictures and Bob bought 3 cameras of the same type. How many pictures could he take?
 ^ 1050
 A 700
@@ -699,6 +804,7 @@ B none
 C 1050
 D 350
 
+* ID: c0e06e03-e671-483b-9d0b-bb45bf8f5148
 #Q One iPod can hold 950 songs and 3 movies. How many iPods of this model would one person have to buy to have 27 movies and 8550 songs?
 ^ 9
 A 8
@@ -706,6 +812,7 @@ B 10
 C 7
 D 9
 
+* ID: cd50ccc2-29d7-4607-a20e-2a34020dedac
 #Q In an office building, there are 350 windows and half as many doors. How many doors are there in 3 office buildings?
 ^ 525
 A 525
@@ -713,6 +820,7 @@ B 500
 C 550
 D 575
 
+* ID: 290c61ee-8fa5-45a9-92ec-d8bf036e4224
 #Q A monster had double the amount of eyes he had ears, triple the amount of ears he had legs, and had six legs. How many eyes did he have?
 ^ 36
 A 34
@@ -720,6 +828,7 @@ B 26
 C 36
 D 41
 
+* ID: d798adb2-1f9f-4ffe-9bf9-a9b6cc1e77fb
 #Q If I had $654,987, how much change is that?
 ^ 65,498,700 cents
 A 66,345,200 cents
@@ -727,11 +836,13 @@ B 65,783,500 cents
 C 65,498,700 cents
 D 65,577,200 cents
 
+* ID: d068e089-a8b3-4b5e-a2f0-92d45e106c1f
 #Q In a rectangular room there are 10 chairs. It is possible to arrange the chairs in such a way so that an equal number of chairs is set against each wall of the room.
 ^ True
 A False
 B True
 
+* ID: cc03977f-15f5-4fe4-8213-e2338aaba48b
 #Q Five years ago the sum of the age of a sister and a brother was 8. What will be the same sum in 5 years?
 ^ 28
 A It will not change.
@@ -739,11 +850,13 @@ B 18
 C 13
 D 28
 
+* ID: 4475b8eb-34a2-4776-bc43-933f98eed1e4
 #Q In a room, there can be two mothers and two daughters, three women in total.
 ^ True
 A True
 B False
 
+* ID: 4dcc270b-4d88-41f0-99da-8b5276ac330a
 #Q A woman once said about a man, I am not his wife but this mans mother is the mother-in-law of my mother. What were the man and the woman?
 ^ A daughter and a father
 A A daughter and a grandfather
@@ -751,6 +864,7 @@ B A brother and a sister
 C A daughter and a father
 D A mother and a son
 
+* ID: c55c7d7e-39ad-485f-893d-c9014cbf34a5
 #Q A cowboy was looking after 100 animals (oxen, cows and calves). For his job he was paid $100 (for every ox he received $10, for every cow $5 and for every calf $0.5). How many were the oxen, the cows and the calves?
 ^ 1 ox, 9 cows, 90 calves
 A 9 oxen, 1 cow, 10 calves
@@ -758,11 +872,13 @@ B 10 oxen, 10 cows, 10 calves
 C 1 ox, 9 cows, 90 calves
 D 3 oxen, 50 cows, 47 calves
 
+* ID: 07856cb6-c511-4fef-9094-a42c53003b68
 #Q A farmer had 9 cows. The first one produced 1 gallon of milk, the second one 2 gallons and so on. The ninth cow produced 9 gallons of milk. The farmer had three sons and he wanted to divide the cows in such a way that each of his sons received an equal number of cows and the cows of each produced an equal amount of milk. Is that possible?
 ^ Yes
 A Yes
 B No
 
+* ID: 83621cfc-7f9c-4934-a681-f6106751dd08
 #Q In a lake there were lilies. The strange thing about them was that they doubled their number once per day. If on the 15th day half of the lake was covered with lilies, on which day will the whole lake be covered with them?
 ^ 16
 A 22
@@ -770,6 +886,7 @@ B 16
 C 7
 D 30
 
+* ID: cd4eedc3-ad4b-424b-842d-c85f7b9bad6f
 #Q A peasant buys a pregnant sheep, which gave birth to a lamb. At the age of 3, the lamb gives birth to another lamb. After that it starts bearing a lamb per year. How many sheep will the peasant have 9 years after the birth of the first lamb if all the lambs are female and none of them ever dies?
 ^ 60
 A 54
@@ -777,11 +894,13 @@ B 78
 C 60
 D 97
 
+* ID: d25a8439-a8ce-4bee-8127-36c8502067b8
 #Q A farmer had a yard, whose shape was a square, and in the four corners of this square there were apple trees. Some years later the farmer decided to make his yard twice as big and preserve the square shape. However, after the enlargement the four apple trees were still by the fence.
 ^ True
 A False
 B True
 
+* ID: f76539d7-3c14-4a60-a84c-3c07d40d14dd
 #Q Marsha dug her FUNEREAL attire out of the closet. It consisted of a black dress and a black overcoat. What does funereal mean?
 ^ having to do with a funeral
 A monotoned
@@ -789,6 +908,7 @@ B frumpy
 C oversized
 D having to do with a funeral
 
+* ID: 9472eb00-0dc0-4bb5-af5d-d64cf3418d8d
 #Q The newly blooming lavender was a HARBINGER of spring. It was beautiful and fragrant. What does harbinger mean?
 ^ a sign of things to come
 A an ode
@@ -796,6 +916,7 @@ B rebirth
 C pleasant to the senses
 D a sign of things to come
 
+* ID: ec3d5d5b-e416-47c1-a3db-9d1b338dbed2
 #Q Her passion for art bordered on pathological MONOMANIA. She's a sculptor, studies medieval art in night classes, frequents galleries and is often caught doodling in a notebook. What does monomania mean?
 ^ excessive concentration one one subject
 A excessively busy
@@ -803,6 +924,7 @@ B excessive concentration one one subject
 C extremely wealthy
 D patronising culture
 
+* ID: 8ccd2a1f-c028-4095-a22f-272f256e97ef
 #Q It wasn't accidental it was pure KISMET that Joey fell in love with Laura. What does kismet mean?
 ^ fate, destiny
 A fate, destiny
@@ -810,6 +932,7 @@ B contrived, forced
 C planned
 D a happy accident
 
+* ID: b69ce1f5-e754-40d9-b16c-3d5cc0e95b30
 #Q Because Ben travels to many countries for business, he has written a POLYGLOT lexicon for himself. It contains quick references on phrases he might need in any given situation. What does polyglot mean?
 ^ containing many languages
 A containing many maps
@@ -817,11 +940,13 @@ B containing many words
 C containing many languages
 D pertaining to business ventures
 
+* ID: 727dc200-7664-42d2-b12f-74efac106671
 #Q A QUAGMIRE is a difficult or precarious situation.
 ^ True
 A True
 B False
 
+* ID: 998ec109-efeb-45b6-9817-32d518cbe506
 #Q The fortune teller persuaded Anna that she needed a PHILTER to gain the attention of her beau. She only needed to apply the elixir and think of him. What does PHILTER mean?
 ^ love potion
 A love potion
@@ -829,11 +954,13 @@ B medicinal cream
 C makeup
 D alcoholic beverage
 
+* ID: 7b25c81f-5eb7-49b0-9ab9-a0c67782a993
 #Q Matt and Julie asked their son How was your day at school? and they always received the same BRUSQUE answer-fine. Brusque means habitual, constant, the same.
 ^ False
 A True
 B False
 
+* ID: 5a7846ad-de29-4c17-98d1-0408d41398b3
 #Q Jack grabbed Janets hand and they began to GAMBOL in the sunshine. They felt like children, not a care in the world. What does gambol mean?
 ^ to frolic and leap playfully
 A to wager money on an outcome
@@ -841,11 +968,13 @@ B to sing  a duet
 C to have sex
 D to frolic and leap playfully
 
+* ID: 5209a9b5-1224-4c31-8b4c-9c0b8e16d0e4
 #Q To ESCHEW something means to be attracted to it.
 ^ False
 A True
 B False
 
+* ID: 2dac7ef1-9822-4a90-a907-eb17178b591d
 #Q After a long walk, two sons and two fathers find three apples. Each of them has an apple and they all go their way. How is that possible?
 ^ they were a boy, his father and his grandfather
 A they were a boy, his father and his grandfather
@@ -853,6 +982,7 @@ B the sons were cousins
 C one of them had a hidden apple
 D the sons were twins
 
+* ID: 7928d9af-84b8-4310-b6b3-2b2342d43aab
 #Q The name of what is coded in the following: 86,smopuim?
 ^ the name of a software product
 A it does not mean anything
@@ -860,6 +990,7 @@ B the name of a software product
 C a NASA aircraft
 D a secret CIA project
 
+* ID: eb37882b-7bb6-4c90-8be0-a8094d2f296a
 #Q Five girls are sitting next to each other on a train.  Ann and Betty are as close to each other as Ann and Kate are.  Dana and Ann are sitting as close to each other as Dana and Kate are. Between which two of her friends is the fifth girl, Jane, sitting?
 ^ between Ann and Betty
 A between Dana and Betty
@@ -867,6 +998,7 @@ B between Ann and Betty
 C between Betty and Kate
 D between Kate and Dana
 
+* ID: a6b6befb-f17f-40aa-a6e5-f7acf20a7887
 #Q What number multiplied by 10 equals the square of the same number, times 5?
 ^ 2
 A 4
@@ -874,6 +1006,7 @@ B 5
 C 2
 D 10
 
+* ID: 3d291ae9-3cfd-40ff-8604-069e35def98c
 #Q Bob has a book of 100 pages and in 10 seconds he can count out 10 pages. What is the shortest time in which Bob can define where the 60th page is?
 ^ 40 seconds
 A 40 seconds
@@ -881,6 +1014,7 @@ B 59 seconds
 C 15 seconds
 D 60 seconds
 
+* ID: 8a8e9e8d-0c5d-4ef5-8e18-c10964c7e971
 #Q Two people get to a river and find a boat capable of accommodating only one person. Using this boat, both of them
 manage to cross the river. If they crossed without any of the them swimming the river which of the following is true?
 ^ They were on different banks of the river.
@@ -889,6 +1023,7 @@ B This is impossible.
 C They were on different banks of the river.
 D There was a bridge on the river.
 
+* ID: 2a9fa66d-39b6-46ec-ae90-9f001840c025
 #Q Which term refers to a king or prince in India?
 ^ raja
 A raja
@@ -896,6 +1031,7 @@ B haraj
 C majah
 D namaste
 
+* ID: c5ee18cc-bd54-43e9-9019-fed56803b5c2
 #Q Complete the Latin term for an unacceptable person: persona non _____.
 ^ grata
 A dedicata
@@ -903,6 +1039,7 @@ B accepta
 C grata
 D ingrata
 
+* ID: 9b8ead75-ff14-4180-a9e5-7cdaf0a4d17b
 #Q There are 15 birds sitting on the branches of a tree. A hunter goes by and shoots 3 of them. How many birds are left on the tree?
 ^ 0
 A 12
@@ -910,6 +1047,7 @@ B 10
 C 3
 D 0
 
+* ID: 2e7fcb57-a6da-4470-87d6-4e7e7d4c3bf5
 #Q A man walked by an old fisherman and asked him how many fish he had caught. The fisherman replied: The half of the eight, the nine without its tail, and the six without its head. How many fish did the fisherman caught?
 ^ 0
 A 9
@@ -917,6 +1055,7 @@ B 19
 C 6
 D 0
 
+* ID: e661138f-2984-4209-810b-8e6eaf1ccd81
 #Q A tree is 20 meters tall. An ant is climbing it. Every day the ant climbs 5 meters, and each night it descends 4 meters. In how many days will the ant reach the top of the tree?
 ^ 16
 A 10
@@ -924,6 +1063,7 @@ B 13
 C 20
 D 16
 
+* ID: 568352c3-db4f-42a4-b907-048ed5d77cca
 #Q A bar of soap is placed on one of the sides of a pair of scales. On the other side there is 3/4 of a bar of the same soap and а 3/4 kg metal weight. The scales are in balance. How much does a bar of soap weigh?
 ^ 3 kg
 A 2 kg
@@ -931,6 +1071,7 @@ B 1 kg
 C 4 kg
 D 3 kg
 
+* ID: bab3aea3-7d0e-4f8b-8c76-dc44f609237f
 #Q There are three sorts of apples in a basket. How many apples have to be taken from the basket, without looking, to be sure that there are at least 2 apples of the same sort?
 ^ 4
 A 3
@@ -938,6 +1079,7 @@ B 4
 C 10
 D 8
 
+* ID: 52775909-bb29-4100-a72c-ba8e615545d9
 #Q A boy and a pig weigh as much as 5 crates. The pig weighs as much as 4 cats. 2 cats and the pig weigh as much as 3 crates. How many cats weigh as much as the boy?
 ^ 6 cats
 A 5 cats
@@ -945,6 +1087,7 @@ B 6 cats
 C 8 cats
 D 9 cats
 
+* ID: bdc749d7-a77b-45e8-ae9d-a0d5f30e2a0a
 #Q A fish costs a dollar and half a fish. How much do 5 fish cost?
 ^ $10
 A $20
@@ -952,11 +1095,13 @@ B $10
 C $15
 D $5
 
+* ID: ddc0317c-d221-4260-9b51-80925b663a66
 #Q There are three lemons. One of them is lighter than the other two, which have the same weight. Can we tell which of the lemons is the lighter one with just one measurement on the scales?
 ^ Yes
 A No
 B Yes
 
+* ID: 2e7d671b-6008-4623-bd74-f161b405e0fb
 #Q A father has seven sons, and each son has one sister. How many children does the father have?
 ^ 8
 A 15
@@ -964,6 +1109,7 @@ B 9
 C 14
 D 8
 
+* ID: f1df22cd-3d45-4441-8154-197cf0111b99
 #Q Several rabbits and hens are placed together in a cage. How many rabbits and hens are there, if the total number of their heads is 35, and the combined number of their legs is 94?
 ^ 12 rabbits and 23 hens
 A 10 rabbits and 24 hens
@@ -971,11 +1117,13 @@ B 13 rabbits and 20 hens
 C 12 rabbits and 23 hens
 D 20 rabbits and 13 hens
 
+* ID: d3bebde0-9caa-45ae-b291-9f71bef91f08
 #Q Is there a kind of coat that can only be put on wet?
 ^ Yes
 A Yes
 B No
 
+* ID: 4512db7f-5ab9-4a50-98bc-e6f5a7d74db1
 #Q 10% of all the people living in a certain town in Georgia have unlisted phone numbers. If you selected 100 names at random from the towns phone book, on average, how many of these people would have unlisted phone numbers?
 ^ 0%
 A 0%
@@ -983,21 +1131,25 @@ B 15%
 C 35%
 D 10%
 
+* ID: 157cfb15-b4e8-4d1b-b77a-99cb68d0bd8e
 #Q A magician had a water glass filled to the top. Holding the glass above his head he let it drop to the floor without spilling a single drop of water. Is this possible?
 ^ Yes
 A No
 B Yes
 
+* ID: 106b60b1-0702-4253-b55a-1aae8fe2df20
 #Q Can you take a picture of a person with a wooden leg?
 ^ No
 A No
 B Yes
 
+* ID: a0168f14-1d8e-4961-91e7-a63d29e88561
 #Q Is it  possible to name three consecutive days without using the words Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, or Sunday?
 ^ Yes
 A Yes
 B No
 
+* ID: 0f5bb8c5-b4c5-4c84-955d-3d922ac1e674
 #Q You are on a ship and over the side hangs a rope ladder with one foot rungs. The tide rises a one foot per hour. At the end of five hours, how much of the ladder will remain above the water assuming that 12 rungs were above the water when the tide began to rise?
 ^ 12 rungs
 A none
@@ -1005,6 +1157,7 @@ B 7 rungs
 C 5 rungs
 D 12 rungs
 
+* ID: 6b415660-ee53-450a-96f7-0560d12e7aa3
 #Q This is a gun dog breed which is subdivided into Springer, Cocker, Cavalier King Charles, etc.
 ^ Spaniel
 A Collie
@@ -1012,6 +1165,7 @@ B Spaniel
 C Labrador
 D Alsatian
 
+* ID: 62ed4301-220e-4fe3-9d27-678c62ad98c9
 #Q What family of animals has species called Oryx, Duiker, Dik-dik and Impala?
 ^ Antelope
 A Llamas
@@ -1019,6 +1173,7 @@ B Antelope
 C Deer
 D Buffalo
 
+* ID: 7a1c4f81-2833-4454-8fa4-8ad8423867a5
 #Q What is the only venomous snake native to the British Isles?
 ^ Adder
 A Fox Snake
@@ -1026,6 +1181,7 @@ B Bog Viper
 C Pembrokeshire Whip-snake
 D Adder
 
+* ID: 46138a10-84b8-4484-b567-e19a681872b6
 #Q This animal, also known as Suricate, is a member of the mongoose family. It has a long, thin tail which is used for balance when standing on hind legs. It lives underground in colonies of up to 30 individuals that operate an early warning system where sentries stand guard beside the burrow entrances and warn of approaching danger from predators.
 ^ Meerkat
 A Meerkat
@@ -1033,6 +1189,7 @@ B Marmoset
 C Aye-aye
 D Jackrabbit
 
+* ID: 29a38ebe-d9ff-479e-b77b-275c43372083
 #Q This majestic bird can be golden, bald and tawny. One of the species is a symbol of the United States of America.
 ^ Eagle
 A Cuckoo
@@ -1040,6 +1197,7 @@ B Eagle
 C Vulture
 D Owl
 
+* ID: f2265155-508b-46a1-bc1c-408d3380f132
 #Q What is the name of the white crystalline sugar found in wood and straw?
 ^ Xylose
 A Xylene
@@ -1047,6 +1205,7 @@ B Xylem
 C Xylose
 D Xenon
 
+* ID: 17978f1c-db92-4858-b398-344571408f84
 #Q What is the name of the characters that have appeared in Brian Herberts Legends of Dune universe, Disneys Aladdin and the video game System Shock 2?
 ^ Xerxes
 A Xebec
@@ -1054,6 +1213,7 @@ B Xeric
 C Xerxes
 D Xhosa
 
+* ID: 72133a26-0f6e-41e7-bd04-8ffbe0bd343a
 #Q What X-word means a colourless, flammable liquid ingredient used to make synthetic resins, dyes and insecticides?
 ^ Xylene
 A Xylose
@@ -1061,11 +1221,13 @@ B Xylem
 C Xylene
 D Xenon
 
+* ID: 85ba83ae-879a-4c65-85ee-d1ebd0a65f12
 #Q Is xenophobia a fear of artificial lights?
 ^ No
 A No
 B Yes
 
+* ID: 060e8068-b4ef-4b86-87a3-f7b73fd57716
 #Q What plant tissue conducts water and mineral salts from its roots to other parts of the plant and also provides mechanical support?
 ^ Xylem
 A Xylose
@@ -1073,6 +1235,7 @@ B Xylene
 C Xebec
 D Xylem
 
+* ID: a689f887-2a78-407a-8da0-e94c949342b3
 #Q Which word refers to a colourless, odourless gaseous element that occurs in trace amounts in air?
 ^ Xenon
 A Xylose
@@ -1080,11 +1243,13 @@ B Xenon
 C Xanthene
 D Xylene
 
+* ID: 254712bb-0b94-47ea-93b8-d6f8c4296b7b
 #Q Were X-rays at one time proposed to be called Röntgen rays?
 ^ Yes
 A Yes
 B No
 
+* ID: 0bb8139d-c4d9-4b5d-b322-c87beecbf965
 #Q When you add 55 and 45 the sum is 100. When you add 65 and 35 the sum is also 100. But which is greater: 55 multiplied by 45 or 65 multiplied by 35?
 ^ 55 multiplied by 45
 A 55 multiplied by 45
@@ -1092,11 +1257,13 @@ B They are equal.
 C 65 multiplied by 35
 D None of these
 
+* ID: 9b9ef2b3-e799-45a1-a72b-8a90554a9c36
 #Q Two doctors and two mothers went to an ice cream shop. Each one of them ordered different flavors. The waiter then gave them one chocolate, one vanilla, and one strawberry and everybody on the table had an ice cream. Is this possible?
 ^ Yes
 A No
 B Yes
 
+* ID: e9e17a6a-fff2-4046-9be4-ce57fc2166e8
 #Q Two children were on their way to school, when they began to question what day of the week it was. They were so confused in their reckoning that one of them gave the following riddle to help sort the matter out: When the day after tomorrow is yesterday, then today will be as far from Sunday as that day was which was today when the day before yesterday was tomorrow!
 On which day of the week were the children heading to school?
 ^ Sunday
@@ -1105,6 +1272,7 @@ B Sunday
 C Friday
 D Monday
 
+* ID: 68028731-7d7f-43c0-bd67-601f418bf612
 #Q We know very little about the life of the mathematician Diophantus (called the father of algebra) except that he lived around the year 250 B.C. Due to one admirer of his, who described his life by the means of an algebraic riddle, we can at least determine his age at death:
 Diophantuss youth lasted 1/6 of his life. He had his first beard in the next 1/12 of his life. At the end of the following 1/7 of his life Diophantus got married. Five years from then his son was born. His son lived exactly 1/2 of Diophantuss life. Diophantus died 4 years after the death of his son.
 How long did Diophantus live?
@@ -1114,6 +1282,7 @@ B 96 years
 C 90 years
 D 72 years
 
+* ID: 895ca2d1-f0e8-490e-b556-ac1a209da3bf
 #Q Three goddesses were sitting in an old Indian temple. Their names were Truth (who always tells the truth), Lie (who is always lying) and Wisdom (who sometimes lies). In order to figure out which goddess was which you posed the following questions to each:
 Asking the left one: Who is sitting next to you?
 Truth, she answered.
@@ -1128,6 +1297,7 @@ B 1. Lie 2.Truth 3. Wisdom
 C 1. Wisdom 2. Lie 3. Truth
 D 1. Truth 2. Lie 3. Wisdom
 
+* ID: ddf842dd-7485-413c-a397-c2b6d1f3acca
 #Q There are two kinds of people who live on a mysterious island. They are the so-called Honestants, who always speak the truth, and the others are the Swindlecants, who always lie.
 
 A visitor to the island went to a local pub and had a few drinks. When he was ready to leave he asked the bartender how much he owed. The bartender told him the total for his bill. It was quite expensive, so he asked the bartender if he spoke the truth. But the visitor did not hear the whispered answer so he asked a man sitting next to him about it. And the man said: The bartender said yes, but he is a big liar.
@@ -1137,6 +1307,7 @@ Was the bartender a Honestant?
 A Yes
 B No
 
+* ID: 4159324a-3403-4431-be0e-43a3c964e5df
 #Q You are on your way to visit your Grandma, who lives at the end of the valley. Its her birthday, and you want to give her the cakes you've made.
 
 Between your house and her house, you have to cross 7 bridges, and as it goes in the land of make believe, there is a troll under every bridge! Each troll, quite rightly, insists that you pay a troll toll. Before you can cross their bridge, you have to give them half of the cakes you are carrying, but as they are kind trolls, they each give you back a single cake.
@@ -1148,6 +1319,7 @@ B 5
 C 24
 D 2
 
+* ID: dc0b6770-97c8-4a8a-b27d-e8f8c817d5e4
 #Q My grandson is about as many days as my son is weeks, and my grandson is as many months as I am in years. My grandson, my son and I together are 120  years. Can you tell me my age in years?
 ^ 72
 A 65
@@ -1155,6 +1327,7 @@ B 78
 C 72
 D 84
 
+* ID: 36d2732e-da65-43e6-88de-df7e1863f7c8
 #Q It was Emilys first day at school. The teacher suggested that it would be a good idea for each child to meet every other child in the class. The teacher said, When you meet, please shake hands and introduce yourself by name. If there were 10 children in the class, how many were the total handshakes?
 ^ 45
 A 50
@@ -1162,12 +1335,14 @@ B 45
 C 100
 D 55
 
+* ID: c0b7e189-f3e5-44ed-aebd-188563b8cd26
 #Q A woman has 7 children, half of them are boys.
 Can this statement be true?
 ^ Yes
 A Yes
 B No
 
+* ID: 4b88bed2-45ad-4058-9d42-6ffa35b3b645
 #Q Paul designs food displays for the local Supermarket. For one of his displays, he wants to set up soup cans in the form of a square pyramid. He's decided to use 10 cans for each side of the square base of the pyramid. If each carton holds 25 soup cans, how many cartons will Paul need to open to build the pyramid?
 ^ 16
 A 10
@@ -1175,6 +1350,7 @@ B 15
 C 20
 D 16
 
+* ID: 5a7289a4-05f4-4659-b07e-f23bc9ec6de6
 #Q A firefighter stood on the middle rung of a ladder, spraying water on a burning house. He then climbed up 6 rungs before the heat of the flames caused him to come down 10 rungs. After some minutes he was able to climb 18 rungs to the very top of the ladder. How many rungs did the ladder have?
 ^ 29
 A 28
@@ -1182,11 +1358,13 @@ B 14
 C 30
 D 29
 
+* ID: bda6d4b2-a80a-4287-a91a-9b0a1931c39a
 #Q A man burst into a police station soaking wet and started screaming My wife has been murdered, my wife has been murdered! A police officer asked what had happened and the man explained that when they were walking along the cliffs of the shore, he heard a big roll of thunder come out of nowhere. No further thunder washeard after the first one. He turned around startled to see what happened and then a huge bolt of lightning struck and he heard his wife scream. He turned around and saw his wife lying mangled on the sharp rocks at the bottom of the cliff, and he saw a man running away. Can the mans story be true?
 ^ No
 A No
 B Yes
 
+* ID: 6250425f-0677-4192-ba7d-d49e5f8354ba
 #Q The stubs obtained by burning ten candles will yield one extra candle if you melt them all together. If you burned 100 candles, how many extra candles could you make?
 ^ 11
 A 11
@@ -1194,6 +1372,7 @@ B 8
 C 9
 D 10
 
+* ID: a62f3710-7665-4897-b1a0-9ab323b84aa9
 #Q How long did the Hundred years war last?
 ^ 116 years
 A 110 years
@@ -1201,11 +1380,13 @@ B 98 years
 C 116 years
 D 100 years
 
+* ID: a2bbc043-3dfb-447a-b466-84bbb7f7855e
 #Q Cold is faster than hot.
 ^ False
 A False
 B True
 
+* ID: a7463c7a-b7da-4832-9786-c233b6ee4bb7
 #Q Its quarter past three. Of how many degrees is the angle formed by the hands of the clock at this moment?
 ^ 7.5
 A 7.5
@@ -1213,6 +1394,7 @@ B 180
 C 15
 D 0
 
+* ID: 9e2fe4dc-b777-4bb0-9e87-7d8d521e18d6
 #Q Charlie asked Margaret how old she was and she answered him: In two years I will be twice as old as I was five years ago. How old is she?
 ^ 12
 A 12
@@ -1220,6 +1402,7 @@ B 6
 C 7
 D 24
 
+* ID: 62ba530b-5c55-44d8-afb8-3d72c44613ad
 #Q A mother has 6 daughters and each of them has a brother. How many children are there?
 ^ 7
 A 6
@@ -1227,6 +1410,7 @@ B 7
 C 12
 D 10
 
+* ID: 7239c47a-64c0-48de-ab9f-1ef849940a6a
 #Q What is the next letter in the sequence O, T, T, F, F, S, S, E,   ?
 ^ N
 A N
@@ -1234,6 +1418,7 @@ B O
 C T
 D E
 
+* ID: 9ba29988-5f80-46f2-90a7-d21dcadcdf30
 #Q You meet two men who are playing a game. One of them tells only lies on Monday, Tuesday and Wednesday, and during the rest of the week he speaks the truth. The other one lies only on Thursday Friday and Saturday and says the truth the rest of the time. Today they both say they were lying yesterday. Which day of the week is it?
 ^ Thursday
 A Monday
@@ -1241,6 +1426,7 @@ B Tuesday
 C Sunday
 D Thursday
 
+* ID: 532c4bfb-c1b1-4c43-ab61-a0056d8a7174
 #Q This dessert was created for and named after a famous ballet dancer in 1926.
 ^ Pavlova
 A Pavlova
@@ -1248,6 +1434,7 @@ B Sara Lee Gateaux
 C Tiramisu
 D Rocky Road
 
+* ID: 0e437137-0717-4e14-b4b6-637609bb9b1a
 #Q What food can be Chinese, Jerusalem and Globe?
 ^ Artichoke
 A Curry
@@ -1255,6 +1442,7 @@ B Cracker
 C Artichoke
 D Pork
 
+* ID: f92e4566-0c34-4aa0-96f7-4156dfa216b2
 #Q This food is one of the most versatile and convenient. You can boil it, fry it, poach it, scramble it, use it in baking. What is it?
 ^ Egg
 A Sugar
@@ -1262,6 +1450,7 @@ B Fish
 C Wheat
 D Egg
 
+* ID: 56b5aa91-9592-4b3e-8a9d-556bb72cc83e
 #Q If there are three pineapples and you take two, how many will you have?
 ^ 2
 A 2
@@ -1269,6 +1458,7 @@ B 1
 C 0
 D 3
 
+* ID: 82aad94f-ed08-49b0-8ab2-c7604b950a2d
 #Q Imagine you were running a race and you passed the person in 2nd place. What place would you be in?
 ^ 2nd
 A 4th
@@ -1276,6 +1466,7 @@ B 1st
 C 3rd
 D 2nd
 
+* ID: ee5be4d9-125a-48ca-8be6-e188349e15d7
 #Q What letter should be added the group of letters P, N, N, E, S, O, R, H, E, T, and I to form a twelve-letter word that is related to blood?
 ^ Y
 A P
@@ -1283,6 +1474,7 @@ B S
 C Y
 D A
 
+* ID: 29ae11ae-d7bf-4c9d-a519-b8bc61e2cb10
 #Q What can dance without legs, live without lungs, and die without being alive?
 ^ Fire
 A Water
@@ -1290,6 +1482,7 @@ B Darkness
 C Fire
 D Wind
 
+* ID: 1846be3b-7932-44ed-9ec5-9cfeebd15c2d
 #Q Each morning I appear
 To lie at your feet,
 All day I follow you
@@ -1303,6 +1496,7 @@ B Someone Elses shadow
 C An apparition
 D Your shadow
 
+* ID: 6851dbb4-5c11-4ffd-ac9d-75dd4747c432
 #Q I'm one of five, and I'm not alive.
 The one who sent me forth became king,
 the one who got me died.
@@ -1313,6 +1507,7 @@ B A banana
 C A boulder
 D A stone
 
+* ID: 6d305523-a7fa-4561-84c6-7bda8502af6f
 #Q I have eight to spare, in case I lose my one. I'm not a number, but what am I?
 ^ a cat
 A a dog
@@ -1320,6 +1515,7 @@ B nine
 C a cat
 D one
 
+* ID: 4b51e790-aee5-41dc-af74-7ad9c5065c4a
 #Q There are these two country farmers milking their cows. While the one farmer is milking, a fly zooms into the cows ear. The cow starts jumping around, shaking its head and mooing. He tries to steady the cow and suddenly it settles down. He looks down and sees the
 fly swimming in the milk pail. He turns to his friend and asks Golly, howd that fly get down there so fast? His friend replies...___________________.
 ^ in one ear and out the udder
@@ -1327,4 +1523,3 @@ A its a miracle beyond understanding.
 B in one ear and out the other
 C in one ear and out the udder
 D ya win a few ya lose a few
-

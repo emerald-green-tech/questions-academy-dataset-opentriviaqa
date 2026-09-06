@@ -8,6 +8,9 @@ dependencies = []
 requires = ["setuptools>=78.0.0"]
 build-backend = "setuptools.build_meta"
 
+[tool.setuptools.package-data]
+questions_academy_dataset_opentriviaqa = ["data/**/*"]
+
 [dependency-groups]
 # Pip supports `dependency-groups` from version 25.1 and onwards. Example usage:
 #
@@ -16,11 +19,33 @@ build-backend = "setuptools.build_meta"
 #
 test = [
     "pytest",
+    "coverage",
+    "pytest-cov",
 ]
 build = [
     # A simple, correct Python build frontend: https://pypi.org/project/build/
     "build",
 ]
 
-[tool.pytest.ini_options]
-addopts = "-vv --capture no --show-capture all"
+[tool.pytest]
+markers = [
+    "quality",  # Only run data quality tests. These sometimes fail with false positives.
+]
+addopts = [
+    "-vv",
+    "--capture", "no",
+    "--show-capture", "all",
+    "--cov-report", "term-missing",
+    "--cov", ".",
+    "--cov-fail-under", "100",
+    "-m", "not quality"
+]
+
+[tool.coverage.run]
+source = ["."]
+omit = [
+    "tests/*",
+]
+
+[tool.coverage.report]
+show_missing = true

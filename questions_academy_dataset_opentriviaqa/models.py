@@ -28,6 +28,7 @@ class Question:
     """
     Represents a question. The question text may be in more than one lines.
     """
+    id: str
     text: str
     answers: List[Answer] = field(default_factory=list)
 
@@ -41,6 +42,8 @@ class Category:
     name: str
     questions: List[Question] = field(default_factory=list)
 
+    def __str__(self) -> str:
+        return self.name
 
 @dataclass
 class Dataset:

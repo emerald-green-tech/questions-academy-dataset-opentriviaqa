@@ -3,6 +3,8 @@ from dataclasses import dataclass
 from pathlib import Path
 from typing import Dict, List
 
+import pytest
+
 
 @dataclass
 class Question:
@@ -11,6 +13,7 @@ class Question:
     line_index: int
 
 
+@pytest.mark.quality
 def test_duplicate_questions() -> None:
     questions_dir = Path().parent / "questions_academy_dataset_opentriviaqa/data/flat"
     assert questions_dir.is_dir(), f"Could not find questions directory {questions_dir.absolute()}"
@@ -33,9 +36,8 @@ def test_duplicate_questions() -> None:
     for question in questions:
         assert len(questions[question]) < 2, (
             "\n"
-            "https://github.com/emerald-green-tech/questions-academy-dataset-opentriviaqa/blob/main/"
-            f"{questions[question][0].category}#L{questions[question][0].line_index+1} "
-            "https://github.com/emerald-green-tech/questions-academy-dataset-opentriviaqa/blob/main/"
-            f"{questions[question][1].category}#L{questions[question][1].line_index+1} "
-            f"(out of {total_duplicates} duplicates)"
+            "Found duplicate questions:\n"
+            f"{questions[question][0].category} line {questions[question][0].line_index+1}\n"
+            f"{questions[question][1].category} line {questions[question][1].line_index+1}\n"
+            f"(out of {total_duplicates} duplicates)\n"
         )

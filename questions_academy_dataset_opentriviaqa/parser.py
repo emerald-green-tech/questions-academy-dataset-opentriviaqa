@@ -24,7 +24,7 @@ def parse_category(category_path: Path) -> Category:
     for line in category_path.read_text().splitlines():
         if len(line) == 0 or line.isspace():
             continue  # skip empty lines
-        if line.startswith("#Q ") and len(question_lines) != 0:
+        if line.startswith("* ID: ") and len(question_lines) != 0:
             question = parse_question(question_lines)
             category.questions.append(question)
             question_lines = []
@@ -37,6 +37,7 @@ def parse_category(category_path: Path) -> Category:
 def parse_question(question_lines: List[str]) -> Question:
     in_question_text: bool = False
 
+    question_id: str
     question_text: List[str] = []
     correct_answer_choice: str
     answer_choices: List[str] = []
@@ -51,12 +52,14 @@ def parse_question(question_lines: List[str]) -> Question:
             question_text.append(line[3:] if line.startswith("#Q ") else line)
             continue
 
-        if line.startswith("^ "):
+        if line.startswith("* ID: "):
+            question_id = line[6:]
+        elif line.startswith("^ "):
             correct_answer_choice = line[2:]
         else:
             answer_choices.append(line[2:])
 
-    question = Question(text = "\n".join(question_text))
+    question = Question(id=question_id, text = "\n".join(question_text))
     for answer_choice in answer_choices:
         answer = Answer(text=answer_choice, correct=answer_choice==correct_answer_choice)
         question.answers.append(answer)

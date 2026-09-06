@@ -1,6 +1,9 @@
 from pathlib import Path
 
+import pytest
+
 COMMON_SPELLING_MISTAKES = [
+    "aint",
     "arent",  # aren't
     "cant",  # can't
     "couldnt",
@@ -37,6 +40,7 @@ COMMON_SPELLING_MISTAKES = [
 ]
 
 
+@pytest.mark.quality
 def test_common_spelling_mistakes() -> None:
     questions_dir = Path().parent / "questions_academy_dataset_opentriviaqa/data/flat"
     assert questions_dir.is_dir(), f"Could not find questions directory {questions_dir.absolute()}"
@@ -46,6 +50,7 @@ def test_common_spelling_mistakes() -> None:
             for word in line.split():
                 assert word.lower() not in COMMON_SPELLING_MISTAKES, (
                     "\n"
-                    "https://github.com/emerald-green-tech/questions-academy-dataset-opentriviaqa/blob/main/"
-                    f"{category}#L{line_index+1} contains misspelled word {word}"
+                    f"{category} contains misspelled word {word} in line {line_index+1}\n"
+                    "VS Code shortcut:\n"
+                    f'code --goto "{category}:{line_index+1}"\n'
                 )
