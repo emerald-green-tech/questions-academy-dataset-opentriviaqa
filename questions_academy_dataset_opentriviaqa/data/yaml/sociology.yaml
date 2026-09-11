@@ -1,0 +1,23 @@
+ID: d99e44d6-f194-45dc-bf0e-711472c30abb
+
+Question: >
+  The largest gay and lesbian rights march took place in the capital of this country.
+
+Answers:
+  1: The UK
+  2: Canada
+  3: France
+  4: The US
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: general
+
+SchemaVersion: 1

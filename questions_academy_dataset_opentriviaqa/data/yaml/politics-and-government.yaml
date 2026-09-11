@@ -1,0 +1,120 @@
+ID: 929b2940-bab8-40cd-8b23-d3dac881dd51
+
+Question: >
+  Which U.S. President declared June 14th as Flag Day?
+
+Answers:
+  1: Zachary Taylor
+  2: Grover Cleveland
+  3: Millard Fillmore
+  4: Woodrow Wilson
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: newest
+
+SchemaVersion: 1
+---
+ID: a16241f3-7076-4f59-b546-a697d3c29c68
+
+Question: >
+  When is the United States Flag flown at half-mast?
+
+Answers:
+  1: when a sports game begins
+  2: in mourning and holiday observation
+  3: when it is sunny
+  4: after the 15th of the month
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: world
+
+SchemaVersion: 1
+---
+ID: c9f2806a-e6f8-40f9-9ab0-f467fd495ef0
+
+Question: >
+  What day is Flag Day celebrated on in the United States?
+
+Answers:
+  1: 20 June
+  2: 26 June
+  3: 6 June
+  4: 14 June
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: world
+
+SchemaVersion: 1
+---
+ID: eb26a42a-2388-47b2-926a-9b86ae25f01c
+
+Question: >
+  What city is the capital of the European Union?
+
+Answers:
+  1: Brussels
+  2: Strasbourg
+  3: Luxembourg
+  4: The EU has no official capital.
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: general
+
+SchemaVersion: 1
+---
+ID: 92d2fa84-bb09-4e34-9968-15ec89c610d2
+
+Question: >
+  This George was the first president of the USA. Although the American capital city was named after him, he never
+  lived there.
+
+Answers:
+  1: George Orwell
+  2: George Washington
+  3: George Lucas
+  4: George Bush
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: people
+
+SchemaVersion: 1

@@ -1,0 +1,3110 @@
+ID: 97296a63-c4ab-43f6-833f-2fa62b45e411
+
+Question: >
+  Although the grizzly bear is on the flag of this state, the last grizzly was shot there in 1922.
+
+Answers:
+  1: Nevada
+  2: California
+  3: Oregon
+  4: Idaho
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: a750bfdf-f9ce-49b9-b705-9b047505b43d
+
+Question: >
+  In what position is the hammer on the Soviet flag?
+
+Answers:
+  1: Tilted to the right
+  2: Upright
+  3: Upside down
+  4: Tilted to the left
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: newest
+
+SchemaVersion: 1
+---
+ID: 1518c2f2-d3f0-4264-a5c1-a5602006c32e
+
+Question: >
+  A pair of lions are featured on the Chinese flag.
+
+Answers:
+  1: True
+  2: False
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: newest
+
+SchemaVersion: 1
+---
+ID: 319bc5f4-b5aa-4f76-8006-5bedfdcfd253
+
+Question: >
+  On what United States holiday are small versions of the flag placed by war memorials and next to graves of U.S. war
+  dead?
+
+Answers:
+  1: Labor Day
+  2: Memorial Day
+  3: Thanksgiving Day
+  4: Christmas Day
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: world
+
+SchemaVersion: 1
+---
+ID: fbb8b1ee-103f-4c5c-a5da-1abf078ca13b
+
+Question: >
+  If the United States flag is flown upside down, what does that mean?
+
+Answers:
+  1: None of these
+  2: It doesn't mean anything
+  3: Someone just did it by accident
+  4: Distress signal
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: world
+
+SchemaVersion: 1
+---
+ID: fab11ba5-a792-4f55-b7f6-8cbd102e8724
+
+Question: >
+  How large is the largest United States flag and largest flag in the world, as designated by the Guinness Book of
+  Records in 1998?
+
+Answers:
+  1: 197 feet by 257 feet
+  2: 505 feet by 255 feet
+  3: 100 feet by 400 feet
+  4: 434 feet by 211 feet
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: world
+
+SchemaVersion: 1
+---
+ID: ff57f659-3f2f-44b0-9358-e206c4bcab41
+
+Question: >
+  What are the colors of the Irish flag?
+
+Answers:
+  1: red, white, blue
+  2: red, yellow, green
+  3: none of these
+  4: green, white, orange
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: world
+
+SchemaVersion: 1
+---
+ID: 8f89d57f-5301-491a-af84-7f17afec88f3
+
+Question: >
+  The official colors of Iowa are red, white, and blue (appearing on the state’s flag) and Iowas motto is, Our
+  liberties we prize, our rights we will ____.
+
+Answers:
+  1: maintain
+  2: protect
+  3: not compromise
+  4: fight for
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: world
+
+SchemaVersion: 1
+---
+ID: ff1c6720-f79a-4414-83f5-8fae165f8b5c
+
+Question: >
+  Which two countries have flags with same patterns and colors, but in reversed order?
+
+Answers:
+  1: Ireland and Italy
+  2: Slovakia and Slovenia
+  3: Monaco and Poland
+  4: Serbia and the Netherlands
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: world
+
+SchemaVersion: 1
+---
+ID: cc76db7f-b2ec-408e-8418-0f427edef8ed
+
+Question: >
+  Many European countries have a flag with three horizontal stripes, colored white, blue and red (in different orders
+  or shades). Which country is not one of them?
+
+Answers:
+  1: Russia
+  2: The Netherlands
+  3: France
+  4: Slovenia
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: world
+
+SchemaVersion: 1
+---
+ID: 9a28ebff-9578-482d-a113-762737fced8b
+
+Question: >
+  Which of these flags is the oldest still in use?
+
+Answers:
+  1: British Union Jack
+  2: Denmarks Dannebrog
+  3: Frances Tricolor
+  4: American Stripes and Stars
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: world
+
+SchemaVersion: 1
+---
+ID: 39045ccf-3ca2-45d5-9da5-70211fabc124
+
+Question: >
+  All Nordic countries have a Scandinavian cross on their flags. Which statement is true about these flags?
+
+Answers:
+  1: The Swedish flag is the only one without any white.
+  2: The Finnish flag has the cross upside down.
+  3: Norway and Iceland have exactly the same flags.
+  4: Yellow is the dominant color of Scandinavian flags.
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: world
+
+SchemaVersion: 1
+---
+ID: 8d8df18e-0ef3-4dfa-9671-b33f25559fc1
+
+Question: >
+  Which country has the most colors on its flag that does not have any seal or brocade?
+
+Answers:
+  1: South Africa
+  2: Brasil
+  3: Libya
+  4: Spain
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: world
+
+SchemaVersion: 1
+---
+ID: cf91b7ad-52e2-4e9c-98fd-601c535ebc56
+
+Question: >
+  Which of these nations has a flag not rectangular in shape?
+
+Answers:
+  1: Switzerland
+  2: Nepal
+  3: Papua New Guinea
+  4: Andorra
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: world
+
+SchemaVersion: 1
+---
+ID: 02bf4d2b-54ee-4f55-961f-67f0c6042a5b
+
+Question: >
+  Which country's flag has the Latin motto Ordem e Progresso (Order and Progress) on it?
+
+Answers:
+  1: Brazil
+  2: Thailand
+  3: Kenya
+  4: Australia
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: world
+
+SchemaVersion: 1
+---
+ID: 8391c3b4-fb6b-4cb8-afe9-a9248e1b79cb
+
+Question: >
+  How many stripes are there on the American flag?
+
+Answers:
+  1: 49
+  2: 50
+  3: 13
+  4: 12
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: world
+
+SchemaVersion: 1
+---
+ID: 3e95572e-e449-47ed-9068-f494daa6e586
+
+Question: >
+  The Italian flag is green-white-red. What is the traditional color of Italian athletes in international
+  competitions?
+
+Answers:
+  1: Blue
+  2: White
+  3: Green
+  4: Red
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: world
+
+SchemaVersion: 1
+---
+ID: d6d31a1d-a60b-4572-b2f0-d6c1c09dbbc8
+
+Question: >
+  The Dutch are sometimes called Oranje, which means the orange colored. What is orange on the Dutch flag?
+
+Answers:
+  1: The central stripe
+  2: It is all orange
+  3: Nothing
+  4: The thin stripe with the Dutch motto
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: world
+
+SchemaVersion: 1
+---
+ID: 5e76003e-49ba-4dce-a7a1-54caa5f0b63a
+
+Question: >
+  Which country has a plain green flag?
+
+Answers:
+  1: None, the green flag is the official symbol of Green Peace
+  2: Libya
+  3: Saudi Arabia
+  4: Tunisia
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: world
+
+SchemaVersion: 1
+---
+ID: 11bac2f5-b511-46a2-958f-59f60f675cc2
+
+Question: >
+  What is the shape of the Star of David, visible in the center of the Israeli flag?
+
+Answers:
+  1: It looks like a comet, with a head and tail
+  2: Pentagram
+  3: Hexagram
+  4: Septagram
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: world
+
+SchemaVersion: 1
+---
+ID: 14ba1749-803b-477d-9031-ebf6073761b8
+
+Question: >
+  The national flag of Scotland features what two colours?
+
+Answers:
+  1: Red and white
+  2: Red and yellow
+  3: Blue and white
+  4: Blue and red
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: world
+
+SchemaVersion: 1
+---
+ID: 708f006e-534c-46a5-ac6c-0e35a7a48bec
+
+Question: >
+  What are the primary colors of the Philippine national flag?
+
+Answers:
+  1: Red, blue, white
+  2: Yellow, orange, white
+  3: Blue, white, green
+  4: Black, red ,yellow
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: world
+
+SchemaVersion: 1
+---
+ID: 9b4b962b-86a1-4885-9826-891d7a6658e9
+
+Question: >
+  This island country is located east of the Caribbean Sea, it was a colony of the United Kingdom until 1966. Its flag
+  features a trident.
+
+Answers:
+  1: Barbados
+  2: Dominica
+  3: The Bahamas
+  4: Cuba
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: world
+
+SchemaVersion: 1
+---
+ID: 0612ea56-39e5-4880-86bb-b49adf94b2f8
+
+Question: >
+  What animal is the dominant object on the Michigan state flag?
+
+Answers:
+  1: Bear
+  2: Deer
+  3: Rabbit
+  4: Fish
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: world
+
+SchemaVersion: 1
+---
+ID: efe9bab3-ef5e-42c3-b88d-40ef54a99b5b
+
+Question: >
+  How many different flags have flown over Texas?
+
+Answers:
+  1: 3
+  2: 10
+  3: 6
+  4: 4
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: world
+
+SchemaVersion: 1
+---
+ID: 914774b1-9dda-4720-816e-607d33b9cea3
+
+Question: >
+  What are the only two colors on the Israeli flag?
+
+Answers:
+  1: Blue and white
+  2: Red and white
+  3: Red and golden
+  4: Green and golden
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: world
+
+SchemaVersion: 1
+---
+ID: c07b04b2-2938-4f0c-af3d-ae3ef8c554f9
+
+Question: >
+  When was the flag of the United Nations adopted?
+
+Answers:
+  1: November 7, 1948
+  2: October 20, 1947
+  3: December 2, 1946
+  4: December 7, 1946
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: world
+
+SchemaVersion: 1
+---
+ID: 7ddd5a95-727d-484c-8d71-a70b59302332
+
+Question: >
+  The world map in the United Nations flag represents all the continents of the world.
+
+Answers:
+  1: Yes
+  2: No
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: world
+
+SchemaVersion: 1
+---
+ID: db3b2c95-95ba-42b1-921b-c467d674fbdd
+
+Question: >
+  The Alaska state flag was designed by a 13-year-old.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: world
+
+SchemaVersion: 1
+---
+ID: abb67acb-15b3-4037-b1f6-27adc221dcd1
+
+Question: >
+  What are the colors of Indias flag?
+
+Answers:
+  1: orange, white, and green
+  2: black, white, and green
+  3: blue, yellow, and white
+  4: red, white, and blue
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: world
+
+SchemaVersion: 1
+---
+ID: 74043164-1c48-417f-8a92-c936317f60ca
+
+Question: >
+  The flag of which country incorporates a red dragon as well as the Tudor colours of green and white?
+
+Answers:
+  1: Scotland
+  2: England
+  3: Wales
+  4: Northern Ireland
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: world
+
+SchemaVersion: 1
+---
+ID: 2d50c7fc-dac8-4f0a-a7a4-fd790060558b
+
+Question: >
+  What are the colors of the Romanian flag?
+
+Answers:
+  1: Black, yellow, blue
+  2: Red, yellow, green
+  3: Red, white, blue
+  4: Red, yellow, blue
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: world
+
+SchemaVersion: 1
+---
+ID: 8f708e01-fd1c-4f33-baf1-e6ed55bdad8e
+
+Question: >
+  Puerto Ricos flag consists of which of three colors?
+
+Answers:
+  1: Red,Blue,and Yellow
+  2: Red, White,and Blue
+  3: Red,Green,and Black
+  4: Red,White,and Green
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: world
+
+SchemaVersion: 1
+---
+ID: 34ac2472-a68b-4823-b331-c69d3e7978a0
+
+Question: >
+  What is/are the color/colors of the socialist flag?
+
+Answers:
+  1: Red
+  2: Red, White, and Blue
+  3: Red and Yellow
+  4: Blue
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: world
+
+SchemaVersion: 1
+---
+ID: 9dd5d4af-516c-4cfe-9ae9-18e535e14911
+
+Question: >
+  What are the two animals featured on the Mexican flag?
+
+Answers:
+  1: Eagle and Snake
+  2: Eagle and Bear
+  3: Snake and Lion
+  4: Bear and Snake
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: world
+
+SchemaVersion: 1
+---
+ID: 2ae7344c-6161-41d1-a53d-90bb567e46f6
+
+Question: >
+  Which of these colors is not present on the national flag of the French Republic?
+
+Answers:
+  1: White
+  2: Red
+  3: Green
+  4: Blue
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: world
+
+SchemaVersion: 1
+---
+ID: 54627846-4e87-4045-b3ef-3be0ef2b9f4c
+
+Question: >
+  The national flag of what country consists of three horizontal bands in red, black and white?
+
+Answers:
+  1: Syria
+  2: Egypt
+  3: Yemen
+  4: Iraq
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: world
+
+SchemaVersion: 1
+---
+ID: a634c853-89b7-4680-a75b-e6f95bcf0de1
+
+Question: >
+  Which of these colors is not present in the national flag of Tanzania?
+
+Answers:
+  1: Gold
+  2: Green
+  3: Blue
+  4: Red
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: world
+
+SchemaVersion: 1
+---
+ID: 344077e3-5726-4329-b08e-03850a264f78
+
+Question: >
+  What country's national flag simply consists of a blue and a yellow horizontal bands?
+
+Answers:
+  1: Zambia
+  2: Ukraine
+  3: Uruguay
+  4: Zimbabwe
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: world
+
+SchemaVersion: 1
+---
+ID: 8654b44e-b61e-4259-86de-bc29d94a2568
+
+Question: >
+  The flag of what country is a red rectangle with a white crescent moon and a star in the center?
+
+Answers:
+  1: Turkey
+  2: Tunisia
+  3: Iran
+  4: Singapore
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: world
+
+SchemaVersion: 1
+---
+ID: e19be69b-0b61-4ba3-8c07-51e6c654bd47
+
+Question: >
+  What are the colors on the national flag of Somalia?
+
+Answers:
+  1: Yellow and blue
+  2: White and blue
+  3: Green, white and blue
+  4: Red and yellow
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: world
+
+SchemaVersion: 1
+---
+ID: 0a530d57-84ba-430a-b06d-064a852fb916
+
+Question: >
+  The national flag of what country consists of a smaller white area and a larger purple section?
+
+Answers:
+  1: Chile
+  2: Brunei
+  3: Bahrain
+  4: Qatar
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: world
+
+SchemaVersion: 1
+---
+ID: 25783ab1-3414-47b3-9fc8-77d65ecdb8c5
+
+Question: >
+  What tree is depicted on the national flag of Lebanon?
+
+Answers:
+  1: Pine
+  2: Sequoia
+  3: Cedar
+  4: Fir
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: world
+
+SchemaVersion: 1
+---
+ID: dae9de0d-8de3-4b48-9158-90a53c37a5ad
+
+Question: >
+  What country has a red flag with a stylized eight-rayed yellow sun?
+
+Answers:
+  1: Grenada
+  2: Kyrgyzstan
+  3: Macedonia
+  4: Ethiopia
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: world
+
+SchemaVersion: 1
+---
+ID: ba50f120-b60f-4b07-a0bf-406135c71358
+
+Question: >
+  How many red crosses are present on the national flag of Georgia, a country in the Caucasus region?
+
+Answers:
+  1: Three
+  2: One
+  3: Five
+  4: Four
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: world
+
+SchemaVersion: 1
+---
+ID: 87203cd1-b888-422f-a18f-beb51dc8b3fb
+
+Question: >
+  The national flag of Sri Lanka features a lion holding a sword. What does the curly mane of the lion represent?
+
+Answers:
+  1: Wisdom
+  2: Meditation
+  3: Religious observance
+  4: All of these
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: world
+
+SchemaVersion: 1
+---
+ID: a37c4502-903d-4e36-94ce-24afded9231e
+
+Question: >
+  This shape is enclosed in Nicaraguas flag.
+
+Answers:
+  1: Diamond
+  2: Triangle
+  3: Circle
+  4: Rectangle
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: world
+
+SchemaVersion: 1
+---
+ID: 08ccf08c-d7af-493f-87c2-56a339caa97e
+
+Question: >
+  Which of the following is in the center of Californias state flag?
+
+Answers:
+  1: a mountain
+  2: a wolf
+  3: a bear
+  4: a river
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: world
+
+SchemaVersion: 1
+---
+ID: 21388e9c-1389-47a3-a72c-297ba9f6d253
+
+Question: >
+  What are the colors of the official state flag of the U.S. state of Missouri?
+
+Answers:
+  1: Red, white and blue
+  2: White and blue
+  3: Green and yellow
+  4: Red and white
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: world
+
+SchemaVersion: 1
+---
+ID: 8f585f82-64b4-4314-a7ea-390073542ac9
+
+Question: >
+  The flag of the Netherlands consist of three 3 equal horizontal bands of red, white, and blue.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: world
+
+SchemaVersion: 1
+---
+ID: 72dc5661-eef4-4d50-a540-7848d6862d6f
+
+Question: >
+  Which of these colors is not present on the national flag of the Republic of Ireland?
+
+Answers:
+  1: White
+  2: Orange
+  3: Red
+  4: Green
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: world
+
+SchemaVersion: 1
+---
+ID: 73f1cd8c-6230-4d95-9f25-7c0c9d5c78bd
+
+Question: >
+  What are the colors of the Bulgarian national flag, the original version of which was adopted in 1879?
+
+Answers:
+  1: Red and white
+  2: White, green and red
+  3: Blue, green and white
+  4: Green, yellow and red
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: world
+
+SchemaVersion: 1
+---
+ID: 5206c6d3-6f87-4bec-824a-2ada5e635d38
+
+Question: >
+  What are the two basic colors on the national flag of Portugal?
+
+Answers:
+  1: Red and yellow
+  2: Blue and white
+  3: Orange and
+  4: Green and red
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: world
+
+SchemaVersion: 1
+---
+ID: 12badf63-5f98-4f17-a94d-8e22f6fef02c
+
+Question: >
+  The national flag of Monaco consists of one red band over one white band which are equal in width. Except for its
+  length this flag is identical to the national flag of this country.
+
+Answers:
+  1: none of these
+  2: Singapore
+  3: Indonesia
+  4: Poland
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: world
+
+SchemaVersion: 1
+---
+ID: f5c81634-12d0-4f3d-9125-328125f488f4
+
+Question: >
+  What design is depicted on the national flag of Iceland?
+
+Answers:
+  1: Mountain
+  2: Star
+  3: Cross
+  4: Bear
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: world
+
+SchemaVersion: 1
+---
+ID: 9cb3f1c3-9365-4868-9a1b-a31c8494a92d
+
+Question: >
+  What are the colors on the English flag?
+
+Answers:
+  1: Red and blue
+  2: White and red
+  3: Blue, black and red
+  4: Red, white and blue
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: world
+
+SchemaVersion: 1
+---
+ID: 38d93ea1-977b-4541-b859-ae1cc184ae38
+
+Question: >
+  A leaf of what tree is featured on the national flag of Canada?
+
+Answers:
+  1: Ash tree
+  2: Maple tree
+  3: Ginkgo tree
+  4: Eucalyptus tree
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: world
+
+SchemaVersion: 1
+---
+ID: 23a4c09b-a5ed-4f24-8c9f-e17859b2c5ed
+
+Question: >
+  What are the colors of the national flag of the People's Republic of China?
+
+Answers:
+  1: Red and white
+  2: Red and golden
+  3: Golden and blue
+  4: Yellow and blue
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: world
+
+SchemaVersion: 1
+---
+ID: 2993c140-9115-40b9-bdef-ed4940cd8ca1
+
+Question: >
+  Which of these colors is not present on the national flag of Cuba, officially adopted in 1902?
+
+Answers:
+  1: Blue
+  2: Yellow
+  3: White
+  4: Red
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: world
+
+SchemaVersion: 1
+---
+ID: 63766b51-0d47-4b85-a20c-fcbc0d9476dc
+
+Question: >
+  What are the colors of the national flag of Germany?
+
+Answers:
+  1: Green, red and white
+  2: Black, red and gold
+  3: White, red and black
+  4: Black, gold and blue
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: world
+
+SchemaVersion: 1
+---
+ID: 5268a085-d9e0-4775-bdba-148bdef9feeb
+
+Question: >
+  What are the colors on the national flag of Greenland?
+
+Answers:
+  1: White and red
+  2: Red and blue
+  3: Green and white
+  4: White and blue
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: world
+
+SchemaVersion: 1
+---
+ID: 01477b63-de33-4d3c-89a8-49f991dfee83
+
+Question: >
+  What design is depicted on the official flag of the US state of Alabama?
+
+Answers:
+  1: Star
+  2: Cross
+  3: Bird
+  4: Flower
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: world
+
+SchemaVersion: 1
+---
+ID: 79336080-b30c-4788-9929-af346299c457
+
+Question: >
+  What design is depicted on the official state flag of the U.S. state of Indiana?
+
+Answers:
+  1: Torch
+  2: Flower
+  3: Animal
+  4: Sun
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: world
+
+SchemaVersion: 1
+---
+ID: 246f8f51-54dd-4627-80b4-f74b9498be4e
+
+Question: >
+  What are the colors of the national flag of Malta?
+
+Answers:
+  1: Red and white
+  2: Green and yellow
+  3: White and blue
+  4: Green and orange
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: world
+
+SchemaVersion: 1
+---
+ID: 866c92ea-0aee-4a2d-a00d-078bd93b8127
+
+Question: >
+  What is depicted on the national flag of Saudi Arabia?
+
+Answers:
+  1: A pigeon
+  2: A crescent moon and a star
+  3: A mosque
+  4: A sword
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: world
+
+SchemaVersion: 1
+---
+ID: de3fe54c-12f8-4d6e-be84-210d5857c79f
+
+Question: >
+  Which of these colors is not present on the national flag of the Kingdom of Cambodia?
+
+Answers:
+  1: Yellow
+  2: White
+  3: Red
+  4: Blue
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: world
+
+SchemaVersion: 1
+---
+ID: e6990035-ebfb-4f04-a6a1-af72f2163612
+
+Question: >
+  What is the color of the official state flag of Kansas, USA?
+
+Answers:
+  1: Yellow
+  2: White
+  3: Green
+  4: Blue
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: world
+
+SchemaVersion: 1
+---
+ID: fc929d61-3d42-4da2-a8dd-ad7c590c967b
+
+Question: >
+  What are the colors of the official state flag of the U.S. state of Georgia?
+
+Answers:
+  1: Blue and yellow
+  2: Red, white, blue
+  3: White, green, red
+  4: Red and green
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: world
+
+SchemaVersion: 1
+---
+ID: 7b99d1f3-e850-4349-9ef4-5e0101b52335
+
+Question: >
+  What are the colors of the national flag of Argentina?
+
+Answers:
+  1: White and gray
+  2: White and green
+  3: White and blue
+  4: White and yellow
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: world
+
+SchemaVersion: 1
+---
+ID: b69457a1-0c89-4ac7-a373-9a6b36a5f76b
+
+Question: >
+  The Argentine Cockade is of the same colors as the national flag of Argentina.
+
+Answers:
+  1: True
+  2: False
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: world
+
+SchemaVersion: 1
+---
+ID: 49e3f142-62dc-402b-b099-c8fd418c1111
+
+Question: >
+  What are the colors on the national flag of the Socialist Republic of Vietnam?
+
+Answers:
+  1: Green and red
+  2: Red and white
+  3: Yellow and red
+  4: Black, white and red
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: world
+
+SchemaVersion: 1
+---
+ID: dae55149-a35c-43e3-af98-2120311f824c
+
+Question: >
+  What are the colors of the national flag of Jamaica?
+
+Answers:
+  1: Gold, black and green
+  2: Green and white
+  3: Green and black
+  4: Green, white and yellow
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: world
+
+SchemaVersion: 1
+---
+ID: 979efa79-bca7-4e61-998e-ef2701517898
+
+Question: >
+  What animal is depicted on the national flag of Sri Lanka?
+
+Answers:
+  1: Lion
+  2: Tiger
+  3: Eagle
+  4: Bird of paradise
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: world
+
+SchemaVersion: 1
+---
+ID: 7f540c90-7e9a-4558-a7d0-06ee741e596a
+
+Question: >
+  What are the colors of the national flag of the Republic of Colombia?
+
+Answers:
+  1: Yellow, blue and red
+  2: Red and white
+  3: White, blue and red
+  4: Green, yellow and black
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: world
+
+SchemaVersion: 1
+---
+ID: 78942e9c-5a14-47b0-9feb-01c53332e2e6
+
+Question: >
+  What are the basic colors of the national flag of Venezuela?
+
+Answers:
+  1: Yellow, blue, red
+  2: Blue and white
+  3: Yellow and Blue
+  4: Green, yellow, black
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: world
+
+SchemaVersion: 1
+---
+ID: 36f48c0c-8097-4a5e-a76e-bce6fed8ad51
+
+Question: >
+  What are the colors of the national flag of the Republic of Peru, adopted in 1825?
+
+Answers:
+  1: Blue and yellow
+  2: Green, white and red
+  3: Green, yellow and black
+  4: Red and white
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: world
+
+SchemaVersion: 1
+---
+ID: d9f76562-0c92-4027-8d73-2305ff2d873f
+
+Question: >
+  The official motto of Iraq is Allahu Akbar, and it is emblazoned on the national flag of the country. What does the
+  motto mean?
+
+Answers:
+  1: God holds us
+  2: God is the greatest
+  3: God is our father
+  4: Everything belongs to God
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: world
+
+SchemaVersion: 1
+---
+ID: c06a99ed-cfe1-4558-a563-082dcc74478f
+
+Question: >
+  What are the basic colors of the national flag of Iraq?
+
+Answers:
+  1: Green, red and black
+  2: White, yellow and black
+  3: Red, white and black
+  4: Yellow, green and red
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: world
+
+SchemaVersion: 1
+---
+ID: 84e6b4f5-c454-4a87-990d-bec8eaf0b8c4
+
+Question: >
+  What is the color of the national flag of Taiwan?
+
+Answers:
+  1: Green
+  2: White
+  3: Yellow
+  4: Red
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: world
+
+SchemaVersion: 1
+---
+ID: f88b2886-c746-4bf2-81a5-4641943884b2
+
+Question: >
+  What design is depicted on the national flag of Morocco?
+
+Answers:
+  1: All of these
+  2: Crescent moon
+  3: Sun
+  4: Star
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: world
+
+SchemaVersion: 1
+---
+ID: 7f5544a0-d172-4bf6-836c-69d4d31115cd
+
+Question: >
+  What is the color of the official state flag of the US state of Virginia, officially known as the Commonwealth of
+  Virginia?
+
+Answers:
+  1: White
+  2: Blue
+  3: Green
+  4: Red
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: world
+
+SchemaVersion: 1
+---
+ID: adbc6b48-62c5-4961-a75b-3f4da9e26e74
+
+Question: >
+  What design is depicted on the official state flag of the U.S. state of Arizona?
+
+Answers:
+  1: Sun
+  2: Cross
+  3: Flower
+  4: Star
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: world
+
+SchemaVersion: 1
+---
+ID: 45436d10-9afe-4121-af0c-51976f1330a3
+
+Question: >
+  What are the three colors of the Jamaican flag?
+
+Answers:
+  1: Yellow,Green,and White
+  2: Green, Blue, and White
+  3: Black, Yellow, and Green
+  4: none of these
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: world
+
+SchemaVersion: 1
+---
+ID: f976196f-cc48-4cc5-95f0-5c052f49af8a
+
+Question: >
+  There are 52 stars on the United States flag.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: world
+
+SchemaVersion: 1
+---
+ID: b3187cef-15ba-416f-8cee-81b6ff64c6fa
+
+Question: >
+  What three colors are on the flag of France?
+
+Answers:
+  1: Red, White and Blue
+  2: Red, White, and Green
+  3: None of these
+  4: Red, Yellow and Green
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: world
+
+SchemaVersion: 1
+---
+ID: f4ec21b0-eb90-471f-aff7-b86c070c1d07
+
+Question: >
+  There are two stars on the Panama flag.
+
+Answers:
+  1: True
+  2: False
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: world
+
+SchemaVersion: 1
+---
+ID: 92c9f0db-57f4-4da6-8dcd-d6231d917ed4
+
+Question: >
+  The flags of what two countries look almost the same?
+
+Answers:
+  1: Italy and Mexico
+  2: Mexico and Dominica
+  3: Italy and Portugal
+  4: none of these
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: world
+
+SchemaVersion: 1
+---
+ID: 7f177030-073b-4595-aa1e-b5d412167304
+
+Question: >
+  Pakistans flag has a star and what other symbol?
+
+Answers:
+  1: circle
+  2: sun
+  3: crescent moon
+  4: Triangle
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: world
+
+SchemaVersion: 1
+---
+ID: 8e2f9ca7-3080-429a-9a4e-3f7812e78aaf
+
+Question: >
+  The letter R was found in the middle of the old Rwanda flag.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: world
+
+SchemaVersion: 1
+---
+ID: 6dbe5448-7687-4e5e-afc0-ded16beab3f9
+
+Question: >
+  What is pictured in the middle of the Lebanon flag?
+
+Answers:
+  1: Bird
+  2: Star
+  3: None of these
+  4: Tree
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: world
+
+SchemaVersion: 1
+---
+ID: 80292d13-aa78-4239-b298-93e5b7fb74b7
+
+Question: >
+  Which of these colors is not present on the national flag of the Bahamas?
+
+Answers:
+  1: Green
+  2: Blue
+  3: Yellow
+  4: Black
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: world
+
+SchemaVersion: 1
+---
+ID: 04d81ebe-e1f1-43d0-9f00-9b72168110ec
+
+Question: >
+  What is the color of the star featured on the national flag of Morocco?
+
+Answers:
+  1: Blue
+  2: Red
+  3: Yellow
+  4: Green
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: world
+
+SchemaVersion: 1
+---
+ID: 8360ed81-b721-49d1-a85d-480e35efcd9f
+
+Question: >
+  What is the only country in the world whose national flag is not rectangular?
+
+Answers:
+  1: Nepal
+  2: Eritrea
+  3: Guyana
+  4: The Comoros
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: world
+
+SchemaVersion: 1
+---
+ID: da8a673a-2094-4c46-81a6-244d010bb326
+
+Question: >
+  What interesting object is featured on the national flag of Grenada?
+
+Answers:
+  1: Head of a bird
+  2: Clove of nutmeg
+  3: All of these
+  4: Flame
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: world
+
+SchemaVersion: 1
+---
+ID: 562a81d2-f036-49c9-b4d1-47b809b8da13
+
+Question: >
+  What bird is featured on the national flag of Papua New Guinea?
+
+Answers:
+  1: Raggiana Bird of Paradise
+  2: Superb Bird of Paradise
+  3: Magnificent Bird of Paradise
+  4: Curl-crested Manucode
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: world
+
+SchemaVersion: 1
+---
+ID: be336e19-35f2-406d-9213-cd0d5e9bc499
+
+Question: >
+  Which of these colors is not present on the Seychelles flag?
+
+Answers:
+  1: White
+  2: Green
+  3: Black
+  4: Yellow
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: world
+
+SchemaVersion: 1
+---
+ID: 7385d483-cba8-4a75-a898-1819eab984e0
+
+Question: >
+  What country has a crown depicted in the upper left corner of its flag?
+
+Answers:
+  1: Montenegro
+  2: Liechtenstein
+  3: Malta
+  4: Luxembourg
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: world
+
+SchemaVersion: 1
+---
+ID: 9c8f18c9-2335-47dc-a6f8-2927e296d337
+
+Question: >
+  What is the only country in the world whose flag features a building?
+
+Answers:
+  1: Guatemala
+  2: Cambodia
+  3: Egypt
+  4: Dominica
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: world
+
+SchemaVersion: 1
+---
+ID: c72a8593-a4cf-47b9-9f78-d37453e3f7b1
+
+Question: >
+  What are the colors of the official state flag of Tasmania?
+
+Answers:
+  1: Yellow and Green
+  2: Blue, white and red
+  3: White and red
+  4: Green, orange and blue
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: world
+
+SchemaVersion: 1
+---
+ID: a50e4b22-82a3-4d64-b128-a7e8ae8e9f2b
+
+Question: >
+  The flag of which of the countries listed below is not red and white?
+
+Answers:
+  1: Poland
+  2: Jamaica
+  3: Turkey
+  4: Japan
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: general
+
+SchemaVersion: 1
+---
+ID: 121b1f53-b394-448b-a481-cbae969b1c16
+
+Question: >
+  What country has a plain green flag?
+
+Answers:
+  1: Lithuania
+  2: Libya
+  3: Ireland
+  4: Dominica
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: general
+
+SchemaVersion: 1
+---
+ID: e615ec51-b7fe-4aef-abdf-4756ea0e9463
+
+Question: >
+  How many stars are there on the flag of New Zealand?
+
+Answers:
+  1: 22
+  2: 6
+  3: 0
+  4: 4
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: general
+
+SchemaVersion: 1
+---
+ID: f9e0b5cf-9048-47ee-ac7b-4538762c1a0d
+
+Question: >
+  The flag of what country consists of a simple green field with no other features?
+
+Answers:
+  1: Libya
+  2: Lebanon
+  3: Laos
+  4: Lithuania
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: general
+
+SchemaVersion: 1
+---
+ID: 89be4d69-8c85-47d0-9b5f-faa1f9a6a1ed
+
+Question: >
+  The national flag of what country consists of a light blue field with a single white star in the center?
+
+Answers:
+  1: Greece
+  2: Somalia
+  3: Sudan
+  4: Singapore
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: general
+
+SchemaVersion: 1
+---
+ID: a2ad1384-4d60-4981-af0b-0158c6fcd3d5
+
+Question: >
+  In 2007, where was a new record for the biggest country flag set?
+
+Answers:
+  1: North Korea
+  2: Venezuela
+  3: Mexico
+  4: Israel
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: general
+
+SchemaVersion: 1
+---
+ID: 5662ff56-1c5e-4e0e-9467-4412a6bdf2f5
+
+Question: >
+  The cross on the Swiss flag is red.
+
+Answers:
+  1: True
+  2: False
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: general
+
+SchemaVersion: 1
+---
+ID: d80bd4af-9191-4c99-8e36-e989aaad2dce
+
+Question: >
+  How many stripes are on the American Flag?
+
+Answers:
+  1: 11
+  2: 13
+  3: 15
+  4: 12
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: general
+
+SchemaVersion: 1
+---
+ID: 15ea3f14-d95f-40dc-9ca6-4869bf54d1b8
+
+Question: >
+  The California state flag originally featured a wolf.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: general
+
+SchemaVersion: 1
+---
+ID: bee026b1-d697-4294-9bf1-b954a2441aa7
+
+Question: >
+  This is the name of the pirate flag. The origins of the name are not clear, but the skull and crossbones motif first
+  appeared around 1700.
+
+Answers:
+  1: Funny Ringo
+  2: Jolly Roger
+  3: Merry Jack
+  4: Happy Joe
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: people
+
+SchemaVersion: 1
+---
+ID: 777cc27d-f8f3-48aa-a629-cfac5eb4d43d
+
+Question: >
+  What term is applied to pirate flags which often featured skeletons, daggers, cutlasses, skulls and crossbones?
+
+Answers:
+  1: Jolly Jack
+  2: Jolly Rider
+  3: Jolly Roger
+  4: Horrible Roger
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: people
+
+SchemaVersion: 1
+---
+ID: 10b47dfc-3ad8-4b83-b725-9a36696d1e15
+
+Question: >
+  The European dragon, which is part of the English mythology, is depicted on the national flag of this country.
+
+Answers:
+  1: England
+  2: Scotland
+  3: Wales
+  4: Ireland
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: humanities
+
+SchemaVersion: 1
+---
+ID: 9296834f-b5db-4772-be97-e2d0a8935490
+
+Question: >
+  All Scandinavian countries have a cross on their flags. What colors are the cross and the background of the Danish
+  flag?
+
+Answers:
+  1: a blue cross on white background
+  2: a yellow cross on blue background
+  3: a white cross on red background
+  4: a large white cross on blue background
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: celebrities
+
+SchemaVersion: 1
+---
+ID: 08c52cd0-2d3a-48a9-8445-a11e232eb837
+
+Question: >
+  Australias national flag is one of only two in the world to feature a seven-pointed star. The other one belongs to
+  this country.
+
+Answers:
+  1: Jordan
+  2: Albania
+  3: New Zealand
+  4: Cuba
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: celebrities
+
+SchemaVersion: 1
+---
+ID: add03c61-850b-45b7-bc49-a30a456cfecd
+
+Question: >
+  What two colours are featured on the national flag of the People's Republic of China?
+
+Answers:
+  1: White and green
+  2: Red and white
+  3: Blue and yellow
+  4: Red and yellow
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: celebrities
+
+SchemaVersion: 1
+---
+ID: eabc030d-9d11-41be-86e5-f400fe4d9252
+
+Question: >
+  What are the colors on the flag of  The Bronx, NY?
+
+Answers:
+  1: Red, White, Blue
+  2: Blue, White, Green
+  3: Blue, White, Orange
+  4: Red, Green, Orange
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: geography
+
+SchemaVersion: 1
+---
+ID: 49b26c9c-94d7-45d1-a2d3-79d3cbc59b28
+
+Question: >
+  The flag of what US state features a gold torch and nineteen stars on a blue rectangular field?
+
+Answers:
+  1: Illinois
+  2: Idaho
+  3: Indiana
+  4: Iowa
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: geography
+
+SchemaVersion: 1
+---
+ID: c80a603b-830c-4741-85ec-b0c9f8150be1
+
+Question: >
+  Which of the following flags doesn't include a cross?
+
+Answers:
+  1: the flag of Mississippi
+  2: the flag of the UK
+  3: the flag of Denmark
+  4: the flag of Alaska
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: geography
+
+SchemaVersion: 1
+---
+ID: 0ea46fc7-a35f-4c9f-91f6-9774ce00be66
+
+Question: >
+  What two colors are featured on the flag and coat of arms of Malta, a country consisting of seven Mediterranean
+  islands?
+
+Answers:
+  1: Green and black
+  2: Yellow and purple
+  3: White and red
+  4: Blue and yellow
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: geography
+
+SchemaVersion: 1
+---
+ID: caffb389-263b-4fb3-bb26-20c4c3f48ce9
+
+Question: >
+  What are the three colours of the national flag of the Netherlands from top to bottom?
+
+Answers:
+  1: Red, white, and blue
+  2: Blue, yellow, and red
+  3: Red, blue, and white
+  4: Green, red, and white
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: geography
+
+SchemaVersion: 1
+---
+ID: a2bf4410-ac62-48f4-b3d6-6ec4d4dd8584
+
+Question: >
+  The flag of which US state features a white American Bison on a blue field?
+
+Answers:
+  1: Nevada
+  2: Wyoming
+  3: Texas
+  4: South Dakota
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: geography
+
+SchemaVersion: 1
+---
+ID: 3a8082bf-3833-41a9-b74a-02450ba6723d
+
+Question: >
+  Which of these colors is not present on the national flag of the Italian Republic?
+
+Answers:
+  1: White
+  2: Red
+  3: Blue
+  4: Green
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: geography
+
+SchemaVersion: 1
+---
+ID: dbd836fa-f45e-4c73-99fb-9fdbace3d99a
+
+Question: >
+  What are the colors of the three vertical stripes on the national flag of Spain?
+
+Answers:
+  1: Blue, white, blue
+  2: Yellow, red and black
+  3: Red, yellow, red
+  4: White, blue and red
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: geography
+
+SchemaVersion: 1
+---
+ID: ff0c24db-b37d-4762-b9ee-33ca715a6a53
+
+Question: >
+  What design is depicted on the national flag of Switzerland?
+
+Answers:
+  1: Sun
+  2: Cross
+  3: Star
+  4: Leaf
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: geography
+
+SchemaVersion: 1
+---
+ID: 13c8ced9-fe79-4d86-822b-cf7c022a0303
+
+Question: >
+  Which of the following is present on the national flag of Norway?
+
+Answers:
+  1: Star
+  2: Cross
+  3: Sun
+  4: Mountain
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: geography
+
+SchemaVersion: 1
+---
+ID: 4ac32cbb-1b9a-499b-b49a-a9d4f8d148e5
+
+Question: >
+  What are the colors on the national flag of Madagascar, adopted on October 14, 1958?
+
+Answers:
+  1: Red, yellow and blue
+  2: Yellow and green
+  3: Blue, green and yellow
+  4: White, red and green
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: geography
+
+SchemaVersion: 1
+---
+ID: 0179cd6f-6b74-43c5-ba6e-271ba1c60c44
+
+Question: >
+  What animal is depicted on Egypts national emblem, which is featured on the national flag of Egypt, adopted in 1984?
+
+Answers:
+  1: Bear
+  2: Jackal
+  3: Eagle
+  4: Lion
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: geography
+
+SchemaVersion: 1
+---
+ID: 57df8851-416f-490e-9bce-66264cdb11f7
+
+Question: >
+  The flag of Luxembourg consists of three vertical stripes of red, blue, green.
+
+Answers:
+  1: True
+  2: False
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: geography
+
+SchemaVersion: 1
+---
+ID: 4805157a-6794-4940-8ce0-a8a5bd7532a6
+
+Question: >
+  What are the colors of the national flag of Sweden?
+
+Answers:
+  1: Blue and yellow
+  2: White and blue
+  3: White and red
+  4: Red and yellow
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: geography
+
+SchemaVersion: 1
+---
+ID: 0c70719a-a3b4-4f6a-877a-7b92c00c6f6e
+
+Question: >
+  What are the colors of the national flag of the Federative Republic of Brazil?
+
+Answers:
+  1: Yellow, green, black and blue
+  2: White, blue, green and yellow
+  3: Red, green and yellow
+  4: Green and black
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: geography
+
+SchemaVersion: 1
+---
+ID: 099fa20f-8bfe-48aa-a47a-4ddc34fc0548
+
+Question: >
+  What is the national motto of the Federative Republic of Brazil, also featured in the national flag of the country?
+
+Answers:
+  1: Faith and Honesty
+  2: Freedom Above All
+  3: Order and Progress
+  4: Unity and Strength
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: geography
+
+SchemaVersion: 1

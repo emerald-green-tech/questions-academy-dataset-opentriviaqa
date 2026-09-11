@@ -1,0 +1,95 @@
+ID: dcb108ff-a4b0-4f99-ae42-f1d05d0157c4
+
+Question: >
+  Which state capital did Gary Cooper grow up in?
+
+Answers:
+  1: Santa Fe, New Mexico
+  2: Helena, Montana
+  3: Carson City, Nevada
+  4: Denver, Colorado
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: newest
+
+SchemaVersion: 1
+---
+ID: bff405c9-d46b-4b7d-a969-6c7e64edb5ae
+
+Question: >
+  This "Police Woman" was born and raised at Kulm, North Dakota, which also was the flax capital of North America!
+
+Answers:
+  1: Angie Dickinson
+  2: Margita Hargitay
+  3: Cheryl Ladd
+  4: Peggy Lee
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: world
+
+SchemaVersion: 1
+---
+ID: 6960cdb2-5b30-4e5c-9e48-b3669b25788c
+
+Question: >
+  Which of these famous Cubans was born in Santa Clara, the capital city of the Cuban province of Villa Clara?
+
+Answers:
+  1: José Bernal, artist
+  2: All of them
+  3: Rubén González, pianist
+  4: Moraima Secada, singer
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: world
+
+SchemaVersion: 1
+---
+ID: 01f809c9-dc18-441c-b8e8-ce77978c1310
+
+Question: >
+  Along with his brother, this famous explorer reached Kaifeng, the capital of Kublai Khans Mongol Empire in 1265.
+
+Answers:
+  1: Gaspar Corte Real
+  2: Hernando Cortes
+  3: Marco Polo
+  4: Ferdinand Magellan
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: people
+
+SchemaVersion: 1

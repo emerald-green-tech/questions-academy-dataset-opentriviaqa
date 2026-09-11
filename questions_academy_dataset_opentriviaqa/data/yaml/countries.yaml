@@ -1,0 +1,122 @@
+ID: a3146691-87d3-4087-a5e6-e85210f7bc51
+
+Question: >
+  In January, 2010 a 7.0-magnitude earthquake devastated the capital of this country and caused the death of 230,000
+  people.
+
+Answers:
+  1: Chile
+  2: Cuba
+  3: Jamaica
+  4: Haiti
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: newest
+
+SchemaVersion: 1
+---
+ID: 06ea2c57-aaae-4cf9-aeb0-70c72a14646d
+
+Question: >
+  This state, with a capital of Jaipur, is the largest state in India.
+
+Answers:
+  1: Rajasthan
+  2: Madhya Pradesh
+  3: Andhra Pradesh
+  4: Karnataka
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: geography-country-capitals
+
+SchemaVersion: 1
+---
+ID: 3ea4b989-7528-4e18-b235-cc69063f74f4
+
+Question: >
+  It was formed when Somaliland, Puntland, and Galdumug collided to form it. It is also part of Greater Middle East.
+  Its capital and largest city is Mogadishu.
+
+Answers:
+  1: Eritrea
+  2: Somalia
+  3: Djibouti
+  4: Sudan
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: world
+
+SchemaVersion: 1
+---
+ID: e5f85646-eaab-4259-81f3-92d762880710
+
+Question: >
+  This country, located in the South Pacific Ocean, comprises of about 322 larger islands, its capital is Suva, and
+  one of the official languages is Hindi.
+
+Answers:
+  1: Fiji
+  2: Kiribati
+  3: Micronesia
+  4: Vanuatu
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: world
+
+SchemaVersion: 1
+---
+ID: 9a66541d-b943-492f-b532-8a29b3f7d1a0
+
+Question: >
+  The dram is the monetary unit of this country whose capital city is Yerevan.
+
+Answers:
+  1: Moldova
+  2: Azerbaijan
+  3: Armenia
+  4: Andorra
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: geography-united-states
+
+SchemaVersion: 1

@@ -1,0 +1,49 @@
+ID: 89883c10-359a-4522-a8f3-75a831cc1e99
+
+Question: >
+  This building, designed by Louis H. Sullivan, is one of the most famous early skyscrapers housing a flagship
+  department store. This store appears in Theodore Dreisers novel Sister Carrie. It was named a National Historic
+  Landmark in 1975. Name the store.
+
+Answers:
+  1: Carson Pirie Scott
+  2: Montgomery Ward
+  3: Marshall Field  Company Store
+  4: Sears
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: world
+
+SchemaVersion: 1
+---
+ID: 44c3483a-253c-4e19-b035-699031f51cbe
+
+Question: >
+  Which of the three classical types of columns has its capital ornately decorated to look like acanthus leaves?
+
+Answers:
+  1: Ionic
+  2: Tonic
+  3: Corinthian
+  4: Doric
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: general
+
+SchemaVersion: 1

@@ -1,0 +1,23 @@
+ID: b2e24084-9d21-4bd6-829d-24e656092bbf
+
+Question: >
+  Name the members of the Dream Team of NBCs flagship AM radio station, WNBC in 1983?
+
+Answers:
+  1: Howard Stern, Sid Caesar, Don Imus, Soupy Sales
+  2: Don Imus, Sid Caesar, Wolfman Jack, Howard Stern
+  3: Don Imus, Jay Thomas, Howard Stern, Soupy Sales
+  4: Howard Stern, Wolfman Jack, Don Imus, Soupy Sales
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: rated
+
+SchemaVersion: 1

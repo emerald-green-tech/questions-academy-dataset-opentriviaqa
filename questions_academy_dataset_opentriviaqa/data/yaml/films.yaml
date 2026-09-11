@@ -1,0 +1,149 @@
+ID: 2cb33acb-ad20-4f9d-b1f1-9c9f6f47ddeb
+
+Question: >
+  In what capital city does 12-year-old Hugo Cabret live in the Academy Award-winning movie Hugo?
+
+Answers:
+  1: Washington, D.C.
+  2: Paris
+  3: London
+  4: Rome
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: newest
+
+SchemaVersion: 1
+---
+ID: 436df7a3-b441-4f97-931e-265e3d8b8a5f
+
+Question: >
+  Who directed the 2011 movie Midnight in Paris which focuses on a group of Americans visiting the French capital?
+
+Answers:
+  1: Robert Redford
+  2: Steve McQueen
+  3: Guy Ritchie
+  4: Woody Allen
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: newest
+
+SchemaVersion: 1
+---
+ID: 75c06ec8-afa9-4787-9d13-b9ade39d8810
+
+Question: >
+  What is the flag on James Bond’s parachute in the skiing scene in the movie The Spy Who Loved Me?
+
+Answers:
+  1: The US Flag
+  2: The Skull And Bones Pirate Flag
+  3: The Union Jack
+  4: The United Nations Flag
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: movies
+
+SchemaVersion: 1
+---
+ID: cc183dab-c3b9-4f60-af6c-08c36d7d3273
+
+Question: >
+  The recruits are trying to finish basic training on their own after Sergeant Hulka is injured. They have to prepare
+  to drill in front of General Barnicke at graduation. Training isn't going well and the men are getting discouraged
+  until John Winger offers the following pep talk.
+  Complete the line:
+  Winger: Were Americans, with a capital A, huh? You know what that means? Do ya? That means that our forefathers were
+  kicked out of every decent country in the world. We are the wretched refuse. Were the underdog. Were ______!
+
+Answers:
+  1: heroes
+  2: kings
+  3: trash
+  4: mutts
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: movies
+
+SchemaVersion: 1
+---
+ID: 27e0827d-f97f-472c-96b0-bf1ef942ba6e
+
+Question: >
+  What 1994 movie featured former Black Flag frontman, Henry Rollins in the role of officer Dobbs?
+
+Answers:
+  1: Beverly Hills Cop XVIXXII
+  2: Speed
+  3: Point break
+  4: The Chase
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: music
+
+SchemaVersion: 1
+---
+ID: 1608c45b-0692-4f38-b2b4-1a6bdbfb033a
+
+Question: >
+  Fannie Flag wrote this 1991 Academy Award-nominated movie, starring Kathy Bates and Jessica Tandy, which was based
+  on her best selling-novel written 4 years earlier.
+
+Answers:
+  1: Misery
+  2: Scent of a Woman
+  3: Driving Miss Daisy
+  4: Fried Green Tomatoes
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: literature
+
+SchemaVersion: 1

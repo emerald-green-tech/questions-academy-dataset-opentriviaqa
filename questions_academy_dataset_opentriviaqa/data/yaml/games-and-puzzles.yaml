@@ -1,0 +1,23 @@
+ID: 57e348fb-31df-4f59-994b-5afe283b70d1
+
+Question: >
+  Capturing the opponents flag is the means of winning in this version of chess.
+
+Answers:
+  1: Luzhanqi
+  2: Dou shou qi
+  3: ajedrez
+  4: shatranj
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: hobbies
+
+SchemaVersion: 1

@@ -1,0 +1,237 @@
+ID: 83f51ca5-4672-48ae-8e8a-70fe15312922
+
+Question: >
+  Three of these animals hibernate. Which one does not?
+
+Answers:
+  1: Mouse
+  2: Sloth
+  3: Frog
+  4: Snake
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: 934ac0b7-c7f6-4fcf-90c5-531c66ac6109
+
+Question: >
+  All of these animals are omnivorous except one.
+
+Answers:
+  1: Fox
+  2: Mouse
+  3: Opossum
+  4: Snail
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: d181da69-041b-4bc6-9c7f-3e7bcbde53fd
+
+Question: >
+  Three of these Latin names are names of bears. Which is the odd one?
+
+Answers:
+  1: Melursus ursinus
+  2: Helarctos malayanus
+  3: Ursus minimus
+  4: Felis silvestris catus
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: f364f64c-3f2f-4391-ba76-53c4d4ca8ff4
+
+Question: >
+  These are typical Australian animals except one.
+
+Answers:
+  1: Platypus
+  2: Dingo
+  3: Echidna
+  4: Sloth
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: 82d2fb83-ca39-496b-b1a7-34292e661917
+
+Question: >
+  Representatives of three of these species produce venom of their own. Which is the odd species?
+
+Answers:
+  1: Lizards
+  2: Scorpions
+  3: Frogs
+  4: Mosquitos
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: 1cf82e6f-230e-49cc-9f20-0118ace89b11
+
+Question: >
+  Three of these species shed their skin. Which one does not?
+
+Answers:
+  1: Penguins
+  2: Snakes
+  3: Insects
+  4: Crustaceans
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: 8172596a-308b-412d-be30-234cd5759757
+
+Question: >
+  All dogs, cats and birds are colorblind.
+
+Answers:
+  1: True
+  2: False
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: c848c894-b5df-4565-a8cf-52af300fd939
+
+Question: >
+  What city is known as the White Squirrel Capital of the World, since it is home to the largest colony of albino
+  squirrels?
+
+Answers:
+  1: Marionville, Missouri
+  2: Olney, Illinois
+  3: Columbus, Ohio
+  4: Kenton, Tennessee
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: 632314e8-d835-4079-a423-efa878dbc00f
+
+Question: >
+  The catfishes Physailia pellucida and Kryptopterus bicirrhis, found in the mid-waters of Southeast Asia, use what
+  kind of camouflage?
+
+Answers:
+  1: Transparency
+  2: Change their colour
+  3: Mimic algae
+  4: Mimic poisonous fish
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: 15155790-af65-40c5-a02e-9ee94fdae496
+
+Question: >
+  The purpose of the striped fur of most tigers species is camouflage.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: general
+
+SchemaVersion: 1

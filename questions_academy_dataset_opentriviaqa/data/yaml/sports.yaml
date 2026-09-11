@@ -1,0 +1,169 @@
+ID: 903270bb-2910-4637-a708-42e83e4634fd
+
+Question: >
+  In 1975 Mexicos capital city hosted the XIX Olympic Games.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: world
+
+SchemaVersion: 1
+---
+ID: 9a7ad935-8c57-4f32-8f94-b3b6f51b1eba
+
+Question: >
+  One of the most important symbols of the Olympic Games is the flag with five interlocking rings representing the
+  unity of the continents. The rings appear in five colours, on white background. Why were the colours red, blue,
+  green, yellow, and black chosen for the rings?
+
+Answers:
+  1: Because each of these colours is a symbol of one of the continents
+  2: Because these are the colours of Nature
+  3: None of these
+  4: Because each country at that time had one of these colours in its national flag
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: sports
+
+SchemaVersion: 1
+---
+ID: 6cc94bc7-24e3-4eab-abd3-5881187de4e1
+
+Question: >
+  It was on this track that Dale Earnhardt Sr. had his 76th and last career win. He was in 18th
+  place on a restart and charged through traffic to take the checkered flag in 5 laps.
+
+Answers:
+  1: Rockingham
+  2: Charlotte
+  3: Atlanta
+  4: Talladega
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: sports
+
+SchemaVersion: 1
+---
+ID: 933f7d27-c7b2-4b66-8207-4be8c014083f
+
+Question: >
+  What does a red flag signal during athletic events that involve a jump?
+
+Answers:
+  1: The result is not valid because there was too strong back wind.
+  2: The result is valid.
+  3: The athlete is disqualified.
+  4: The result is not valid because the athlete bounced off pass the measure bar.
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: sports
+
+SchemaVersion: 1
+---
+ID: 2da485bf-0282-4a58-bf15-d94abce0a9ba
+
+Question: >
+  What was the first year Olympians marched into the stadium behind their country's flag?
+
+Answers:
+  1: 1900-Paris
+  2: 1944-Chicago
+  3: 1936-Berlin
+  4: 1908-London
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: sports
+
+SchemaVersion: 1
+---
+ID: 6d3c0829-df6b-42be-a58f-4ea420a84cb8
+
+Question: >
+  This Washington Capitals player was the first overall selection in the 2004 NHL Entry Draft.
+
+Answers:
+  1: Jaromir Jagr
+  2: Alexander Ovechkin
+  3: Mark Messier
+  4: Wayne Gretzky
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: sports
+
+SchemaVersion: 1
+---
+ID: fd844fec-2a8d-4a28-9ef0-fa8ea056acd9
+
+Question: >
+  After playing an approach shot into the green, you find that some prankster in the group ahead had jammed the flag
+  some 40 feet from where the actual golf hole was. How do you proceed?
+
+Answers:
+  1: Play the ball as it lies
+  2: None of these
+  3: Move the ball to the same distance from the hole as it was with the fake hole
+  4: Replay the shot
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: sports
+
+SchemaVersion: 1

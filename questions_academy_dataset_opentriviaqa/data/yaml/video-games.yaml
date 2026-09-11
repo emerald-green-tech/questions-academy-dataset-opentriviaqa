@@ -1,0 +1,25 @@
+ID: 72c48dcf-b994-4529-a007-ab3f8254b42e
+
+Question: >
+  Which video game are the following quotes from?
+  A: Come on, comrades! Up to the rooftop! Go!
+  B: Get that flag up! Berlin is ours!
+
+Answers:
+  1: Medal of Honor
+  2: Hidden and Dangerous 2
+  3: Battlefield 1942
+  4: Call of Duty
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: entertainment
+
+SchemaVersion: 1

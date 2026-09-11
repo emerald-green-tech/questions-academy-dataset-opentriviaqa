@@ -1,0 +1,1028 @@
+ID: ae66cbf1-649a-4b5d-94c2-bdc6240b4a1a
+
+Question: >
+  Which of these cities is known as the Milk Capital of the World?
+
+Answers:
+  1: Genoa, Italy
+  2: Harvard, Illinois
+  3: Bern, Switzerland
+  4: Bombay, India
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: hobbies
+
+SchemaVersion: 1
+---
+ID: e25c7a65-abf2-4220-8f7a-010feab6f0d9
+
+Question: >
+  This west coast provincial capital is named after British Royalty.
+
+Answers:
+  1: Reginia
+  2: Vancouver
+  3: Victoria
+  4: Prince George
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: world
+
+SchemaVersion: 1
+---
+ID: f3b10c0c-a6ac-4a6e-be06-38999d29691f
+
+Question: >
+  This capital of New Scotland was almost destroyed on December 6, 1917 when 2 ships collided in its harbor.
+
+Answers:
+  1: Halifax
+  2: Fredericton
+  3: Dartmouth
+  4: Yarmouth
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: world
+
+SchemaVersion: 1
+---
+ID: fb3e3dfc-5857-4a75-9f8d-69e7f610eb13
+
+Question: >
+  Winnipeg is the capital of which Canadian province?
+
+Answers:
+  1: Alberta
+  2: Manitoba
+  3: Ontario
+  4: Saskatchewan
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: world
+
+SchemaVersion: 1
+---
+ID: f3fe7fb5-55d8-407d-944d-e2327f76947d
+
+Question: >
+  This Canadian city of Stately Elms is located on the banks of the St. John River and was established as provincial
+  capital on April 25, 1785.
+
+Answers:
+  1: Saint John
+  2: St. Johns
+  3: Fredericton
+  4: Halifax
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: world
+
+SchemaVersion: 1
+---
+ID: 572609e5-c272-4541-997b-03c6a632ee9c
+
+Question: >
+  Which city is the capital of the province of Quebec?
+
+Answers:
+  1: Dorval
+  2: Montreal
+  3: Hull
+  4: Quebec City
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: world
+
+SchemaVersion: 1
+---
+ID: 21d2ab3f-666d-4d84-9ec1-204d07116fb4
+
+Question: >
+  What is the capital of Canadas smallest province?
+
+Answers:
+  1: Summerside
+  2: Cornwall
+  3: Stratford
+  4: Charlottetown
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: world
+
+SchemaVersion: 1
+---
+ID: 36ff82c8-1ae6-4d57-98d8-b066308a65af
+
+Question: >
+  Name Canadas largest city which is also the capital of Ontario.
+
+Answers:
+  1: Hamilton
+  2: Ottawa
+  3: Toronto
+  4: Montreal
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: world
+
+SchemaVersion: 1
+---
+ID: 4d59c6dc-9b91-41bf-be91-f9d2ccbd2d54
+
+Question: >
+  What city, originally known as the Pile of Bones, is the capital of the Canadian province Saskatchewan?
+
+Answers:
+  1: Winnipeg
+  2: Regina
+  3: Saskatoon
+  4: Edmonton
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: world
+
+SchemaVersion: 1
+---
+ID: 78bae5d7-7da1-4e9b-9cae-1bb4991f15fd
+
+Question: >
+  What is the capital of the Canadian province Alberta?
+
+Answers:
+  1: Banff
+  2: Calgary
+  3: Red Deer
+  4: Edmonton
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: world
+
+SchemaVersion: 1
+---
+ID: 17d2806f-4e0c-4968-92fe-d27a429258c2
+
+Question: >
+  This city, which was an important supply centre during the Klondike Gold Rush, is the capital of the Canadian
+  territory of Yukon.
+
+Answers:
+  1: Fort Yukon
+  2: Klondike
+  3: Whitehorse
+  4: Yellowknife
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: world
+
+SchemaVersion: 1
+---
+ID: 85abc9a9-3ba9-457d-a271-3d1bd8ee4f20
+
+Question: >
+  The capital of the Russian enclave located between Poland and Lithuania is called Kaliningrad. What was its former
+  name?
+
+Answers:
+  1: Königsberg
+  2: Królewiec
+  3: Volgograd
+  4: St. Petersburg
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: world
+
+SchemaVersion: 1
+---
+ID: 86a66af3-6fb3-46e3-af56-40e94b08cda9
+
+Question: >
+  What is the modern name of Tenochtitlan, the capital of the Aztec civilization?
+
+Answers:
+  1: Lima
+  2: Mexico City
+  3: Guatemala City
+  4: Quito
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: world
+
+SchemaVersion: 1
+---
+ID: 6f971280-727e-4b74-9746-bcadffc31729
+
+Question: >
+  Edo was an important Japanese city and capital of the Togukawa shogunate. Under what name is it known nowadays?
+
+Answers:
+  1: Hiroshima
+  2: Osaka
+  3: Kyoto
+  4: Tokyo
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: world
+
+SchemaVersion: 1
+---
+ID: 738aa749-5e48-4454-ac56-5566caa4b144
+
+Question: >
+  Located in the capital of Bosnia and Herzegovina - Sarajevo, this high building was the first skyscraper on the
+  Balkans.
+
+Answers:
+  1: Bosmal City Center
+  2: Pirelli Tower
+  3: BT Tower
+  4: Eureka Tower
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: world
+
+SchemaVersion: 1
+---
+ID: 9a46727b-5a7b-4b57-954e-cc73e1e23fa1
+
+Question: >
+  What French city is known as the "Wine Capital of Alsace"?
+
+Answers:
+  1: Cannes
+  2: Colmar
+  3: Lyon
+  4: Avignon
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: world
+
+SchemaVersion: 1
+---
+ID: 7e3e5d5b-85d2-40c3-912b-46281393fcfb
+
+Question: >
+  Kyoto used to be the imperial capital of Japan.
+
+Answers:
+  1: True
+  2: False
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: world
+
+SchemaVersion: 1
+---
+ID: 4f6f7f7b-a563-4031-9d2a-afdd6072c16e
+
+Question: >
+  What is the name of the river that flows through the capital city of France?
+
+Answers:
+  1: Eyre
+  2: All of these
+  3: Loire
+  4: Seine
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: world
+
+SchemaVersion: 1
+---
+ID: 9548e68a-6556-4a08-8a49-4d5534216100
+
+Question: >
+  Garowe is the capital of this region in northeastern Somalia.
+
+Answers:
+  1: Southern Samaliland
+  2: Minor Somalia
+  3: Puntland
+  4: Somaliland Minor
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: world
+
+SchemaVersion: 1
+---
+ID: 98ad5b8e-7734-49df-adce-c1da108e93c2
+
+Question: >
+  South Galcayo is the administrative capital of this secular, decentralized state in the central region of Somalia.
+
+Answers:
+  1: Galdumug
+  2: Galaria
+  3: Galiria
+  4: Galumua
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: world
+
+SchemaVersion: 1
+---
+ID: 084ce6e9-8cb1-4c69-9ae8-4c5735e537ee
+
+Question: >
+  Cochin is the capital of the Indian state Kerala.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: world
+
+SchemaVersion: 1
+---
+ID: 35cc7944-ba4f-4ef4-9d2d-a8a84b7865bc
+
+Question: >
+  What carnivorous mammal is a symbol of Italy and of its capital city, Rome?
+
+Answers:
+  1: Lion
+  2: Bear
+  3: Wolf
+  4: Fox
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: world
+
+SchemaVersion: 1
+---
+ID: 5fc66ab9-b4f1-43e9-8878-46afaf078fd9
+
+Question: >
+  What is the name of the river which flows through central London, the capital of England and the United Kingdom?
+
+Answers:
+  1: Severn
+  2: Thames
+  3: Avon
+  4: Trent
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: world
+
+SchemaVersion: 1
+---
+ID: 3979b214-b1b0-44d0-9d53-576866b00f6f
+
+Question: >
+  This landlocked province of the Philippines borders Ilocos Norte, Ilocos Sur, Apayao, Kalinga and Moutain Province.
+  Its capital is Bangued.
+
+Answers:
+  1: Tabuk
+  2: Abra
+  3: Vigan
+  4: Ifugao
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: world
+
+SchemaVersion: 1
+---
+ID: 32a07b75-1de9-486f-82ba-92ee7a524638
+
+Question: >
+  Mühlburg is a borough of Berlin, the capital of Germany.
+
+Answers:
+  1: True
+  2: False
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: world
+
+SchemaVersion: 1
+---
+ID: 3c66144e-144c-4c5b-8bf8-5c9abf917e02
+
+Question: >
+  This densely populated city is the capital of Ceara, one of the 27 states of Brazil.
+
+Answers:
+  1: Fortaleza
+  2: Campo Grande
+  3: Curitiba
+  4: Vitoria
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: world
+
+SchemaVersion: 1
+---
+ID: dab4f09e-996e-49ab-8a5d-d30b83c67efa
+
+Question: >
+  Belo Horizonte is the capital of which state of Brazil?
+
+Answers:
+  1: Espirito Santo
+  2: Minas Gerais
+  3: Sao Paulo
+  4: Rio De Janeiro
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: world
+
+SchemaVersion: 1
+---
+ID: c42ea034-7302-46e4-9882-abe4f64b4d1c
+
+Question: >
+  What city was the first colonial capital of Brazil?
+
+Answers:
+  1: Olinda
+  2: Rio De Janeiro
+  3: Espirito Santo
+  4: Salvador da Bahia
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: world
+
+SchemaVersion: 1
+---
+ID: f4a920b3-b1aa-4eee-a6c6-0e769a2d1796
+
+Question: >
+  Troja Palace is a Gothic palace in the Czech capital, Prague.
+
+Answers:
+  1: True
+  2: False
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: world
+
+SchemaVersion: 1
+---
+ID: bc912be3-b860-40bb-aa56-ef67a48c7e86
+
+Question: >
+  The former French and British parts of this country merged in 1961. It has two official languages (French and
+  English), Yaoundé as a capital and borders Nigeria, Chad, Central African Republic, Republic of Congo, Gabon,
+  Equatorial Guinea and the Gulf of Guinea.
+
+Answers:
+  1: Chile
+  2: Cameroon
+  3: Cambodia
+  4: Cuba
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: rated
+
+SchemaVersion: 1
+---
+ID: 3a745970-0982-499c-bae7-0b00f1da2e36
+
+Question: >
+  The name Congo, serves two countries which can be distinguished by using their full names or by mentioning their
+  capitals.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: rated
+
+SchemaVersion: 1
+---
+ID: e4d1b5ae-8963-4266-82de-f19cdc5433b5
+
+Question: >
+  This Chinese city, the capital of Hubei province, lies at the confluence of the Yangtze River and Han River.
+
+Answers:
+  1: Xia Jong
+  2: Fujian
+  3: Wuhan
+  4: Shanghai
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: general
+
+SchemaVersion: 1
+---
+ID: f3f0dc60-0a2e-425c-85d2-b5c69f57e714
+
+Question: >
+  This is the 3rd largest city in Germany and the capital of its largest state, Bavaria.
+
+Answers:
+  1: Hamburg
+  2: Nuremberg
+  3: Munich
+  4: Berlin
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: general
+
+SchemaVersion: 1
+---
+ID: dfcd22a3-b7af-4e08-a050-7877bad681ab
+
+Question: >
+  By what name did Marco Polo call the capital of China, present-day Beijing?
+
+Answers:
+  1: Canton
+  2: Cambaluc
+  3: Peijing
+  4: Nahnjing
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: general
+
+SchemaVersion: 1
+---
+ID: cfe71611-89e5-44f9-857b-2ac99dd488ac
+
+Question: >
+  If I were to visit the wrist-wrestling capital of the world, where would I go?
+
+Answers:
+  1: Riga, Latvia
+  2: Sofia, Bulgaria
+  3: Norman, Oklahoma
+  4: Petaluma, California.
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: geography-united-states
+
+SchemaVersion: 1
+---
+ID: 6469cc76-7ac6-4576-b6ea-904cb74b07f2
+
+Question: >
+  What is the name of the state capital of the Australian state of Tasmania?
+
+Answers:
+  1: Brisbane
+  2: Perth
+  3: Hobart
+  4: Adelaide
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: geography
+
+SchemaVersion: 1
+---
+ID: a1c859c1-a572-48cc-9962-64911250e347
+
+Question: >
+  The capital of Ibiza is its largest city Eivissa or Ibiza City.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: geography
+
+SchemaVersion: 1
+---
+ID: 57de5396-e947-495e-a02d-6d170036c83e
+
+Question: >
+  This Indian city was the capital of Mogul sovereigns from 1526 to 1658. Its most notable building is the Taj Mahal.
+
+Answers:
+  1: Agra
+  2: Varanasi
+  3: Mumbay
+  4: Jaipur
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: geography
+
+SchemaVersion: 1
+---
+ID: ea72b7b1-52ea-4105-9cdf-9dec507a9220
+
+Question: >
+  Popocatépetl, a volcano whose name means Smoking Mountain, is 70 km away from the capital of which South American
+  country?
+
+Answers:
+  1: Mexico
+  2: Peru
+  3: Canada
+  4: Argentina
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: geography
+
+SchemaVersion: 1
+---
+ID: 5065a056-750e-4a2e-a2ea-b52c7d106ffc
+
+Question: >
+  Which square is not correctly matched with the capital city in which it is located?
+
+Answers:
+  1: Red Square - Moscow
+  2: Senate Square - Helsinki
+  3: Azadi Square - Karachi
+  4: Leicester Square - London
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: geography
+
+SchemaVersion: 1
+---
+ID: 17ad7c9b-3b57-4c33-912b-bb25117f0726
+
+Question: >
+  This river flows through the southern part of England and passes through the capital of the country.
+
+Answers:
+  1: The Avon
+  2: All of these
+  3: The Thames
+  4: The Mersey
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: geography
+
+SchemaVersion: 1
+---
+ID: 22f2f34a-d81e-4161-8ad1-f4cf36fcffdd
+
+Question: >
+  What river flows through the central part of the French capital, Paris?
+
+Answers:
+  1: Seine
+  2: Loire
+  3: Charente
+  4: Rhine
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: geography
+
+SchemaVersion: 1
+---
+ID: 2a818c3b-6a88-4a10-91a7-9f5be642314c
+
+Question: >
+  What city is called The capital of the Negev (desert)?
+
+Answers:
+  1: Beer Sheva
+  2: Netanya
+  3: Haifa
+  4: Jaffa
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: religion-faith
+
+SchemaVersion: 1

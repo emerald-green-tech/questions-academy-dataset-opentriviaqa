@@ -1,0 +1,43 @@
+ID: 3ec95869-0f53-4b97-8315-6f66bf59c57a
+
+Question: >
+  The word catholic means the same whether capitalized or not.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: humanities
+
+SchemaVersion: 1
+---
+ID: 863527e3-7213-4600-a7a1-fef0d7f8387c
+
+Question: >
+  Most of the traditional Indo-European languages capitalise I, the pronoun denoting the first person singular.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: humanities
+
+SchemaVersion: 1
