@@ -1,3 +1,27 @@
+ID: 13af61aa-e4db-4e89-a8de-62e69fbe7d39
+
+Question: >
+  What was the name of Fraiser's father's dog on the hit TV show set in Seattle?
+
+Answers:
+  1: Niles
+  2: Marty
+  3: Eddie
+  4: Skip
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
 ID: ebb67215-5fee-404c-86be-9c00d8545ae2
 
 Question: >

@@ -769,7 +769,7 @@ SchemaVersion: 1
 ID: 8f708e01-fd1c-4f33-baf1-e6ed55bdad8e
 
 Question: >
-  Puerto Ricos flag consists of which of three colors?
+  Puerto Rico's flag consists of which of three colors?
 
 Answers:
   1: Red,Blue,and Yellow
@@ -1177,7 +1177,7 @@ SchemaVersion: 1
 ID: 8f585f82-64b4-4314-a7ea-390073542ac9
 
 Question: >
-  The flag of the Netherlands consist of three 3 equal horizontal bands of red, white, and blue.
+  The flag of the Netherlands consists of three 3 equal horizontal bands of red, white, and blue.
 
 Answers:
   1: False
@@ -1252,7 +1252,7 @@ Question: >
 Answers:
   1: Red and yellow
   2: Blue and white
-  3: Orange and
+  3: Orange and red
   4: Green and red
 
 Correct: 4

@@ -84,7 +84,7 @@ Answers:
 Correct: 4
 
 Explanation: |
-  None
+  Platypuses, Dingos and Echidnas are typical to Australia. Sloths are typical to South America and Central America.
 
 Active:
   True
@@ -150,6 +150,4108 @@ Question: >
 Answers:
   1: True
   2: False
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: 4990e670-2a72-4f74-a9fa-f98d243550ca
+
+Question: >
+  All of these animals have large ears (relative to their size) except one.
+
+Answers:
+  1: Polar bears
+  2: Foxes
+  3: Bats
+  4: Elephants
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: f62a89e0-23a6-4a10-aa98-dbca4f7249b4
+
+Question: >
+  This percentage of all snakes on Earth are lethal to humans.
+
+Answers:
+  1: 10%
+  2: 20%
+  3: 15%
+  4: 25%
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: 6636486f-7d7e-4c06-9b5a-edf06aa64cce
+
+Question: >
+  Snakes are this kind of animals.
+
+Answers:
+  1: Herbivorous
+  2: Omnivorous
+  3: Carnivorous
+  4: Vegetarian
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: 1f5ccfc6-8658-4252-b4a4-f2853f9b91a8
+
+Question: >
+  Snakes consume their food by means of this process.
+
+Answers:
+  1: Breathing
+  2: Absorption
+  3: Swallowing
+  4: Chewing
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: 76203e1c-51a4-4d27-85ac-83ff60feb904
+
+Question: >
+  Snakes reproduce only by laying eggs.
+
+Answers:
+  1: True
+  2: False
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: 15a9ef01-a571-4fcd-bb5f-034ee3651d4f
+
+Question: >
+  Snakes are deaf.
+
+Answers:
+  1: True
+  2: False
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: 830bad28-f19b-45d4-a7f1-eaa2347a9c44
+
+Question: >
+  Snake skin is covered in scales.
+
+Answers:
+  1: True
+  2: False
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: 92e53560-3289-49d6-a69a-ce830e6f290b
+
+Question: >
+  Snakes belong to the following category.
+
+Answers:
+  1: Invertebrates
+  2: Lizards
+  3: Reptiles
+  4: Mammals
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: 20dae8f1-5168-48fe-b45b-8c22b9a36d8f
+
+Question: >
+  A specialist in snakes is called one of these.
+
+Answers:
+  1: Pisciculturist
+  2: Ornithologist
+  3: Ophiologist
+  4: Herpetologist
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: d643dd5a-eb50-4582-99ac-9ab1a1ceae81
+
+Question: >
+  One of the following snakes does not belong to the Viperidae family.
+
+Answers:
+  1: Horned adder
+  2: Grass snake
+  3: Viper
+  4: Asp
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: a18562b1-48ea-4f8c-ad1a-e367e3b3712d
+
+Question: >
+  Snakes are very likely to attack humans, regardless of whether they feel threatened or not.
+
+Answers:
+  1: True
+  2: False
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals.
+
+SchemaVersion: 1
+---
+ID: 186fe0f2-54ee-49c5-bf49-54abe423dc60
+
+Question: >
+  Cobras are venomous snakes of the family Elapidae. Which two continents do they generally inhabit?
+
+Answers:
+  1: South America and Asia
+  2: Asia and Africa
+  3: Asia and Australia
+  4: South America and Australia
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: c5e89cfa-5cbc-45b6-9d53-b0949ca606cb
+
+Question: >
+  The cobra's most recognizable feature is its hood, a flap of skin and muscle behind the head, believed to serve this
+  purpose.
+
+Answers:
+  1: Balance control
+  2: Heat collection from the sun
+  3: Camouflage
+  4: More threatening appearance
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  Original OpenTriviaQA Category was: animals.
+
+SchemaVersion: 1
+---
+ID: 4f44a331-a63b-428d-99fb-7e815e373cce
+
+Question: >
+  The Cobra is at the top of the food chain, with only two main predators -- one is man and the other is this animal.
+
+Answers:
+  1: Jackal
+  2: Mongoose
+  3: Lynx
+  4: Eagle
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: fcf416ef-472e-4a53-a980-ab01281c1711
+
+Question: >
+  This is where the cobras' ribs are situated.
+
+Answers:
+  1: Behind its head
+  2: In its chest, around the middle of the body
+  3: Cobras have no ribs
+  4: In its tale
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: a21ba2a8-1560-4b41-9ca5-05db0c8605bc
+
+Question: >
+  The King Cobra feeds almost exclusively on other snakes, even toxic ones.
+
+Answers:
+  1: True
+  2: False
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: 214698f4-7b2e-4f29-85fe-e778fbb77b48
+
+Question: >
+  A baby cobra is fully able to defend itself in as little as this many hours after being born.
+
+Answers:
+  1: 3
+  2: 12
+  3: 48
+  4: 72
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: 920c1b41-a252-44fc-a39b-a22d4c1ae67e
+
+Question: >
+  What type of dog did Richard Nixon receive from a Texan while he was a candidate for Vice President?
+
+Answers:
+  1: German Shepherd
+  2: Cocker Spaniel
+  3: Golden Retriever
+  4: Welsh Corgy
+
+Correct: 2
+
+Explanation: |
+  The dog's name was Checkers. It was a black and white puppy sent from Texas by supporter Lou Carrol. Checkers became
+  famous after Nixon mentioned him in his 1952 televised "Checkers Speech".
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: e90b81ee-38d6-4411-a2f4-be73adfb1da3
+
+Question: >
+  What was the name of Socks' companion at the White House during the Clinton administration?
+
+Answers:
+  1: Buddy
+  2: Shoes
+  3: Bailey
+  4: Buster
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: fb870aee-7cde-4130-8964-14aed3b0ad66
+
+Question: >
+  US President Ford's dog was named Freedom.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: 9768c383-529f-41d2-a226-6a866655e5ff
+
+Question: >
+  Which of these Presidents had the most pets?
+
+Answers:
+  1: Franklin Delano Roosevelt
+  2: Theodore Roosevelt
+  3: Bill Clinton
+  4: Woodrow Wilson
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: b659c723-1156-4f38-8200-4f7e5bb4d683
+
+Question: >
+  What breed is known as the favourite breed of Queen Elizabeth II?
+
+Answers:
+  1: Border Collie
+  2: Old English Sheepdog
+  3: Welsh Corgi
+  4: Australian Cattle Dog
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: b1af007c-d984-407c-97bc-2d2bdc14dc4d
+
+Question: >
+  Which one of these sea mammals is not endangered?
+
+Answers:
+  1: Fin Whale
+  2: Pilot whale
+  3: Blue Whale
+  4: Humpback Whale
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: ed918480-1cf9-4a89-b16c-6ac9587ade5c
+
+Question: >
+  This endangered turtle is the biggest of all living turtles, reaching a length of over 2.7 m (8.8 ft) and weight of
+  900 kg (2,000 lb).
+
+Answers:
+  1: Leatherback Sea Turtle
+  2: Kemps Ridley Turtle
+  3: Hawksbill Sea Turtle
+  4: Mesoamerican River Turtle
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: ff89f719-a48b-41dc-9557-361a46819e29
+
+Question: >
+  Name the rarest and most endangered of all wolves.
+
+Answers:
+  1: Red Wolf
+  2: Ethiopian Wolf
+  3: Black-backed Wolf
+  4: Gray Wolf
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: 9a4a27cf-6ea7-4153-8c9b-b5c4948c14dc
+
+Question: >
+  The endangered Komodo dragon is the largest living lizard in the world, growing to an average length of 2-3 meters
+  (10 feet).
+
+Answers:
+  1: False
+  2: True
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: d899be3b-a412-429a-9ed2-cafcbd1c99c0
+
+Question: >
+  This species of great apes with long arms and reddish hair suffer habitat destruction due to logging, mining and
+  forest fires.
+
+Answers:
+  1: Gorilla
+  2: Baboons
+  3: Orangutan
+  4: Chimpanzee
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: fe30d438-56ed-4eff-ba5d-346f2c8de760
+
+Question: >
+  What is the natural habitat of the snow leopard, that was hunted down for its beautiful fur, as a result of which
+  its population went down to 1,000 animals in the 1960s?
+
+Answers:
+  1: North America
+  2: Central Asia and North America
+  3: Central Asia
+  4: Europe and North America
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: 17b77380-41b5-4915-bc50-8f0ae52809e9
+
+Question: >
+  The Asian Elephant, the only living species of the genus Elephas, is the bigger relative of the African Elephant.
+
+Answers:
+  1: True
+  2: False
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: ffcac025-ef5f-4623-abb2-e360af526cc3
+
+Question: >
+  This freshwater mammal, found only in the Yangtze River, is the most endangered (even possibly extinct) cetacean and
+  one of the most endangered species in the world.
+
+Answers:
+  1: Ganges River Dolphin
+  2: Chinese River Dolphin
+  3: La Plata Dolphin
+  4: Amazon River Dolphin
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: b222b4b5-85cc-4f82-91d1-a369c0d06824
+
+Question: >
+  This small nocturnal animal, whose natural habitat are the deserts of Northern Africa, is known to jump not only for
+  hunting or protection, but also for pleasure.
+
+Answers:
+  1: Cape Fox
+  2: Red Fox
+  3: Bengal Fox
+  4: Fennec
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: 0e8182ce-093a-488e-aea0-9b106241ae90
+
+Question: >
+  Jack jumper ants, yellowish-orange carnivorous ants named after their characteristic jumpy motions, can be found
+  only on which continent?
+
+Answers:
+  1: North America
+  2: Australia
+  3: Africa
+  4: Asia
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: dc8bd6d6-af23-4be7-82bb-55362b36422d
+
+Question: >
+  This small, graceful member of the antelope family is an extraordinary jumper - while leaping, it touches the rocky
+  terrain of its South African habitats only with the tip of its hooves, resembling a dance.
+
+Answers:
+  1: Oribi
+  2: Roan Antelope
+  3: Scimitar Oryx
+  4: Klipspringer
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: e404e031-38ca-44fb-99e5-854c67e01b44
+
+Question: >
+  Although the jumping viper, a chiefly nocturnal snake, is one of the most powerful jumpers of the snake family,
+  capable of rising up to 1 meter (3 feet) during a strike, its poison is not lethal to humans.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: 93cd55d1-fb05-4091-9d3a-524e6e730b48
+
+Question: >
+  Zoophobia is the fear of animals.
+
+Answers:
+  1: True
+  2: False
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: d86a4cbd-2cfe-40bf-8108-bf0e576f789a
+
+Question: >
+  The hummingbird is the world's smallest bird.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: b4505520-01bd-4eb2-8300-50e89aa2531e
+
+Question: >
+  Which of these animals swims the fastest?
+
+Answers:
+  1: Flounder
+  2: Shark
+  3: Dolphin
+  4: Jellyfish
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: e937bf4b-36a6-433f-ab9b-ef46228ef35d
+
+Question: >
+  Which word refers to the sound peacocks make?
+
+Answers:
+  1: Scream
+  2: Squill
+  3: Squeak
+  4: Squall
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: db43fdc6-0fba-4db1-8120-024d2f2404d5
+
+Question: >
+  Ancient Japanese thought this animal caused earthquakes.
+
+Answers:
+  1: Birds
+  2: Spiders
+  3: Snakes
+  4: Frogs
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: 8f12eac3-db0a-44e0-907b-c76d3a0f49a5
+
+Question: >
+  How many types of bats are there?
+
+Answers:
+  1: 900
+  2: 700
+  3: 500
+  4: 200
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: 16e7e2b9-c2cd-4038-8f4d-9b00c7bcb6c5
+
+Question: >
+  Chocolate cannot kill a dog.
+
+Answers:
+  1: True
+  2: False
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: 787eb3f3-5a20-4669-8ef9-9c9cf1303b15
+
+Question: >
+  This animal can clean its own ears with its 21-inch tongue.
+
+Answers:
+  1: Lizard
+  2: Elephant
+  3: Lion
+  4: Giraffe
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: 44921f86-c2af-4be2-b244-c4a6482f00b8
+
+Question: >
+  It has been estimated that in Australia, there are about twice as many kangaroos as there are people.
+
+Answers:
+  1: True
+  2: False
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: 7847f1f8-11e5-4de5-a189-ca397d585e2f
+
+Question: >
+  What is the fastest animal on 6 legs?
+
+Answers:
+  1: Ladybug
+  2: Cockroach
+  3: Beetle
+  4: Ant
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: 86122449-1594-44bf-b5d9-91f3644539b0
+
+Question: >
+  Sheep are similar to cows in that they have a stomach which contains four chambers.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: bbea2ba4-f721-433f-9360-8e1a98cfd36f
+
+Question: >
+  What is a female sheep called or known as?
+
+Answers:
+  1: ewe
+  2: colt
+  3: fleece
+  4: ram
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: 43c98d3e-13eb-4a19-bea1-9c25f7bc50bd
+
+Question: >
+  What is the white tiger's scientific name?
+
+Answers:
+  1: Pantha
+  2: Panthera tigis
+  3: Panthera tiger
+  4: Panthera tigris
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: 4ef9504e-50ba-4ad6-94cc-4f8921c4acb7
+
+Question: >
+  Can tigers live to be 20 years old?
+
+Answers:
+  1: Yes
+  2: No
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: d39fda8e-6577-4e59-864c-8fd92897907d
+
+Question: >
+  All tigers have stripes.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: 58ed3c5e-652e-43a0-beac-25c6509d8ca4
+
+Question: >
+  Which of the following is not a type of chipmunk?
+
+Answers:
+  1: Bushy-tailed
+  2: Long-eared
+  3: Eastern
+  4: Sonoma
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: 55438567-8ea6-45b1-9b27-0306513637df
+
+Question: >
+  Which of these is not an actual breed of horse?
+
+Answers:
+  1: Sioux
+  2: Russian Trotter
+  3: Belgian
+  4: Murgese
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: f847a4aa-2b67-4529-bf78-da8b8b1bd626
+
+Question: >
+  Which of the following is not a breed of dog?
+
+Answers:
+  1: Pom-a-poo
+  2: Lakeland terrier
+  3: Fox terrier
+  4: Ferret terrier
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: edc2c2b2-6c65-40a9-bed2-aedd1b5d1874
+
+Question: >
+  One of these is not a true breed of cat. Which one?
+
+Answers:
+  1: Pixie-bob
+  2: Maine coon
+  3: Ragdoll
+  4: French Twist
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: 83d0012d-27bc-4ef1-9661-e869a6c326da
+
+Question: >
+  Which of these is not a type of beetle?
+
+Answers:
+  1: Long-horn beetle
+  2: Stag beetle
+  3: Flea beetle
+  4: Burrowing beetle
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: d438d2fb-fd6d-4d01-b053-e6af513d9244
+
+Question: >
+  Which of the following is not a type of spider?
+
+Answers:
+  1: Glass spider
+  2: Trapdoor spider
+  3: Brown recluse spider
+  4: Bird-dropping spider
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: 0a6f68ea-7177-4b8b-ae24-018577a2b6a2
+
+Question: >
+  All but one of the following are true types of bears. Which is the odd one?
+
+Answers:
+  1: Moon bear
+  2: Brown bear
+  3: Black bear
+  4: Sun bear
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: 9ad19a5f-7f61-4e39-87cc-0c85ca442af4
+
+Question: >
+  Which of these is not an actual breed of sheep?
+
+Answers:
+  1: Scottish black-face
+  2: Dakota
+  3: Hampshire
+  4: Merino
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: 3070c921-798a-4659-bdb4-8343faf0be79
+
+Question: >
+  One of these is not a true breed of chicken. Which one?
+
+Answers:
+  1: Hamburg
+  2: Plymouth Rock
+  3: Leghorn
+  4: Red-tailed
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: 7795e414-084e-4135-9282-8b81931d37f6
+
+Question: >
+  Which of the following is not a breed of pig?
+
+Answers:
+  1: Norwegian Yorkshire
+  2: Vietnamese pot-belly
+  3: Ridgeback
+  4: Tokyo-X
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: 588ddb5b-dde1-407a-a34a-d6df5e4c4409
+
+Question: >
+  What is a group of lions called?
+
+Answers:
+  1: Family
+  2: Group
+  3: School
+  4: Pride
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: 23a99d76-a974-4b11-aa63-b8fcc2dca5fb
+
+Question: >
+  There are more males than females in a pride.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: bfa1ac7b-8bcf-466b-814f-4a4a75105931
+
+Question: >
+  Generally, how many times in an interval of 5 hours do lions mate?
+
+Answers:
+  1: 1
+  2: 5
+  3: 20
+  4: 10
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: c3750b97-329e-453b-ad37-0108c8663101
+
+Question: >
+  What is the breed of animal created from the crossing of a male lion and a female tiger?
+
+Answers:
+  1: Tigon
+  2: Tiges
+  3: Ligon
+  4: Liger
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: bdd761a9-737c-4c96-ad58-50c00f7f0dc9
+
+Question: >
+  What is the breed of animal created from the crossing of a female lion and a male tiger?
+
+Answers:
+  1: Tigen
+  2: Liger
+  3: Tigon
+  4: Liges
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: 5a3822ae-d67e-45dc-84c0-55c6bc65941a
+
+Question: >
+  What do male lions have which females do not possess?
+
+Answers:
+  1: An extra tooth
+  2: A mane
+  3: Longer nails
+  4: Distinguished eyes
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: bf3a7baa-4b43-4f5a-ab9d-e44a964c9239
+
+Question: >
+  What is the average lifespan of a lion living in the wild?
+
+Answers:
+  1: 20 - 30 years
+  2: Less than 10 years
+  3: 10 -15 years
+  4: Greater than 30 years
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: fe206f13-5255-41e4-a656-9d872a41c950
+
+Question: >
+  Are male lions generally stronger than female lions?
+
+Answers:
+  1: No
+  2: Yes
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: ea2f66eb-0398-46ff-bd0e-0af19eca8a2b
+
+Question: >
+  Female lions hunt in a group.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: 5317ccb1-cd99-4ff0-85eb-b3db9f4a42ad
+
+Question: >
+  Cats twitch the tips of their tails slightly when hunting or when angry, while stronger twitching indicates what?
+
+Answers:
+  1: Stress
+  2: Displeasure
+  3: Boredom
+  4: Playfulness
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: 922e646f-fdd6-4f0d-8ba1-ffa02cf24d64
+
+Question: >
+  If a cat pushes its face against your head, this means what?
+
+Answers:
+  1: Impatience
+  2: Submission
+  3: Acceptance
+  4: Aggression
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: 00bd2a41-d605-4502-8801-bc80bcaae69c
+
+Question: >
+  Cats generally purr when they are happy, but they can also be heard purring in what other situation?
+
+Answers:
+  1: When they are distressed or in pain
+  2: When they are hunting or playing
+  3: When they are hungry or thirsty
+  4: When they are lonely or angry
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: 3fbc9fab-ad47-4edb-b274-7d812dba7904
+
+Question: >
+  How many different vocalization sounds does a cat make?
+
+Answers:
+  1: 100
+  2: 200
+  3: 50
+  4: 150
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: 0525184b-dca0-4bb6-980a-4ed588e096ff
+
+Question: >
+  All cats are born with green eyes.
+
+Answers:
+  1: True
+  2: False
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: bc96bad5-f728-4093-8c36-9b27c1c73407
+
+Question: >
+  A cat's front paws have 5 toes and their back paws have 4.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: 2ceb294f-bb3c-4763-9417-a72b3976186e
+
+Question: >
+  What was the largest eagle ever found on Earth?
+
+Answers:
+  1: Golden Eagle
+  2: Haasts Eagle
+  3: Harpy Eagle
+  4: Bald Eagle
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: e3099f8b-cdcc-4064-a91b-e392958ec9ab
+
+Question: >
+  Which term refers to the group formed by frogs and amphibians?
+
+Answers:
+  1: Drosophillia
+  2: Herps
+  3: Mollusks
+  4: Nematodes
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: 8932c684-f0f2-42e1-a2f4-1aa28ebc1bc8
+
+Question: >
+  Which statement about elephants is untrue?
+
+Answers:
+  1: Elephants sleep standing up
+  2: Elephants cry
+  3: There are some pink elephants in India
+  4: Elephants do not have great memories
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: e7391e55-ae33-46eb-8f94-19fdc2d72925
+
+Question: >
+  All pigs are classified as un-Kosher meaning they can not be eaten by Jewish people.
+
+Answers:
+  1: True
+  2: False
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: 45657299-8177-440d-a181-a4d2eb53ba07
+
+Question: >
+  What is alektorophobia?
+
+Answers:
+  1: The unreasonable fear of birds of prey
+  2: The unreasonable fear of roaches
+  3: The unreasonable fear of chickens
+  4: The unreasonable fear of sharks
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: 472254da-3811-49fc-b0a0-6deb2486d589
+
+Question: >
+  How do scientists calculate the age of a fish?
+
+Answers:
+  1: They count all the teeth in the fishs mouth.
+  2: They measure the size of the fish and compare that to the average size of that type of fish.
+  3: They count the growth rings on the ear bone.
+  4: They count the teeth in the fishs lower lip.
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: 4335f07b-532e-48db-8803-6344484782d9
+
+Question: >
+  Pound for pound, humans are not the strongest animals. What is considered the strongest species, pound for pound?
+
+Answers:
+  1: The Hercules beetle
+  2: The leaf-cutting ant
+  3: The red ant
+  4: The atlas roach
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: d77dfbd0-5ae3-4aa6-b036-2c3aed885d81
+
+Question: >
+  Human beings have 23 pairs of chromosomes. Which animal has the most chromosomes?
+
+Answers:
+  1: minke whale
+  2: millipedes
+  3: elephants
+  4: hermit crabs
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: afff2920-a57b-4efc-8f27-0dc54eef407f
+
+Question: >
+  What type of animal is a lamprey?
+
+Answers:
+  1: worm
+  2: fish
+  3: insect
+  4: amphibian
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: 8eef62ba-319c-4b49-890e-22b02bffb899
+
+Question: >
+  Which of these animals has the largest paws?
+
+Answers:
+  1: An average mountain lion
+  2: An average nematode
+  3: An average lynx
+  4: An average lichen
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: 99322c44-1467-4108-8570-bbb16b4d2031
+
+Question: >
+  Sharks can only be found in salt water.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: 5d1111fa-6ee9-4766-ae3f-f180f9fd1e0f
+
+Question: >
+  The smallest species of shark in the world is the Dwarf Lanternfish.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: 22ed4d4b-668b-4e3a-88d1-7b9784a14da2
+
+Question: >
+  Sharks must eat continually in order to survive.
+
+Answers:
+  1: True
+  2: False
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: dc1e9bc2-14ba-45ce-b2f9-3d2642ea8e7d
+
+Question: >
+  Sharks can have up to nine gills on each side of their body.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: f72634d3-66e1-4c9f-aedb-6d303dad1d32
+
+Question: >
+  Rays and Skates are types of sharks.
+
+Answers:
+  1: True
+  2: False
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: 2a2e9f8c-555f-4f4f-928b-e79c73e31e17
+
+Question: >
+  Sharks have poor vision.
+
+Answers:
+  1: True
+  2: False
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: 9a63b035-e182-4eb5-8503-4bebebb22784
+
+Question: >
+  More shark attacks occur during the day than at night.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: 70d97322-e830-4d89-8126-e2ef2806cdaf
+
+Question: >
+  If attacked by a shark it is recommended that you punch the shark in the nose.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: 8748673d-4e51-437c-93d9-101f323d2635
+
+Question: >
+  Sharks are immune to cancer.
+
+Answers:
+  1: True
+  2: False
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: ef1184a9-c673-47e6-9c55-57528256388e
+
+Question: >
+  The dogfish is actually a common species of small shark.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: 9b83416c-80d5-4444-bc71-cdc738d68bff
+
+Question: >
+  Despite the myth that Chihuahuas were descendants of the royal dog of the Aztecs, it is also believed that Spanish
+  trade merchants brought Chihuahuas to which of these countries?
+
+Answers:
+  1: Venezuela
+  2: United States
+  3: Brazil
+  4: Mexico
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: 0fbc5d62-65e6-418d-9eb2-3be07c7e4319
+
+Question: >
+  What maximum height at the withers can Chihuahuas reach?
+
+Answers:
+  1: 24 inches (60 cm)
+  2: 15 inches (38 cm)
+  3: 12 inches (30 cm)
+  4: 9 inches (22 cm)
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: 06552d76-55ae-4a6e-ba10-b1e9304d34b0
+
+Question: >
+  Chihuahuas come in three colors: brindle, black, and camel.
+
+Answers:
+  1: True
+  2: False
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: 8d46f3bc-81ba-4662-9b9e-0747f12c5657
+
+Question: >
+  Chihuahuas are the only dogs to be born with what?
+
+Answers:
+  1: An extra leg tendon
+  2: Hairless inner ears
+  3: An incomplete skull
+  4: Two extra canine teeth
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: 81669705-3b27-47ea-a006-e832cafda593
+
+Question: >
+  What is the average lifespan of Chihuahuas?
+
+Answers:
+  1: 8 - 12 years
+  2: 8- 18 years
+  3: 8 - 26 years
+  4: 8 - 15 years
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: deebbae5-bb17-4328-9555-2ae387551469
+
+Question: >
+  The Chihuahua Gidget is famous for what reason?
+
+Answers:
+  1: Paris Hilton has it as a pet.
+  2: It was a fill-in mascot for the Georgia Bulldogs.
+  3: It was a mascot for Taco Bell.
+  4: It was a mascot for Taco John.
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: 9145b30b-5523-45b8-8df9-71d5a544f0b9
+
+Question: >
+  The Chihuahua is the smallest dog breed in the world.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: 81e3d8cb-fa7a-448e-a364-7dfa67c0bbe9
+
+Question: >
+  Chihuahuas are prone to hypoglycemia (low blood sugar).
+
+Answers:
+  1: True
+  2: False
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: 00ea58bf-5321-4b18-970b-99db4c4ecb18
+
+Question: >
+  What does the word "hippopotamus" mean?
+
+Answers:
+  1: Water pig
+  2: Fat horse
+  3: River horse
+  4: River pig
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: 2fee9874-99cd-4a76-86a6-223d6204bf73
+
+Question: >
+  For their size hippos are pretty fast runners and are much faster than humans.
+
+Answers:
+  1: True
+  2: False
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: 7ac62599-4ccf-4902-bf17-268bbeb8193d
+
+Question: >
+  How long in years is the life span of an average wild hippopotamus?
+
+Answers:
+  1: 10-20
+  2: 40-50
+  3: 30-40
+  4: 20-30
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: e681428d-6fb8-4868-a472-5d879068d954
+
+Question: >
+  Hippos secrete a red substance known as blood sweat that protects them from the sun.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: 44259858-050e-4d74-872e-d7b1d3c5ebb5
+
+Question: >
+  Hippos are related to cetaceans (whales and porpoises).
+
+Answers:
+  1: True
+  2: False
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: 21d883b5-8280-44d1-905d-8d6ce53f60a0
+
+Question: >
+  The Spectacled bear makes its habitat around the Andes tropical basin.
+
+Answers:
+  1: True
+  2: False
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: ff6435d5-b987-4822-9cbd-1e61a748f126
+
+Question: >
+  This is the basic food of the sea. Billions upon billions of these organisms live in the sea.
+
+Answers:
+  1: Seaweed
+  2: Plankton
+  3: Crabs
+  4: Shrimp
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: 4e6e29e6-94f1-4e8c-8554-77fce4f5da1f
+
+Question: >
+  This is the result of the gravitational pull from the moon and sun.
+
+Answers:
+  1: Migration of certain species of whales
+  2: Tides
+  3: Shoreline
+  4: Waves
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: 7807cca2-504c-4cb2-b22b-b33f116b4c50
+
+Question: >
+  These creatures look like flowers as they grow attached to rocks. Their tentacles open like fleshy petals and
+  contract whenever danger is near.
+
+Answers:
+  1: Kelp
+  2: Jellyfish
+  3: Sponges
+  4: Sea Anemones
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: 326d94c3-dc58-4cfd-a40c-9b9f2777da21
+
+Question: >
+  This sea animal, widely considered the most valuable shellfish, is common in shallow, warmer waters of all oceans.
+
+Answers:
+  1: Oyster
+  2: Shrimp
+  3: Scallop
+  4: Lobster
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: 761c941b-61b7-4ed5-9b07-bc0ab26d23dd
+
+Question: >
+  This crab is not really a crab, but an arthropod. Its closest relative is the spider.
+
+Answers:
+  1: Fiddler Crab
+  2: Horseshoe crab
+  3: Spider Crab
+  4: Rock Crab
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: bc5f7806-7d6a-4acc-9042-767ac0c7a68e
+
+Question: >
+  These worms are not in fact worms, but bivalves. They enter wood as larvae, where they remain and grow, burrowing
+  through the wood.
+
+Answers:
+  1: Sea Mice
+  2: Ribbon Worms
+  3: Lugworms
+  4: Shipworms
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: fded8bbc-e7d9-4ae2-b342-072fb776b820
+
+Question: >
+  Squid and octopus are mollusks.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: bb047fc6-001a-4140-81db-5edfb39ad016
+
+Question: >
+  The Pacific lobster has large pincers and a spiny shell.
+
+Answers:
+  1: True
+  2: False
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: c7d5194a-9638-49aa-961b-100a3b47ba91
+
+Question: >
+  Also called Sea Biscuit, this animal lives in deeper water half-buried in the sand.
+
+Answers:
+  1: Sand Dollar
+  2: Star Fish
+  3: Scallop
+  4: Mussel
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: add3cf05-de95-419e-9386-09dafa9cd87f
+
+Question: >
+  The red kangaroo appears on the Coat of Arms of Australia together with what other endemic Australian animal?
+
+Answers:
+  1: Emu
+  2: Platypus
+  3: Dingo
+  4: Koala
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: 4a38e0cc-4dc2-48d4-a9d3-b8382e05883c
+
+Question: >
+  Which of these mammals was brought to Australia by humans?
+
+Answers:
+  1: The echidna
+  2: The dingo
+  3: The koala
+  4: The Tasmanian tiger
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: 7ea0a120-0beb-44bc-b2f7-f855e7207d27
+
+Question: >
+  Which of the following statements about echidnas, mammals native to Australia, is wrong?
+
+Answers:
+  1: Echidnas are covered with spines.
+  2: Echidnas have snouts.
+  3: Echidnas lay eggs.
+  4: Echidnas are marsupials.
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: 6db037bb-7ad7-499c-8486-09654bbfc054
+
+Question: >
+  The diet of the koala consists mainly of what plant species?
+
+Answers:
+  1: Eucalyptus
+  2: Bamboo
+  3: Willow
+  4: Cork Oak
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: 0c701d51-b1be-45e8-a042-7e1875f8161d
+
+Question: >
+  Which one of these Australian reptiles is the largest living crocodile in the world?
+
+Answers:
+  1: The thorny devil
+  2: The weedy sea dragon
+  3: The blue-tongued skink
+  4: The saltwater crocodile
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: 7e85bbe3-2e94-473b-9a4d-c303d624be22
+
+Question: >
+  This Australian monotreme lays eggs and has a remarkable sense of electroception.
+
+Answers:
+  1: Platypus
+  2: Red kangaroo
+  3: Dingo
+  4: Emu
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: 7808fe8f-6d87-45c5-9eaf-63995169ae71
+
+Question: >
+  Which Australian animal is the largest living carnivorous marsupial on Earth?
+
+Answers:
+  1: The Tasmanian tiger
+  2: The Tasmanian devil
+  3: The platypus
+  4: The red kangaroo
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: 98579534-2ad3-4a66-8ca0-33c066753440
+
+Question: >
+  Qantas, Australias largest airline company, has what Australian animal on its red-and-white logo?
+
+Answers:
+  1: Koala
+  2: Kangaroo
+  3: Emu
+  4: Tasmanian devil
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: c3ff0f4b-1121-486e-a839-ee8105a7c227
+
+Question: >
+  What is the difference between the male and the female Galah, a cockatoo bird native to Australia?
+
+Answers:
+  1: There is no difference between them.
+  2: Males and females have different eye colour.
+  3: Galah males are crested.
+  4: Galah females have shorter tails.
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: 55f752d5-6275-4519-864f-8193e8e2093f
+
+Question: >
+  What is the average weight of the Tasmanian Pygmy Possum?
+
+Answers:
+  1: About 250g
+  2: About 50g
+  3: About 100g
+  4: About 7g
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: 63a11b7f-6ddd-44b6-a0c8-b64f0e653d9f
+
+Question: >
+  Which lizard can squirt blood from the corners of its eyes in order to confuse and drive back its enemies?
+
+Answers:
+  1: Anole
+  2: Gila monster
+  3: Horned lizard
+  4: Komodo dragon
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: dcee88bd-9577-48f5-9372-8b4e950997ec
+
+Question: >
+  The venomous lizard Gila monster was named after what?
+
+Answers:
+  1: The Gila River basin
+  2: The Gila Expedition 1857
+  3: Alberto Gilardino
+  4: Gilligans Island
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: bc44f28b-4bdc-48a5-8afb-9ad2071e6088
+
+Question: >
+  The Komodo dragon, the largest living lizard on Earth, lives in which part of the world?
+
+Answers:
+  1: North America
+  2: Indonesia
+  3: South-western China
+  4: Madagascar
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: 57605fc7-492b-4eaa-b1c2-2a82143e7051
+
+Question: >
+  Which term refers to the self-defense mechanism which allows lizards to break off their tails when captured?
+
+Answers:
+  1: Apotemnophilia
+  2: Autonomy
+  3: Autotomy
+  4: Autism
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: af26b94f-8d8b-44dd-8e6e-c0785311a133
+
+Question: >
+  Which of these statements about geckos is true?
+
+Answers:
+  1: Geckos have toe pads which help them climb smooth vertical surfaces.
+  2: All of these
+  3: Geckos can make chirping sounds.
+  4: Geckos feed on insects.
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: deabcbef-57d3-433a-b98e-41adfb25957d
+
+Question: >
+  Chameleons are lizards that can change their colour. What does Chameleon mean in Greek?
+
+Answers:
+  1: Green melon
+  2: Karma lion
+  3: Colourful
+  4: Earth lion
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: 06e8bb31-2816-4d92-b4f5-485005d251d1
+
+Question: >
+  Geckos have immovable eyelids and can't blink. How do they keep their eyes clean?
+
+Answers:
+  1: A tiny insect lives under their eyelids and cleans their eyes.
+  2: They lick their own eyes.
+  3: They dip their eyes in water.
+  4: They cover their eyes with their toes.
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: 70cd5f40-4ec5-45cc-885b-cfbf7067646f
+
+Question: >
+  The lizards which do not have legs are commonly known by what name?
+
+Answers:
+  1: Glass lizards
+  2: Monitor lizards
+  3: Skinks
+  4: Iguanas
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: 667fc0fa-ec88-4480-8b1d-4f7053d52895
+
+Question: >
+  Which of these lizard species is not endangered?
+
+Answers:
+  1: Eastern Bearded Dragon
+  2: Blunt-nosed Leopard Lizard
+  3: Mona Ground Iguana
+  4: Komodo Dragon
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: 855887a2-8a42-48f8-a0a0-de94a4793358
+
+Question: >
+  No lizard species live on which continent?
+
+Answers:
+  1: South America
+  2: Antarctica
+  3: Europe
+  4: Asia
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: a16981dc-98d7-4dd7-94b8-80524e2e0bfb
+
+Question: >
+  This shark is considered a filter-feeder. Its diet consists mainly of plankton, krill, and macro-algae.
+
+Answers:
+  1: whale shark
+  2: bull shark
+  3: great white shark
+  4: pygmy shark
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: c0b5700d-004b-4980-98d9-1f3ef3a53902
+
+Question: >
+  This shark's white belly and grey back make it difficult for prey to spot.
+
+Answers:
+  1: hammerhead shark
+  2: tiger shark
+  3: great white shark
+  4: whale shark
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: 0905baaa-ec21-44ce-9d77-e6cbe1f195bc
+
+Question: >
+  Sharks have no bones.
+
+Answers:
+  1: True
+  2: False
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: 2f7169eb-4161-49c9-8650-acbc89bee05d
+
+Question: >
+  Have sharks been around for about 400 million years?
+
+Answers:
+  1: No
+  2: Yes
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: cbb1dd1b-5762-45f7-a86b-2708241cf2e2
+
+Question: >
+  Which of these sharks has a flat body like a stingray?
+
+Answers:
+  1: basking shark
+  2: blue shark
+  3: blacktip reef shark
+  4: angel shark
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: 9824c877-988e-4ab8-8b42-6b46c65d01f3
+
+Question: >
+  This shark was believed to be extinct, until it was found on the coast of Japan in 1898.
+
+Answers:
+  1: cookie cutter shark
+  2: mako shark
+  3: goblin shark
+  4: angel shark
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: c4b86a1d-5e5f-4a3b-861d-520a09526b5f
+
+Question: >
+  Which shark is the fastest swimmer?
+
+Answers:
+  1: goblin shark
+  2: mako shark
+  3: nurse shark
+  4: sandtiger shark
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: 2690292c-492b-4eb6-9dec-3763a98e5e68
+
+Question: >
+  The zebra shark is very small and gentle and can be kept close to other fish.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: 9334bff6-1e37-4ef2-b1b8-dabf502408a3
+
+Question: >
+  What is the common name for baby sharks?
+
+Answers:
+  1: calves
+  2: pecks
+  3: cubs
+  4: pups
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: f4174487-ae8d-4462-8b2f-804a1daf251d
+
+Question: >
+  Two thirds of a shark's brain is dedicated to its sense of smell.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: fa18e310-c48a-4138-bc97-92852748b3fb
+
+Question: >
+  How many recognized giraffe subspecies exist?
+
+Answers:
+  1: 6
+  2: 7
+  3: 9
+  4: 5
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: c60cffc8-c58e-404b-b4fb-467825556f2e
+
+Question: >
+  Which of these is not a subspecies of giraffe?
+
+Answers:
+  1: Somali Giraffe
+  2: Rothschilds Giraffe
+  3: Kordofan Giraffe
+  4: East African Giraffe
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: 6c0d9d20-4c27-4c8b-80d2-f5669f87b1a6
+
+Question: >
+  How long is a giraffe's gestation period?
+
+Answers:
+  1: 18 - 20 months
+  2: 10 months
+  3: 14- 15 months
+  4: 9 months
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: 40c7238f-bc98-4fba-943a-02a32a728643
+
+Question: >
+  How many pounds of leaves can a giraffe consume daily?
+
+Answers:
+  1: 60 pounds
+  2: 100 pounds
+  3: 140 pounds
+  4: 210 pounds
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: 6a012954-07cb-4f79-b4be-d2d521b3b2f7
+
+Question: >
+  Giraffes need less sleep than nearly every other animal.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: c0db7edc-0d7d-47fc-896d-1b77184e700d
+
+Question: >
+  Giraffes were once thought to be a cross between a camel and a leopard.
+
+Answers:
+  1: True
+  2: False
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: 2713b05a-2e4d-4187-9cf3-5f057e838ab6
+
+Question: >
+  What group of dogs does the beagle belong to?
+
+Answers:
+  1: retrievers
+  2: setters
+  3: hound
+  4: terriers
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: 0dc21285-deb7-42a5-8205-2baf0a3fbb75
+
+Question: >
+  The beagle was developed mainly for tracking what animal?
+
+Answers:
+  1: squirrels
+  2: rabbits
+  3: raccoons
+  4: coyotes
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: 063d5a4b-c483-488c-9448-375607ce89d2
+
+Question: >
+  About how many years have beagles been around?
+
+Answers:
+  1: 2,000
+  2: 5,000
+  3: 4,000
+  4: 3,000
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: 15669497-eacc-4d50-966d-2276e40b9007
+
+Question: >
+  Which of the following cartoon dogs was a beagle?
+
+Answers:
+  1: Courage
+  2: Scooby Doo
+  3: Snoopy
+  4: Clifford
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: fb7173b5-3e8e-45c2-82b9-7591914af76d
+
+Question: >
+  The beagle is not a good choice for a children's pet because it is aggressive.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: 14cf6ba4-a86e-428f-aa55-4b7455c1b0b9
+
+Question: >
+  What is the typical lifespan of the beagle?
+
+Answers:
+  1: 20 years
+  2: 15 years
+  3: 7 years
+  4: 12 years
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: 2111db70-64cb-4b09-8729-edb7510697fa
+
+Question: >
+  Beagles are sometimes used for termite detection in Australia.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: af56a21c-a54a-4f09-8ec6-f3e07462153a
+
+Question: >
+  Are beagles easy to housebreak?
+
+Answers:
+  1: No
+  2: Yes
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: 07ba9deb-cb7f-41bf-93c6-b79312aecf59
+
+Question: >
+  What type of coat do beagles have?
+
+Answers:
+  1: long
+  2: short
+  3: medium
+  4: depends on the dog
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: c3f9ebe1-a3d4-45ab-8965-9b43ed6c6093
+
+Question: >
+  The puggle is a mix between a beagle and what dog?
+
+Answers:
+  1: papillion
+  2: puli
+  3: poodle
+  4: pug
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: 5377e595-4af4-4ded-a778-dfa736d9885d
+
+Question: >
+  In what country was the goldfish first domesticated?
+
+Answers:
+  1: Egypt
+  2: China
+  3: Japan
+  4: India
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: 602aefdd-f6f3-4de5-89f2-b9b828c4cc97
+
+Question: >
+  A goldfish can reach a weight of almost 10 lbs (4.5 kg)
+
+Answers:
+  1: False
+  2: True
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: 0a5010b7-a870-4676-b9a6-f1e8c3a11f39
+
+Question: >
+  How long can a goldfish live in optimal conditions?
+
+Answers:
+  1: 5 years
+  2: 8 years
+  3: 10 years
+  4: 20 years
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: 8b2aa903-861b-46fd-9a6b-684865399f34
+
+Question: >
+  The world record for the oldest goldfish is 49 years.
+
+Answers:
+  1: True
+  2: False
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: 2ff4079d-9306-47a5-8dca-10c84a8ad7bd
+
+Question: >
+  In Europe, goldfish were first introduced to what country?
+
+Answers:
+  1: France
+  2: England
+  3: Italy
+  4: Portugal
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: 07d5b2ce-f116-4ca0-9407-77d186fcd991
+
+Question: >
+  What color goldfish were most prized by the Chinese royalty several centuries ago?
+
+Answers:
+  1: Silver
+  2: Yellow
+  3: Orange
+  4: Red
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: e114c00d-deda-4173-9cc1-1871a78c49ff
+
+Question: >
+  Goldfish can die from overeating.
+
+Answers:
+  1: True
+  2: False
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: 3708b98e-39b2-4a3b-8006-aa4e9187eaa2
+
+Question: >
+  Is it true that goldfish only have a 3-second memory?
+
+Answers:
+  1: Yes
+  2: No
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: 990b0d8b-c148-4033-804a-fd497cf34797
+
+Question: >
+  What color are wild goldfish?
+
+Answers:
+  1: Silver
+  2: Orange
+  3: Yellow
+  4: Green
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: 67f1774c-65a4-42b1-8c61-e258a4004496
+
+Question: >
+  Goldfish are good parents. They nurse and protect their young until they grow up enough to defend themselves.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: 5524cfa8-2e40-43c6-9678-e50bbc19ed36
+
+Question: >
+  This bird is the fastest animal on the planet in its hunting method, the stoop.
+
+Answers:
+  1: Bald Eagle
+  2: Red-tailed Hawk
+  3: Peregrine Falcon
+  4: Golden Eagle
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: animals
+
+SchemaVersion: 1
+---
+ID: 1a66d6ad-2ad4-410b-b27a-16352c9bf5fc
+
+Question: >
+  The Barn Owl likes to sleep all day long.
+
+Answers:
+  1: False
+  2: True
 
 Correct: 2
 
