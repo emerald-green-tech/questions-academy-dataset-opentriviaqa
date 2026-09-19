@@ -1,0 +1,255 @@
+ID: f02d41c5-c5d1-40df-b1ba-906dae1879d7
+
+Question: >
+  In Islamic history, 570 A.D. was The Year of the Elephant. Which of these happened in that year?
+
+Answers:
+  1: The Qur’an was written in book form
+  2: Muhammad received his first revelation
+  3: Muhammad was born
+  4: Muhammad became ill and died
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: cec3724b-7fa1-4cb3-9052-3878ce629e9b
+
+Question: >
+  Popes have always been elected to their position by the College of Cardinals.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: newest
+
+SchemaVersion: 1
+---
+ID: 0755d3aa-fab1-4fb4-ac8c-0a8a343f735b
+
+Question: >
+  How many votes from the College of Cardinals does it take to declare a new Pope?
+
+Answers:
+  1: Half of the votes plus one
+  2: Two thirds of the votes
+  3: Half of the votes
+  4: Two thirds of the votes plus one
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: newest
+
+SchemaVersion: 1
+---
+ID: d7901922-37c0-420f-9cb0-668c30f989a7
+
+Question: >
+  What was the longest interregnum between popes?
+
+Answers:
+  1: 14 months
+  2: 8 months
+  3: Two years and 9 months
+  4: Five years and 2 months
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: newest
+
+SchemaVersion: 1
+---
+ID: 1421a787-e34a-4721-b747-3ef657fb04d7
+
+Question: >
+  Can any baptized male be elected Pope?
+
+Answers:
+  1: Yes
+  2: No
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: newest
+
+SchemaVersion: 1
+---
+ID: cc872885-274b-4c86-8258-e5057c32eb09
+
+Question: >
+  White smoke has always been used to announce the choosing of a new pope.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: newest
+
+SchemaVersion: 1
+---
+ID: ec93790e-7229-4865-9019-aa7613703a3a
+
+Question: >
+  All cardinals are appointed to their positions by a pope. Can they all vote for a new pope when the time comes?
+
+Answers:
+  1: No
+  2: Yes
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: newest
+
+SchemaVersion: 1
+---
+ID: 1d6915b5-c8bf-4c89-8bf4-f92c9645cd5e
+
+Question: >
+  Urban VII set a record for the shortest papacy. How many days was he in office?
+
+Answers:
+  1: 184 days
+  2: 33 days
+  3: 102 days
+  4: 12 days
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: newest
+
+SchemaVersion: 1
+---
+ID: e9e258cc-926c-4339-8ac1-1438ecb099b3
+
+Question: >
+  If you were elected pope, what would your chances of becoming a saint be?
+
+Answers:
+  1: 1 out of 10
+  2: 1 out of 3
+  3: 1 out of 6
+  4: 1 out of 4
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: newest
+
+SchemaVersion: 1
+---
+ID: 65454930-b96f-499c-93d7-6a94d9df7fb4
+
+Question: >
+  Why do popes wear white?
+
+Answers:
+  1: It was a fashion trend in 1566 brought on by the newly elected Pope Pius V.
+  2: It symbolizes pure light.
+  3: It is easy to recognize him in a crowd.
+  4: It signifies that the pope will not get dirty.
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: newest
+
+SchemaVersion: 1
+---
+ID: 113a7fdb-5a12-4e36-898b-62c5e52d0db8
+
+Question: >
+  Who was the first pope to change his name?
+
+Answers:
+  1: Pope Innocent XIII, formerly Michaelangelo
+  2: Pope Pius III, formerly Francesco
+  3: Pope Sylvester II, formerly Gerbert
+  4: Pope John II, formerly Mercury
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: newest
+
+SchemaVersion: 1

@@ -1,0 +1,96 @@
+ID: 96a213d7-6eb2-4cda-9d99-90e5a09b0925
+
+Question: >
+  What kind of celestial body is the 9949 Brontosaurus?
+
+Answers:
+  1: Asteroid
+  2: Planet
+  3: Star
+  4: Black hole
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: c6531657-8f2b-4cc5-93d3-621cc0a5ea55
+
+Question: >
+  What scientist often told the story that he was inspired to formulate his theory of gravitation by watching the fall
+  of an apple from a tree?
+
+Answers:
+  1: Alexander Graham Bell
+  2: Georg Ohm
+  3: Blaise Pascal
+  4: Isaac Newton
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: newest
+
+SchemaVersion: 1
+---
+ID: 851b6226-eeaf-4b57-8a08-1cf31fe296e1
+
+Question: >
+  The last transit across the sun in the 21st century of this planet occurred on 5 and 6 June 2012.
+
+Answers:
+  1: Jupiter
+  2: Uranus
+  3: Venus
+  4: Mars
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: newest
+
+SchemaVersion: 1
+---
+ID: 1bb4744b-fad1-426e-9d4d-3d4a6071f58a
+
+Question: >
+  On August 6, 2012, the Curiosity rover, which is part of a NASA mission, successfully landed on this planet.
+
+Answers:
+  1: Venus
+  2: Neptune
+  3: Mercury
+  4: Mars
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: newest
+
+SchemaVersion: 1

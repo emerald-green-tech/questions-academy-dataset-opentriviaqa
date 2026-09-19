@@ -1,3 +1,75 @@
+ID: 680888de-1a7b-45d9-afc4-a6c3465a30e3
+
+Question: >
+  The expression "social butterfly" is often used to describe people. It means that they do this.
+
+Answers:
+  1: Use too much cosmetics
+  2: Behave quite self-conceited
+  3: Flit from one person to another
+  4: Wear clothes with bright colors
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: a7eed0b3-340d-42a2-ba8f-80a891b42bd2
+
+Question: >
+  What is the meaning of the figurative expression a white elephant?
+
+Answers:
+  1: Something that is idolized but that does not exist
+  2: An extraordinary person
+  3: A pricey and useless possession
+  4: A chimera
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: e1f93134-a225-43e3-9138-7867903073f2
+
+Question: >
+  In Latin, the word for apple (mālum) is nearly identical to a word that means which of the following?
+
+Answers:
+  1: seduction
+  2: mysterious
+  3: evil
+  4: fall
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: newest
+
+SchemaVersion: 1
+---
 ID: 3ec95869-0f53-4b97-8315-6f66bf59c57a
 
 Question: >

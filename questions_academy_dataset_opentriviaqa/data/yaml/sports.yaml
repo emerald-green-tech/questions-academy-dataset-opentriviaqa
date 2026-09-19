@@ -1,3 +1,101 @@
+ID: b5f16656-3155-4c79-abb9-cc30138070c2
+
+Question: >
+  Although he was born in Pittsburgh, he grew up in Brookline Pennsylvania. His parents were both Lithuanian
+  immigrants. Who is this famous athlete?
+
+Answers:
+  1: Jack Sharkey
+  2: Dick Butkus
+  3: Johnny Unitas
+  4: Vitas Gerulaitis
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: newest
+
+SchemaVersion: 1
+---
+ID: 6805ba5b-baac-44d3-a62e-491d9c68343d
+
+Question: >
+  This Lithuanian American baseball player, son of immigrant parents, was born and raised in upstate New York. Who is
+  he?
+
+Answers:
+  1: Darius Kasparaitis
+  2: Dainius Zubrus
+  3: Johnny Podres
+  4: Eddie Waitkus
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: newest
+
+SchemaVersion: 1
+---
+ID: 2cbf48ee-de33-4410-bbb7-063c9fdb2c69
+
+Question: >
+  What nationality is Felix Baumgartner, the first person to break the sound barrier without any machine assistance?
+
+Answers:
+  1: Swiss
+  2: Austrian
+  3: British
+  4: Belgian
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: newest
+
+SchemaVersion: 1
+---
+ID: 8fd9ee38-a5ac-4c91-b01c-e24f453f5d7c
+
+Question: >
+  In what sport was the largest number of records set at the 2012 Summer Olympics?
+
+Answers:
+  1: cycling
+  2: athletics
+  3: weightlifting
+  4: swimming
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: newest
+
+SchemaVersion: 1
+---
 ID: 903270bb-2910-4637-a708-42e83e4634fd
 
 Question: >

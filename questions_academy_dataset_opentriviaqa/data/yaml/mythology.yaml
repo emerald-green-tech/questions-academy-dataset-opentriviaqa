@@ -1,0 +1,47 @@
+ID: 57ae3452-6680-437c-b3f7-e442561c09a8
+
+Question: >
+  The apple is an attribute associated with this goddess that is often depicted holding it.
+
+Answers:
+  1: Diana
+  2: Venus
+  3: Juno
+  4: Hera
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: newest
+
+SchemaVersion: 1
+---
+ID: ddcd584b-38dc-4449-b2b0-c145c1cb426e
+
+Question: >
+  The name of which legendary island comes from a word meaning apple?
+
+Answers:
+  1: Antillia
+  2: Shangri-La
+  3: Atlantis
+  4: Avalon
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: newest
+
+SchemaVersion: 1

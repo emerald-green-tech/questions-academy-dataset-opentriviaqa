@@ -1,0 +1,120 @@
+ID: cb06a8e4-125c-4e35-936b-da3350677052
+
+Question: >
+  Unfortunately this fictional dog is constantly bullied by his buddy cat.
+
+Answers:
+  1: Snoopy
+  2: Lucky
+  3: Goofy
+  4: Odie
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 5b218895-0c4e-4e7a-97ad-5e65507e34ff
+
+Question: >
+  Which cartoon dog is one of Mickey Mouse's best friends?
+
+Answers:
+  1: Happy
+  2: Minnie
+  3: Doggie
+  4: Goofy
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: aa233d96-acb7-48ab-a359-eec136f916de
+
+Question: >
+  Name the Red Baron hunting Beagle from Charles Schultz popular comic strip, Peanuts.
+
+Answers:
+  1: Scooby
+  2: Lassie
+  3: Odie
+  4: Snoopy
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 64882dde-1b83-4736-b3d6-e076ff6ec983
+
+Question: >
+  This cartoon Great Dane often needs his nephew headstrong nephew to protect him.
+
+Answers:
+  1: Scooby
+  2: Odie
+  3: Scrappy
+  4: Snoopy
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: a8bda2e0-b319-4990-af5a-7d680f38495b
+
+Question: >
+  "If there are no stupid questions, then what kind of questions do stupid people ask? Do they get smart just in time
+  to ask questions?" Which comic book creator created this witty remark?
+
+Answers:
+  1: Will Eisner
+  2: Frank Miller
+  3: Scott Adams
+  4: Brian Bolland
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: newest
+
+SchemaVersion: 1

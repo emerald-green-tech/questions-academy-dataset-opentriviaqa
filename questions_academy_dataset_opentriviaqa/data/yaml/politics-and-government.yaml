@@ -1,3 +1,101 @@
+ID: 822ade17-f80f-47b6-9bf8-994be0df9dd1
+
+Question: >
+  "Beware your inner idiot. Success and stupidity don't mix. Your boss's stupidity is only half the problem. Your own
+  stupidity can easily complete the disaster." Which government official said this?
+
+Answers:
+  1: Norman Thomas (US Socialist Presidential Candidate)
+  2: Winston Churchill (Prime Minister of Britain)
+  3: Clarence Thomas (Supreme Court Justice)
+  4: J. Edgar Hoover (Director of the FBI)
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: newest
+
+SchemaVersion: 1
+---
+ID: c161b210-d7b6-421e-933e-b030ae823008
+
+Question: >
+  "Conservatives are not necessarily stupid, but most stupid people are conservatives." What political economist made
+  this unflattering comment?
+
+Answers:
+  1: Donald L. Horowitz
+  2: Henry Kissinger
+  3: John Stuart Mill
+  4: Niccolò Machiavelli
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: newest
+
+SchemaVersion: 1
+---
+ID: b61a7c64-4443-4c38-aea4-21e024ade957
+
+Question: >
+  This USA Senator was born in Illinois. His father was Irish/American and his mother was born in Lithuania.
+
+Answers:
+  1: Paul Simon
+  2: Mark Kirk
+  3: Peter Fitzgerald
+  4: Dick Durbin
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: newest
+
+SchemaVersion: 1
+---
+ID: 35b53333-7abe-44f3-83ce-31a6fa901501
+
+Question: >
+  Which of these was NOT reelected president of his country in 2012?
+
+Answers:
+  1: Barack Obama
+  2: Nicolas Sarkozy
+  3: Vladimir Putin
+  4: All of them were reelected.
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: newest
+
+SchemaVersion: 1
+---
 ID: 929b2940-bab8-40cd-8b23-d3dac881dd51
 
 Question: >

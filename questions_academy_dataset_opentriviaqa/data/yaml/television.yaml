@@ -18,7 +18,176 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: animals
+  None
+
+SchemaVersion: 1
+---
+ID: 9a3543d2-669e-4cd8-88a7-da3ed2a2bcb0
+
+Question: >
+  In the 1980s, who voiced the character of Dino, the pet dinosaur in the animated series The Flintstones?
+
+Answers:
+  1: Frank Welker
+  2: Mel Blanc
+  3: Jean Vander Pyl
+  4: Alan Reed
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: f29da651-1e28-4457-9327-27a8c8297750
+
+Question: >
+  The BBC series Walking with Dinosaurs, which won three Emmy Awards, consisted of how many parts?
+
+Answers:
+  1: 12
+  2: 3
+  3: 6
+  4: 2
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 1b29531c-0719-4337-92b7-e653ac80d687
+
+Question: >
+  In the cartoon Dinosaucers, Bronto Thunder is what kind of dinosaur?
+
+Answers:
+  1: An evolved Apatosaurus
+  2: An evolved Stegosaurus
+  3: An evolved Archaeopteryx
+  4: An evolved Triceratops
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: e24eeff7-e3ff-4369-b627-f6df5ec56884
+
+Question: >
+  What is the name of the Tasmanian devil cartoon character from Looney Tunes by Warner Bros.?
+
+Answers:
+  1: Taz
+  2: Tess
+  3: Devlin
+  4: Tassie
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: db853b24-4f95-4579-b489-10c255a6bcb9
+
+Question: >
+  This dog, who first showed up in a Bud Light Beer Super Bowl ad, had a black circle around one eye.
+
+Answers:
+  1: Spuds MacKenzie
+  2: Blue MacKenzie
+  3: Long John
+  4: Spottie
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 843e9d5d-10b4-4f4c-9c76-197b9baf4637
+
+Question: >
+  What color was the aardvark from the Pink Panther cartoon?
+
+Answers:
+  1: Red
+  2: Blue
+  3: Pink
+  4: Gray
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 63481c67-9fec-4bda-b0de-75cd682b2c15
+
+Question: >
+  Which character made both of these quotes: "If you're going to get mad at me every time I do something stupid then I
+  guess I'll have to stop doing stupid things!" and "Stupid, eh? Yeah, I'm stupid. Stupid like a fox!".?
+
+Answers:
+  1: Peter Griffin from Family Guy
+  2: Woody Boyd from Cheers
+  3: Joey Tribbiani from Friends
+  4: Homer Simpson from The Simpsons
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: newest
 
 SchemaVersion: 1
 ---

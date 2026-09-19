@@ -1,0 +1,115 @@
+ID: 764ee54f-a25a-48c2-810e-892bd71cd422
+
+Question: >
+  Rescue remedy is a combination of Rock Rose, Star of Bethlehem, Impatiens, Cherry Plum and Clematis essences.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: fa08670f-3195-42dc-a572-c6249fb42bd8
+
+Question: >
+  All Bach flower remedies can be used by people.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 37a079b8-beec-4895-824d-e0a9a2671831
+
+Question: >
+  Up to how many different Bach remedies can you combine?
+
+Answers:
+  1: 4
+  2: as many as you want to
+  3: 1
+  4: 7
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: cc8a4262-afdf-43f6-b10f-9edcb3d68968
+
+Question: >
+  Which of the following is used as a cleansing remedy?
+
+Answers:
+  1: Cherry Plum
+  2: Gentian
+  3: None of these
+  4: Crab Apple
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: a6aa54a1-850f-4a86-bd9a-a53dee8a29b6
+
+Question: >
+  What is the medical term for Adam's Apple?
+
+Answers:
+  1: pharyngeal cartilage
+  2: vocal cartilage
+  3: thyroid prominence
+  4: laryngeal prominence
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: newest
+
+SchemaVersion: 1

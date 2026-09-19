@@ -1,3 +1,104 @@
+ID: 4532e53c-6dba-49d2-b348-0899e5ee8e4e
+
+Question: >
+  Which band recorded a song called Brontosaurus which includes the following verse?
+  Now her daddy's getting old
+  And he seemed to lose control
+  When the brontosaurus
+  Stormed into the house to trap her.
+
+Answers:
+  1: ELO
+  2: Velvet Revolver
+  3: Velvet Underground
+  4: AFI
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 0816ecbb-87c3-4a41-94d2-c163c2fd508f
+
+Question: >
+  What eminent musician released his album The Fox in 1981?
+
+Answers:
+  1: Tom Johnes
+  2: Elton John
+  3: Barry White
+  4: Julio Iglesias
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 9f4dfbde-fa76-4ff9-9f5d-dc86f18b9c4d
+
+Question: >
+  "I refuse to slap some stupid words on the stupid paper just so we have a stupid song finished." Which
+  singer/songwriter came up with the triple stupid?
+
+Answers:
+  1: Nelly Furtado
+  2: Amy Winehouse
+  3: Suzanne Vega
+  4: Missy Elliott
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: newest
+
+SchemaVersion: 1
+---
+ID: 09798ccd-09d2-453d-bad6-8dfe4698d032
+
+Question: >
+  What famous band founded the Apple Records label in 1968?
+
+Answers:
+  1: The Monkeys
+  2: The Rolling Stones
+  3: The Beatles
+  4: The Police
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: newest
+
+SchemaVersion: 1
+---
 ID: 4159a64f-e8f7-4051-9367-841c325f77e3
 
 Question: >

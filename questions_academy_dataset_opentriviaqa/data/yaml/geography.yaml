@@ -1,3 +1,27 @@
+ID: 5f9d4a1b-c248-4b3a-aa98-8906c703d6a2
+
+Question: >
+  In how many provinces is the Dominican Republic divided?
+
+Answers:
+  1: 31
+  2: 21
+  3: None of these
+  4: 11
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: newest
+
+SchemaVersion: 1
+---
 ID: ae66cbf1-649a-4b5d-94c2-bdc6240b4a1a
 
 Question: >

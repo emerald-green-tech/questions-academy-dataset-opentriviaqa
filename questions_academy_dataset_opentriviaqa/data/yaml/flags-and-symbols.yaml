@@ -18,7 +18,127 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: animals
+  None
+
+SchemaVersion: 1
+---
+ID: 39dea0ed-dde4-42da-97d2-8cf53deec7d6
+
+Question: >
+  In what European city is the popular bronze statue Capitoline Wolf located?
+
+Answers:
+  1: Madrid
+  2: Paris
+  3: London
+  4: Rome
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: eb54c550-31d0-4c09-813e-ba5e3bc9171a
+
+Question: >
+  What large mammal is the national animal of India?
+
+Answers:
+  1: Water Buffalo
+  2: Bengal tiger
+  3: Indian Rhinoceros
+  4: Indian Elephant
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 27c98e15-9ddc-415f-9f7e-8dd202a40e8a
+
+Question: >
+  A bat is featured on the coat of arms of this Spanish city.
+
+Answers:
+  1: Palma de Mallorca
+  2: Fraga
+  3: Valencia
+  4: All of these
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 4800b3f6-425e-488d-9111-4697b3509b1e
+
+Question: >
+  It is the national insect of Canada and the state insect of Texas.
+
+Answers:
+  1: Ladybug
+  2: Cricket
+  3: Praying Mantis
+  4: Monarch butterfly
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 56e8c95a-5b53-47a3-a9d6-1a15fe38ecf9
+
+Question: >
+  The Giant Panda and which of the following serve as an Asian country's national emblem?
+
+Answers:
+  1: The dragon
+  2: The Golden Lion Tamarin
+  3: The Chinese alligator
+  4: The South China Tiger
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
 
 SchemaVersion: 1
 ---
