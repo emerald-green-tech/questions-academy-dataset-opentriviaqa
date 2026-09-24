@@ -18,7 +18,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: newest
+  None
 
 SchemaVersion: 1
 ---
@@ -42,7 +42,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: newest
+  None
 
 SchemaVersion: 1
 ---
@@ -64,7 +64,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: newest
+  None
 
 SchemaVersion: 1
 ---
@@ -88,7 +88,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: newest
+  None
 
 SchemaVersion: 1
 ---
@@ -112,7 +112,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: newest
+  None
 
 SchemaVersion: 1
 ---
@@ -136,7 +136,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: newest
+  None
 
 SchemaVersion: 1
 ---
@@ -160,7 +160,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: newest
+  None
 
 SchemaVersion: 1
 ---
@@ -184,7 +184,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: newest
+  None
 
 SchemaVersion: 1
 ---
@@ -208,7 +208,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: newest
+  None
 
 SchemaVersion: 1
 ---
@@ -232,7 +232,355 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: newest
+  None
+
+SchemaVersion: 1
+---
+ID: d38d0a58-3c10-4d22-8a7e-f92191666af1
+
+Question: >
+  Besides being labelled zombies the creatures featured in the game Killing Floor are referred to as which of the
+  following?
+
+Answers:
+  1: Children of the holocaust
+  2: The misfits
+  3: Specimens
+  4: The abominations
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 8f4fa0e6-d0b2-4aa7-be0d-2c5542b73e3b
+
+Question: >
+  What is the name of the company that developed the Killing Floor game?
+
+Answers:
+  1: Bethseda Corp.
+  2: Red Storm Entertainment
+  3: Tripwire Interactive
+  4: Activision
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: d6b5e957-f16a-4abf-a1f9-0b2957f50e73
+
+Question: >
+  If you want to quit the Killing Floor game and play later you can always save your game and continue from where you
+  left off.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 799b484f-c1d5-40b9-9cdc-fe9b9548fbbd
+
+Question: >
+  Although widely advertised as a multiplayer co-op game Killing Floor can also be played in single player mode.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 4e55f401-78db-4257-8414-3389c5de3507
+
+Question: >
+  When playing Killing Floor online you cannot play the same character if someone else is already playing him.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 5ca11373-8d69-4c44-b4db-9f59bfb14465
+
+Question: >
+  What statement is true about the whitelisted map in Killing Floor?
+
+Answers:
+  1: The title of the map is all in white.
+  2: It is a map where one can raise the level of their perks.
+  3: It is a map which enables you to choose how many players you want in the game.
+  4: It is a map that is playable only in single player mode.
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 19e531a6-9f1d-40f8-bd0e-9df4029948ca
+
+Question: >
+  What is the perk associated with the use of melee weapons in Killing Floor?
+
+Answers:
+  1: commando
+  2: kamikaze man
+  3: support specialist
+  4: berserker
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 416fa5aa-6392-4649-b89e-cddc29f1994f
+
+Question: >
+  In Killing Floor, what is the perk in which one can do the most damage with the flame thrower?
+
+Answers:
+  1: Commando
+  2: firebug
+  3: Support specialist
+  4: sharpshooter
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 136b74e3-d691-4f3b-a4a5-3456bbb7516a
+
+Question: >
+  In Killing Floor, you can weld doors shut in order to prevent the specimens from reaching you.
+
+Answers:
+  1: True
+  2: False
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 75987ecf-8b65-4458-a390-7d74cd68b4be
+
+Question: >
+  In the video game Killing Floor, only the medic can heal others.
+
+Answers:
+  1: True
+  2: False
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 5f29711b-2253-4211-be39-9a7dbc3a63ec
+
+Question: >
+  Killing Floor started out as a mod for this popular PC game.
+
+Answers:
+  1: Half-Life 2
+  2: Warcraft
+  3: Unreal Tournament 2004
+  4: Halo
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: f796c2d0-69b3-441f-9fd0-827b0fc22881
+
+Question: >
+  In the Killing Floor video game, you can only obtain your weapons at the trader's shop.
+
+Answers:
+  1: True
+  2: False
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: f5303c3b-838a-43fd-b22c-7f9f50caadaf
+
+Question: >
+  What do you have to accomplish in order to get to the trader's shop in the game Killing Floor?
+
+Answers:
+  1: Earn about 1400 US dollars
+  2: Earn about 1200 British pounds
+  3: Locate the trader via GPS and contact her by radio
+  4: Kill off all the specimens in a single wave
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 33efce69-15d8-4fb6-9dbb-705418b96fbd
+
+Question: >
+  In Killing Floor, you can cause the bloat to fight with the other specimens.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 25912fc3-2de4-4917-89e3-755046ac4a2d
+
+Question: >
+  The Philanthropist achievement is obtained by the player in the Killing Floor game by which of the following?
+
+Answers:
+  1: Giving one of your weapons to a player who has just showed up on the scene
+  2: Healing one of your teammates after being injured by one of the specimens
+  3: Saving someones life when attacked by one of the specimens
+  4: Giving 1,000 Pounds to teammates who have 50% of your cash or less
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
 
 SchemaVersion: 1
 ---
@@ -258,6 +606,6 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: entertainment
+  None
 
 SchemaVersion: 1

@@ -1,0 +1,120 @@
+ID: 3a16d985-dba0-41f4-b4f8-11974e817f49
+
+Question: >
+  What two colors, when mixed together, make the color purple?
+
+Answers:
+  1: Brown and Blue
+  2: Cyan and Brown
+  3: Brown and Red
+  4: Red and Blue
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: fe4fda30-bc17-4681-9aa1-0cf738b3c5f9
+
+Question: >
+  What painter wrote the following lines to describe to his brother Theo how he composed a sky, The dark blue sky is
+  spotted with clouds of an even darker blue than the fundamental blue of intense cobalt, and others of a lighter
+  blue, like the bluish white of the Milky Way..?
+
+Answers:
+  1: Henri Matisse
+  2: Mark Rothko
+  3: Vincent van Gogh
+  4: Auguste Renoir
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 0591cf57-5a46-4967-8607-2ad1228afc0d
+
+Question: >
+  The Red Vineyard was the only painting which this famous red-haired artist sold during his lifetime.
+
+Answers:
+  1: Amedeo Modigliani
+  2: Pierre-Auguste Renoir
+  3: Vincent van Gogh
+  4: Claude Monet
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: cfe58bb2-da2f-4a9e-820b-d8e7aa1a798a
+
+Question: >
+  According to his self-portrait this leading painter of the Venetian School was a redhead. He painted so many women
+  with red hair that his name became associated with a shade of red.
+
+Answers:
+  1: Velasques
+  2: Titian
+  3: Donatello
+  4: Raphael
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: f9fb166a-7382-4cb1-a0c9-2cfe987d1b76
+
+Question: >
+  Italian painter Sandro Botticelli belonged to the Florentine school.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1

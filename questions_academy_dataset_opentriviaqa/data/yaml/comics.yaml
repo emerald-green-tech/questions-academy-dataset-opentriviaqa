@@ -115,6 +115,249 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: newest
+  None
+
+SchemaVersion: 1
+---
+ID: be181f65-af98-46be-b8e2-77cf6b90fe3d
+
+Question: >
+  Aquaman, The Atom, Batman, The Flash, Green Arrow, Hawkman, Jonn Jonzz Martian Hunter, Superman and Wonder Woman are
+  from which of these groups?
+
+Answers:
+  1: The Avengers
+  2: The Justice League of America
+  3: The X Men
+  4: Challengers of the Unknown
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 9db5eef3-3dc5-47a0-a61e-9353fabcf581
+
+Question: >
+  Allen Scot, Hal Jorden, John Stewart, Kyle Rainier, Guy Gardner have a costumed identity in common. What is it?
+
+Answers:
+  1: Nova
+  2: Green Lantern
+  3: Booster Gold
+  4: Spider Man
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 1aa0901d-70b6-42c1-a726-0eb6840b8723
+
+Question: >
+  Cyclops, Beast, The Angel, Iceman and Marvel Girl are from this group.
+
+Answers:
+  1: The Original 5 X-men
+  2: The Avengers
+  3: Young justice
+  4: The Original 5 Teen Titans
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: be1e53b4-979f-40a8-a930-1e84c6154ffa
+
+Question: >
+  Dick Grayson, Jason Todd, Timothy Drake were all identified as this same super hero. Can you figure out which one?
+
+Answers:
+  1: Fire Storm
+  2: Robin
+  3: Night Trasher
+  4: Silver Surfer
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 009c5969-7de2-4911-ba6b-b8e5553b8008
+
+Question: >
+  Can you finish this oath? In brightest day, in blackest night, no evil shall escape my sight, let those who worship
+  evil's might beware my power ....
+
+Answers:
+  1: Avengers Assemble
+  2: To the BatCave
+  3: Green Lantern's Light
+  4: This is a job for Superman
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 09e212d7-2b93-48b9-bfeb-4f7458015530
+
+Question: >
+  Jay Garrick and Barry Allen played the same role as this super hero.
+
+Answers:
+  1: Iron Man
+  2: Batman
+  3: Captain America
+  4: The Flash
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: baa415ee-7745-46fc-b5cf-09fd4aa17263
+
+Question: >
+  Robin, Kid Flash, Speedy, Aqua Lad and Wonder Girl are found in which of these groups?
+
+Answers:
+  1: The Metal Men
+  2: The original 5 Teen Titans
+  3: The Squadron Supreme
+  4: The original 5 X-Men
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 1653caa4-437f-4ab5-b1dc-b6ef3b23e23d
+
+Question: >
+  Captain America was a hero of World War 2 in the 1960s. He wakes up from a frozen state on board a submarine. What
+  group found him?
+
+Answers:
+  1: Squadron Supreme
+  2: The Teen Titans
+  3: Justice league of America
+  4: The Avengers
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: e540ed9d-9be6-41d3-8494-e38e19f464eb
+
+Question: >
+  On what planet was the Silver Surfer born?
+
+Answers:
+  1: Zen La
+  2: Thanagar
+  3: Krypton
+  4: Mars
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 754b1cda-ca70-400c-bb9a-a2da7af5785a
+
+Question: >
+  Bruce Wayne (Batman) has a butler named Alfred. What is Alfred's nationality?
+
+Answers:
+  1: Scottish
+  2: Irish
+  3: Swedish
+  4: English
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
 
 SchemaVersion: 1

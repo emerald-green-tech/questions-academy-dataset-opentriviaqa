@@ -1,0 +1,21 @@
+ID: b6c9a022-bb92-4dcf-ba64-d2e52f7a4af8
+
+Question: >
+  NASA sent a chimp into space in the 1960s.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1

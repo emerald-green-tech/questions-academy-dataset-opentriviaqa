@@ -66,7 +66,80 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: newest
+  None
+
+SchemaVersion: 1
+---
+ID: fcd8faa9-fa4d-4178-a161-4ed7f05cbef4
+
+Question: >
+  What word supposedly originated from the name of a soldier who was ridiculed because of his excessive devotion to
+  Napoleon?
+
+Answers:
+  1: fervor
+  2: allegiance
+  3: patriotism
+  4: chauvinism
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: de0fca4a-24ba-42a1-a298-d0c345882e3b
+
+Question: >
+  What is the meaning of the Greek word théatron from which the word theatre is derived?
+
+Answers:
+  1: a place for acting
+  2: a spectacle
+  3: a place for viewing
+  4: a stage
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: be9b0c64-568f-48cf-ac58-e55fb2a9529b
+
+Question: >
+  What is the meaning of the Latin word ruber from which the word ruby is derived?
+
+Answers:
+  1: gem
+  2: red
+  3: blood
+  4: precious
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
 
 SchemaVersion: 1
 ---
@@ -88,7 +161,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: humanities
+  None
 
 SchemaVersion: 1
 ---
@@ -110,6 +183,6 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: humanities
+  None
 
 SchemaVersion: 1

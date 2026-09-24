@@ -18,7 +18,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: newest
+  None
 
 SchemaVersion: 1
 ---
@@ -43,6 +43,30 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: newest
+  None
+
+SchemaVersion: 1
+---
+ID: eeff83ac-a02e-48ce-b3a1-21fb97a18c07
+
+Question: >
+  What technology term comes from the epithet of a king who united the tribes of Denmark into a single kingdom?
+
+Answers:
+  1: Bluetooth
+  2: Java
+  3: Mozilla
+  4: Linux
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
 
 SchemaVersion: 1

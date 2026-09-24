@@ -18,7 +18,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: newest
+  None
 
 SchemaVersion: 1
 ---
@@ -42,6 +42,148 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: newest
+  None
+
+SchemaVersion: 1
+---
+ID: c2ccb45c-92cc-4f8d-8dcd-b09cfc40ceb6
+
+Question: >
+  In Irish mythology, crows are associated with Morrigan, the goddess of war and death.
+
+Answers:
+  1: True
+  2: False
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 30e68f76-7231-4aea-b9ed-55cd90131210
+
+Question: >
+  Which god, when born, was hidden in a cave and replaced by a stone?
+
+Answers:
+  1: Zeus
+  2: Hermes
+  3: Hades
+  4: Poseidon
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: bb706d2f-2886-4ed1-874f-68bc1a1d5fa5
+
+Question: >
+  Athena was born fully grown out of Zeus's brain. What was she worshiped for?
+
+Answers:
+  1: Wisdom
+  2: Beauty
+  3: Power
+  4: Strength
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: a8023078-1075-4e46-828f-28ebb86cb803
+
+Question: >
+  According to Greek mythology, when Danae was locked in a copper tower, unable to meet any man, Hermes took pity on
+  her and came down as golden rain, making her conceive and give birth to a son named Perseus.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 93390966-b1ea-4a86-ab50-5a314c529c53
+
+Question: >
+  This creature is the son of Medusa and Poseidon, and was born out of Medusa's bleeding neck when she was beheaded by
+  Perseus.
+
+Answers:
+  1: Pegasus
+  2: Hydra
+  3: Echidna
+  4: Centaur
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: f6299090-7478-4b19-9be8-1baef587ac93
+
+Question: >
+  Sometimes Poseidon's children went wrong and became strange one-eyed beasts. What were these creatures called?
+
+Answers:
+  1: Pythons
+  2: Echidnas
+  3: Cyclopes
+  4: Typhons
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
 
 SchemaVersion: 1

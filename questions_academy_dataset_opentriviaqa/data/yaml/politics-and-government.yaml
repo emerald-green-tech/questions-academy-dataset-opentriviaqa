@@ -19,7 +19,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: newest
+  None
 
 SchemaVersion: 1
 ---
@@ -44,7 +44,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: newest
+  None
 
 SchemaVersion: 1
 ---
@@ -68,7 +68,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: newest
+  None
 
 SchemaVersion: 1
 ---
@@ -92,7 +92,79 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: newest
+  None
+
+SchemaVersion: 1
+---
+ID: 55e4a4a7-abef-4eee-8692-e4a0c2e1258e
+
+Question: >
+  Veni, vidi, vici is a Latin sentence reportedly written by in 47 BC by this Roman statesman.
+
+Answers:
+  1: Julius Caesar
+  2: Augustus
+  3: Marcus Junius Brutus
+  4: Mark Antony
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 2b310942-c12e-45e5-8f6a-bac6f0b35be1
+
+Question: >
+  What European politician and former Prime Minister co-wrote the anthem of a famous football club?
+
+Answers:
+  1: Tony Blair
+  2: Vladimir Putin
+  3: Dominique de Villepin
+  4: Silvio Berlusconi
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: ee070755-21e6-4a49-8b92-171d3831efc3
+
+Question: >
+  How were presidents Franklin Roosevelt and Theodore Roosevelt related?
+
+Answers:
+  1: they were fifth cousins
+  2: they were father and son
+  3: they were brothers
+  4: they were first cousins
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
 
 SchemaVersion: 1
 ---
@@ -116,7 +188,477 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: newest
+  None
+
+SchemaVersion: 1
+---
+ID: 8e331ccd-054b-4ef4-960c-ae6f7f985b40
+
+Question: >
+  The US Constitution provides for three branches of the US government. Which of the following is NOT one of those
+  branches?
+
+Answers:
+  1: Executive Branch
+  2: Legislative Branch
+  3: Judicial Branch
+  4: State Branch
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 0dc90236-614b-46c4-947a-2fb8cd2abcaa
+
+Question: >
+  How does a bill (proposed law) become a law in the US?
+
+Answers:
+  1: It must be passed by the Senate.
+  2: All of these
+  3: It must be passed by the House of Representatives.
+  4: It must be signed by the President (unless 2/3 of the House and Senate vote in favor of the law).
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 1661ff47-83e6-4269-b79b-941a147f3836
+
+Question: >
+  What is the number of members of the Senate for each US state?
+
+Answers:
+  1: based on the states population
+  2: three
+  3: one
+  4: two
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 5df445d2-afc7-488c-8dd5-c7a1eb31b40b
+
+Question: >
+  Which statement is true about the justices (judges) of the US Supreme Court?
+
+Answers:
+  1: They are appointed by the US President with the Senates approval.
+  2: All (including the Chief Justice) have one vote in deciding a case.
+  3: all of these
+  4: They serve for life unless they resign.
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 9558c605-25cf-4abf-97ba-e4bb48381b4a
+
+Question: >
+  Which of the following is NOT true concerning the term (length) of office according to the US Constitution?
+
+Answers:
+  1: four years for the President
+  2: two years for a member of the House of Representatives
+  3: two years for a member of the cabinet
+  4: six years for a member of the Senate
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 3c1c9ebd-bbe4-43ee-aa0f-e89c2fa86c4d
+
+Question: >
+  Which statement concerning the US President is NOT true?
+
+Answers:
+  1: The US President is commander-in-chief of all US armed forces.
+  2: The US President can remove a member of the House of Representatives from office.
+  3: The US President is required to give a state of the union report to Congress (usually once a year).
+  4: The US President can give pardons for federal crimes.
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 844804fd-26ad-472f-b783-3215d523de0a
+
+Question: >
+  To protect the rights of US citizens' ten amendments (changes) were added to the constitution that guarantee the
+  freedom of speech, freedom of the press, etc. What is the common name for these ten amendments?
+
+Answers:
+  1: the bill of rights
+  2: the people's amendments
+  3: the law of the land
+  4: none of these
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: a216d5c5-2b3a-43c2-b764-ad95aa0745cf
+
+Question: >
+  Which of the following can declare unconstitutional and therefore void a law by a state or the federal government
+  that violates the US Constitution?
+
+Answers:
+  1: the entire Congress (House of Representatives and Senate)
+  2: the Senate
+  3: the Supreme Court
+  4: the President
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: f06b9190-4f8c-457f-aae4-ad900712eedc
+
+Question: >
+  The US Constitution specifically gives Congress the power to pass laws that do all of the following EXCEPT this one.
+
+Answers:
+  1: collect taxes
+  2: declare war
+  3: borrow money
+  4: appoint members of the cabinet
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 1c39e53d-47f7-4556-8fa1-0d3ed8add361
+
+Question: >
+  The 18th Amendment to the U.S. Constitution was abolished by a later amendment (the 21st amendment ). What did the
+  18th amendment do?
+
+Answers:
+  1: required jury trials in all federal courts
+  2: banned the ownership of hand guns in the US
+  3: banned the production and sale of alcoholic beverages
+  4: prohibited the immigration of Chinese and Japanese
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 7f3bcd2b-bb6d-410c-b84c-87e599802df4
+
+Question: >
+  What nickname is Silvio Berlusconi known by?
+
+Answers:
+  1: Il Cavaliere (The Knight)
+  2: The Mogul
+  3: The Macho
+  4: The Goalkeeper
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 70a3386b-2742-43e1-b7a2-64b1595dc418
+
+Question: >
+  Silvio Berlusconi founded a centre-right party in 2009.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 962ccfe9-d9a5-4256-b0f6-131c578c16f2
+
+Question: >
+  Sivio Berlusconi officially resigned as Prime Minister of Italy in 2011.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 520f92ec-0b87-43c1-a815-d00ae65d4043
+
+Question: >
+  Silvio Berlusconi was born in Milan in 1946.
+
+Answers:
+  1: True
+  2: False
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 999a15f5-f804-4c46-895c-569ac691e283
+
+Question: >
+  Silvio Berlusconi studied law in Milan.
+
+Answers:
+  1: True
+  2: False
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: b6afbb12-eb06-4583-a16b-dd82f56926f2
+
+Question: >
+  Silvio Berlusconi co-wrote the anthem of what Italian soccer club?
+
+Answers:
+  1: Roma
+  2: AC Milan
+  3: None of these
+  4: Juventus
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 3ce6b0c0-1a0d-4af2-ad51-b1ea5e3f890e
+
+Question: >
+  Silvio Brlusconi founded a tourist company named Edilnord.
+
+Answers:
+  1: True
+  2: False
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: a7b5efce-3a2c-4a61-8642-5a388114cd6a
+
+Question: >
+  Silvio Berlusconi built a residential centre named Milano 2.
+
+Answers:
+  1: True
+  2: False
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: c942e37b-1088-44ad-84b2-cdabf18603ab
+
+Question: >
+  Who did Silvio Berlusconi marry in 1990?
+
+Answers:
+  1: Veronica Lario
+  2: Nicole Minetti
+  3: None of these
+  4: Ornella Mutti
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 8a507f10-4279-45dc-a4a7-ad5c8c83c3a5
+
+Question: >
+  In December 2007 Berlusconi issued a written statement apologizing to his wife for flirting with other women.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
 
 SchemaVersion: 1
 ---
@@ -140,7 +682,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: world
+  None
 
 SchemaVersion: 1
 ---
@@ -164,7 +706,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: world
+  None
 
 SchemaVersion: 1
 ---
@@ -188,7 +730,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: general
+  None
 
 SchemaVersion: 1
 ---
@@ -213,6 +755,6 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: people
+  None
 
 SchemaVersion: 1

@@ -19,7 +19,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: newest
+  None
 
 SchemaVersion: 1
 ---
@@ -44,7 +44,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: newest
+  None
 
 SchemaVersion: 1
 ---
@@ -68,7 +68,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: newest
+  None
 
 SchemaVersion: 1
 ---
@@ -92,7 +92,392 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: newest
+  None
+
+SchemaVersion: 1
+---
+ID: 0cc3bfbe-5681-44fa-ac6b-8f37a073353a
+
+Question: >
+  What animals pull the sleds in the Iditarod  Trail Sled Race, which is held annually in Alaska?
+
+Answers:
+  1: wolves
+  2: horses
+  3: dogs
+  4: deer
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 1cacc947-80fe-4e6c-8ba5-ff57ed23e3e8
+
+Question: >
+  Where were the 1936 Summer Olympics held?
+
+Answers:
+  1: Athens
+  2: Moscow
+  3: Berlin
+  4: London
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 5f2c5339-3e18-4fd3-8173-aa8e7e24eca5
+
+Question: >
+  What federation, based in Lausanne, Switzerland, governs competitive swimming?
+
+Answers:
+  1: FINA
+  2: FITA
+  3: FIFA
+  4: FIBA
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: d6b7d5fb-8f46-4cd8-a1cb-16f2b02e5fa4
+
+Question: >
+  What stroke is almost universally used during a freestyle swimming race?
+
+Answers:
+  1: breaststroke
+  2: front crawl
+  3: butterfly
+  4: back crawl
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 4cc308c5-d49f-4a35-a719-846b28441ca4
+
+Question: >
+  In which of the two swimming strokes can the flip turn be used in competitions?
+
+Answers:
+  1: backstroke and breast stroke
+  2: butterfly and breaststroke
+  3: butterfly and free style
+  4: free style and backstroke
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 62306a21-2032-4e91-bba0-b2b928cb7c20
+
+Question: >
+  How many meters can be swum underwater in swimming races from the start and from each turn?
+
+Answers:
+  1: 15
+  2: 20
+  3: 10
+  4: 5
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: e146a4ee-da23-4969-b6f5-636cf3f869ff
+
+Question: >
+  During which Olympics were swimming goggles first used?
+
+Answers:
+  1: 1976 Montreal
+  2: 1984 Los Angeles
+  3: 1980 Moscow
+  4: 1906 Athens
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 6f5d15cb-e95e-4962-bb23-c7707ffce771
+
+Question: >
+  Australian Sydney Cavill is credited as the originator of this swimming stroke, which was first swum in competition
+  in 1933 and is the newest of the four major strokes.
+
+Answers:
+  1: free style
+  2: breaststroke
+  3: backstroke
+  4: butterfly
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 1e685d4e-3ab5-402c-a33e-943a6de1065f
+
+Question: >
+  In what order are the strokes in Individual Medley swum?
+
+Answers:
+  1: Butterfly, Breaststroke, Freestyle, Backstroke
+  2: Freestyle, Backstroke, Butterfly, Breaststroke
+  3: Breaststroke, Backstroke, Butterfly, Free Style
+  4: Butterfly, Backstroke, Breaststroke, Freestyle
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: e99a4a5b-472d-4b2b-b3d2-df5f64a4e2c5
+
+Question: >
+  In a relay race, which swimmer is called an anchor?
+
+Answers:
+  1: the slowest
+  2: the second fastest
+  3: the one who swims first
+  4: the one who swims last
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: fbde0225-8288-4df5-a8af-a61a0103d802
+
+Question: >
+  Who is the first swimmer in history to have won eight gold medals in a single Olympics?
+
+Answers:
+  1: Ian Thorpe
+  2: Matt Biondi
+  3: Michael Phelps
+  4: Johnny Weissmuller
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: eb16e7d0-3dbe-4a1f-94b5-f221c687d73d
+
+Question: >
+  At the age of 14 she became the youngest-ever female Olympic champion in swimming. She is the first female swimmer
+  to have ever won the same swimming event at 3 consecutive Summer Olympics.
+
+Answers:
+  1: Kyoko Iwasaki
+  2: Krisztina Egerszegi
+  3: Franziska van Almsick
+  4: Jennifer Thompson
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: b19fcfe5-0875-4925-9b96-8b990170d0fb
+
+Question: >
+  What country's National Football Team wear blue in honour of the royal House of Savoy which unified the country?
+
+Answers:
+  1: Spain
+  2: Italy
+  3: The Netherlands
+  4: England
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 86a54e80-5c24-461e-8036-5efc03de615b
+
+Question: >
+  Hour for Hour, which of these activities burns the most calories?
+
+Answers:
+  1: walking
+  2: rowing
+  3: playing snooker
+  4: playing tennis
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: dbf422aa-f460-4ba4-9ac1-c9df8b76634a
+
+Question: >
+  Before changing his name to Muhammad Ali, the legendary boxer was known as Cassius Clay.  What was Cassius's middle
+  name?
+
+Answers:
+  1: Ali
+  2: Marcellus
+  3: Jhamal
+  4: Muhammad
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 362bf38e-c802-43c6-a541-5dab69e08577
+
+Question: >
+  The Hudson Hornet dominated the NASCAR circuit for 5 straight years in the 1950s.
+
+Answers:
+  1: True
+  2: False
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
 
 SchemaVersion: 1
 ---
@@ -114,7 +499,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: world
+  None
 
 SchemaVersion: 1
 ---
@@ -140,7 +525,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: sports
+  None
 
 SchemaVersion: 1
 ---
@@ -165,7 +550,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: sports
+  None
 
 SchemaVersion: 1
 ---
@@ -189,7 +574,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: sports
+  None
 
 SchemaVersion: 1
 ---
@@ -213,7 +598,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: sports
+  None
 
 SchemaVersion: 1
 ---
@@ -237,7 +622,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: sports
+  None
 
 SchemaVersion: 1
 ---
@@ -262,6 +647,6 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: sports
+  None
 
 SchemaVersion: 1

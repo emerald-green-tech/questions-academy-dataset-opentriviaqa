@@ -187,7 +187,765 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: newest
+  None
+
+SchemaVersion: 1
+---
+ID: 0d3f0da6-ed61-4a4a-83aa-724d4ab7d8d9
+
+Question: >
+  This actor is best known for the TV shows Golden Goose Cafe, Silver Swan Cafe, The Human Joke Machine.
+
+Answers:
+  1: Morey Amsterdam
+  2: Milton Berle
+  3: Jack Benny
+  4: Art Carney
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 13f2d4d1-d3d3-49ef-82a9-d5dc3f1b26ca
+
+Question: >
+  On which show  can you find the following characters: Peggy the Penguin, Honey the Bunny, Mr. Mischief the Panda,
+  and Trina the Kitten?
+
+Answers:
+  1: Kukla, Fran and Ollie
+  2: Princess Sagaphi
+  3: Lucky Pup
+  4: Small Fry Club
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: fecdc0df-5c63-4041-a88d-b312be7c8507
+
+Question: >
+  Cheerio, I'd better be... shoveling off; Business is a little dead tonight were phrases uttered by the friendly
+  undertaker on what show?
+
+Answers:
+  1: Leave It to the Girls
+  2: The Ed Wynn Show
+  3: The Aldrich Family
+  4: The Life of Riley
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: ddb86a9b-3fa5-40ea-b354-7c3e52dcdb8d
+
+Question: >
+  The characters had lightning bolts sewn on their uniforms and a robot was first used on TV in this series.
+
+Answers:
+  1: Lost in Space
+  2: Flash Gordon
+  3: Captain Scarlet  the Mysterons
+  4: Captain Video and His Video Rangers
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 97cbe6de-ca2f-423b-afb6-7515fa1a3d5c
+
+Question: >
+  This show has been called The Eyes Have It (1948), Stop, Look, and Listen (1948) and also, Riddle Me This
+  (1948-1949).
+
+Answers:
+  1: Celebrity Time
+  2: Cross Question
+  3: Club Seven
+  4: Cinema Varieties
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: d9ea3c8a-1d79-4b85-9121-dc2cbccc5c89
+
+Question: >
+  Which of the following TV shows debuted in the 1950s?
+
+Answers:
+  1: Studio One - Suspense
+  2: Beat the Clock - Burns and Allen
+  3: The Fred Waring Show - The Front Page
+  4: Mama (AKA I Remember Mama) - Milton Berle Show (AKA Texaco Star Theater)
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 582f15a6-5b96-4d3b-9664-24e17badc2ca
+
+Question: >
+  This show was nominated for an Emmy in 1950 for Best Film made for TV along with The Lone Ranger and the winner The
+  Life of Riley (with Jackie Gleason). Some of the guest stars during its 38-episode run were: Burgess Meredith, Eva
+  Gabor, Henry Morgan, George Reeves, William Frawley, Ward Bond, Don DeFore, and Hugh Beaumont. Can you name the
+  show?
+
+Answers:
+  1: Silver Theater
+  2: Television Playhouse
+  3: Feature Theater
+  4: Actors Studio
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 4be8826b-4678-41f0-90a3-9313eadb7e61
+
+Question: >
+  This musical show lasted from March to September 1949 and was hosted by a Latin musician.
+
+Answers:
+  1: Flight to Rhythm
+  2: They're Off
+  3: Hotel Broadway
+  4: Teen Time Tunes
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 7e60063f-c22a-4e6b-a77a-7155192ef123
+
+Question: >
+  This show was vaudevillian in nature and featured Wally Cox, Arnold Stang and, Buddy Hackett. It only lasted from
+  January to April 1949 and only one episode of the show has survived.
+
+Answers:
+  1: Let There Be Stars
+  2: Oboler Comedy Theater
+  3: Face the Music
+  4: The School House
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 8fbf63ed-c289-47b6-9528-56c72605a973
+
+Question: >
+  The translation of this soap's title is Tiny Angels and 4 of the characters are; Marcela Ferradas, Lidia Catalano,
+  Adriana Salonia and, Mariana Briski. Which country had this soap?
+
+Answers:
+  1: Mexico
+  2: Bolivia
+  3: Argentina
+  4: Columbia
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 5b347977-e42c-4b70-9414-9c565bc56fda
+
+Question: >
+  This soap opera's original title included the words the need but in 2001 it dropped those words and is called by one
+  name only. Cast characters include: Owen Meyer, Judy Ditchfield, Jo da Silva and, Bianca Amato. What country
+  produced this soap?
+
+Answers:
+  1: Netherlands
+  2: Canada
+  3: Jamaica
+  4: South Africa
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: a55bdc93-6bcb-4955-9213-0ca1416bb674
+
+Question: >
+  Good Times, Bad Times is the translation of this soap that has the following characters: Lucas Sanders, Mike Brandt,
+  Lorena Gonzalez and, Nuran Baydar. What country owns it?
+
+Answers:
+  1: India
+  2: Netherlands
+  3: Bolivia
+  4: Mexico
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: bf150c1e-f337-4147-9e94-f0e8b6a4c865
+
+Question: >
+  This soap claimed to be the answer to the popular American soap Melrose Place. Its characters included Angela
+  Kostapas, Bronwyn Kellett, Gideon Miller and Wiki Taylor. In what country was it produced?
+
+Answers:
+  1: New Zealand
+  2: Greece
+  3: United Kingdom
+  4: Australia
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 67504dea-7e04-44c1-9db3-387f9a40f270
+
+Question: >
+  I Hope You're The One is the title of this soap that ran from 2001-2003. The characters were Frances Peron, Raul
+  Gaston, Don Ramon Altamonte and Amadeus. Which country produced it?
+
+Answers:
+  1: Brazil
+  2: Portugal
+  3: Philippines
+  4: Spain
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 682e5812-7f55-438e-a651-1263ffb86e6f
+
+Question: >
+  The soap opera Workout is mainly for teenagers and it first aired in 1995. It was originally set in the Workout Gym,
+  then the setting changed to Middle Choice High School. Characters include Bernardo Oliveira, Nanda, Manuela and,
+  Marcelo. What country gave us this soap?
+
+Answers:
+  1: Spain
+  2: Columbia
+  3: Brazil
+  4: Portugal
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 3b11b7de-0fd8-49e3-be68-dc85c0480dbe
+
+Question: >
+  The title of this soap opera translates as The Taste of Life and is the first soap opera in this country.
+
+Answers:
+  1: Sri Lanka
+  2: Cambodia
+  3: Malaysia
+  4: Vietnam
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: a8901155-7610-4e4c-a9c6-695efecc02d5
+
+Question: >
+  A Useless Person is is the English translation of this soap opera's title. Characters include Mirando Zapata (the
+  actor who played him won 2 awards), Francisco Martínez, Gabo Gaviria and, Liliana. Can you name the country that
+  produced it?
+
+Answers:
+  1: Bolivia
+  2: Columbia
+  3: Spain
+  4: Venezuela
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 244f2888-b01f-44b9-abcd-77a85269d386
+
+Question: >
+  The soap opera Õnne 13 was originally aired in 1993. Characters include Mare Peterson, Alma Saarepera, Kristan
+  Rosenkampf-Jägerfreund and, Jaanus Peterson. Which country claims it?
+
+Answers:
+  1: Lithuania
+  2: Denmark
+  3: Norway
+  4: Estonia
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 00d7b730-9ba1-40a7-b318-1c6cfe36f212
+
+Question: >
+  Hotel Caesar has been around since 1998 and past characters on the show have been: Ragnar Lunde, Rolv Espevoll,
+  Thomas Hildring and, Bob Affe. Which country owns it.
+
+Answers:
+  1: Finland
+  2: Denmark
+  3: Sweden
+  4: Norway
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: dafa85f5-4d6e-4fe2-927e-7085eb02f17d
+
+Question: >
+  This Irish actor and environmentalist is famous for his recurring role as British spy James Bond.
+
+Answers:
+  1: Daniel Craig
+  2: Timothy Dalton
+  3: Sean Connery
+  4: Pierce Brosnan
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 6d171df2-2413-4c54-8d10-5504d8f36401
+
+Question: >
+  What Christmas decoration was giving the Cunningham family a pain in the neck in an episode of the first season of
+  Happy Days?
+
+Answers:
+  1: A snowman
+  2: Santa Claus
+  3: An insane reindeer
+  4: Christmas tree lights
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 80dc2edf-7ed3-408c-9af9-aca64ccf77e7
+
+Question: >
+  Did Fonzie ever marry a stripper on the TV show Happy Days?
+
+Answers:
+  1: Yes
+  2: No
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 5a0c8c3a-cce9-4b3a-8b3f-afc49e40d3ee
+
+Question: >
+  On the TV show Happy Days, Fonzie saves the gang from a robber using which of the following?
+
+Answers:
+  1: a motorcycle and helmet
+  2: a can opener and a pizza
+  3: a fork and a knife
+  4: his thumb and fist
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 19a9c056-c22d-48b7-8d2c-a8f73078bc80
+
+Question: >
+  In the TV series Happy Days, Richie kissed Fonzie's girlfriend.
+
+Answers:
+  1: True
+  2: False
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 878ff79d-b83d-469c-9fb9-424483351ddf
+
+Question: >
+  Who was Joanie's first love interest on the TV sitcom Happy Days?
+
+Answers:
+  1: Ralph
+  2: Spike
+  3: Chachi
+  4: Potsie
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 7466e96d-6612-47fc-9ef1-87d0687416e0
+
+Question: >
+  Michael Landon made a cameo appearance on Happy Days, in an episode which took place in Hollywood.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 0e8f451d-8173-4746-a4f3-a13525d25a5e
+
+Question: >
+  What was Mrs C's mother's name on the sitcom Happy Days?
+
+Answers:
+  1: Mother Carol
+  2: Mother Fran
+  3: Mother Kelp
+  4: Mother Fish
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: c2abc307-6cfa-4dc3-ace6-9e35d2f4467c
+
+Question: >
+  In which of these TV series has Paris Hilton appeared?
+
+Answers:
+  1: All of these
+  2: Orange County
+  3: Veronica Mars
+  4: Las Vegas
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: c939323e-4338-43c4-90b8-c55e5a65a58b
+
+Question: >
+  This American actress of Spanish origin became known for her role in the TV series Desperate Housewives.
+
+Answers:
+  1: Eva Longoria
+  2: Silvia Marsó
+  3: Salma Hayak
+  4: Penelope Cruz
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 11e56457-206d-4e03-9ce9-d3db13b67618
+
+Question: >
+  Eva Jacqueline Longoria is famous for portraying Gabrielle Solis on this ABC television series.
+
+Answers:
+  1: Beverly Hills 90210
+  2: Desperate Housewives
+  3: How I met you mother
+  4: Friends
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 2156a49c-4ca3-4df5-9442-538f2219874b
+
+Question: >
+  In 2006, Eva Longoria was nominated for this award for her performance on Desperate Housewives?
+
+Answers:
+  1: Golden Globe Award
+  2: Imagen Foundation Awards
+  3: Screen Actors Guild Awards
+  4: DVD Exclusive Awards
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
 
 SchemaVersion: 1
 ---
@@ -211,6 +969,6 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: television
+  None
 
 SchemaVersion: 1

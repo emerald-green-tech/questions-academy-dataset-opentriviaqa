@@ -43,7 +43,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: newest
+  None
 
 SchemaVersion: 1
 ---
@@ -67,7 +67,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: newest
+  None
 
 SchemaVersion: 1
 ---
@@ -91,6 +91,372 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: newest
+  None
+
+SchemaVersion: 1
+---
+ID: 1fdb5386-38af-41cd-a1de-8faf64ff1ab2
+
+Question: >
+  What is the typical shape of snowflakes?
+
+Answers:
+  1: none of these
+  2: hexagon
+  3: pentagon
+  4: circle
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: a2626306-ddb8-4e4b-ad5f-2baae6e603ab
+
+Question: >
+  What term refers to snow which partially melts upon reaching the ground and accumulates in puddles of partially
+  frozen water?
+
+Answers:
+  1: corn
+  2: snow flurry
+  3: snirt
+  4: slush
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 7cb1ce9e-5e01-48fe-9d4e-9e04cd1683d0
+
+Question: >
+  On what other planet of the Solar System have scientists observed a phenomenon similar to snow?
+
+Answers:
+  1: Mercury
+  2: Venus
+  3: Uranus
+  4: Neptune
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: d57b0f6f-743c-43e1-80fd-f146d8834f2c
+
+Question: >
+  What color is the snow flower, also known as Sarcodes?
+
+Answers:
+  1: blue
+  2: red
+  3: white
+  4: yellow
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 76077328-d010-486d-91c7-4e2ef5f92075
+
+Question: >
+  What kind of flower was named in honor of Lady Diana in Singapore?
+
+Answers:
+  1: tulip
+  2: hyacinth
+  3: orchid
+  4: rose
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 4d00194b-1afa-4115-a349-f9dcca565964
+
+Question: >
+  What term means the possible transformation of harsh environments into ones suited for living?
+
+Answers:
+  1: terraforming
+  2: hospitalization
+  3: marsation
+  4: habitability
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 5183968b-9261-442e-874b-d07559ab36f9
+
+Question: >
+  What important invention did American Jonas Salk make in 1954?
+
+Answers:
+  1: hydrogen fuel
+  2: three stage rocket
+  3: gamma rays
+  4: polio vaccine
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 20e1ddeb-18c5-43eb-8c11-4c0f90899324
+
+Question: >
+  Where is the color blue located on the optical spectrum?
+
+Answers:
+  1: between violet and green
+  2: between gray and green
+  3: between yellow and green
+  4: between black and red
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 63e08b59-3837-4ba2-b129-1d4c3170cfe0
+
+Question: >
+  What plant was named after a French ambassador who was sent to Portugal to negotiate the marriage of six-year-old
+  Princess Marguerite de Valois?
+
+Answers:
+  1: hazel
+  2: basil
+  3: the tobacco plant (Nicotiana)
+  4: willow
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: e7ba8941-6f02-43a4-b710-f0cd3bc1e939
+
+Question: >
+  Approximately how long does it take for sun light to reach the Earth?
+
+Answers:
+  1: just under 23 minutes
+  2: 10 - 12 minutes
+  3: 4.3296 minutes
+  4: a little over 8 minutes
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 1e899777-3a4f-45d8-aa30-500ee54bb156
+
+Question: >
+  On March 11, 2011, a 9.1-magnitude earthquake and subsequent tsunami hit this country, killing 15,822 and leaving
+  another 3,926 missing.
+
+Answers:
+  1: Indonesia
+  2: Brazil
+  3: India
+  4: Japan
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: d8e9b9df-d143-4bdd-a836-cc818b73bdd5
+
+Question: >
+  What is the name of the first solar-powered spacecraft on a mission to Jupiter that was launched from Cape Canaveral
+  Air Force Station in August 2011?
+
+Answers:
+  1: Horizon
+  2: Zeus
+  3: Juno
+  4: Hera
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 88e852ea-185c-4a49-b4ea-3d7ea40a5d0a
+
+Question: >
+  This scientist, called the father of modern physics, improved the telescope and discovered the four largest
+  satellites of Jupiter.
+
+Answers:
+  1: Michelangelo
+  2: Raphael
+  3: Alberti
+  4: Galileo
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 0bd00406-6aad-4fca-a221-f5f6c52469bd
+
+Question: >
+  The presence of what  chemical element causes the red color of rubies?
+
+Answers:
+  1: chromium
+  2: carbon
+  3: graphite
+  4: argon
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 94d46cfe-2ff6-41bb-ab08-e7b12db7168b
+
+Question: >
+  Some of the the most famous rubies in crown jewels around the world, including the Black Princes Ruby and the Timur
+  Ruby in the British Crown Jewels, are actually what kind of mineral?
+
+Answers:
+  1: spinel
+  2: mica
+  3: quartz
+  4: silicate
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
 
 SchemaVersion: 1

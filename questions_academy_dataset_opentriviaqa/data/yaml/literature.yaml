@@ -50,8 +50,8 @@ SchemaVersion: 1
 ID: 5374e69b-414e-4fdf-914b-eb8a16d6f256
 
 Question: >
-  What is Dinotopia, the fictional place where humans and dinosaurs live together in James Gurneys books and Hallmarks
-  mini series?
+  What is Dinotopia, the fictional place where humans and dinosaurs live together in James Gurney's books and
+  Hallmark's mini series?
 
 Answers:
   1: A planet
@@ -192,7 +192,5587 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: newest
+  None
+
+SchemaVersion: 1
+---
+ID: d8adad22-3b0c-41e3-817a-ac2d93eda630
+
+Question: >
+  What nationality is author Orhan Pamuk who won the 2006 Nobel Prize in Literature for his novel Snow?
+
+Answers:
+  1: German
+  2: Swedish
+  3: Bulgarian
+  4: Turkish
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 19c67545-8b12-4181-84aa-b2b6cc7258a2
+
+Question: >
+  This Swedish detective was the creation of the husband and wife writing team of Per Wahloo and Maj Sjowal.
+
+Answers:
+  1: Harry Hole
+  2: Martin Beck
+  3: Inspector Winter
+  4: Patrik Hedstrom
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: e5157d8f-2ba0-452d-be49-b701f1686b62
+
+Question: >
+  Inspector Konrad Sejer is the creation of this poet and novelist who has been described as the Norwegian Queen of
+  Crime.
+
+Answers:
+  1: Jo Nesbo
+  2: Kerstin Ekman
+  3: Karin Fossum
+  4: Anne Holt
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 9d11ca8a-e141-4073-b7a8-ece47f194d2b
+
+Question: >
+  Swiss dramatist and author Friedrich Dürrenmatt  wrote two mystery novels featuring this Inspector of Police in
+  Bern.
+
+Answers:
+  1: Inspector Godel
+  2: Inspector Barlach
+  3: Inspector Oberlander
+  4: Inspector Skarre
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 6dd8ee27-b4c0-4ed4-a530-12cc26282e2a
+
+Question: >
+  Detective Erlendur, based in Rekjavik, is the creation of this widely translated and award-winning crime novelist
+
+Answers:
+  1: Stieg Larsson
+  2: Ake Edwardson
+  3: Kjell Eriksson
+  4: Arnaldur Indridason
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 9c4d9483-c149-4255-93f0-788f15857bcd
+
+Question: >
+  Inspector Jules Maigret featured in over seventy crime novels by this Belgian writer.
+
+Answers:
+  1: Georges Braque
+  2: Georges Simenon
+  3: Georges Remi
+  4: Hercule Poirot
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: f8c34293-e3a3-4a09-851c-527fb727c8ae
+
+Question: >
+  Detective Kurt Wallender, based in Ystad in south Sweden, is the creation of this prolific writer.
+
+Answers:
+  1: Kjell Eriksson
+  2: Pernille Rygg
+  3: Henning Mankell
+  4: Stieg Larsson
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 1acd0ad3-2f7c-45e8-a8b0-d39cb7f938ad
+
+Question: >
+  Salvo Montalbano, created by Andrea Camilleri, is an Italian police inspector based here.
+
+Answers:
+  1: Rome
+  2: Milan
+  3: Sicily
+  4: Venice
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 83d87878-ffd7-441c-ba8c-8b123e5a4cba
+
+Question: >
+  Boris Akunin's first work to appear in English was a series of historical mysteries set in late 19th century
+  Imperial Russia. Who was the protagonist?
+
+Answers:
+  1: Andrei Nikolayevich Bolkonsky
+  2: Rodion Romanovich Raskolnikov
+  3: Akaky Akakievich Bashmachkin
+  4: Erast Petrovich Fandorin
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: a0654e33-d136-4fc2-b77b-e14b71280023
+
+Question: >
+  Which of the following European Author - Investigator pairings is not correct?
+
+Answers:
+  1: Josef Skvorecky and Lieutenant Boruvka
+  2: Petros Markaris and Inspector Costas Haritos
+  3: Stieg Larsson and Harry Hole
+  4: Manuel Vázquez Montalbán and Pepe Carvalho
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 4f614bbd-34cf-46c8-babe-6a61a77d1995
+
+Question: >
+  Which of the following statements about French crime novelist Fred Vargas is true?
+
+Answers:
+  1: All these
+  2: Fred Vargas is the pen-name of the (female) historian Frédérique Audoin-Rouzeau.
+  3: The character Commissaire Jean-Baptiste Adamsberg appears in several of Vargas novels.
+  4: Vargas has had a successful career as an archaeologist.
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 9937b8a5-8e84-4489-b475-e1fa7cf6bef6
+
+Question: >
+  This Irish modernist author wrote a landmark novel which parallels episodes of Homer's Odyssey.
+
+Answers:
+  1: James Joyce
+  2: Samuel Beckett
+  3: Oscar Wilde
+  4: iris Murdoch
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 7a9ce591-b454-42ac-9dea-c3ff9e75dbf3
+
+Question: >
+  This poet and playwright was the first Irishman honored with the Nobel Prize in Literature. In his later years he
+  served as an Irish Senator for two terms.
+
+Answers:
+  1: William Butler Yeats
+  2: T. S. Eliot
+  3: Brian Friel
+  4: John Millington Synge
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 31d1d03c-a1d7-40f2-8e10-971828a2aec8
+
+Question: >
+  This Irish playwright and a co-founder of the London School of Economics wrote more than 60 plays during his
+  lifetime, which earned him a Nobel Prize in Literature in 1925.
+
+Answers:
+  1: William Butler Yeats
+  2: Cyril Cusack
+  3: Oscar Wilde
+  4: George Bernard Shaw
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 7c883486-28dc-4f1d-8f17-64892a26a958
+
+Question: >
+  This Irish-born author published her first novel Under the Net in 1954. She was portrayed by Kate Winslet and Judi
+  Dench in a 2001 movie.
+
+Answers:
+  1: Muriel Spark
+  2: Maureen Duffy
+  3: Iris Murdoch
+  4: Sylvia Brett
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 604f1f0a-8b6d-42ee-898d-08dc53d75283
+
+Question: >
+  What military conflict is depicted in Stephen Crane's novel The Red Badge of Courage?
+
+Answers:
+  1: the Mexican–American War
+  2: the Vietnam War
+  3: the American Civil War
+  4: the War of Independence
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: db3b2dab-247b-4ee0-b965-b6e115ae8ac2
+
+Question: >
+  What novel by Kurt Vonnegut is based on real life World War II events, written from the perspective of characters?
+
+Answers:
+  1: Cats Cradle
+  2: Breakfast of Champions, or Goodbye Blue Monday
+  3: Hocus Pocus
+  4: Slaughterhouse-Five
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 104947b0-0f2f-49e0-9fc7-931efc1d38d3
+
+Question: >
+  The plot and the interactions of the characters in Leo Tolstoy's novel War and Peace take place in the era
+  surrounding this historical event.
+
+Answers:
+  1: WWI
+  2: the Russian Revolution of 1917
+  3: the 1812 French invasion of Russia
+  4: St. Bartholomews Day massacre
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 8e7b3db9-9d2f-424d-ac89-923188eed9ba
+
+Question: >
+  What famous French novel depicts the notorious St. Bartholomews Day Massacre of 1572, when thousands of Protestants
+  are slaughtered?
+
+Answers:
+  1: Madame Bovary
+  2: The Red and the Black
+  3: The Three Musketeers
+  4: Queen Margot
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: ba7c9da1-6120-4628-9cb6-eafcc73fb82a
+
+Question: >
+  An important event described in the novel Captain Corelli's Mandolin is the massacre of Italian troops by the
+  Germans in September 1943. On what island did the massacre occur?
+
+Answers:
+  1: Malta
+  2: Sicily
+  3: Sardinia
+  4: Cephallonia
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 3463eb2a-8fad-48a8-ad4b-86826308c795
+
+Question: >
+  What novel by Charles Dickens is set before and during the French Revolution?
+
+Answers:
+  1: Dombey and Son
+  2: A Tale of Two Cities
+  3: Bleak House
+  4: Hard Times
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: f146c975-3933-4b6e-8df5-c2fa21fabce9
+
+Question: >
+  Which of the following novels is subtitled A Narrative of the Time of Nero?
+
+Answers:
+  1: The Physician
+  2: The Last Emperor
+  3: The Name of the Rose
+  4: Quo Vadis
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 7f4bedd7-b064-4f01-8705-ecaea38aee00
+
+Question: >
+  In the novel The Three Musketeers, which Queen consort of France secretly conducts an affair with the Duke of
+  Buckingham?
+
+Answers:
+  1: Marguerite de Valois
+  2: Marie de Medici
+  3: Anne of Austria
+  4: Marie Antoinette
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: e3e26c8f-54e5-4a8b-979d-f924fa920f2d
+
+Question: >
+  Alison Weir's novel Innocent Traitor tells the story of an English noblewoman, known as the The Nine Days Queen.
+  What was her name?
+
+Answers:
+  1: Mary Tudor
+  2: Lady Jane Grey
+  3: Jane Seymor
+  4: Lady Frances Brandon
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: d88c741b-b285-45b2-82b8-82d611be82b1
+
+Question: >
+  Which novel of James Clavell's popular Asian Saga opens in 1945 and focuses on prisoners of war in a Japanese camp
+  in Singapore?
+
+Answers:
+  1: Tai-Pan
+  2: King Rat
+  3: Shōgun
+  4: Noble House
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 0c05c649-9acd-4e6e-a714-c9d8ca6b926b
+
+Question: >
+  This Pulitzer-Prize-winning author studied law but dropped out after the first semester. Like the narrator of her
+  only novel, she was the daughter of a respected small-town attorney.
+
+Answers:
+  1: Gertrude Stein
+  2: Edith Wharton
+  3: Anne Bradstreet
+  4: Harper Lee
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: f0541762-6a9c-4e89-abb8-29775415a527
+
+Question: >
+  This Victorian writer left school to work in a boot blacking factory after his father was thrown into debtors
+  prison.
+
+Answers:
+  1: James Joyce
+  2: Oscar Wilde
+  3: Thomas Hardy
+  4: Charles Dickens
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 03ac24cd-9734-458c-98ae-13393c978e18
+
+Question: >
+  This pioneer of the Beat generation earned a scholarship for Columbia University due to his athletic skills as a
+  running back in American football. After cracking a tibia his football career was over and he dropped out of
+  university.
+
+Answers:
+  1: Henry Miller
+  2: Jack Kerouac
+  3: Truman Capote
+  4: John Dos Passos
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 2d7f8a79-5384-4b5b-a591-d40e7bbe5bd9
+
+Question: >
+  This author, who won the Nobel Prize for Literature and the Pulitzer Prize for his novel The Reivers, dropped out of
+  school at age 15 to work in his grandfather’s bank.
+
+Answers:
+  1: F. Scott Fitzgerald
+  2: John Steinbeck
+  3: William Faulkner
+  4: Sherwood Anderson
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: fcd3ec23-8be4-4ac8-ba70-104e91d1415d
+
+Question: >
+  This notable author dropped out of school at the age of 12, when his father died. He became a printer's apprentice
+  and later worked as a steamboat pilot, an occupation that gave him his pen name.
+
+Answers:
+  1: Ernest Hemingway
+  2: Mark Twain
+  3: Herman Melville
+  4: Theodore Dreiser
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 01b52a46-fbfe-4487-ac64-92ea7a26100c
+
+Question: >
+  This Irish playwright, who was awarded a Nobel Prize in Literature and an Oscar, harboured a lifelong animosity
+  toward schools and teachers.
+
+Answers:
+  1: Harold Pinter
+  2: George Bernard Shaw
+  3: James Joyce
+  4: William Butler Yeats
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 17a72a92-bfa7-4ab2-afd3-eae86b2f15b4
+
+Question: >
+  This prominent science fiction author dropped out of school at the age of 14, when his father, a professional
+  cricket player, fractured his thigh. His unhappy apprenticeship as a draper inspired his novels The Wheels of Chance
+  and Kip.
+
+Answers:
+  1: Jules Verne
+  2: George Orwell
+  3: Hugo Gernsback
+  4: H. G. Wells
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: a6427510-089f-4701-a1c0-ff47534fdb0b
+
+Question: >
+  Financial circumstances forced this author to leave the University of California, Berkeley in 1897 and he sailed to
+  join the Klondike Gold Rush.
+
+Answers:
+  1: Jack London
+  2: Herman Melville
+  3: Sinclair Lewis
+  4: E.L. Doctorow
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: b1902209-7e08-4194-b4de-9baee1029c9e
+
+Question: >
+  This author, noted for his children's stories, moved to Copenhagen at the age of 14 to seek employment as an actor.
+  In 1835 he published the first installment of his immortal Fairy Tales.
+
+Answers:
+  1: Hans Christian Andersen
+  2: Lewis Carroll
+  3: Charles Perrault
+  4: Carlo Collodi
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: f2404f6f-7e22-4682-8bfc-2a9a7dca1679
+
+Question: >
+  This author, famous for his novel The Human Comedy, made the following statement to the Associated Press five days
+  before his death in 1981: Everybody has to die, but I always believed an exception would be made in my case?
+
+Answers:
+  1: William Faulkner
+  2: William Burroughs
+  3: William Saroyan
+  4: Mark Twain
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: bc1915bb-c9d3-40ea-8b69-44dc913840b8
+
+Question: >
+  What French Enlightenment writer, historian and philosopher made the following remark about ice cream: Ice-cream is
+  exquisite. What a pity it isn't illegal.?
+
+Answers:
+  1: Guy de Maupassant
+  2: Albert Camus
+  3: Voltaire
+  4: Blaise Pascal
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 35db56f6-ac25-48ae-85c0-3343a30a24b3
+
+Question: >
+  In what sci-fi comedy series is the Hooloovoo described as a superintelligent shade of the color blue that
+  participated in the construction of the starship Heart of Gold?
+
+Answers:
+  1: The Time Machine
+  2: The Island of Doctor Moreau
+  3: The Hitchhikers Guide to the Galaxy
+  4: The War of the Worlds
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 3c06aaff-ab97-4c5a-95be-d86c17ad046a
+
+Question: >
+  What disease is named after the main character of an epic poem by Italian physician and poet Girolamo Fracastoro?
+
+Answers:
+  1: Rubella
+  2: Syphilis
+  3: Gonorrhea
+  4: Polio
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: cc417779-76db-4ab1-91d3-9690ef9c402d
+
+Question: >
+  The term masochism is derived from the name of Leopold von Sacher-Masoch, an Austrian writer who penned this novel.
+
+Answers:
+  1: The 120 Days of Sodom
+  2: Guilty Pleasures
+  3: Venus in Furs
+  4: Quills
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: a5314223-94a7-4e06-9379-c79f9572f75b
+
+Question: >
+  Who was Agatha Christie's second husband?
+
+Answers:
+  1: Max Mallowan
+  2: Michael Upton Jones
+  3: Thomas Lipton
+  4: Julius Hyde
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: a34a9010-903f-408e-8dc8-e14eb1b24adc
+
+Question: >
+  What was the Agatha Christie novel that related Hercule Poirot's final adventure?
+
+Answers:
+  1: The Final Solution
+  2: Evil Under The Sun
+  3: Curtain
+  4: Nemesis
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 738358ef-0809-40d6-815a-c2f96ce02645
+
+Question: >
+  What is the first name of Miss Marple, one of Agatha Christie's most famous creations?
+
+Answers:
+  1: Ruth
+  2: Dorothy
+  3: Mary
+  4: Jane
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 9d351624-7d24-490c-8450-fd27109ffcb9
+
+Question: >
+  Which of the following is not a recurring character in the Hercule Poirot stories?
+
+Answers:
+  1: Arthur Hastings
+  2: Miss Lemon
+  3: Inspector Japp
+  4: John Moffat
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 08f83930-39f8-4a1b-bedd-97259d12f1ac
+
+Question: >
+  Agatha Christie wrote a story called The Love Detectives, featuring a Mr Harley Quin.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 847bb78d-7935-45b9-8d9f-c4cff764dbea
+
+Question: >
+  Which of the following characters was not created by Agatha Christie?
+
+Answers:
+  1: Mr J. G. Reeder
+  2: Parker Pyne
+  3: Tommy Beresford
+  4: Ariadne Oliver
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: d3a1e9cb-2d6b-4a02-b7f0-bb96f1b896e1
+
+Question: >
+  Ray Bradbury was free to start a career in writing when he was rejected admission into the military during World War
+  II due to this condition.
+
+Answers:
+  1: anaemia
+  2: bad hearing
+  3: asthma
+  4: bad eyesight
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 009f9d59-7365-45fe-9cda-2db76f3932ab
+
+Question: >
+  Ray Bradbury was greatly inspired by American author Edgar Rice Burroughs. Which of these famous novels was penned
+  by Burroughs?
+
+Answers:
+  1: A Farewell to Arms
+  2: Tarzan of the Apes
+  3: A Journey to the Center of the Earth
+  4: The Fall of the House of Usher
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 490799be-f389-44b4-a0ea-0ad9821a2c0e
+
+Question: >
+  What is emblazoned on the arm of Guy Montag's uniform in Ray Bradbury's dystopian novel Fahrenheit 451?
+
+Answers:
+  1: a cross
+  2: a snake
+  3: a salamander
+  4: blazing flames
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: e7fcde6a-5c1a-4b6a-8a4e-7d3062d11cdd
+
+Question: >
+  In which of his novels does Ray Bradbury describe a nightmarish traveling carnival called Cooger Darks Pandemonium
+  Shadow Show?
+
+Answers:
+  1: Fahrenheit 451
+  2: Something Wicked This Way Comes
+  3: Death Is a Lonely Business
+  4: Dandelion Wine
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: e29e1d46-1f59-40dc-9bea-1e3f8beca0d0
+
+Question: >
+  In Ray Bradbury's book The Martian Chronicles, upon seeing their home planet Earth dwindle to the size of a pin dot,
+  most colonisers succumb to this disease.
+
+Answers:
+  1: the Great Loneliness
+  2: the Red Planet Depression
+  3: the Great Wrath
+  4: the Red Desperation
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: e352566c-bfbe-4e0e-b8b7-674dccce5a87
+
+Question: >
+  In 1971, an impact crater on Earth's moon was named by the Apollo 15 astronauts in honor of one of Ray Bradbury's
+  novels. What is the name of the crater?
+
+Answers:
+  1: The Halloween Tree
+  2: Mr Electrico
+  3: Dandelion Crater
+  4: 451 Crater
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: c2d77cd0-95e4-4642-b577-4dd6e6fdca58
+
+Question: >
+  In 1953, Ray Bradbury was hired by John Huston to work on the screenplay of the movie adaptation of this famous
+  classic novel.
+
+Answers:
+  1: The Prince and the Pauper
+  2: Moby-Dick
+  3: The Sound and the Fury
+  4: An American Tragedy
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: fdfe9488-7255-4c87-a43c-833a16c76581
+
+Question: >
+  Ray Bradbury died on June 5, 2012, at the age of 91 during what rare astronomical event?
+
+Answers:
+  1: transit of Venus
+  2: None of these
+  3: total solar eclipse
+  4: meteor shower
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: dd8cc028-df07-4c71-857e-d4ca1f1e4872
+
+Question: >
+  Why did Claire move in in the book The Clique?
+
+Answers:
+  1: She is Massies relative.
+  2: It is part of a foreign exchange program.
+  3: Her dad was an old college friend of Massies dad.
+  4: Her mom is always offering their guesthouse to the less fortunate.
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: b33544f8-ca29-4076-be69-4101ad45e79e
+
+Question: >
+  What private school do the Clique members attend in the Clique book series?
+
+Answers:
+  1: Avian-Drakkhar Day
+  2: Octavian Country Day
+  3: Lenkin Country Day
+  4: Westchester Academy
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 2246d4ff-e500-46bf-b8e6-3c2c94e98a35
+
+Question: >
+  In The Clique, Dylan's famous mother, Merri-Lee Marvil, is the host of what famous morning talkshow?
+
+Answers:
+  1: The Daily Grind
+  2: Marvil-ous!
+  3: Get Up, Westchester!
+  4: The REAL Merri-Lee Marvil
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 1c8cb8e9-99ab-47dc-99e6-c6dc24893428
+
+Question: >
+  Why is Kristen different from the rest of the original Clique girls?
+
+Answers:
+  1: She is smart.
+  2: All of these
+  3: She is athletic.
+  4: She is poor.
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 70ae96fd-2ac9-4831-8cbd-df178868d25d
+
+Question: >
+  In which books did Alicia try to tear apart the Clique?
+
+Answers:
+  1: Best Friends for Never, Revenge of the Wannabes
+  2: A Tale of Two Pretties, My Little Phony
+  3: Revenge of the Wannabes, Boys R Us
+  4: These Boots are Made for Stalking, A Tale of Two Pretties
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 34bafd42-a285-4726-b414-4955d3ce68ec
+
+Question: >
+  In what book of The Clique series does Claire move in Massie's room during renovations?
+
+Answers:
+  1: The Pretty Committee Strikes Back
+  2: A Tale of Two Pretties
+  3: My Little Phony
+  4: Invasion of the Boy Snatchers
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 112b9d05-22e3-4a7a-9d4d-6482aeb91c5c
+
+Question: >
+  In Dial L for Loser, Alicia's cousin Nina visits and tears apart the Clique.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: f86d19f1-610b-4ccf-92e7-efbed4e2c6bf
+
+Question: >
+  Where did the Clique characters meet?
+
+Answers:
+  1: A Masquerade Ball
+  2: A New Years Yves Party
+  3: A High School House Party
+  4: A Christmas Evening Spectacular
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 7fb4a6f9-a818-4756-ab78-9099c6aec1df
+
+Question: >
+  Who are Massie's crushes in The Clique series of books?
+
+Answers:
+  1: Michael, Finnick, Chris, Eric
+  2: Chris, Landon, Derrington, Cam
+  3: Derrick, Chris, Kemp, Dune
+  4: Cam, Landon, Michael, Finnick
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: c41be2eb-d036-4d97-955d-4ed0582d6c85
+
+Question: >
+  Where does Massie move in the last book of The Clique series?
+
+Answers:
+  1: Tokyo
+  2: Malibu
+  3: Paris
+  4: London
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 0065d510-307f-46bc-b010-b6153f6f8b2a
+
+Question: >
+  What are the first names of author D. H. Lawrence?
+
+Answers:
+  1: David Hugh
+  2: Dylan Hector
+  3: David Herbert
+  4: Denis Harold
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 49387406-cd7d-4c74-9114-613fcf98e398
+
+Question: >
+  Select the first and middle name of H. G. Wells.
+
+Answers:
+  1: Herbert George
+  2: Hugh Gordon
+  3: Hector George
+  4: Herbert Gordon
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 409c0088-2a3c-4055-9371-6116f37f42f8
+
+Question: >
+  Pick the correct first and middle names of C. S. Lewis.
+
+Answers:
+  1: Clive Stanley
+  2: Clive Staples
+  3: Charles Staples
+  4: Charles Stanley
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: d69ebbb5-8c99-4a3a-b3d8-06ab166196a7
+
+Question: >
+  Select the names of J. R. R. Tolkien.
+
+Answers:
+  1: Jeremy Reginald Robert
+  2: John Roderick Rupert
+  3: John Ronald Reuel
+  4: Joseph Rupert Ronald
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: dbbf928a-6f82-4003-9394-dccf62cf8cc9
+
+Question: >
+  Select the names of P. G. Wodehouse.
+
+Answers:
+  1: Plumleigh Glossop
+  2: Phineas Geoffrey
+  3: Pelham Grenville
+  4: Percival Gideon
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 153bc148-43ca-492a-bb45-3aac5d9607fb
+
+Question: >
+  What are the names of E. L. Doctorow?
+
+Answers:
+  1: Eric Landor
+  2: Ephraim Lionel
+  3: Edgar Lawrence
+  4: Edgar Lionel
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 8e7b2469-d80d-4922-be9c-b1d45b314cc2
+
+Question: >
+  What are the names of author J. P. Donleavy?
+
+Answers:
+  1: Joseph Peter
+  2: James Patrick
+  3: John Patrick
+  4: Joseph Paul
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 4b07bd2e-f94e-43b6-a6c6-4a8dd220ade0
+
+Question: >
+  What are the names of H. P.  Lovecraft?
+
+Answers:
+  1: Howard Phillips
+  2: Henry Philip
+  3: Hector Pryce
+  4: Herbert Peter
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 26aba406-ed8b-42c9-8449-26aff2ebf619
+
+Question: >
+  Select the names of J. D. Salinger.
+
+Answers:
+  1: Jerome David
+  2: Joseph Daniel
+  3: Joseph David
+  4: Jacob Daniel
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 533acc21-8972-4bcf-b15e-4f62f7787a25
+
+Question: >
+  Select the names of E. B. White.
+
+Answers:
+  1: Edward Boston
+  2: Evan Bryce
+  3: Elwyn Brooks
+  4: Eric Blair
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 68282ac0-9a57-45aa-b8cd-6f0550e295db
+
+Question: >
+  Which is the only novel by Charles Dickens that doesn't have scenes set in London?
+
+Answers:
+  1: Oliver Twist
+  2: David Copperfield
+  3: A Christmas Carol
+  4: Hard Times
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 0d03f889-826f-41a9-a9d8-5428f6a9e90b
+
+Question: >
+  What famous character depicted by Bram Stoker goes to London in order to seduce Mina Harker?
+
+Answers:
+  1: Dracula
+  2: Faustus
+  3: Manfred
+  4: Frankenstein
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 74b396e0-7001-489d-b28f-bdaee79211a1
+
+Question: >
+  On what famous London street does famous detective Sherlock Holmes live?
+
+Answers:
+  1: Charing Cross Road
+  2: Oxford Street
+  3: Downing Street
+  4: Baker Street
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 4e894e3e-ce77-4bf5-a6b6-7395ce3f1e12
+
+Question: >
+  What novel opens on a beautiful summer day with Lord Henry Wotton observing artist Basil Hallward's work?
+
+Answers:
+  1: A Portrait of the Artist as a Young Man
+  2: The Picture of Dorian Gray
+  3: Ulysses
+  4: Vanity Fair
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: fca2e8ed-d045-43f4-824b-816ea18ba903
+
+Question: >
+  Name the author of The Time Machine, The Invisible Man and The War of the Worlds, all of which have scenes set in
+  London.
+
+Answers:
+  1: H. G. Wells
+  2: Jules Verne
+  3: Joseph Conrad
+  4: D. H. Lawrence
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 6cdf5340-a72d-44a0-9205-eeb07e6506bf
+
+Question: >
+  Winston Smith, the protagonist of this novel lives in London, the chief city of Airstrip One.
+
+Answers:
+  1: Animal Farm
+  2: Nineteen Eighty-Four
+  3: A Clockwork Orange
+  4: The Lord of the Flies
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 0d22bec7-65ec-4a24-899c-a17fade6217c
+
+Question: >
+  What author described a day in the life of Mrs Dalloway, who goes around London in the morning, getting ready to
+  host a party?
+
+Answers:
+  1: Muriel Spark
+  2: Virginia Woolf
+  3: Emily Bronte
+  4: Erica Jong
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: aa05f74f-f3c9-4840-8c0e-db1274ebaca0
+
+Question: >
+  This novel is said to be about migration, metamorphosis, divided selves, love, death, London and Bombay. Following a
+  violent riot against the novel, the Supreme Leader of Iran issued a fatwa calling on all good Muslims to kill its
+  author.
+
+Answers:
+  1: Rights of Man
+  2: The Satanic Verses
+  3: The Grapes of Wrath
+  4: Lady Chatterleys Lover
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 31a540cb-0ed3-4ada-8f0a-ace1902ddda6
+
+Question: >
+  Becky Sharp, a strong-willed and cunning young woman, is the protagonist of this classic novel.
+
+Answers:
+  1: Desperate Remedies
+  2: The Mill on the Floss
+  3: Vanity Fair
+  4: The Professor
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 8e5d27ee-d94b-4f11-ada3-59c0ea0499bf
+
+Question: >
+  What famous character leaves his family in Gascony and travels to Paris, encountering Milady de Winter on the way?
+
+Answers:
+  1: d'Artagnan
+  2: La Mole
+  3: Edmond Dantès
+  4: Porthos
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: eb3e9b53-b9af-4ea3-9d12-fc1d07b677aa
+
+Question: >
+  What famous author wrote, If you are lucky enough to have lived in Paris as a young man, then wherever you go for
+  the rest of your life, it stays with you, for Paris is a moveable feast?
+
+Answers:
+  1: Ernest Hemingway
+  2: James Joyce
+  3: F. Scot Fitzgerald
+  4: Ezra Pound
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: c9dda760-380a-48dc-817f-6d8363c07c19
+
+Question: >
+  What novel by Charles Dickens, set before and during the French Revolution, opens with the sentence, It was the best
+  of times, it was the worst of times?
+
+Answers:
+  1: A Tale of Two Cities
+  2: Oliver Twist
+  3: Hard Times
+  4: The Great Expectations
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: c98c7b83-5ebe-4993-a630-696e4e14f9c5
+
+Question: >
+  What American author penned the novel The Tropic of Cancer during his nomadic life in Paris?
+
+Answers:
+  1: Ernest Hemingway
+  2: William Burrows
+  3: William Faulkner
+  4: Henry Miller
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 2460c20a-8c9c-4427-8c98-96da6bc09146
+
+Question: >
+  What novel by Victor Hugo focuses on the struggles of ex-convict Jean Valjean and his experience of redemption?
+
+Answers:
+  1: The Man Who Laughs
+  2: The Red and the Black
+  3: Les Miserables
+  4: The Hunchback of Notre-Dame
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: b02a1aab-4366-4dce-8639-30c3d4bdc8d8
+
+Question: >
+  What American author wrote the novel The American, which is centered around an American businessman's courtship of a
+  young widow from an aristocratic Parisian family?
+
+Answers:
+  1: Mark Twain
+  2: Henry James
+  3: John Steinbeck
+  4: Washington Irving
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 36fd8bc5-b9c8-4ebb-a069-3a168a3fc594
+
+Question: >
+  In this novel by Honoré de Balzac, a criminal-in-hiding named Vautrin tells naive law student Eugène de Rastignac
+  that he is making him an offer that he cannot refuse.
+
+Answers:
+  1: Madame Bovary
+  2: Gargantua and Pantagruel
+  3: The Man Who Laughs
+  4: Le Père Goriot (Old Goriot)
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 1fcf393c-598e-4fa8-8430-f7e751a051e9
+
+Question: >
+  Julien Sorel is the protagonist of this satirical French novel, set during the Bourbon Restoration.
+
+Answers:
+  1: Queen Margot
+  2: Old Goriot
+  3: The Man in the Iron Mask
+  4: The Red and the Black
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: b6feddd8-0e30-432c-9f37-9891000091bd
+
+Question: >
+  This novel by American author James Baldwin is noteworthy for bringing complex representations of homosexuality. It
+  follows the events in the life of an American living in Paris.
+
+Answers:
+  1: Of Human Bondage
+  2: The Naked and the Dead
+  3: Giovanni's Room
+  4: The Sun Also Rises
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 174f10f7-eed5-4b54-bea4-f89c76bca922
+
+Question: >
+  What is the pen name of Eric Blair who wrote the memoir Down and Out in Paris and London?
+
+Answers:
+  1: Graham Greene
+  2: Salman Rushdie
+  3: George Orwell
+  4: Julian Barnes
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: b9d5d599-1575-4bd1-a97b-266a912021f8
+
+Question: >
+  In this novel by Norman Mailer, a decorated war-hero and former congressman murders his wife and descends into the
+  underworld of Manhattan jazz clubs and Mafia intrigue.
+
+Answers:
+  1: An American Dream
+  2: The White negro
+  3: Naked Lunch
+  4: The Naked and the Dead
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 3b716a09-6cd4-4c9d-878b-4f0cefcd534a
+
+Question: >
+  This novel, set in Manhattan during the Wall Street boom of the late 1980s, is centered around the daily life of
+  young investment banker Patrick Bateman.
+
+Answers:
+  1: City of Dreams
+  2: American Psycho
+  3: The Long Day
+  4: The Rules of Attraction
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 32fc95b8-37b0-477a-b6c2-68789769fc05
+
+Question: >
+  Some famous assassinations and assassination attempts have been associated with this novel, most of which is set in
+  New York City.
+
+Answers:
+  1: A Clockwork Orange
+  2: Slaughterhouse Five
+  3: One Flew Over the Cuckoos Nest
+  4: The Catcher in the Rye
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 09c6a272-632b-4b75-bf80-0853c131a2ae
+
+Question: >
+  This is Sylvia Plath's only novel, which was originally published under the pseudonym Victoria Lucas. The
+  protagonist's descent into mental illness parallels Plath's own experiences.
+
+Answers:
+  1: Dying Inside
+  2: Annie on My Mind
+  3: The Bell Jar
+  4: The Dead and the Gone
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 194e168a-ec07-41d3-964a-4764fa307b89
+
+Question: >
+  The title character of this novel, set in the roaring 1920s, is a mysterious host of regular, extravagant parties.
+  He has become an archetype of self-made Americans seeking to join high society.
+
+Answers:
+  1: The Age of Innoncence
+  2: The Glass Castle
+  3: The Great Gatsby
+  4: The Catcher in the Rye
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: efafd34e-e626-472a-85b6-58cd2be144de
+
+Question: >
+  Name the author of the novels The Fountainhead and Atlas Shrugged, which are both set in New York City.
+
+Answers:
+  1: Harper Lee
+  2: Edith Wharton
+  3: Sylvia Plath
+  4: Ayn Rand
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 562ed763-3492-405f-8084-f9a16e7d4787
+
+Question: >
+  This literary work depicts Holly Golightly, a tenant in a brownstone apartment in Manhattan, who has become an
+  American cultural icon.
+
+Answers:
+  1: Closing Time
+  2: Breakfast at Tiffany's
+  3: The Alienist
+  4: Motherless Brooklyn
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 61369638-8ddb-4b8b-b728-9e8306726956
+
+Question: >
+  What 1994 novel by Joseph Heller is a sequel to the popular Catch-22?
+
+Answers:
+  1: The Winter of Our Discontent
+  2: Something Happened
+  3: Closing Time
+  4: Fahrenheit 451
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: b81d2119-5c69-4001-aafd-fdb51b6c13e6
+
+Question: >
+  The New York Trilogy, which consists of the novels City of Glass, Ghosts, and The Locked Room, is this author's
+  signature work.
+
+Answers:
+  1: Paul Auster
+  2: Erica Jong
+  3: Philip Roth
+  4: Adam Langer
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: ae4d342a-5a98-4e59-b2fb-b3f9284ca185
+
+Question: >
+  This novel by Edith Wharton focuses on an upper-class couple whose impending marriage is threatened by the
+  appearance of a woman plagued by scandal.
+
+Answers:
+  1: The History of Love
+  2: Extremely Loud and Incredibly Close
+  3: Women
+  4: The Age of Innocence
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 699ba4ae-3bce-4e70-84cb-b06eecb198f0
+
+Question: >
+  The character Nick Carraway is from which of the following novels?
+
+Answers:
+  1: Ulysses
+  2: Angels  Demons
+  3: The Last of the Mohicans
+  4: The Great Gatsby
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: ccd883f1-19a7-49ff-8b42-fac3dec3b417
+
+Question: >
+  This Bourbon King and his Prime Minister Cardinal Richelieu are described in Alexandre Duma's novel The Three
+  Musketeers.
+
+Answers:
+  1: Henry IV
+  2: Louis XIII
+  3: Charles VIII
+  4: Philip II
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 9c5931fc-3f61-48a5-b860-b503e0e48d01
+
+Question: >
+  Phileas Fogg is the main fictional character in what famous novel?
+
+Answers:
+  1: The Sound and the Fury
+  2: Ulysses
+  3: Around the World in Eighty Days
+  4: War and Peace
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: d63d1623-8b9f-4c25-8802-3dd266b4eb0b
+
+Question: >
+  This character is a bad-tempered monarch whose most famous line is Off with their heads!.
+
+Answers:
+  1: The Wicked Witch of the West
+  2: The Queen of Hearts
+  3: The Red Queen
+  4: Duchess
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 6436c6eb-2eb0-4721-9b47-a394e7d2dcb0
+
+Question: >
+  This Disney icon is clad in a short lime-green dress and green slippers with white puffs.
+
+Answers:
+  1: Tiana
+  2: Silvermist
+  3: Queen Clarion
+  4: Tinker Bell
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: eb73cb27-f620-4dc9-820c-2aabfb75ce7f
+
+Question: >
+  What author wrote about the candiru in his 1959 novel Naked Lunch?
+
+Answers:
+  1: Ray Bradburry
+  2: William S. Burroughs
+  3: Kurt Vonnegut
+  4: Henry Miller
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 2c2cbf94-8806-4c86-806f-551519f380cc
+
+Question: >
+  This influential Irish author is honored on Bloomsday, the day on which his novel Ulysses is set.
+
+Answers:
+  1: James Joyce
+  2: Jonathan Swift
+  3: Oscar Wilde
+  4: Bram Stoker
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 9feb7e9d-723f-4380-bbaf-a46adef1a4e4
+
+Question: >
+  This prolific American poet from Massachusetts lived in seclusion and finally later in life refused to even leave
+  her home.
+
+Answers:
+  1: Sylvia Plath
+  2: Emily Dickinson
+  3: Louisa May Alcott
+  4: Amy Lowell
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: bd793f23-e7b4-4db7-95cf-5923cb91f5bf
+
+Question: >
+  In his novel A Connecticut Yankee in King Arthur's Court, this famous red haired author wrote, When red headed
+  people are above a certain social grade, their hair is auburn.
+
+Answers:
+  1: Mark Twain
+  2: Theodor Dreiser
+  3: Washington Irving
+  4: William Faulkner
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: c70a9311-8e9d-4f4f-9568-d15416d835ce
+
+Question: >
+  This redhead playwright became the first person in history to be awarded both a Nobel Prize and an Oscar, for his
+  contributions to literature and for his work on the film Pygmalion.
+
+Answers:
+  1: Samuel Beckett
+  2: Harold Pinter
+  3: George Bernard Shaw
+  4: Eugene ONeill
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: e1126a42-9241-407b-86b1-3626e0b89fd9
+
+Question: >
+  Name the redhead author of It Can Happen Here, who became the first American to win the Nobel Prize for Literature.
+
+Answers:
+  1: Ernest Hemingway
+  2: Sinclair Lewis
+  3: William Faulkner
+  4: Willa Carter
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 0f1da05b-3411-4ee1-81da-ae7733b140ee
+
+Question: >
+  The first written version of the Don Juan legend was penned by Molière.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: ccec5b7f-de20-469f-9116-d67d369d7bbf
+
+Question: >
+  What is the name of Harry Potter's brilliant female best friend?
+
+Answers:
+  1: Hermione Granger
+  2: Ginny Weasley
+  3: Luna Lovegood
+  4: None of These
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 50ce87d2-afe8-44e5-9096-6dcc4f804da3
+
+Question: >
+  What is the name of Harry Potter's red-headed, best male friend?
+
+Answers:
+  1: Ron Weasley
+  2: Draco Malfoy
+  3: None of These
+  4: Blaise Zabini
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: fbc5b019-9d75-4b02-9c2a-d4a8f31677a4
+
+Question: >
+  What is the name of Harry Potter's mean cousin?
+
+Answers:
+  1: Dean Thomas
+  2: Dudley Dursley
+  3: None of These
+  4: Vernon Dursley
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 96b21d3f-f6b5-4b66-ad20-86e542459e1f
+
+Question: >
+  It is mentioned several times throughout the series that Harry Potter looks like his ___, but has his ___s eyes.
+  Fill in the blanks.
+
+Answers:
+  1: Uncle, aunt
+  2: None of These
+  3: Dad, mom
+  4: Mom, dad
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: bd4e91d6-7818-4348-98cc-81da651bf6bf
+
+Question: >
+  What are the names of Harry Potter's school enemies?
+
+Answers:
+  1: Draco Malfoy, Vincent Crabbe, and Gregory Goyle
+  2: None of these
+  3: Draco Malfoy, Gregory Goyle, and Cedric Diggory
+  4: Dudley Dursley, Seamus Finigan, and Vincent Crabbe
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 055ddc00-ad49-4435-be39-ec9efbb328e1
+
+Question: >
+  What spell is used to conjure a patronous in the Harry Potter series?
+
+Answers:
+  1: Lumos
+  2: Stupify
+  3: Expecto Patronum
+  4: None of these
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 6817ef69-555f-49a0-aaf8-0974649ddc9d
+
+Question: >
+  Which of these is one of the three unforgivable curses in the Harry Potter series?
+
+Answers:
+  1: Crucio
+  2: Imperio
+  3: Avada Kedavra
+  4: All of these
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 99c428ec-0d69-4148-8013-b27673bcafcf
+
+Question: >
+  Voldemort's real name is Tom Marvolo Riddle.
+
+Answers:
+  1: True
+  2: False
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 409ed830-d57d-457f-9354-3511bdff025f
+
+Question: >
+  What is the name of Hogwarts half-giant groundskeeper?
+
+Answers:
+  1: Argus Filch
+  2: Albus Dumbledore
+  3: Rubeus Hagrid
+  4: None of these
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: acf9ae1d-474f-4506-a675-2a3e6d285470
+
+Question: >
+  Has Harry Potter ever kissed Cho Chang?
+
+Answers:
+  1: Yes
+  2: No
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 07b9ef03-22ab-4d81-a2c3-75e2ccf1ffb4
+
+Question: >
+  How many children do Arthur and Molly Weasley have?
+
+Answers:
+  1: 5
+  2: 7
+  3: 4
+  4: 6
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: cdf3f2dc-6e06-4a0e-8803-6a57396c6d04
+
+Question: >
+  Which of the following is NOT a horcrux?
+
+Answers:
+  1: All of them are.
+  2: Rowena Ravenclaws diadem
+  3: Godric Gryffindors sword
+  4: Helga Hufflepuffs cup
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: aa6e5d98-4a50-401d-9b20-d95b04368344
+
+Question: >
+  In Harry Potter and the Order of the Phoenix, what is the name of the group formed by Harry, Ron, and Hermione?
+
+Answers:
+  1: None of These
+  2: The Order of the Phoenix
+  3: Potterheads
+  4: Dumbledore's Army
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 7f72ffb7-9817-463b-9651-47286997c042
+
+Question: >
+  In Harry Potter and the Chamber of Secrets, Harry, Hermione, and Ron drink Polyjuice Potion, so they can sneak into
+  the Slytherin common room and find out if Draco is the heir of Slytherin. Harry and Ron successfully turn into
+  Crabbe and Goyle, but Hermione turns into what kind of animal by mistake?
+
+Answers:
+  1: None of These
+  2: Cat
+  3: Rabbit
+  4: Dragon
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 86890029-e195-47c9-8c4b-9452d23826a1
+
+Question: >
+  What was the monster in the fictional Chamber of Secrets?
+
+Answers:
+  1: Aragog
+  2: Boggart
+  3: Basilisk
+  4: Animigus
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 9b62e307-2505-4697-bdb2-17618e369076
+
+Question: >
+  What did Harry Potter pull out of the old sorting hat?
+
+Answers:
+  1: Godric Gryffindor's Axe
+  2: Salazar Slytherin's Cauldron
+  3: Godric Gryffindor's Sword
+  4: Salazar Slytherin's Wand
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: d8ef9f01-62c1-4798-a872-89368f1fb5d0
+
+Question: >
+  What is Percy Weasley's girlfriends name in the Harry Potter books?
+
+Answers:
+  1: Lavender Brown
+  2: Clarissa Silvermist
+  3: Rowena Contacts
+  4: Penelope Clearwater
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 31900e32-4704-4dea-b9a5-5fb0d6c724da
+
+Question: >
+  What language does Harry Potter speak to communicate with snakes?
+
+Answers:
+  1: Parseltongue
+  2: Spanish
+  3: Portuguese
+  4: Dragonarc
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: db4151ea-b2cd-41a7-a528-149d0fea059e
+
+Question: >
+  What potion did Harry Potter, Ron and Hermione make to take the form of someone else?
+
+Answers:
+  1: Polyjuice potion
+  2: Polywag Potion
+  3: Wolfbane essence
+  4: Tadpolious Potion
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 048f62c2-c8bc-460b-aa84-be956520447f
+
+Question: >
+  Who cursed the bludger that broke Harry Potters arm?
+
+Answers:
+  1: Rubeus Hagrid
+  2: Severus Snape
+  3: Draco Malfoy
+  4: Doby the House Elf
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 1f8bfe66-084c-4c64-87bd-7d851e6dcf93
+
+Question: >
+  What part of Fawkes healed Harry Potter's wound after the fight with the basilisk?
+
+Answers:
+  1: Saliva
+  2: Blood
+  3: Sweat
+  4: Tears
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 9a4b5ae2-8b7d-4bb4-beb1-701ead066bf9
+
+Question: >
+  How did Mrs. Norris end up petrified by the basilisk in Harry Potter and the Chamber of Secrets?
+
+Answers:
+  1: She saw the basilisk in a mirror.
+  2: She saw a reflection of the basilisk.
+  3: She saw a photo of the basilisk.
+  4: She looked at the basilisk straight in the eye.
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: ec6939e2-caca-467b-857a-8530181ea66c
+
+Question: >
+  What is the occupation of Hermione's parents?
+
+Answers:
+  1: None of these
+  2: Dentists
+  3: Agents
+  4: Medical Assistants
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: f05cacfa-8915-459a-abe4-deb75d596dde
+
+Question: >
+  Is Severus Snape a member of Gryffindor?
+
+Answers:
+  1: No
+  2: Yes
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 1ac07e62-2210-4b7e-9dbb-e182eeb147e5
+
+Question: >
+  In The Black Mountain, Nero Wolfe and his assistant Archie Goodwin are traveling in Europe and are almost arrested
+  and taken to Titograd. By what name do we know Titograd?
+
+Answers:
+  1: Belgrade, Serbia
+  2: Sarajevo, Bosnia-Herzegovina
+  3: Bucharest, Romania
+  4: Podgorica, Montenegro
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: e74aa9ca-c539-41d7-9277-3bf809b6d5af
+
+Question: >
+  In Where There's a Will, Nero Wolfe solves the case with the aid of a centaurea cyanis. What kind of flower is a
+  centaurea cyanis?
+
+Answers:
+  1: pink
+  2: rose
+  3: cornflower
+  4: orchid
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 073b3110-ac97-4f58-995b-529e4c309539
+
+Question: >
+  In The League of Frightened Men, Archie Goodwin uses the term viva voce incorrectly. What does viva voce mean?
+
+Answers:
+  1: by word of mouth
+  2: secret
+  3: out loud
+  4: cheerful
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 46eaba1d-a589-4dfe-9d68-a64640f289b5
+
+Question: >
+  In Death of a Doxy, Nero Wolfe recognizes that the name Milton Thales is a play on Thales of Miletus. Who was Thales
+  of Miletus?
+
+Answers:
+  1: A Roman senator
+  2: A Greek philosopher
+  3: A Roman philosopher
+  4: A Greek playwright
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 750f55f2-43b1-4fd8-b7ce-157aa337f3fd
+
+Question: >
+  Nero Wolfe isn't the only character in Rex Stouts books who knows a thing or two. In Some Buried Caesar, when Archie
+  first meets his soon-to-be girlfriend Lily Rowan, she gives him the nickname Escamillo. Where did she get that name?
+
+Answers:
+  1: Nowhere; she made it up.
+  2: From an opera
+  3: From a book
+  4: From a play
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 97fde3bf-97be-4099-a8cf-f62ff7b7abab
+
+Question: >
+  In The Silent Speaker, Archie Goodwin mentions that the Mound Builders left more traces in his home state of Ohio
+  than anywhere else. Which of these do we know for certain about the Mound Builders?
+
+Answers:
+  1: They were all destroyed by glacial activity.
+  2: They were all killed by neighboring tribes.
+  3: None of these
+  4: They discovered both writing and mathematics.
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: eeeb3ca9-b971-4317-b537-a27e9464c62f
+
+Question: >
+  In Poison a la Carte, Archie Goodwin compares the color of a woman's hair to cornsilk before it begins to turn. What
+  color is cornsilk before it begins to turn?
+
+Answers:
+  1: Black
+  2: Light brown
+  3: Yellowish green
+  4: Pinkish white
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 1ca2ff15-61ea-4ed8-9698-324e6c6bd1cf
+
+Question: >
+  What is the name of Katniss Everdeen's 12 year-old sister in the novel The Hunger Games?
+
+Answers:
+  1: Primrose
+  2: Violet
+  3: Carnation
+  4: Tulip
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: f9ce2764-30bd-40e9-983a-e13ded75f08b
+
+Question: >
+  What profession does Peeta Mellark's father have in the book The Hunger Games?
+
+Answers:
+  1: butcher
+  2: artist
+  3: tanner
+  4: baker
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 0cda57d1-e614-4fa9-b830-c42480411adf
+
+Question: >
+  Katniss, the protagonist of the novel The Hunger Games, was named after which of the following?
+
+Answers:
+  1: flower
+  2: berry
+  3: tree
+  4: bird
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 6b4db713-c0e6-437e-ad85-f5fb2b80355c
+
+Question: >
+  In the novel The Hunger Games, when faced with the cornucopia, Katniss planned to grab what weapon?
+
+Answers:
+  1: rope
+  2: bow and arrows
+  3: knives
+  4: javelin
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: c7dd9766-ac96-4f50-a69c-109fbea83615
+
+Question: >
+  Fictional character Katniss Everdeen used tracker jackers to help her escape. Tracker jackers are a type of
+  genetically modified wasps.
+
+Answers:
+  1: True
+  2: False
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 46ba1eae-a46d-4c9f-bece-1237880d0160
+
+Question: >
+  In The Hunger Games, when Katniss finds Rue trapped in a net, she barely has time to scream before a boy from
+  District 3 kills her.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: c91684c8-9d9d-4238-b4be-9768360ecfaf
+
+Question: >
+  In the novel The Hunger Games, Katniss finds out that both tributes from the same district can win and when she sees
+  Peeta again, he is injured badly in which body part?
+
+Answers:
+  1: his forehead
+  2: his back
+  3: his arm
+  4: his leg
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 4cd73851-913f-4450-b54f-91bf9a704c4f
+
+Question: >
+  In The Hunger Games, Katniss and Peeta are faced by the muttations of other dead tributes. Who is the only other
+  survivor who suffers painfully from the attack of the wolf-like creatures and is eventually killed by Katniss out of
+  pity and compassion?
+
+Answers:
+  1: Cato
+  2: Haymitch
+  3: Brutus
+  4: Marvel
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 373f2785-37b6-4fe8-a095-a127af38569a
+
+Question: >
+  This Gothic heroine lifted the famous black veil and spent time at a castle in Italy.
+
+Answers:
+  1: Emily St. Aubert
+  2: Isabella
+  3: Donna Clara
+  4: Clara la Luc
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: c794f1aa-4efc-43ba-b63a-bf614426cd2b
+
+Question: >
+  Complete this quote from a novel by Jane Austen: No one who had ever met _____ ______ in her infancy would have
+  supposed her born to be a heroine.
+
+Answers:
+  1: Catherine Morland
+  2: Elizabeth Bennet
+  3: Mary Musgrove
+  4: Elinor Dashwood
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: c6458093-5e74-476a-9210-2b048ec4d13c
+
+Question: >
+  This Gothic heroine left the love of her life when she discovered he was already married but they reunited in the
+  end.
+
+Answers:
+  1: Jane Eyre
+  2: Marian Halcombe
+  3: Catherine Earnshaw
+  4: Lucy Snowe
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 42944fd9-e5b2-4a6b-88e7-f87e1f427221
+
+Question: >
+  Sethe, an untraditional Gothic heroine in Toni Morrisons Beloved, ends up with her first love at the end of the
+  novel.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 84ede4b4-7219-403c-b0f0-c6794e8397cf
+
+Question: >
+  Dominican author Jean Rhys first encountered this heroine when she read Jane Eyre. She was so furious at Charotte
+  Bronte's portrayal of the character (which could be considered racist) that she decided to write a prequel to Jane
+  Eyre in which this character is the Gothic heroine.
+
+Answers:
+  1: Grace Poole
+  2: Jane Eyre
+  3: Blanche Ingram
+  4: Antoinette Mason
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 598079b4-9ecc-43e9-a5db-c23f26340dfa
+
+Question: >
+  This Gothic heroine was so popular that Wilkie Collins received letters from male fans asking him for the name of
+  the woman the character was based on, so they could propose to her.
+
+Answers:
+  1: Rachel Verinder
+  2: Laura Fairlie
+  3: Rosanna Spearman
+  4: Marian Halcombe
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 041e03a1-4e50-46fe-94ff-64ee847a9508
+
+Question: >
+  This character from the novel House of Stairs is one of the few homosexual Gothic heroines in the history of Gothic
+  literature.
+
+Answers:
+  1: Elizabeth Vetch
+  2: Cosette
+  3: Isabella Thorpe
+  4: Anne Catherick
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: c95f7d5a-858c-4ae0-aa1a-4b21faf95c8f
+
+Question: >
+  In First Love: A Gothic Tale, the Gothic heroine is a corrupted child who commits a murder.
+
+Answers:
+  1: True
+  2: False
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 4d70c574-a5bf-4a98-8fe4-a3acaf8e965a
+
+Question: >
+  Which of these is considered the first Gothic heroine ever?
+
+Answers:
+  1: Emily St. Aubert
+  2: Annette
+  3: none of these
+  4: Catherine Morland
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: fa806a6e-2d8a-40cd-ad6e-29aaf02be501
+
+Question: >
+  His most famous works are the novels War and Peace, Anna Karenina and Resurrection.
+
+Answers:
+  1: Ivan Turgenev
+  2: Fyodor Mikhailovich Dostoevski
+  3: Maxim Gorky
+  4: Lev Tolstoy
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: cf2685e1-0c9d-4e00-8feb-124b3bcfb7b2
+
+Question: >
+  Which of these novels was not penned by Charles Dickens?
+
+Answers:
+  1: Tess of the dUrbervilles
+  2: David Copperfield
+  3: Oliver Twist
+  4: Christmas Carol
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 9159591d-b6e3-4aa4-ad39-9e04e60c1644
+
+Question: >
+  What popular author made this statement about religion: Man is a Religious Animal. He is the only Religious Animal.
+  He is the only animal that has the True Religion—several of them. He is the only animal that loves his neighbor as
+  himself and cuts his throat if his theology isn’t straight.?
+
+Answers:
+  1: John Steinbeck
+  2: Jane Austen
+  3: Walter Scott
+  4: Mark Twain
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: ab85f97e-6fef-41b6-89ba-0e4d969653b4
+
+Question: >
+  Which of these authors lived her entire life as part of a close-knit family and was educated mainly by her father
+  and older brothers?
+
+Answers:
+  1: None of these
+  2: Jane Austen
+  3: Astrid Lindgren
+  4: Agatha Christie
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 28addb29-a371-4634-ab9b-e2405f1ec47a
+
+Question: >
+  Crime and punishment and Brothers Karamazov are novels written by Fyodor Mikhailovich Dostoevsky.
+
+Answers:
+  1: True
+  2: False
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 55c4c361-2db5-44fe-86d2-76f3fd6580c7
+
+Question: >
+  For most of his career he worked for a playing company known as Men of Lord Chamberlain.
+
+Answers:
+  1: Thomas Mallory
+  2: Giovanni Bokacho
+  3: Shakespeare
+  4: Dante Alighieri
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 96afc196-daec-499d-a94a-675555916e82
+
+Question: >
+  Sir Arthur Clarke is a British writer and inventor known for his science fiction novel Space Odyssey.
+
+Answers:
+  1: True
+  2: False
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 28f8076a-e7c4-489a-b932-1b3011ffe7f2
+
+Question: >
+  Which statement is true about Sir Walter Scott, the author of Ivanhoe and Rob Roy
+
+Answers:
+  1: None of these
+  2: He was a Scottish writer
+  3: He studied medicine and became a doctor.
+  4: He was an English writer.
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 6bb1d03e-3512-48c0-a99b-6b66632637a0
+
+Question: >
+  Which of the following works was not written by John Steinbeck?
+
+Answers:
+  1: Black Pony
+  2: The Abbot
+  3: The Grapes of Wrath
+  4: East of Eden
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 1f23c77a-af11-47ff-b600-80104570c30e
+
+Question: >
+  Edgar Allan Poe is widely considered the inventor of the detective fiction genre.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 6cf7b02a-bacf-474d-bc4e-ce6a216963b8
+
+Question: >
+  Dante Alighieri was an Italian poet from Florence. What was his other occupation?
+
+Answers:
+  1: Pharmacist
+  2: All of these
+  3: Doctor
+  4: Politician
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 8bab1b19-b80e-40e8-9d1a-dc705428dbc1
+
+Question: >
+  What is the Warrior name of Bluestar's sister in Bluestar's Prophecy?
+
+Answers:
+  1: Snowfall
+  2: Snowfur
+  3: Snowpelt
+  4: Snowtail
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 7571813f-b426-4510-8571-b610b6d6c4b7
+
+Question: >
+  Who trains Bluepaw in her apprenticeship in Bluestar's Prophecy?
+
+Answers:
+  1: Stormtail
+  2: Thrushpelt
+  3: Sunfall
+  4: Adderfang
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 6f941250-e1fe-45ee-b1fc-a8e305936fad
+
+Question: >
+  In Bluestar's Prophecy, why was there a battle between Windclan and Thunderclan, in which Moonflower lost her life?
+
+Answers:
+  1: Because those fox-heated Windclan cats had been prey-stealing
+  2: Because of Goosefeathers prophecy
+  3: Because Thunderclan needed more land
+  4: Because Thunderclan needed herbs
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 77d14c4c-d137-413e-ac6c-0a0b0bf5f808
+
+Question: >
+  Which Riverclan cat does Bluepaw befriend at a gathering in Bluestar's Prophecy?
+
+Answers:
+  1: Crookedpaw
+  2: Brambleberry
+  3: Ottersplash
+  4: Oakheart
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: c2d2127a-3033-4ac9-9575-4e3f85af1705
+
+Question: >
+  Which Riverclan cat does Bluepaw sneak out to meet after the gathering in Bluestar's Prophecy?
+
+Answers:
+  1: Ottersplash
+  2: Oakheart
+  3: Brambleberry
+  4: Crookedpaw
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 962bbc8c-9437-4553-bca3-a4ee86e8ae93
+
+Question: >
+  Who does Snowfur choose as a mate in the Bluestar's Prophecy?
+
+Answers:
+  1: Sunfall
+  2: Patchpelt
+  3: Thistleclaw
+  4: Sparrowpelt
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: edfae738-ea05-428c-b0ad-c5e0fb3b4113
+
+Question: >
+  What is the name of Snowfur's kit in Bluestar's Prophecy?
+
+Answers:
+  1: Stormkit
+  2: Snowkit
+  3: Moonkit
+  4: Whitekit
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 96670276-44ce-431a-8ea7-74dbd1d918d6
+
+Question: >
+  How does Snowfur die in Bluestar's Prophecy?
+
+Answers:
+  1: Shadowclan attacks her.
+  2: She was attacked by a fox.
+  3: She falls into a gorge.
+  4: She's hit by a monster.
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 28102ce1-7d2c-4a5a-a628-1969883b32ba
+
+Question: >
+  What happened to Bluefur's kits in Bluestar's Prophecy?
+
+Answers:
+  1: She gave them to Oakheart of Riverclan.
+  2: A fox stole them.
+  3: They were killed in the snow.
+  4: Riverclan stole them.
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 251a2a90-054d-4deb-a860-96be12499232
+
+Question: >
+  Who does Bluestar choose as her first deputy in Bluestar's Prophecy?
+
+Answers:
+  1: Redtail
+  2: Whitestorm
+  3: Patchpelt
+  4: Lionheart
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: ef29de6b-8ca4-4516-b44d-f91144bc7640
+
+Question: >
+  What is the last significant event to happen in Bluestar's Prophecy?
+
+Answers:
+  1: Bluestars kits become Warriors (Stonefur and Mistyfoot).
+  2: Spottedpaw becomes Featherwhiskers medicine cat apprentice.
+  3: Bluestar invites Rusty into Thunderclan, believing he is the fire to save the clan.
+  4: Thistleclaw died in a violent battle for his clan.
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 0a3f7136-20bf-4fb3-af56-a0e4a7283d25
+
+Question: >
+  What detective retrieves a fabulous ruby stolen from an eastern prince in the short story The Theft of the Royal
+  Ruby?
+
+Answers:
+  1: Sherlock Holmes
+  2: Hercule Poirot
+  3: Miss Marple
+  4: Philip Marlowe
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: d792bf74-03b8-45d0-92b9-c73c3d63c3c9
+
+Question: >
+  What American science fiction and fantasy author penned the books about the the Skolian Empire known as Tales of the
+  Ruby Dynasty?
+
+Answers:
+  1: Arthur C. Clarke
+  2: Isaac Asimov
+  3: Kurt Vonnegut
+  4: Catherine Asaro
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 0e03b98b-aed9-4f39-842d-ecd913fa3fc9
+
+Question: >
+  In which book the main hero discovers that she is a descendant of the Merovingian blood line as well as Jesus
+  Christ?
+
+Answers:
+  1: The Lost Symbol
+  2: The Da Vinci Code
+  3: Deception Point
+  4: Angels  Demons
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 04ce33a5-8db2-4a60-ac36-9fd1fc9c13a5
+
+Question: >
+  In the novel The Help, Skeeter Phelan decides to write a book based on the point of view of maids in her hometown.
+  What is Skeeter's given name?
+
+Answers:
+  1: Sarah
+  2: Hillary
+  3: Charlotte
+  4: Eugenia
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 792780b0-8d6f-4cc8-bd15-cb9cd12808b8
+
+Question: >
+  Who is the first maid to agree to be interviewed by Skeeter in the book The Help?
+
+Answers:
+  1: Pascagoula
+  2: Yule May
+  3: Minny
+  4: Aibilene
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: d06a030a-3604-4546-b2a2-dc70b992e65f
+
+Question: >
+  In the novel The Help, what is the name of the advice column written first by Skeeter, then by Aibilene?
+
+Answers:
+  1: Miss Manners
+  2: Miss Myrna
+  3: Miss Myra
+  4: Miss Maylene
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 74f34e80-b51a-49c1-8133-aaa86b710468
+
+Question: >
+  In Kathryn Stockett's book The Help, Skeeter and Hilly were roommates at what University?
+
+Answers:
+  1: Mississippi State
+  2: Sewanee
+  3: Mississippi Women's College
+  4: Ole Miss
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 4a586c23-5498-4956-a0cb-f0e4acaee9a6
+
+Question: >
+  From which Mississippi town does fictional character Celia Foote hail?
+
+Answers:
+  1: Oxford
+  2: Opp
+  3: Sugar Ditch
+  4: Langdale
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: f6f3bcda-7ea8-4c1a-ae28-7736e3d06b9c
+
+Question: >
+  Which fictional maid/employer pair is incorrect?
+
+Answers:
+  1: Constantine - Miss Walters
+  2: Aibilene - Miss Leefolt
+  3: Yule May - Miss Hilly
+  4: Minny - Miss Celia
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 43d7512a-b38d-41fb-b373-a2cae6947199
+
+Question: >
+  What nickname is eventually given to Hilly Holbrook in the novel The Help?
+
+Answers:
+  1: Two-Slice Hilly
+  2: Two-Step Hilly
+  3: Two-Bit Hilly
+  4: Two-Timing Hilly
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 5cbce891-3f21-4aae-82a2-90ecb7d73869
+
+Question: >
+  In the novel The Help, what is the name of Aibilene's son who dies as a result of delayed medical attention
+  following an accident?
+
+Answers:
+  1: Leroy
+  2: Treelore
+  3: Henry
+  4: Jameso
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: fdea9bf9-e7d1-48e0-8861-b56b9679022e
+
+Question: >
+  What phrase did Minny use to refer to what she did to Miss Hilly in the book The Help?
+
+Answers:
+  1: the Mean and Nasty
+  2: the Wicked Evil
+  3: the Terrible Awful
+  4: the I-done-it-now
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: d210b25e-f07f-4403-8e3e-f089060fcef0
+
+Question: >
+  What was the name of the machine Skeeter's mother bought to straighten her hair in The Help?
+
+Answers:
+  1: the Electromatic
+  2: the Relaxer
+  3: the Beauty Machine
+  4: the Shinolater
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: db512ae6-5a9d-40d5-826a-2907a41a254f
+
+Question: >
+  In The Help, what did Hilly find covering her front yard, after Skeeter printed the wrong word in the Junior Leagues
+  newsletter?
+
+Answers:
+  1: cookbooks
+  2: toilets
+  3: kudzu
+  4: crosses
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 5bc930e7-8ac2-4395-ba4c-8dbfd52614a8
+
+Question: >
+  The Help character Aibilene is put off the bus far from her home due to panic over the assassination of which civil
+  rights leader?
+
+Answers:
+  1: John Lewis
+  2: Medgar Evers
+  3: Martin Luther King, Jr.
+  4: Malcolm X
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 3eab1549-013e-43d3-9296-f3d83215f377
+
+Question: >
+  At the Junior League Benefit, fictional character Celia Foote accidentally tears Hillys gown. What social faux pas
+  does she commit next?
+
+Answers:
+  1: She falls off the stage.
+  2: She has a wardrobe malfunction.
+  3: She invites a maid to sit with her.
+  4: She throws up.
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 82e133ba-abe9-494e-a767-c1e018d9a942
+
+Question: >
+  What did Yule May steal from Miss Hilly in the novel The Help?
+
+Answers:
+  1: a sterling silver fork
+  2: $20
+  3: a ruby ring
+  4: a garnet ring
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 92c577ff-f7c4-4101-a85c-d37582f0aa95
+
+Question: >
+  Which of the statements is not true about the end of the book The Help?
+
+Answers:
+  1: Yule May is released from prison.
+  2: Aibilene is fired by Miss Leefolt.
+  3: Skeeter is offered a job in New York.
+  4: Minny has a job for life with Celia and Johnny Foote.
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: b3133556-33af-4cf4-8acc-fafe0b4d9293
+
+Question: >
+  Who wrote The Colorado Kid, Duma Key, and Blockade Billy?
+
+Answers:
+  1: Stephen King
+  2: Peter Straub
+  3: John Connolly
+  4: Charlaine Harris
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: d67e3890-5e02-4563-9bcf-b30a31910f1a
+
+Question: >
+  Who wrote Bone by Bone, The Judas Goat, and Mallorys Oracle?
+
+Answers:
+  1: Joyce Carol Oates
+  2: Carol OConnell
+  3: Nora Roberts
+  4: Alex Kava
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: facecea3-67ad-43b3-a4b0-05e856e74cb5
+
+Question: >
+  Who wrote The Mephisto Club, The Apprentice, and The Surgeon?
+
+Answers:
+  1: Tess Gerritsen
+  2: Lisa Gardner
+  3: Donald Trump
+  4: Kathy Reichs
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 649db64e-50c1-4c80-b38a-2b2100096c5d
+
+Question: >
+  Who wrote Chopping Spree, Double Shot and The Cereal Murders?
+
+Answers:
+  1: Fannie Flagg
+  2: Jane Haddam
+  3: Diane Mott Davidson
+  4: Ellen Hart
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 192ee254-eb6f-4aad-aa39-775e0a851081
+
+Question: >
+  Who wrote Double Whammy, Sick Puppy, and Star Island?
+
+Answers:
+  1: Stephen Hunter
+  2: Carl Hiaasen
+  3: Caleb Carr
+  4: Harlan Coben
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 7da0cf8c-b22a-43dc-afa0-9c37851eab90
+
+Question: >
+  Who wrote The Postcard Killers, Roses Are Red, and London Bridges?
+
+Answers:
+  1: James Patterson
+  2: Michael Connolly
+  3: Jefferson Bass
+  4: Jonathan Kellerman
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 425d3167-39ca-4ed9-b368-49ddc1e19e14
+
+Question: >
+  Who wrote Black Sunday, Red Dragon, and Hannibal Rising?
+
+Answers:
+  1: Jean Auel
+  2: George R.R. Martin
+  3: R.K.Tannenbaum
+  4: Thomas Harris
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 62f2c1d5-c257-4a9f-9685-9f5300a58c10
+
+Question: >
+  Who wrote Final Jeopardy, The Bone Vault, and Killer Heat?
+
+Answers:
+  1: Kathy Reichs
+  2: Edna Buchanan
+  3: Iris Johansen
+  4: Linda Fairstein
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: d55b292b-eae3-40e2-96f9-268b90d239c4
+
+Question: >
+  Who wrote Memorial Day, Term Limits, and Separation of Power?
+
+Answers:
+  1: Tom Clancy
+  2: W.E.B.Griffin
+  3: Brad Thor
+  4: Vince Flynn
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 2876088c-867c-4122-bda5-99c1165c9dfb
+
+Question: >
+  Who wrote Kane and Abel, Paths of Glory, and False Impressions?
+
+Answers:
+  1: Jeffrey Archer
+  2: Jack Higgins
+  3: Daniel Silva
+  4: Dan Brown
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: ba4bae3f-ce48-4613-a409-2152100271df
+
+Question: >
+  Who wrote Isle of Dogs, Cruel and Unusual, and Portrait of a Killer?
+
+Answers:
+  1: Patricia Cornwall
+  2: Kate Wilhelm
+  3: Rita Mae Brown
+  4: Kate White
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 9dc2e3fa-3470-437d-adb1-f8a57db50495
+
+Question: >
+  Who wrote Mila 18, Trinity and Exodus?
+
+Answers:
+  1: Jack Higgins
+  2: Leon Uris
+  3: Mario Puzo
+  4: James Michener
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: b0aab167-886f-47a1-844a-33e00d7741fc
+
+Question: >
+  Who wrote The Prince of Beverly Hills, Strategic Moves, and Orchid Beach?
+
+Answers:
+  1: Jackie Collins
+  2: Faye Kellerman
+  3: Stuart Woods
+  4: Brad Meltzer
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 8f861f3c-d4a9-4fe5-971d-c5457e92309b
+
+Question: >
+  Who wrote Bloody Bones, Skin Trade, and Guilty Pleasures?
+
+Answers:
+  1: Charlaine Harris
+  2: Laurell K. Hamilton
+  3: Dean Koontz
+  4: John Connolly
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: d0cedd64-98a3-42fb-91df-9c8403915a72
+
+Question: >
+  Who wrote Playing for Pizza, The Brethren, and The Street Lawyer?
+
+Answers:
+  1: Scott Turow
+  2: John Grisham
+  3: Janet Evanovich
+  4: Brad Meltzer
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: ce38aff7-317e-4fe4-997a-5dcd69ec69fe
+
+Question: >
+  In which book would you find characters named Mae Mobley, Skeeter and Hilly?
+
+Answers:
+  1: The Help
+  2: Are You There God, Its Me, Margaret?
+  3: Gone With the Wind
+  4: To Kill a Mockingbird
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 68ee4132-6d67-438b-9521-1b1758f35dd4
+
+Question: >
+  What author wrote the series of books in which you'd find characters named Milo, Robin and Dr. Delaware?
+
+Answers:
+  1: Clive Cussler
+  2: James Patterson
+  3: Jonathan Kellerman
+  4: John Sandford
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: eeb1697b-30d9-4052-bfd2-916b981f0272
+
+Question: >
+  In what book would you find Mrs. Dubose, Miss Stephanie and Miss Maudie?
+
+Answers:
+  1: The Ritual Bath
+  2: Miss Julia Rocks the Cradle
+  3: To Kill a Mockingbird
+  4: Fried Green Tomatoes at the Whistle Stop Cafe
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 29281b25-fb6a-4149-aca0-3f5022333b99
+
+Question: >
+  Which author created these characters: Celeste Chalfonte, Nickle, and sisters Juts and Weezy?
+
+Answers:
+  1: Rita Mae Brown
+  2: Belva Plain
+  3: Lilian Jackson Braun
+  4: Alexander McCall
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: fb239c22-8d75-4ce1-9678-df58aaf4ca3d
+
+Question: >
+  This author is responsible for depicting the characters of Virgil Flowers, Lucas Davenport and Weather Karkkinen.
+
+Answers:
+  1: John Sandford
+  2: Brad Thor
+  3: Stephen King
+  4: Faye Kellerman
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 37851ef4-482c-492a-b66c-318c4ec830f3
+
+Question: >
+  This author wrote about the murder of the Clutter family in the first novelization of a true crime.
+
+Answers:
+  1: Truman Capote
+  2: Jerry Bledsoe
+  3: Ann Rule
+  4: James Patterson
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 2e169c1a-b117-41e2-a745-92f6fe6b0a0d
+
+Question: >
+  Trufflehunter, Nikabrik and Reepicheep are characters created by this author.
+
+Answers:
+  1: C.S. Lewis
+  2: J.K. Rowling
+  3: J.R.R. Tolkien
+  4: T.S. Eliot
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 80acf9fe-4d8a-4bdd-b5b5-d6a2141328be
+
+Question: >
+  Don Tommasino, Paulie Gatto and Genco Abandando are all characters in which book?
+
+Answers:
+  1: The Godfather
+  2: The Family
+  3: The Last Don
+  4: Omerta
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 4a273eb7-5886-45d2-b3ff-bb496763adee
+
+Question: >
+  Which book features characters named Granger, Guy Montag and Clarisse McClellan?
+
+Answers:
+  1: Fahrenheit 451
+  2: The Quest for Saint Camber
+  3: War of the Worlds
+  4: I, Robot
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 0a1b5953-3d06-4e33-9344-25d38daa0a91
+
+Question: >
+  This author is famous for a series of novels revolving around Rina Dekker, an orthodox Jewish woman and her
+  detective husband Peter.
+
+Answers:
+  1: Chaim Potok
+  2: Nora Roberts
+  3: Faye Kellerman
+  4: Philip Roth
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 9a8997da-4807-4ec7-b9ef-6f323d5814f1
+
+Question: >
+  What author penned the series in which you would find the Troll, Scot Harvath and Larry Solomon?
+
+Answers:
+  1: Brad Thor
+  2: Ken Follett
+  3: David Baldacci
+  4: James Patterson
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 85e80417-1955-469d-9ad7-121012da84cf
+
+Question: >
+  Adelphia, John Carr, Caleb and Reuben appear in a series of books by this author.
+
+Answers:
+  1: Clive Cussler
+  2: Philp K. Dick
+  3: David Baldacci
+  4: John Saul
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 5a4b7f18-9056-4a31-bd00-77c49e8110c1
+
+Question: >
+  Chiara, Lev, Gabriel and Sarah are all operatives in this author's spy series.
+
+Answers:
+  1: Ken Follett
+  2: John LeCarre
+  3: Daniel Silva
+  4: Robert Parker
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
 
 SchemaVersion: 1
 ---
@@ -216,7 +5796,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: literature
+  None
 
 SchemaVersion: 1
 ---
@@ -241,7 +5821,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: literature
+  None
 
 SchemaVersion: 1
 ---
@@ -266,14 +5846,14 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: literature
+  None
 
 SchemaVersion: 1
 ---
 ID: d9a6578a-ee03-4e6d-a059-df7786aa5b4b
 
 Question: >
-  What was one of Randall Flaggs nicknames in Stephen Kings novel The Stand?
+  What was one of Randall Flagg's nicknames in Stephen King's novel The Stand?
 
 Answers:
   1: the running man
@@ -290,7 +5870,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: literature
+  None
 
 SchemaVersion: 1
 ---
@@ -314,6 +5894,6 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: literature
+  None
 
 SchemaVersion: 1

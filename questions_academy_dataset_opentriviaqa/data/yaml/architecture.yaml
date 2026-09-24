@@ -1,3 +1,73 @@
+ID: 8e5899c2-30c3-4a7b-82a8-7ae80c67dff5
+
+Question: >
+  Dolmabahçe Palace has elements from what architectural style?
+
+Answers:
+  1: All of these
+  2: Rococo style
+  3: Baroque style
+  4: Neoclassical style
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 803db0a9-9158-4adb-8c5c-478ab32bbe51
+
+Question: >
+  What is the shape of the famous Crystal Staircase in Dolmabahçe Palace?
+
+Answers:
+  1: anchor
+  2: triangle
+  3: horseshoe
+  4: heart
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: d7a81876-3323-4a07-8046-2ccaef4a8b82
+
+Question: >
+  Dolmabahçe Palace contains over 250 rooms.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: 89883c10-359a-4522-a8f3-75a831cc1e99
 
 Question: >
@@ -20,7 +90,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: world
+  None
 
 SchemaVersion: 1
 ---
@@ -44,6 +114,6 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: general
+  None
 
 SchemaVersion: 1

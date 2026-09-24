@@ -416,7 +416,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: animals.
+  None
 
 SchemaVersion: 1
 ---
@@ -6055,7 +6055,7 @@ SchemaVersion: 1
 ID: d397fd29-196e-47aa-b5af-5e614ca9fc68
 
 Question: >
-  Crocodiles sex is determined by the temperature of their nest.
+  Crocodiles' sex is determined by the temperature of their nest.
 
 Answers:
   1: True
@@ -6635,7 +6635,7 @@ SchemaVersion: 1
 ID: b7082926-9656-4063-86c8-2a6bb1d678aa
 
 Question: >
-  Why do cats always want in when they are out, and out when thery are in?
+  Why do cats always want in when they are out, and out when they are in?
 
 Answers:
   1: To re-mark their scent
@@ -16862,7 +16862,7 @@ SchemaVersion: 1
 ID: ceee0ccb-44df-4533-bef5-ab0bd871941b
 
 Question: >
-  What is the reason for Hummingbirds short life-span?
+  What is the reason for the hummingbirds' short life-span?
 
 Answers:
   1: Their fast metabolic rate
@@ -21151,7 +21151,7 @@ SchemaVersion: 1
 ID: 53da903a-b48d-4dc1-b1ba-b26968c9601f
 
 Question: >
-  Which of these statements is true about the cockroaches ability to survive in hard times?
+  Which of these statements is true about the cockroach's ability to survive in hard times?
 
 Answers:
   1: They are able to slow down their heart rate.
@@ -24682,7 +24682,7 @@ SchemaVersion: 1
 ID: 2cb9dacf-318f-461a-880b-28a9b1375bb7
 
 Question: >
-  What unique feature do the the fingers of the koala possess?
+  What unique feature do the fingers of the koala possess?
 
 Answers:
   1: There are six fingers on each leg.
@@ -27100,7 +27100,7 @@ SchemaVersion: 1
 ID: dda91edb-aca6-4c1f-aae6-b87b45286a87
 
 Question: >
-  Octopuses have excellent vision. Which of the following statements about an octopuss vision is NOT true?
+  Octopuses have excellent vision. Which of the following statements about an octopus's vision is NOT true?
 
 Answers:
   1: They can see well at night.
@@ -27336,7 +27336,7 @@ SchemaVersion: 1
 ID: d9d1a291-dfc4-49e3-a9d0-1c52035458a2
 
 Question: >
-  Tomato Frogs existence is threatened due to what reason?
+  The Tomato Frogs' existence is threatened due to what reason?
 
 Answers:
   1: Habitat destruction
@@ -31021,6 +31021,786 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: 4e06ae3e-e92a-49cc-a828-2af5a7cc647c
+
+Question: >
+  What is a juvenile dog called?
+
+Answers:
+  1: calf
+  2: puppy
+  3: cub
+  4: kitten
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: cd7f8217-ea28-4520-a9a8-708cfb3fa951
+
+Question: >
+  What is a young goose called?
+
+Answers:
+  1: gosling
+  2: chick
+  3: joey
+  4: piglet
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: d6745e52-2eb3-4c2d-b659-0f4ed0d3b8f3
+
+Question: >
+  Baby ducks are called chicks.
+
+Answers:
+  1: True
+  2: False
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: becbbe77-6b6b-4f80-97ca-5e53f57ebb6a
+
+Question: >
+  What is a wolf baby called?
+
+Answers:
+  1: cub
+  2: billy
+  3: pup
+  4: nanny
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: a1377777-d947-4ca3-995b-18a3382f6a67
+
+Question: >
+  A baby goat is called a kid.
+
+Answers:
+  1: True
+  2: False
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: c04133ff-9939-4066-ac48-ad68c0df07c7
+
+Question: >
+  A baby seal is called a foal.
+
+Answers:
+  1: True
+  2: False
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: b3ba5bfc-e70f-4714-896c-a8d7a8a11a58
+
+Question: >
+  A baby kangaroo is called a joey.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: ccd61ebe-c8f5-4aca-b319-b9cf4193aa86
+
+Question: >
+  The Fangtooth, also known as Quisimodo of the Depths, is found in the tropical waters of the Pacific and Atlantic
+  Ocean.
+
+Answers:
+  1: True
+  2: False
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: a13e5331-1b59-43de-8534-af514a7ff10a
+
+Question: >
+  The giant freshwater stingray can weight more than half a ton.
+
+Answers:
+  1: True
+  2: False
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 747f8fb7-e12c-4eca-adf3-1865ec092a74
+
+Question: >
+  The stonefish is poisonous.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 3345b439-d8ef-492b-ab90-7873f99b3fbf
+
+Question: >
+  Which statement is true about the snakeheads?
+
+Answers:
+  1: They are considered valuable food fish.
+  2: They are predatory fish.
+  3: All of these
+  4: They have a long dorsal fin.
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: c3ce5f40-852d-49c8-9ba1-7d2cf6a632f6
+
+Question: >
+  The giant freshwater catfish, which inhabits the Mekong River in Southeast Asia, is a huge toothless predatory fish.
+
+Answers:
+  1: True
+  2: False
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: e01d68e8-48c5-45bc-bae7-0a87aaf83981
+
+Question: >
+  The piraiba catfish is the largest catfish in this river.
+
+Answers:
+  1: the Amazon
+  2: the Danube
+  3: None of these
+  4: the Nile
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 05260f43-e709-4fdd-b15a-d26e34528712
+
+Question: >
+  The Alligator Gar is the largest exclusively freshwater fish found in North America.
+
+Answers:
+  1: True
+  2: False
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: abec513f-0029-4ed8-9e03-cd3873d43aa1
+
+Question: >
+  Female anglerfish have a fleshy growth on their heads which acts as a lure.
+
+Answers:
+  1: True
+  2: False
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 99811e51-b3bf-445e-ac6a-28cd72f21500
+
+Question: >
+  This fish, which was introduced to Lake Victoria in East Africa in the 1950s, caused the extinction or near-
+  extinction of several hundred native species.
+
+Answers:
+  1: Nile perch
+  2: None of these
+  3: Mekong catfish
+  4: Candiru
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: dbd4eab6-cdfd-47d6-97cc-b8b8214fbcf3
+
+Question: >
+  What is the worlds smallest winged insect?
+
+Answers:
+  1: Psocids
+  2: Stylopids
+  3: Tanzanian parasitic wasp
+  4: termite
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 7d1ed773-896a-4a2e-ab9f-7a059deb3722
+
+Question: >
+  The shrimp's heart is in its stomach.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 46560067-730c-4067-968e-a939d68772b1
+
+Question: >
+  What statement is true about dolphins?
+
+Answers:
+  1: Adult dolphins teach their young.
+  2: They have a "dictionary" of 14 000 audio sounds.
+  3: All of these
+  4: The brain of an adult dolphin weighs about 1700 grams.
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 7d853e5f-9a99-4103-a031-6e0524d15bfe
+
+Question: >
+  Which of these animals have a musical ear and musical memory and are able to distinguish three melody sounds?
+
+Answers:
+  1: Squirrels
+  2: Pigs
+  3: Elephants
+  4: Pigeons
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 070445f2-1a04-4a49-aaac-ce546c2f737c
+
+Question: >
+  These birds have a thick tongue which allows them to imitate human speech?
+
+Answers:
+  1: Pheasants
+  2: Crows
+  3: Cocks
+  4: Parrots
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: afc1d8c9-c165-4f3b-a7f2-2be0a01c7066
+
+Question: >
+  These are among the most intelligent animals in the world but they can spread very dangerous diseases.
+
+Answers:
+  1: Dogs
+  2: Rats
+  3: Black-beetle
+  4: Cats
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: a01dc3b4-ef65-4947-aa70-b240ff9c9c5a
+
+Question: >
+  Pigeons can find their way home over extremely long distances.
+
+Answers:
+  1: True
+  2: False
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 8f50d538-0bec-496e-b841-cd3824371d23
+
+Question: >
+  Dogs are often used to find truffles.
+
+Answers:
+  1: True
+  2: False
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 5b749e92-2ebd-438b-b2c0-9318505f4d11
+
+Question: >
+  These animals use their tail to communicate with other representatives of their species.
+
+Answers:
+  1: Squirrel
+  2: Fox
+  3: Skunk
+  4: Sloth
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 677bd2ce-f5a6-461c-9919-8fa9798d1848
+
+Question: >
+  Which herding dog breed is widely recognized as the smartest breed of dog in the world?
+
+Answers:
+  1: Dalmatian
+  2: None of these
+  3: Bulldog
+  4: Border collie
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: df8d4747-6658-4951-8b46-d0c3a6286b12
+
+Question: >
+  Domestic cats select food based on its temperature.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 84af716e-fbfc-4901-9307-bdf1242341bf
+
+Question: >
+  Falling cats do not always land on their feet.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 61ce0103-8fc3-4723-8c2d-0435d496c6ff
+
+Question: >
+  Which of the following supposedly owned a female cat named Muezza?
+
+Answers:
+  1: None of these
+  2: Gautama Buddha
+  3: Jesus Christ
+  4: Prophet Mohammad
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 3d6ddc2c-2c82-472c-b1b2-32c57d3fef67
+
+Question: >
+  Cats were revered animals in ancient Egypt.
+
+Answers:
+  1: True
+  2: False
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 07feb041-b137-4ef4-afa1-dcc2078f0a0e
+
+Question: >
+  The Beckoning Cat, also known as Welcoming Cat, is a common sculpture which originated in this country.
+
+Answers:
+  1: Japan
+  2: Korea
+  3: USA
+  4: China
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 1fddcfc3-a432-457b-afc2-8b50ab525558
+
+Question: >
+  Cats were once associated with witchcraft.
+
+Answers:
+  1: True
+  2: False
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 84b43479-6899-437e-8b0d-6200c68de493
+
+Question: >
+  Every cat's nose pad has unique characteristics and no two cats nose pads are alike.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: a2a91ce9-7044-46fe-84ae-1cf70ae5da46
+
+Question: >
+  Cats can transmit toxoplasmosis.
+
+Answers:
+  1: True
+  2: False
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: 15155790-af65-40c5-a02e-9ee94fdae496
 
 Question: >
@@ -31039,6 +31819,6 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: general
+  None
 
 SchemaVersion: 1

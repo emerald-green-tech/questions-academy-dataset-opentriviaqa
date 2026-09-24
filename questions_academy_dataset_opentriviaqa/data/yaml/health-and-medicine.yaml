@@ -110,6 +110,287 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: newest
+  None
+
+SchemaVersion: 1
+---
+ID: faf6d63a-d03c-4acb-b2a4-23bdf7a0428f
+
+Question: >
+  The drug Minoxidil was created to treat what?
+
+Answers:
+  1: reduced libido
+  2: loss of hair
+  3: insomnia
+  4: appetite disorders
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: c5cd2467-5194-4b8a-8cbb-517ed42890fe
+
+Question: >
+  A child's body temperature is usually slightly higher than an adults.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: c53f5cd9-df52-4c15-ad9c-f19e93078b07
+
+Question: >
+  It's often said that on men, this is bigger. But theirs make up 2 percent of their total body weight, while women's
+  make up 2-and-half percent.
+
+Answers:
+  1: brain
+  2: tongue
+  3: feet
+  4: muscle
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: b0e8e6b3-40d2-4f05-a87d-1da7d4d56589
+
+Question: >
+  For every 100 pounds of your body weight, about 8 pounds is made up of this.
+
+Answers:
+  1: Blood
+  2: Heart
+  3: Liver
+  4: Kidney
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: eeaf22db-d144-4654-9a54-4dc7c7ca9261
+
+Question: >
+  What illness is caused by the varicella zoster virus?
+
+Answers:
+  1: rubella
+  2: chickenpox
+  3: morbilli
+  4: None of these
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 5f684916-af67-49c9-a5d7-6adab5094136
+
+Question: >
+  Some types of red meat, such as pork contain large amounts of saturated fats, which increase levels of bad
+  cholesterol in the blood.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: b4100d1d-05b4-4fff-8c80-62a696930e90
+
+Question: >
+  Red meat contains large quantities of iron.
+
+Answers:
+  1: True
+  2: False
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: a049d924-f18e-4b0a-87fd-264df3fce3e9
+
+Question: >
+  The iron in meat and fish is absorbed and utilized in the human body more efficiently than iron in other foods.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 9fc01a47-dc40-4ee8-8aa3-c60310715b3a
+
+Question: >
+  Which of the following elements is present in meat?
+
+Answers:
+  1: Iron
+  2: Vitamin B12
+  3: All of these
+  4: Zinc
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 2bbc72b4-273a-45d2-bc67-cab6b512039b
+
+Question: >
+  Mioglobin, a protein which supplies the muscles with oxygen, is found in beef, pork, lamb and sea foods.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: ce933943-d276-4ece-bba1-48af5fb4b57f
+
+Question: >
+  What medical condition can be improved due to interactions with cats?
+
+Answers:
+  1: Osteoporosis
+  2: Diabetes
+  3: Epilepsy
+  4: High blood pressure
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 5266f77a-a220-4331-b847-0bdb1f149d5b
+
+Question: >
+  This non-government anti-AIDS organization was founded by Bono and Bobby Shriver in 2002 with start up capital from
+  Bill Gates.
+
+Answers:
+  1: Live Aid
+  2: Debt, AIDS, Trade in Africa
+  3: Band Aid
+  4: USA for Africa
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
 
 SchemaVersion: 1

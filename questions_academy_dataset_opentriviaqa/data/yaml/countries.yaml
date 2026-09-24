@@ -1,3 +1,28 @@
+ID: fd3751e8-6c8c-42b2-a2af-336da3684fa3
+
+Question: >
+  This country, famous for its fjords, has an extensive coastline, facing the North Atlantic Ocean and the Barents
+  Sea.
+
+Answers:
+  1: Norway
+  2: Denmark
+  3: Sweden
+  4: Finland
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: a3146691-87d3-4087-a5e6-e85210f7bc51
 
 Question: >
@@ -19,7 +44,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: newest
+  None
 
 SchemaVersion: 1
 ---
@@ -43,7 +68,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: geography-country-capitals
+  None
 
 SchemaVersion: 1
 ---
@@ -68,7 +93,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: world
+  None
 
 SchemaVersion: 1
 ---
@@ -93,7 +118,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: world
+  None
 
 SchemaVersion: 1
 ---
@@ -117,6 +142,6 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: geography-united-states
+  None
 
 SchemaVersion: 1

@@ -19,7 +19,56 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: newest
+  None
+
+SchemaVersion: 1
+---
+ID: ae9b6a31-db62-4187-a622-79a639656be8
+
+Question: >
+  Amy wants to measure 100ml of water, but she only has two measuring cups. The first measuring cup can hold 200ml and
+  the second can hold 300ml.  Can Amy achieve her goal?
+
+Answers:
+  1: Yes
+  2: No
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 10c09512-a0de-442c-b08f-d59fbc1d6d0e
+
+Question: >
+  A man was in his home, looking at a photograph. He used the following words to describe one particular person in
+  that photograph. Brothers and sisters I have none: But that man's father is my father's son. Who was he talking
+  about?
+
+Answers:
+  1: His son
+  2: His father
+  3: His grandfather
+  4: Himself
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
 
 SchemaVersion: 1
 ---
@@ -43,6 +92,6 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: hobbies
+  None
 
 SchemaVersion: 1

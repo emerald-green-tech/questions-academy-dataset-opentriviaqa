@@ -20,7 +20,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: newest
+  None
 
 SchemaVersion: 1
 ---
@@ -46,7 +46,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: newest
+  None
 
 SchemaVersion: 1
 ---
@@ -71,7 +71,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: newest
+  None
 
 SchemaVersion: 1
 ---
@@ -96,7 +96,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: newest
+  None
 
 SchemaVersion: 1
 ---
@@ -121,7 +121,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: newest
+  None
 
 SchemaVersion: 1
 ---
@@ -145,7 +145,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: newest
+  None
 
 SchemaVersion: 1
 ---
@@ -169,7 +169,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: newest
+  None
 
 SchemaVersion: 1
 ---
@@ -193,7 +193,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: newest
+  None
 
 SchemaVersion: 1
 ---
@@ -217,7 +217,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: newest
+  None
 
 SchemaVersion: 1
 ---
@@ -241,7 +241,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: newest
+  None
 
 SchemaVersion: 1
 ---
@@ -266,7 +266,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: newest
+  None
 
 SchemaVersion: 1
 ---
@@ -290,7 +290,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: newest
+  None
 
 SchemaVersion: 1
 ---
@@ -315,7 +315,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: newest
+  None
 
 SchemaVersion: 1
 ---
@@ -339,7 +339,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: newest
+  None
 
 SchemaVersion: 1
 ---
@@ -363,7 +363,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: newest
+  None
 
 SchemaVersion: 1
 ---
@@ -387,7 +387,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: newest
+  None
 
 SchemaVersion: 1
 ---
@@ -412,7 +412,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: newest
+  None
 
 SchemaVersion: 1
 ---
@@ -436,7 +436,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: newest
+  None
 
 SchemaVersion: 1
 ---
@@ -460,7 +460,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: newest
+  None
 
 SchemaVersion: 1
 ---
@@ -484,7 +484,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: newest
+  None
 
 SchemaVersion: 1
 ---
@@ -508,7 +508,540 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: newest
+  None
+
+SchemaVersion: 1
+---
+ID: a67b5e15-22e4-4d55-9864-08e483f780e0
+
+Question: >
+  What were Jeanette MacDonald's and Nelson Eddy's birth names?
+
+Answers:
+  1: Jane Alice Peters & William Clark Gable
+  2: Margarita Carmen Cansino & Gwyllyn Samuel Newton Ford
+  3: Jeannette Anna McDonald & Nelson Ackerman Eddy
+  4: Grace Ethel Cecile Rosalie Allen & Nathan Birnbaum
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 107d32c6-25ca-488a-b7b7-f5a3fc6eaf08
+
+Question: >
+  This playwright, director and actor, born Allan Stewart Konigsberg, was thrown out of New York University after one
+  semester for poor grades.
+
+Answers:
+  1: Tennessee Williams
+  2: Woody Allen
+  3: Philip Roth
+  4: Eugene ONeill
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: fd002eae-07df-4235-91b1-705cc6f2fbdb
+
+Question: >
+  In early 2001 she began a three-year relationship with actor Tom Cruise, soon before he and Nicole Kidman split up.
+
+Answers:
+  1: Penélope Cruz
+  2: Uma Thurman
+  3: Elizabeth Hurley
+  4: Lindsay Lohan
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: acf6c183-1b31-4edf-8b7e-1bda34edf005
+
+Question: >
+  This famous actress and producer was born on June 10, 1965 in Hampshire, England.
+
+Answers:
+  1: Anna Friel
+  2: Kate Winslet
+  3: Elizabeth Hurley
+  4: Catherine Zeta – Jones
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 6ebbc177-664d-4ba8-aee8-f88a212cc5bd
+
+Question: >
+  What statement concerning Eva Longorias birth date and birth place is correct?
+
+Answers:
+  1: She was born on March 15, 1975 in the USA
+  2: She was born on March 15, 1975 Mexico.
+  3: She was born on March 15, 1970 in the USA.
+  4: She was born on March 15, 1970 in Mexico.
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: ccce1d47-0589-4ee2-b968-6e520512a23d
+
+Question: >
+  Eva Longoria stated in an interview that she grew up as an ugly duckling.
+
+Answers:
+  1: True
+  2: False
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: d13a484e-9e08-4cab-af7d-e28746963665
+
+Question: >
+  When she was younger Eva Longoria wanted to become a professional model, but she was rejected because of her height.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 6d3487f1-3fe4-40e8-a3f7-bb5d9d09db91
+
+Question: >
+  Eva Longoria was listed #1 in Maxim magazines Hottest Female Stars of 2005 and 2006.
+
+Answers:
+  1: True
+  2: False
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: b03b61dc-1dbd-49fb-b4af-5059aad9236b
+
+Question: >
+  In 2002 Eva Longoria married French basketball player Tony Parker.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 6f6347ad-2feb-49d0-9f87-ff339926d3e2
+
+Question: >
+  Eva Longoria divorced her husband Tony Parker at the end of 2010.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 31a37e6c-9c65-413b-87b2-9ccf840bb239
+
+Question: >
+  Eva Longoria is not related to Tampa Bay Rays third baseman Evan Longoria.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: ac48a358-982f-4884-8c41-430c4f2afcda
+
+Question: >
+  Sophia Loren is the artistic name of Sofia Villani Scicolone.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 00b71b64-bf0c-4ec2-9284-27bb3e97b4fa
+
+Question: >
+  Sophia Loren's mother was an aspiring actress.
+
+Answers:
+  1: True
+  2: False
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: b2dba79f-d3cb-4821-9df1-040f73143c3d
+
+Question: >
+  Sophia Loren won a beauty contest at the age of 15.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: d068edf6-8c62-4e1b-9fc6-af89f4fb82d6
+
+Question: >
+  Which of these movies does not star Sophia Loren?
+
+Answers:
+  1: Beauty and the Beast
+  2: Countess from Hong Kong
+  3: Millionaire
+  4: Prisoners of Altona
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: b590a4f5-760b-4e62-9a7c-e9bdde7b5579
+
+Question: >
+  Which statement is true about Carlo Ponti?
+
+Answers:
+  1: He was a film producer.
+  2: All of these
+  3: He was Sophia Lorens husband.
+  4: He and Sophia Loren had two sons together.
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: ec26a0fb-b1df-4f69-8e13-44b6b1c3d0a6
+
+Question: >
+  Sophia Loren is the author of the books "Living and Loving" and "Women  Beauty".
+
+Answers:
+  1: False
+  2: True
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 20b5b74e-61a6-45a2-b613-879861113e6a
+
+Question: >
+  When did Sophia Loren pose for the Pirelli Calendar?
+
+Answers:
+  1: 1996
+  2: 2007
+  3: 1976
+  4: 1986
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 0e355ecd-4c4e-407f-905d-dc569f839e5d
+
+Question: >
+  Which of the following awards did Sophia Loren receive?
+
+Answers:
+  1: Grammy Award
+  2: BAFTA Award
+  3: All of these
+  4: Golden Globe Award
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: b0e92a93-7562-4938-90a8-793ee6a9b6c2
+
+Question: >
+  What soccer club does Italian actress Sophia Loren support?
+
+Answers:
+  1: Napoli
+  2: Juventus
+  3: None of these
+  4: Milan
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 12678836-bc4d-4256-8b8f-5c29f4455378
+
+Question: >
+  When did William Powell live?
+
+Answers:
+  1: 1892-1984
+  2: 1902-1975
+  3: 1905-1970
+  4: 1901-1969
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 01880cf2-10c6-4361-b9da-c921ac09083b
+
+Question: >
+  In what major city was actor William Powell born?
+
+Answers:
+  1: Pittsburgh, PA
+  2: Kansas City, MO
+  3: New York, NY
+  4: Los Angeles, CA
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 57171097-2dcb-4742-939c-8e99f516429f
+
+Question: >
+  William Powell was engaged to this very popular actress who died suddenly of kidney disease.
+
+Answers:
+  1: Jean Harlow
+  2: Marilyn Monroe
+  3: Myrna Loy
+  4: Carole Lombard
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
 
 SchemaVersion: 1
 ---
@@ -532,7 +1065,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: newest
+  None
 
 SchemaVersion: 1
 ---
@@ -556,7 +1089,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: world
+  None
 
 SchemaVersion: 1
 ---
@@ -580,7 +1113,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: world
+  None
 
 SchemaVersion: 1
 ---
@@ -604,6 +1137,6 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: people
+  None
 
 SchemaVersion: 1

@@ -18,7 +18,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: newest
+  None
 
 SchemaVersion: 1
 ---
@@ -42,7 +42,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: newest
+  None
 
 SchemaVersion: 1
 ---
@@ -66,7 +66,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: newest
+  None
 
 SchemaVersion: 1
 ---
@@ -90,7 +90,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: newest
+  None
 
 SchemaVersion: 1
 ---
@@ -114,7 +114,3563 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: newest
+  None
+
+SchemaVersion: 1
+---
+ID: 36a9d406-92b0-4693-b3c3-6df59255a883
+
+Question: >
+  What WWII operation is NOT correctly matched with its code name?
+
+Answers:
+  1: Arcadia - Allied offensive in Italy
+  2: Barbarossa - German offensive against the USSR
+  3: Overlord - the operation that launched the invasion of German-occupied western Europe
+  4: Juno - German naval operation to disturb allied supplies to Norway
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 40a77f52-5100-424a-bca0-72dbd6870f9f
+
+Question: >
+  No Oscars were awarded during the years of World War II, because the gold for the statuettes was too expensive to
+  acquire.
+
+Answers:
+  1: True
+  2: False
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 054dda88-bf06-4a93-a4b2-5118bfb2a234
+
+Question: >
+  Angola won its independence in 1975, from what country?
+
+Answers:
+  1: England
+  2: Morocco
+  3: France
+  4: Portugal
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 37c7673f-ee9b-4a8d-9609-f5c30f430b52
+
+Question: >
+  What is significant about the history of the Republic of Armenia?
+
+Answers:
+  1: first Christian state
+  2: fought USSR and remained independent
+  3: first democracy
+  4: first Muslim state
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 745a7c9f-e433-40ba-b378-a9da139c03b5
+
+Question: >
+  World War one broke out in 1914 but the US did not enter the war as a belligerent until what year?
+
+Answers:
+  1: 1921
+  2: 1915
+  3: 1917
+  4: 1919
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 1054ebc8-d8e1-4598-9173-35bed4fbda74
+
+Question: >
+  Which of the following were factors that caused the US to enter World War One on the side of the Allies (Britain,
+  France, Russia and other smaller nations)?
+
+Answers:
+  1: All of these
+  2: Britain and France were democracies, while German and Austrian governments were much less democratic
+  3: US cultural ties with Britain and France
+  4: German sinking of US merchant ships by German submarines
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 25eda514-d02c-4a2d-9401-0bffc46a4962
+
+Question: >
+  Who was President of the United States during World War One?
+
+Answers:
+  1: Theodore Roosevelt
+  2: Woodrow Wilson
+  3: William McKinley
+  4: Warren G. Harding
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 50d52106-054f-4bb9-a1a9-2292bd2c8dc7
+
+Question: >
+  The US President said that the purpose of the US fighting in World War One was which of the following?
+
+Answers:
+  1: to destroy the German Empire
+  2: to gain colonies for the United States
+  3: to make the world safe for democracy
+  4: to show that the US was a powerful nation
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 59747103-0b15-48ac-85ce-565103598f99
+
+Question: >
+  What was the only part of the US military establishment that was reasonably prepared for war at the beginning of US
+  participation in World War One?
+
+Answers:
+  1: the US government in Washington DC
+  2: The US Navy
+  3: the US Army
+  4: the US Air Force
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 55291896-a193-4bb5-aeed-1823784b042d
+
+Question: >
+  Who was the military commander of US Army forces in Europe in World War One?
+
+Answers:
+  1: John Pershing
+  2: Douglas MacArthur
+  3: Dwight Eisenhower
+  4: George Patton
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 2ba2097b-b821-42f4-bc74-33f60662ecc4
+
+Question: >
+  In World War One US Army Sergeant Alvin York is best remembered as which of the following?
+
+Answers:
+  1: A battlefield hero and Medal of Honor recipient
+  2: A traitor who gave military information to the Germans
+  3: The first American killed in France
+  4: An army pilot who was the first to become an ace by shooting down five enemy planes
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: abba812c-3796-4cc6-aec7-b2076a9563ee
+
+Question: >
+  When US troops reached Europe to join the fighting in World War One, they had to learn quickly how to fight this
+  type of warfare.
+
+Answers:
+  1: air warfare which completely dominated the battlefield as well as the air.
+  2: nearly static trench warfare
+  3: armored warfare
+  4: mobile warfare using cavalry and fast moving foot soldiers
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 79b74a1d-6e89-4d35-be8d-6f153fb61549
+
+Question: >
+  US forces played a major part in stopping the final great German offensive of World War One partly by stopping the
+  German advance at this location.
+
+Answers:
+  1: Paris
+  2: Chateau-Thierry
+  3: Verdun
+  4: the Somme
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 7eff3d17-5f41-4111-8e58-30740dc92585
+
+Question: >
+  What future US President fought as an artillery captain in World War One?
+
+Answers:
+  1: Franklin Roosevelt
+  2: Calvin Coolidge
+  3: Harry Truman
+  4: Herbert Hoover
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: fb2f084c-a43a-4d83-af67-b002dd66df8c
+
+Question: >
+  Most Americans were angry when they heard about the Zimmerman Telegram.  What did the German foreign minister
+  promised Mexico in this telegram?
+
+Answers:
+  1: None of these
+  2: a large reward in gold which would be part of the indemnity the Allies would pay after the German vi
+  3: the latest submarine technology in return for German Submarine bases in Mexico
+  4: territory in the southwest United States which had once been Mexican territory if Mexico would form 
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 938e80c4-3d07-4e56-9a7d-06da7c7dfc44
+
+Question: >
+  A revolution in one of the main powers eventually forced that nation to drop out of World War One. Fortunately for
+  the Allies the entry of the US largely made up for the loss of this nation. What was the nation?
+
+Answers:
+  1: Russia
+  2: France
+  3: Irish Free State
+  4: Italy
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 46aaa56e-14d2-4818-a7ec-2bf592bf8afc
+
+Question: >
+  What Roman Emperor, who ruled from 54 to 68, ordered ice to be brought from the mountains and combined it with fruit
+  toppings?
+
+Answers:
+  1: Vespasian
+  2: Nero
+  3: Caligula
+  4: Augustus
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 35f6760a-6699-411b-b2c3-5a9fbdd37ff8
+
+Question: >
+  What famous explorer is credited with bringing to Italy the technique of making ice cream?
+
+Answers:
+  1: Pietro di Brazza
+  2: Marco Polo
+  3: Amerigo Vespucci
+  4: Christopher Columbus
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: c133cff3-0637-4dfe-a4d6-e20b42bdfa41
+
+Question: >
+  When this historical figure married the Duke of Orléans (Henry II of France) in 1533, she brought with her to France
+  some Italian chefs who had recipes for flavoured ices or sorbets.
+
+Answers:
+  1: Margaret of Valois
+  2: Marie Antoinette
+  3: Catherine de Medici
+  4: Marie de Médici
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 28b914b5-dc11-4644-adea-6c830d702a12
+
+Question: >
+  The term blue blood was originally used to refer to the the pale skin and prominent blue veins of nobles from this
+  country.
+
+Answers:
+  1: Italy
+  2: Spain
+  3: England
+  4: France
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 49fd5c78-63c8-4035-b1e5-063a5794e493
+
+Question: >
+  What expression was used in the 18th century for women who cared about culture and intellectual life and disregarded
+  fashion?
+
+Answers:
+  1: Blue ribbon
+  2: Blue lace
+  3: Blue collar
+  4: Bluestocking
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 1e41f45e-52f8-4bba-bf07-224e2e3168a7
+
+Question: >
+  The word maverick refers to a person who refuses to abide by the dictates of a group and was derived from the name
+  of Samuel Maverick. Who was he?
+
+Answers:
+  1: a land agent who refused to lower rents
+  2: a man who illegally sold whiskey
+  3: a rancher who refused to brand his cattle despite the common practice at the time
+  4: a man who refused to pay taxes
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 6ec5fe24-4e4b-4b0a-bac6-f7392fc78c50
+
+Question: >
+  What clothing item was named after a British Army Major General who commanded the Light Brigade during the Crimean
+  War?
+
+Answers:
+  1: vest
+  2: sweater
+  3: pullover
+  4: cardigan
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: d808e27c-5a5e-4cd0-af5c-7b0c0359c505
+
+Question: >
+  What word originated from the name of a French finance minister whose name became eponymous with anything done or
+  made cheaply?
+
+Answers:
+  1: silhouette
+  2: discount
+  3: profile
+  4: shade
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: f3fc89e3-2f28-4093-b9b1-0d7299e6973e
+
+Question: >
+  The term lynching derives from the name of Virginia planter Charles Lynch who headed an irregular court during this
+  war.
+
+Answers:
+  1: Vietnam War
+  2: American Civil War
+  3: Mexican–American War
+  4: American Revolutionary War
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 4688bc31-d1ab-4d74-97e0-efd14c6f9c76
+
+Question: >
+  The Diamond Jubilee of Queen Elizabeth II marked the 60th anniversary of her accession to the throne. Who is the
+  only other monarch in the history of the United Kingdom to have celebrated a Diamond Jubilee?
+
+Answers:
+  1: Queen Victoria
+  2: King Henry VIII
+  3: King George VI
+  4: Queen Elizabeth I
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 425be384-8c32-46c1-a2f9-6fe5bc523a18
+
+Question: >
+  In 1947, Elizabeth II married Prince Philip who was a member of this country's royal family.
+
+Answers:
+  1: Denmark
+  2: Austria
+  3: Greece
+  4: Russia
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 386b21e9-00ec-456a-8d94-a0c9b2a6c3c4
+
+Question: >
+  Who of the following was NOT Prime Minister of the UK under Elizabeth II?
+
+Answers:
+  1: David Cameron
+  2: Clement Attlee
+  3: Margaret Thatcher
+  4: Winston Churchill
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: fea3377d-8566-44f1-82c1-2024a98f9d4b
+
+Question: >
+  Queen Elizabeth II is known for her love of these dogs and is known to have at least four of them in her retinue.
+
+Answers:
+  1: Golden Retriever
+  2: Dachshund
+  3: Welsh Corgi
+  4: Wire Fox Terrier
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 46227cc4-038a-412c-b117-020afdc2a076
+
+Question: >
+  All of which unmarked birds in England are owned by Queen Elizabeth II?
+
+Answers:
+  1: pigeons
+  2: ducks
+  3: ravens
+  4: mute swans
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: caeead34-7f8b-4359-8d8d-617c4502edfc
+
+Question: >
+  Why did Queen Elizabeth II refer to 1992 as her annus horribilis (horrible year)?
+
+Answers:
+  1: Prince Harry was expelled from school.
+  2: It marked the breakdown of her children's marriages.
+  3: Her mother and sister died in 1992.
+  4: Princes Diana died in a car crash in 1992.
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 772df232-8ba6-4b37-9d6e-813e72ca024e
+
+Question: >
+  Upon her accession to the throne, Elizabeth II became Head of the Commonwealth and queen regnant of seven
+  independent Commonwealth countries. Which of these countries does not recognize her as queen?
+
+Answers:
+  1: Pakistan
+  2: Canada
+  3: Australia
+  4: India
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: e6485df1-38f9-4f3e-b3ea-04e2a6ed74ae
+
+Question: >
+  Upon the death of her father, Elizabeth II was staying at the Treetops Hotel, built into the tops of the trees of
+  the Aberdares National Park. In what country was Elizabeth II when she went up a princess and came down a queen?
+
+Answers:
+  1: Jamaica
+  2: Australia
+  3: The Dominican Republic
+  4: Kenya
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: faae7c46-11b9-4fef-a516-67fd4debaf89
+
+Question: >
+  What was the code word for the secret project to develop the atomic bomb?
+
+Answers:
+  1: Mushroom
+  2: Big Boy
+  3: X Plan
+  4: Manhattan Project
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 6094709b-1342-4a8c-99d9-b8417e2f0cc7
+
+Question: >
+  Hitler inadvertently helped the US to develop the atomic bomb by doing which of the following?
+
+Answers:
+  1: boasting that Germany had developed an atomic weapon
+  2: causing many Jewish physicists to leave Germany and eventually work on developing the bomb
+  3: selling the Soviet Union large stocks of uranium
+  4: announcing that Germany had developed long range aircraft that could bomb any US city
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 40241c8a-2ab5-43c7-836c-c03363174839
+
+Question: >
+  What country began working on developing an atomic weapon before the United States and eventually joined with the US
+  in its development?
+
+Answers:
+  1: the Soviet Union
+  2: Canada
+  3: France
+  4: Great Britain
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 9c7d4216-83d8-40ce-ac3b-41bd2c1f53d7
+
+Question: >
+  Name the American physicist who led the team of scientists and engineers who developed the atomic bomb.
+
+Answers:
+  1: Edwin Hubble
+  2: Enrico Fermi
+  3: Albert Einstein
+  4: Robert Oppenheimer
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: e434bd5c-6779-4b80-94ba-0d4607ce4cfa
+
+Question: >
+  In what US state was much of the development of the atomic bomb and the first test of an atomic bomb carried out?
+
+Answers:
+  1: Montana
+  2: Alaska
+  3: New Mexico
+  4: California
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: ccee4379-9abf-4931-84b0-a8a734a122ed
+
+Question: >
+  Who made the final decision to drop atomic bombs on Japan?
+
+Answers:
+  1: General Eisenhower
+  2: President Truman
+  3: President Roosevelt
+  4: General MacArthur
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 38ec504e-4721-4665-94c4-b8c3ba93165e
+
+Question: >
+  After US forces captured this island, a major air base was built there because it was close enough to Japan. The
+  plane that dropped the first atomic bomb on Japan flew from the base on this island.
+
+Answers:
+  1: Luzon (Philippines)
+  2: Tinian
+  3: Guadalcanal
+  4: Midway
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 0bf27ac6-28a9-4e47-9099-9cadc92f625b
+
+Question: >
+  What leader of a nation besides the US and Britain had some information about the development of the atomic bomb in
+  the US?
+
+Answers:
+  1: None of these
+  2: Chiang Kai-shek of China because the US informed him about the project
+  3: De Gaulle of France because several French scientists worked on the project
+  4: Stalin of the Soviet Union because of Soviet spies
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: c9991015-e134-42ec-a7c0-abef39cb13cf
+
+Question: >
+  Why was Hiroshima  chosen as the target of the first atomic bomb dropped on Japan?
+
+Answers:
+  1: All of these
+  2: Hiroshima had suffered almost no damage from conventional bombing, so it could be possible to discer
+  3: It was the second largest industrial city of Japan.
+  4: The Japanese emperors summer home was in Hiroshima.
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 29744d89-c2f8-41d5-8990-0699cc45f6d0
+
+Question: >
+  What was the first major battle of the Eastern Theater of the American Civil War?
+
+Answers:
+  1: Bull Run
+  2: Antietam
+  3: Chancellorsville
+  4: Cedar Creek
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 926f4e3b-b762-4d19-9f1a-491cb1a90296
+
+Question: >
+  The site of this 1862 battle had been the scene of a previous battle?
+
+Answers:
+  1: Second Bull Run
+  2: Gettysburg
+  3: Chancellorsville
+  4: Antietam
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 92932171-8b6d-4780-8191-477f8fadad04
+
+Question: >
+  Which battle featured the defense of Marye's Heights?
+
+Answers:
+  1: Gettysburg
+  2: Shiloh
+  3: Fredericksburg
+  4: Rich Mountain
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: d97fa4fc-fbc5-435f-b6a7-dcd5ca5ea5cf
+
+Question: >
+  Which battle saw the defence of the Sunken Road or Bloody Lane as it was called after the battle?
+
+Answers:
+  1: Second Bull Run
+  2: Fredericksburg
+  3: Savages Station
+  4: Antietam
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: ea924556-ad2f-4263-9738-11625a2f121c
+
+Question: >
+  Ulysses Grant had been given top command in the west, before the battle of Shiloh.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 25f62b4b-422e-40ed-aa85-62dfae3a9607
+
+Question: >
+  In which battle was Stonewall Jackson killed?
+
+Answers:
+  1: Chancellorsville
+  2: Shiloh
+  3: Antietam
+  4: Mechanicsville
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 670b4f45-9348-4499-94bd-07310d2b8d70
+
+Question: >
+  Which of these is not a battle of the Seven Days Battles?
+
+Answers:
+  1: Fraysers Farm
+  2: Gaines Mill
+  3: Malvern Hill
+  4: Bunker Hill
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 2643613a-2ee9-48f8-b835-9515a6800519
+
+Question: >
+  What battle of the American Civil war raged for 12 days from 8 may to 19 May 1864?
+
+Answers:
+  1: Kennesaw Mountain
+  2: Spotsylvania Court House
+  3: Yellow Tavern
+  4: Gettysburg
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 45bf2755-88c5-48d2-a8e7-26d10f3ac2b7
+
+Question: >
+  At which battle was J E B Stuart killed?
+
+Answers:
+  1: Yellow Tavern
+  2: Spotsylvania Court House
+  3: Trevilian Station
+  4: Petersburg
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: d3f7e72e-d5cd-475b-988d-450834e50ef0
+
+Question: >
+  Which battle of the American Civil War featured Pickett's charge?
+
+Answers:
+  1: Gettysburg
+  2: Fredericksburg
+  3: Antietam
+  4: Chancellorsville
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: fbc027a5-11f9-4cdb-8d9f-fe0cfa079d0a
+
+Question: >
+  He was King of the Franks from 768 and Emperor of the Romans from 800 to his death in 814. During his reign he
+  expanded the Frankish kingdom into an empire.
+
+Answers:
+  1: Pepin the Short
+  2: Francis I
+  3: Charlemagne
+  4: Louis the Pious
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 2bddc035-2a9f-4af2-95d1-ec16518cc711
+
+Question: >
+  He was King of the Franks and co-Emperor with his father, Charlemagne.
+
+Answers:
+  1: Pepin the Short
+  2: Louis the Pious
+  3: Lothair I
+  4: Philip I
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: dd2c0df7-712e-462f-a368-b384f53a888a
+
+Question: >
+  Known as the Sun King, his 72-year-reign is the longest in European history.
+
+Answers:
+  1: Louis Napoleon Bonaparte
+  2: Louis XII
+  3: Louis XIV
+  4: Charles V
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: b28e3d1c-acf4-4eff-8510-bec4ec1c8700
+
+Question: >
+  This King was largely influenced by his chief mistress, Madame de Pompadour. His decisions weakened the French
+  treasury and discredited the absolute monarchy.
+
+Answers:
+  1: Louis-Philippe
+  2: Louis XV
+  3: Jean I
+  4: Louis XIV
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 27df64cf-ca93-469f-bddb-eda7803c41b5
+
+Question: >
+  Her three sons, Francis II, Charles IX and Henry III reigned as Kings of France during the 16th century, in an age
+  of almost constant civil and religious war.
+
+Answers:
+  1: Marie Antoinette
+  2: Margaret of France
+  3: Catherine de Medici
+  4: Marie de Medici
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 5e2fa781-cf61-4290-ae29-3a41756ef80a
+
+Question: >
+  Famous for her beauty and sense of style, as well as for her scandalous behavior, she married King Henry III of
+  Navarre who finally became King Henri IV of France.
+
+Answers:
+  1: Marie Antoinette
+  2: Margaret of France
+  3: Catherine de Medici
+  4: Anne of Austria
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 40a86773-ae98-4b45-ae9b-fe4831f8a35e
+
+Question: >
+  This Queen consort of France was noted for her political intrigues at the French court. Following the assassination
+  of her husband King Henry IV of France, she acted as regent for her son, King Louis XIII of France, until he came of
+  age.
+
+Answers:
+  1: Marie de Medici
+  2: Marie Antoinette
+  3: Anne of Austria
+  4: Catherine de Medici
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 50279199-b9e8-4e55-8ec7-2ebcff53add5
+
+Question: >
+  He established the French civil code, which forbade privileges based on birth and allowed freedom of religion. He
+  was quoted as saying My true glory is not to have won 40 battles...Waterloo will erase the memory of so many
+  victories. ... But...what will live forever, is my Civil Code.
+
+Answers:
+  1: Louis XV
+  2: Louis XIV
+  3: Napoleon Bonaparte
+  4: Louis XVI
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: dbb282bc-3e91-4a37-871e-6a2c47355454
+
+Question: >
+  He is the only King of France ever to be executed. His wife Marie Antoinette shared the same fate.
+
+Answers:
+  1: Louis-Philippe I
+  2: Louis XVI
+  3: Napoleon III
+  4: Henry IV
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 89005e89-b842-4b10-b3ef-1e3bb55b0612
+
+Question: >
+  Following this king's execution, the monarchy was abolished and a republic called the Commonwealth of England was
+  declared.
+
+Answers:
+  1: Henry VIII
+  2: Charles II
+  3: Charles I
+  4: James I
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 851ee24d-6434-4073-a8b0-61c4fa0858a3
+
+Question: >
+  Who became King of England after the monarchy was restored in 1660?
+
+Answers:
+  1: Charles I
+  2: James II
+  3: Henry V
+  4: Charles II
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: b4fb0c6e-c2c5-4633-b660-48dba7e6879b
+
+Question: >
+  Besides his six marriages, this king is known for his role in the separation of the Church of England from the Roman
+  Catholic Church.
+
+Answers:
+  1: Edward IV
+  2: William IV
+  3: Henry VIII
+  4: Henry VII
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 77f71170-32a4-4d16-8afa-7202ef76c28a
+
+Question: >
+  He was the first monarch of the House of Tudor and last king of England to win his throne on the field of battle. He
+  defeated his opponent Richard III in the Battle of Bosworth Field, the penultimate battle of the War of the Roses.
+
+Answers:
+  1: Henry VII
+  2: Edward VI
+  3: Henry VIII
+  4: Richard V
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: eb759993-2a64-4a8c-a12e-6c32b8ad4440
+
+Question: >
+  This King of England is featured in three Shakespearean plays. His military successes in the Hundred Years War
+  culminated with his famous victory at the Battle of Agincourt.
+
+Answers:
+  1: Henry V
+  2: James I
+  3: Henry VI
+  4: Richard III
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 2287290e-4f95-44af-a8cd-53599c2500d2
+
+Question: >
+  He was King of England and disputed King of France. His bouts of insanity eventually required his wife, Margaret of
+  Anjou, to assume control of his kingdom.
+
+Answers:
+  1: Edward VI
+  2: Henry VIII
+  3: George I
+  4: Henry VI
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: f87a441e-b9b1-498f-a1e8-e6e7aa596029
+
+Question: >
+  With a reign of 326 days, he was one of the shortest-reigning monarchs in British and Commonwealth history. He
+  caused a constitutional crisis by proposing marriage to the American socialite Wallis Simpson.
+
+Answers:
+  1: William IV
+  2: Edward VIII
+  3: George VI
+  4: George V
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 2a5fe459-0ffa-49fe-a3a0-a3ff62409c20
+
+Question: >
+  He became the first monarch of the House of Windsor, which he renamed from the House of Saxe-Coburg and Gotha due to
+  anti-Germanic public feeling. He was the first British monarch to deliver a speech on the radio.
+
+Answers:
+  1: Edward VII
+  2: George VI
+  3: George V
+  4: Edward VIII
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: d974c21b-e356-4209-a0f1-62d1973c3a15
+
+Question: >
+  He was the first British monarch of the House of Saxe-Coburg and Gotha. During the long reign of his mother, Queen
+  Victoria, he came to personify the fashionable, leisured elite.
+
+Answers:
+  1: Edward VII
+  2: George VI
+  3: William IV
+  4: George V
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 34fbe97a-fdb0-49ac-86c2-907bc283e575
+
+Question: >
+  This king succeeded his brother Edward assuming the regnal name George VI to emphasise continuity with his father.
+  What was George VIs birth name?
+
+Answers:
+  1: Albert
+  2: Louis
+  3: Philip
+  4: Alfred
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 367f7f66-7d97-4e8b-9665-caeae598f2f0
+
+Question: >
+  Descended from Viking raiders, he was the first Norman King of England, reigning from 1066 until his death in 1087.
+
+Answers:
+  1: William I
+  2: Henry I
+  3: Richard I
+  4: Robert I of Normandy
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 73c503b3-4a58-49d8-8233-1d07b4e81cc9
+
+Question: >
+  He was the last Anglo-Saxon King of England. He reigned until his death at the Battle of Hastings.
+
+Answers:
+  1: William I
+  2: Harold II
+  3: Edward the Confessor
+  4: Richard the Lionheart
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: a06a69b9-eb8b-4161-bf43-8c2c6d343415
+
+Question: >
+  What do Harold II, Richard I and Richard III have in common?
+
+Answers:
+  1: They failed to produce heirs to the throne.
+  2: They were all illegitimately born.
+  3: They all died in warfare.
+  4: They were Anglo-Saxon kings.
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: dd097744-e921-4007-8d35-c3abd8c4855f
+
+Question: >
+  Even before his accession to the throne, this King of England was known as Cœur de Lion or The Lionheart because of
+  his reputation as a great military leader and warrior.
+
+Answers:
+  1: Richard III
+  2: Richard I
+  3: Richard II
+  4: Henry I
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: d5c3cb40-5f83-4962-8eff-c414bcd5d68b
+
+Question: >
+  This King of England, who is generally accused of having Edward V and his brother killed, is the subject of an
+  eponymous play by William Shakespeare.
+
+Answers:
+  1: Edward IV
+  2: Henry I
+  3: Richard III
+  4: William I
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 8a4509d0-d504-4dfe-b641-486c34950fd2
+
+Question: >
+  He had been King of Scotland for 36 years when he became King of England and Ireland, succeeding Elizabeth I.
+
+Answers:
+  1: James I
+  2: William I
+  3: Henry I
+  4: Henry V
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 2c8a46c0-a34a-4039-a239-3e30b117d2ce
+
+Question: >
+  What was the nickname of Edward, the last king of the House of Essex, who ruled from 1042 to 1066?
+
+Answers:
+  1: The Great
+  2: The Lionheart
+  3: The Confessor
+  4: The Conqueror
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 8a9fcf1c-1c31-4ab2-acd5-b3edf411cdb4
+
+Question: >
+  What King of England was known as Longshaks and the Hammer of the Scots?
+
+Answers:
+  1: Henry I
+  2: Edward I
+  3: Charles I
+  4: Richard I
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: e149c9f0-06fa-4437-b7ca-214988a16826
+
+Question: >
+  This King of England, who ruled from 1100 to 1135, was called Beauclerc for his scholarly interests. His stern rule
+  was followed by a period of civil war, known as the Anarchy.
+
+Answers:
+  1: William I
+  2: Henry I
+  3: Edward the Confessor
+  4: Harold II
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: e3563586-2394-42b5-90a2-bf92208b0444
+
+Question: >
+  Which of the following was not a king of England?
+
+Answers:
+  1: Robert the Bruce
+  2: Edward VIII
+  3: George VI
+  4: William IV
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 9605b000-8c1e-453e-972d-a331f8eaf464
+
+Question: >
+  Dolmabahçe palace served as the main administrative center of the Ottoman Empire until 1856.
+
+Answers:
+  1: True
+  2: False
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: b65c30f4-e5dd-492e-a8f7-6b3816c131f9
+
+Question: >
+  Who ordered the construction of Dolmabahçe Palace?
+
+Answers:
+  1: Garabet Balyan
+  2: Nigoğayos Balyan
+  3: Hacı Said Ağa
+  4: Abdülmecid I
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: d936ad05-57be-4b45-b856-22942a463732
+
+Question: >
+  Mustafa Kemal Atatürk, the founder and first President of the Republic of Turkey, lived in Dolmabahçe Palace.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: c46df385-e1c0-4c72-8b87-c9ee01cb2d66
+
+Question: >
+  The enormous Bohemian crystal chandelier, which is in the center hall of Dolmabahçe Palace, was a gift from Queen
+  Elizabeth I of England.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: fe26c1f9-ae48-498e-a342-45fa26ed08b0
+
+Question: >
+  Dolmabahçe Palace was home to six Sultans.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: ea225aa4-1274-45dd-9998-8a50fd17aad4
+
+Question: >
+  Theatre was thriving in ancient Rome.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 01016c8a-4387-45bb-a6d2-46d22756ada5
+
+Question: >
+  What Roman philosopher and dramatist was tutor and later advisor to emperor Nero?
+
+Answers:
+  1: Seneca
+  2: Plautus
+  3: Statius
+  4: Terence
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: c1e1ebe9-0f5e-4f67-8abc-b8b451ad6c00
+
+Question: >
+  Sara Lee Creech moved to Belle Glades, Florida in the 1940s.  She and others in town formed a local organization for
+  improvement in racial relations in a very segregated world. What was her occupation in Belle Glades?
+
+Answers:
+  1: She was the mayor of the town.
+  2: She owned a florist shop.
+  3: She ran a small luncheonette.
+  4: She was a maid.
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: ecfc4949-c615-479a-af95-430c54467e1c
+
+Question: >
+  Ms. Sara Lee Creech met Edna Fuller, who had organized Florida's first Inter-racial Council in Orlando. After
+  hearing Ms. Fuller's speech in Orlando, the Belle Glades local organization decided to form Florida's second Inter-
+  national Council. Which of these were not part of their missions?
+
+Answers:
+  1: To persuade Palm Beach County School Board to build an elementary school for the black community
+  2: To fight for integration of schools
+  3: To start a day care center for farm workers children.
+  4: To gain trust with the black and white community for the Council by having 15 white members and 15 b
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 0dd5b924-b340-40b5-a6d9-357cc60177e4
+
+Question: >
+  Eight months after the first meeting of the Inter-racial Council, Ms. Sara Lee Creech had an epiphany. She was
+  walking out of the Post Office and saw two little African-American girls playing with dolls in the backseat of a
+  car. What disturbed her about that situation?
+
+Answers:
+  1: The children were left alone in the car.
+  2: The children were dressed in rags.
+  3: The car was purple.
+  4: The children were playing with white dolls.
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 6e7f73e2-4a98-4281-a2db-593848bdc9eb
+
+Question: >
+  At the second meeting of the Inter-racial Council, Ms. Sara Lee Creech asked some of the black parents why they
+  would want their children to play with white dolls. What was the parents' answer?
+
+Answers:
+  1: The only black baby dolls were white dolls that had defects and were taken off the production line a
+  2: There were no acceptable black dolls available.
+  3: The only black dolls in the stores were racial parodies of slave women and children.
+  4: All of these
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 5618fe37-e014-4a26-a0e5-0fbfb499accf
+
+Question: >
+  Ms. Sara Lee Creech got in touch with the sculptress Sheila Burlingame, who had sculpted the figurine Negro Boy
+  Praying for the St. Louis Headquarters of the Urban League. Ms. Burlingame was very enthusiastic about creating a
+  black doll and was ready to start. What did she ask for to help her sculpt the dolls so they would be
+  anthropologically accurate?
+
+Answers:
+  1: hair samples and facial photos of the children
+  2: 5 boys and 5 girls to model for her
+  3: photos of black children and the head measurements of different aged children
+  4: money to come to Belle Glades to work with the children there
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 19ae9c24-c158-42df-bd94-36e16860fc76
+
+Question: >
+  Ms. Sara Creech began studying the history of black dolls and the message that was sent to the children by these
+  types of dolls. What information did she gather to justify issuing a patent for the Sara Lee doll?
+
+Answers:
+  1: Research from sociologist Kenneth Clark whose findings helped lead to the landmark decision to integ
+  2: Results from tests conducted with dolls and children. Black children said that black dolls were dirt
+  3: Research which showed that racial prejudices were transmitted through toys and games
+  4: All of these
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 8f226377-4a1e-4737-ad1d-d980263b6896
+
+Question: >
+  Ms. Sara Lee Creech was seeking support for the creation of the Sara Lee doll and was invited to a reception where
+  she met Zora Neale Hurston, the author of Their Eyes Were Watching God. Who was this reception being held for?
+
+Answers:
+  1: The sculptress, Sheila Burlingame
+  2: Sara Lee Creech
+  3: Eleanor Roosevelt
+  4: The Inter-racial Council of New York
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 7c4a3de2-e82c-4dac-9748-f77aeea280aa
+
+Question: >
+  A friendship bloomed between Ms. Sara Creech and author Nora Hurston. Ms. Hurston came to Belle Glades to help with
+  the creation of the Sara Lee doll. She was invited to stay at Ms. Creechs house but declined. Why?
+
+Answers:
+  1: She was afraid of the part of town Ms. Creech lived in.
+  2: Ms. Creech was white and Ms. Hurston was black. Ms. Hurston didn't want her friend to face repercuss
+  3: Ms. Creechs house was in bad condition.
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 48c04ab4-3dab-4410-b88c-1c5829a4ab26
+
+Question: >
+  Ms. Sara Lee Creech had difficulty in finding a manufacturer for her doll, so she asked author-anthropologist Zora
+  Neale Hurston for her help. Ms. Hurston contacted some very influential friends to solicit letters of support. Which
+  person on the list was not contacted?
+
+Answers:
+  1: The President of Atlanta University
+  2: The President of Morehouse College
+  3: Martin Luther King III
+  4: The Director of the Department of United Nations
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 160d1707-bb4e-43ca-8cf5-da76ea6ba1f6
+
+Question: >
+  What store contacted Mrs. Sara Lee Creech in 1950 and invited her to a meeting?
+
+Answers:
+  1: Montgomery Ward
+  2: Sears  Roebucks
+  3: FAO Schwarz
+  4: Macys
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 4cd3434c-aa3a-4452-a7af-e3bed472f5b0
+
+Question: >
+  The Sears manager contacted Ideal Toy Company in relation to Sara Lee Creechs idea of creating a black doll.
+  Although the president of Ideal, Mr Clark was ready to start the production, the board wasn't sure but agreed to a
+  meeting with Ms. Creech. What happened before their meeting?
+
+Answers:
+  1: Newsweek and Life ran lead stories about the doll and all the support people had for it.
+  2: First Lady Eleanor Roosevelt invited major black and white leaders to consult about the appropriate 
+  3: Neither of these
+  4: Both of these
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 689deef5-9379-42e2-8f66-91b11b91ac74
+
+Question: >
+  Ideal Toy Company started manufacturing the Sara Lee doll to get it on store shelves in time for what season?
+
+Answers:
+  1: Easter 1952
+  2: Fourth of July 1952
+  3: Thanksgiving 1952
+  4: Christmas 1952
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 990d3c05-ef03-49cc-bcb3-1663983f9e4a
+
+Question: >
+  The 17-18 doll, Sara Lee, was dressed in a yellow lacy dress with a bonnet on her head. She had molded and painted
+  hair and looked just like a beautiful African-American infant.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: fd8e60ac-0e83-4e76-8024-f74214cd5428
+
+Question: >
+  Ms Sara Lee Creech received a crate of Sara Lee dolls before they went to the stores. What did she do with them?
+
+Answers:
+  1: She gave them to her family.
+  2: She took them to Lake Shore Elementary School, the school she had lobbied for with the Inter-racial 
+  3: She gave them to the people who supported her while she was getting these dolls made and marketed.
+  4: She donated them to the day care center the Inter-racial Council had started.
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 14cd10c7-ec60-456e-91a7-adbaa49ccc33
+
+Question: >
+  When the doll, Sara Lee, was put in the stores, what school board system ordered several hundred and made her the
+  official doll of the state school board?
+
+Answers:
+  1: New York
+  2: Tennessee
+  3: Florida
+  4: Georgia
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: ac0de750-4472-47e0-b755-b70f75238320
+
+Question: >
+  What did Ms. Sara Lee Creech do when the Sara Lee doll failed?
+
+Answers:
+  1: All of these
+  2: She had to go back to Belle Glades and go on with her life there.
+  3: She went back to her florist shop and continued the many friendships she had made with the supporter
+  4: She became deeply involved with the Inter-racial Council and began new projects and worked with the 
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: f8fa511b-91cd-43e5-9b50-be1ce491056b
+
+Question: >
+  In this battle British general Montgomery ended the German/Italian threat to Egypt and the Suez Canal by a decisive
+  victory in 1942 that proved to be the turning point of the war in North Africa.
+
+Answers:
+  1: Tobruk
+  2: El Alamein
+  3: Battler of the Frontiers
+  4: El Quatarra
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 9605fd90-c812-44fe-8830-f1cd1dd8d606
+
+Question: >
+  What was the final battle of WWII in Europe which was primarily between the Germans and the Soviet forces and during
+  which Hitler committed suicide?
+
+Answers:
+  1: Battle of Berlin
+  2: Battle of Kiev
+  3: Battle of Konigsgrad
+  4: Battle of Dresden
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 6e37d404-e5cb-4a2b-956b-bc872f91ba6c
+
+Question: >
+  About five months after the Japanese attack on Pearl Harbor, carriers of the Japanese navy and the US navy fought in
+  the South Pacific. It was the first time in history that opposing ships never sighted each other - only their
+  aircraft crews saw their opponents. Though the US force took heavy losses, they were able to stop the Japanese
+  invasion of Port Moresby in New Guinea. What was the name of the battle?
+
+Answers:
+  1: Midway
+  2: Bismarck Archipelago
+  3: Coral Sea
+  4: Java Sea
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 986ff2fc-8ce0-4f29-8595-55b5364e5398
+
+Question: >
+  Also known as D-Day, this was the invasion of German-occupied northern France in 1944 by British, Canadian, US and
+  other allied nations troops.
+
+Answers:
+  1: Battle of France
+  2: Dieppe
+  3: Battle of the Nations
+  4: the Normandy Landings
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: e9cce41f-2b99-4a7a-9f5d-836dfd6f1b0f
+
+Question: >
+  The Soviets successful defense of this city and destruction of a German army in heavy, bloody fighting in 1942-43 is
+  often called the turning point of WWII.
+
+Answers:
+  1: Stalingrad
+  2: Sevastopol
+  3: Leningrad
+  4: Kharkov
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: d1bc7638-485e-4546-a986-adbfdb1561d3
+
+Question: >
+  Possibly the largest tank battle in history was fought in 1943 near a Soviet city that gives its name to the battle.
+  Both sides took heavy losses of tanks and men but in the end the Soviets prevailed and the Germans had to begin the
+  long retreat that would eventually take them all the way back to Germany. What was the name of the city and the
+  battle?
+
+Answers:
+  1: Smolensk
+  2: Kiev
+  3: Kursk
+  4: Kharkov
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 222f3ffe-0a2f-4b16-a6f3-c2a17f7c7ab7
+
+Question: >
+  In this Pacific battle in 1942, the US Navy sank four Japanese aircraft carriers while losing only one of their own.
+  It is generally considered the turning point of the war in the Pacific. The battle is named after an island which
+  the Japanese intended to capture but were halted by their losses in the naval battle. What is the name of the island
+  and the battle?
+
+Answers:
+  1: Rabaul
+  2: Midway
+  3: Wake
+  4: Guam
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: b666a630-15d1-42e8-96df-a736d7aa5802
+
+Question: >
+  In late 1944, Hitler scraped up a strong force including armor and caught the American forces by surprise near the
+  Belgium - German border. In the biggest battle fought in northwest Europe in 1944-45, the Germans pushed back the US
+  defense line considerably until reinforcements and British help halted the German advance and eventually pushed them
+  back into Germany. What name is this battle known by?
+
+Answers:
+  1: the Battle of the Frontier
+  2: the Battle of the Bulge
+  3: the Battle of the Borders
+  4: the Battle of Desperation
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: e8d5c96e-7a02-4a8c-88b0-10caf591410f
+
+Question: >
+  On and near what island in the Soloman Island group was the Japanese advance in the South Pacific stopped in 1943,
+  after about six months of brutal fighting between the land and naval force of the US and Japan?
+
+Answers:
+  1: Bismarck Island
+  2: Guadalcanal
+  3: Tarawa
+  4: Tulagi
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: f35e45ee-3893-4c13-ad84-1e264ca841ac
+
+Question: >
+  In 1944, the Japanese Navy made a last all-out effort to defeat the US Navy in a battle in the waters of the
+  Philippines. The Japanese made a three pronged attack on the US Navy and US Marines landing on an island in the
+  Philippines. However, in this naval battle the US Navy sank many Japanese ships and gained almost total dominance of
+  the Pacific Ocean. From that time on the Japanese navy could do little except launch suicide planes to try to stop
+  the advance of Allied forces toward Japan. What was the name of this great battle?
+
+Answers:
+  1: Okinawa
+  2: Savo Island
+  3: Iwo Jima
+  4: Leyte Gulf
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 6d8845dd-9941-416a-bcca-420419b393cf
+
+Question: >
+  In the late summer and autumn of 1940 (after the German conquest of France) the German air force tried to gain air
+  superiority over the English Channel and southern England so that Germany could invade Britain. The British Royal
+  Air Force (RAF) fought with great determination against the Germans and made the fight so costly that the Germans
+  had to give up the idea of invading Britain. What was this mostly air battle called?
+
+Answers:
+  1: the Battle of the Air Forces
+  2: the Miracle of Dunkirk
+  3: the Battle of Britain
+  4: the Channel Campaign
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 9af68189-8c48-46be-89fd-01f54650ca35
+
+Question: >
+  The final major battle of World War Two was on this Pacific island where the US took heavy casualties both in the
+  ground forces and the navy before capturing the island. The fanatical defense of the island by the Japanese,
+  including kamikaze attacks, was probably a factor influencing the US to drop the atomic bombs in hopes of ending the
+  war without another blood bath. What was the name of the island?
+
+Answers:
+  1: Taiwan
+  2: Okinawa
+  3: Honshu
+  4: Saipan
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: d3f4db53-7d00-4ce0-9aea-43afd272a10d
+
+Question: >
+  The constitution of the US presently used is the second constitution of the United States that was approved by the
+  states. What was the first one called?
+
+Answers:
+  1: Constitution of the Former Colonies of Britain in North America
+  2: The Articles of Confederation
+  3: The Declaration of Independence
+  4: Constitution of the Independent States of North America
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: c20902ec-6b97-452e-a194-bc13592e0e55
+
+Question: >
+  When and where was the second Constitution of the United States written?
+
+Answers:
+  1: in 1776 in Philadelphia
+  2: in 1787 in Philadelphia
+  3: in 1801 in Baltimore
+  4: in 1781 in New York
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: e742249d-d1f9-4076-9c56-9aaccd65fc3d
+
+Question: >
+  In February 2011, the president of this country resigned after widespread protests calling for his departure and
+  transferred authority to the Armed Forces.
+
+Answers:
+  1: Sudan
+  2: Libya
+  3: Egypt
+  4: Thailand
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: d8102a6f-73d8-4832-8da6-ff83140e14eb
+
+Question: >
+  An estimated two billion people watched the royal wedding of Prince William and Catherine Middleton, which took
+  place on 29 April, 2011 at this venue in London.
+
+Answers:
+  1: St. Jamess Palace
+  2: Westminster Abbey
+  3: St. Pauls Cathedral
+  4: Hampton Court Palace
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: b01a9612-d05b-4b59-82ad-a7c38675fe0b
+
+Question: >
+  In May 2011, American President Barack Obama announced that Osama bin Laden had been killed during an American
+  military operation in this country.
+
+Answers:
+  1: Libya
+  2: Cambodia
+  3: Pakistan
+  4: Iran
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 60223e70-e065-4a28-a631-d7adb6c88abd
+
+Question: >
+  An uprising which started in February 2011 led to a civil war in this Arab country.
+
+Answers:
+  1: Libya
+  2: Afghanistan
+  3: Pakistan
+  4: Lebanon
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 531ef184-e284-4233-81d4-0e4eacfcaa57
+
+Question: >
+  The Adbusturs activist group, which initiated the Occupy Wall Street (OWS) series of demonstrations, is based in
+  this country.
+
+Answers:
+  1: Australia
+  2: the USA
+  3: Mexico
+  4: Canada
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 0f370db9-d05e-4ebe-a159-01cf75773257
+
+Question: >
+  What European country's government buildings were bombed in July 2011 by a terrorist, named Anders Breivik?
+
+Answers:
+  1: France
+  2: Switzerland
+  3: Norway
+  4: Germany
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: a26bca3b-ab5f-45c9-9eea-c7307e8ffabd
+
+Question: >
+  In what year did the war between the US and Mexico begin?
+
+Answers:
+  1: 1898
+  2: 1846
+  3: 1872
+  4: 1858
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: f2ede47a-3235-4a85-baa5-4bd29db930ac
+
+Question: >
+  Who was the President of the US during the Mexican-American War?
+
+Answers:
+  1: Thomas Jefferson
+  2: Andrew Jackson
+  3: James Polk
+  4: Jame Garfield
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: d2ea9fe4-be23-4997-84be-b8b1f97ab663
+
+Question: >
+  Known as Old Rough and Ready, he was elected president of the US partly because he gained fame by victories over the
+  Mexicans in northern Mexico during the Mexican–American War.
+
+Answers:
+  1: Franklin Pierce
+  2: Zachary Taylor
+  3: Grover Cleveland
+  4: William McKinley
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 323c0d8b-cb86-4b82-a0d4-c59735df407e
+
+Question: >
+  A reason for declaring war on Mexico, given by US pro-war politicians, was that Mexican troops had attacked US
+  troops on US soil. This American congressman, who later became US President, challenged the assertion that the spot
+  where the attack took place was on US territory.
+
+Answers:
+  1: Abraham Lincoln
+  2: Henry Clay
+  3: John Quincy Adams
+  4: Daniel Webster
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 7839fc4d-2214-4fcd-87d6-d058a388db61
+
+Question: >
+  Which of the following doctrines (common concepts) among US citizens most strongly influenced the US to go to war
+  with Mexico?
+
+Answers:
+  1: freedom of speech
+  2: freedom of trade
+  3: manifest destiny
+  4: equality of all men
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 7df24330-6d4b-478a-927f-02ef9550f6c0
+
+Question: >
+  Which of the following military men fought in the Mexican-American war and later played a significant role as an
+  officer in the US Civil War?
+
+Answers:
+  1: Ulysses Grant
+  2: Robert E. Lee
+  3: All of these
+  4: George McClellan
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 8d322f5a-f0b0-4915-aa53-2d5ad617dbc1
+
+Question: >
+  Although there were disputes over this territory, there were no significant battles in it during the US-Mexican War.
+
+Answers:
+  1: Texas
+  2: There were significant battles in all three of these territories.
+  3: California
+  4: New Mexico
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 3cce3486-684c-4de3-9baf-088bfc565b68
+
+Question: >
+  The capture of this city in the Mexican–American War was the final American victory that caused the Mexicans to
+  surrender.
+
+Answers:
+  1: Santa Cruz
+  2: Albuquerque
+  3: Mexico City
+  4: Monterrey
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 294d377e-a858-46ea-a276-09e865a31ac9
+
+Question: >
+  Which of these was a result of the Treaty of Guadalupe Hidalgo that ended the Mexican-American War?
+
+Answers:
+  1: Mexico gave up all claims to Texas.
+  2: The US paid Mexico 15 million dollars.
+  3: All of these
+  4: Mexico ceded California to the US.
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: c5feb356-eed0-43fb-8fcf-3f3cb9f51980
+
+Question: >
+  Which of the following statements is true about the Medici family?
+
+Answers:
+  1: All of these
+  2: They founded the Medici Bank.
+  3: In the 16th century the family became hereditary Dukes of Florence.
+  4: Four Popes of the Catholic Church and two regent Queens of France belonged to the Medici family.
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: ce347207-401e-4752-b1c3-d6985b2b3b7b
+
+Question: >
+  He was one of the first Europeans to travel through China and to visit Kublai Khan (grandson of Genghis Khan).
+
+Answers:
+  1: Marco Polo
+  2: Christopher Columbus
+  3: Leonardo Da Vinci
+  4: Amerigo Vespucci
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 44853b0f-8fb6-4037-b362-33218c3fe2f5
+
+Question: >
+  He ruled Italy from 1922 to 1943 and imposed a fascist regime through state terror and propaganda.
+
+Answers:
+  1: Mussolini
+  2: Jozef Stalin
+  3: Franco
+  4: Tito
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 162c22fb-cdb4-4189-8d6a-37f094842ad0
+
+Question: >
+  Where was Marie Antoinette, the Queen of France and Navarre, born?
+
+Answers:
+  1: None of these
+  2: Belvedere Palace
+  3: Hofburg Imperial Palace
+  4: Schonbrunn Palace
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: adf602d4-ba7f-4ccb-8d6c-374c00fccdb6
+
+Question: >
+  The domination of Merovingians coincides with the period of King Arthur - the time for which the most chivalrous
+  novels written for the Holy Grail.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: bad7c356-3f0c-4862-82fb-8bd05aa4aa12
+
+Question: >
+  The war between the White and Red Rose in England have been leads to change which dynasty on the throne.
+
+Answers:
+  1: Tudors
+  2: Merovingians
+  3: Stewarts
+  4: All of these
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 7ba5bb24-9f71-49f3-acb8-798b53362f97
+
+Question: >
+  Which was the father of the mystery ruler Merovey according the legend.
+
+Answers:
+  1: Sea monster
+  2: Both of these
+  3: None of these
+  4: King Klodion
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 28096ea2-d5dc-4366-870e-699c94c8cc12
+
+Question: >
+  Which of the following have been considered for descendant of the Merovingians.
+
+Answers:
+  1: Lorraine
+  2: All of these
+  3: Knights Templar
+  4: Monks of the Brotherhood of Zion
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: e8450c39-b42a-4909-b220-ab2110a6aa2f
+
+Question: >
+  The Merovingians themselves believe that their magic strength lies in...
+
+Answers:
+  1: Their special birth sign
+  2: All of these
+  3: Their magic abilities
+  4: Their hair
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: bd8256c7-f075-461a-a0ff-0a4e02c0079f
+
+Question: >
+  Saint Clotilde (475–545) was married the Merovingian Clovis, King of the Franks.
+
+Answers:
+  1: True
+  2: False
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 77664306-e929-446b-83b4-ebcd678214ee
+
+Question: >
+  Dagobert was the eldest son of Chlothar II and Haldetrude and also...
+
+Answers:
+  1: King of all the Franks (629–634)
+  2: King of Neustria and Burgundy (629–639)
+  3: King of Austrasia (623–634)
+  4: All of these
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 4aff97b7-9b2d-44e7-bac7-bb3f2adb5df1
+
+Question: >
+  Haribert I became a victim of the first church of excommunication of a Merovingian king.
+
+Answers:
+  1: True
+  2: False
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
 
 SchemaVersion: 1
 ---
@@ -139,7 +3695,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: newest
+  None
 
 SchemaVersion: 1
 ---
@@ -163,7 +3719,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: world
+  None
 
 SchemaVersion: 1
 ---
@@ -187,7 +3743,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: world
+  None
 
 SchemaVersion: 1
 ---
@@ -211,7 +3767,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: world
+  None
 
 SchemaVersion: 1
 ---
@@ -237,7 +3793,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: world
+  None
 
 SchemaVersion: 1
 ---
@@ -262,7 +3818,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: world
+  None
 
 SchemaVersion: 1
 ---
@@ -286,7 +3842,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: world
+  None
 
 SchemaVersion: 1
 ---
@@ -310,7 +3866,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: world
+  None
 
 SchemaVersion: 1
 ---
@@ -334,7 +3890,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: world
+  None
 
 SchemaVersion: 1
 ---
@@ -358,7 +3914,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: world
+  None
 
 SchemaVersion: 1
 ---
@@ -382,7 +3938,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: world
+  None
 
 SchemaVersion: 1
 ---
@@ -407,7 +3963,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: world
+  None
 
 SchemaVersion: 1
 ---
@@ -432,7 +3988,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: world
+  None
 
 SchemaVersion: 1
 ---
@@ -456,7 +4012,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: world
+  None
 
 SchemaVersion: 1
 ---
@@ -480,7 +4036,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: world
+  None
 
 SchemaVersion: 1
 ---
@@ -504,7 +4060,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: rated
+  None
 
 SchemaVersion: 1
 ---
@@ -528,7 +4084,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: general
+  None
 
 SchemaVersion: 1
 ---
@@ -554,7 +4110,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: general
+  None
 
 SchemaVersion: 1
 ---
@@ -580,7 +4136,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: people
+  None
 
 SchemaVersion: 1
 ---
@@ -604,7 +4160,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: people
+  None
 
 SchemaVersion: 1
 ---
@@ -628,7 +4184,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: people
+  None
 
 SchemaVersion: 1
 ---
@@ -653,7 +4209,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: people
+  None
 
 SchemaVersion: 1
 ---
@@ -678,7 +4234,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: humanities
+  None
 
 SchemaVersion: 1
 ---
@@ -703,7 +4259,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: history
+  None
 
 SchemaVersion: 1
 ---
@@ -711,7 +4267,7 @@ ID: 8b634193-52c9-4f41-aab8-c55a228d3c07
 
 Question: >
   On April 30, 1975 Marine Master Sergeant John Valdez was the last Marine on the last helicopter out of this capital
-  city. From what city did Master Sergeant Valdezs departure signal the last official military presence in Vietnam.
+  city. From what city did Master Sergeant Valdez's departure signal the last official military presence in Vietnam.
 
 Answers:
   1: Phnom Penh
@@ -728,16 +4284,16 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: history
+  None
 
 SchemaVersion: 1
 ---
 ID: 0d4ca2b8-81fc-4960-bcb3-df51171a5557
 
 Question: >
-  One of historys most daring and able naval commanders, this admiral signaled his fleet at the Battle of Trafalgar by
-  a flag that read England expects that every man will do his duty . What naval commander gave the supreme sacrifice
-  at the Battle of Trafalgar while defeating the navies of the French and Spanish?
+  One of history's most daring and able naval commanders, this admiral signaled his fleet at the Battle of Trafalgar
+  by a flag that read England expects that every man will do his duty . What naval commander gave the supreme
+  sacrifice at the Battle of Trafalgar while defeating the navies of the French and Spanish?
 
 Answers:
   1: Horatio Nelson
@@ -754,7 +4310,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: history
+  None
 
 SchemaVersion: 1
 ---
@@ -776,7 +4332,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: history
+  None
 
 SchemaVersion: 1
 ---
@@ -801,7 +4357,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: history
+  None
 
 SchemaVersion: 1
 ---
@@ -825,7 +4381,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: history
+  None
 
 SchemaVersion: 1
 ---
@@ -850,7 +4406,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: history
+  None
 
 SchemaVersion: 1
 ---
@@ -874,6 +4430,6 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: religion-faith
+  None
 
 SchemaVersion: 1
