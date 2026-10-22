@@ -727,3 +727,2958 @@ Notes: >
   None
 
 SchemaVersion: 1
+---
+ID: 7281df5b-565d-475f-9698-863e64a7f40a
+
+Question: >
+  Olive oil, herbs, garlic and lemon are typical flavours found in Lebanese cuisine.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 624b3f97-760b-42fc-ac78-fadecbf6b430
+
+Question: >
+  Which of these is a significant part of Greek cuisine?
+
+Answers:
+  1: Vegetables
+  2: All of these
+  3: Herbs specific to the Mediterranean region
+  4: Olive oil
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 63579aec-8089-4e33-97ec-7fcc71da76a5
+
+Question: >
+  Sangria is made of wine and fruits and is one of the most popular drinks in this country.
+
+Answers:
+  1: Spain
+  2: France
+  3: Turkey
+  4: Greece
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 28a19267-23f5-47e6-bbdb-0abb58283e1e
+
+Question: >
+  Rice is the main ingredient of sushi.
+
+Answers:
+  1: True
+  2: False
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 94666bea-2cd4-4a8e-b81c-5d2f8b4fb543
+
+Question: >
+  Which of these dishes is part of Mexican cuisine?
+
+Answers:
+  1: Chorizo
+  2: Enchilada
+  3: All of these
+  4: Tacos
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: bdcebb0e-0439-484f-bd1e-25ff2b6a9b0f
+
+Question: >
+  Many Italian dishes consist of only 4 to 8 ingredients.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 0f77b2eb-a23d-4b75-b4a3-68c5c5f1e905
+
+Question: >
+  Escargot is a dish of cooked frogs.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 3a67e39c-3b36-447f-9ef8-8164f3e89113
+
+Question: >
+  In Chinese culture the use of a knife and fork on the table has been considered a barbaric habit.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 1f38ff7b-1538-488c-b57c-1b5728ccf91e
+
+Question: >
+  What statement is true about Thai cuisine?
+
+Answers:
+  1: Thai food is often served with a variety of sauces.
+  2: Thai food was traditionally eaten with the right hand.
+  3: All of these
+  4: Thai food is known for its balance of the four main taste senses (sour, sweet, salty, and bitter).
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 775c4a91-b8f7-4953-bfe3-86bc6be6d02f
+
+Question: >
+  In this country paan is a custom practised after dinner.
+
+Answers:
+  1: Japan
+  2: India
+  3: Turkey
+  4: Russia
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 7a534635-2ae9-4db5-a7f3-548ae4c8d60e
+
+Question: >
+  Why were red M&Ms banned from 1976 to 1986?
+
+Answers:
+  1: It was randomly chosen because Mars Inc. needed to reduce production of one color due to a market decline.
+  2: They were voted to be taken out.
+  3: They didn't go well with the color scheme of a new brand.
+  4: The amaranth dye was thought to be a carcinogen.
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 48599c5e-c9d0-498f-b429-39b17ccf2465
+
+Question: >
+  Do the red candy in the original Skilttles and the original Starburst in the red wrapper have the same flavor?
+
+Answers:
+  1: Yes
+  2: No
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: ccef5a84-688a-48a4-be86-6cacef9bfa38
+
+Question: >
+  Which of the following is not a French cheese?
+
+Answers:
+  1: Chevrotin
+  2: Beaufort
+  3: Emmental
+  4: Camembert
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 7f2b97b3-2311-42db-b880-7b536ab5d542
+
+Question: >
+  The pungent odor and biting taste of garlic are caused by which of the following chemical elements?
+
+Answers:
+  1: Phosphorus
+  2: Carbon
+  3: Chlorine
+  4: Sulfur
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 3566d72f-403d-4f20-8773-0de303273a7a
+
+Question: >
+  Garlic is rich in what important vitamin?
+
+Answers:
+  1: Vitamin B6
+  2: All of these
+  3: Vitamin A
+  4: Vitamin E
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: eafb618d-a3aa-4aed-8fea-1ef874dd38f9
+
+Question: >
+  Garlic is an aphrodisiac.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 1218df57-adb4-4f6d-bb4e-56ac3a8acba8
+
+Question: >
+  The German dish Weihnachtsgans is usually prepared from a whole stuffed animal. What animal is used?
+
+Answers:
+  1: Goose
+  2: Suckling pig
+  3: Rabbit
+  4: Lamb
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: f67fd72a-3a6f-41e9-9002-8d2d09a96a88
+
+Question: >
+  What flavor does the popular German liqueur Barenfang have?
+
+Answers:
+  1: Pine flavor
+  2: Rose flavor
+  3: Honey flavor
+  4: Cinnamon flavor
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 1c88e696-7ccb-4d4e-ab98-12b2d8e604bd
+
+Question: >
+  What type of meat is the German dish Hasenpfeffer traditionally made from?
+
+Answers:
+  1: Wild boar
+  2: Goose
+  3: Rabbit
+  4: Deer
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 91a8ba30-c614-459c-8aa0-159a77456325
+
+Question: >
+  If you've ordered a burn one, take it through the garden, pin a rose on it, what can you expect to be placed in
+  front of you?
+
+Answers:
+  1: Hot Dog with Chili and Coleslaw
+  2: Lamb Shish - Kabob
+  3: Hamburger with Lettuce, Tomato and Onion
+  4: Tuna Melt on Rye with Lettuce and Dill Chips
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 2b326f4b-f0f8-4c06-b6fb-8bc438088dd7
+
+Question: >
+  If the girl next to you orders baled hay, life preserver and java for breakfast, what has she ordered?
+
+Answers:
+  1: Cream of wheat , donut and coffee
+  2: Hash browns, omelet, and coffee
+  3: Buckwheat pancakes, danish, and coffee
+  4: Shredded wheat, donut and coffee
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 27d58803-adb9-4072-ab77-7b15dd70edbd
+
+Question: >
+  Noah's Boy is another name for a fish sandwich.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 1
+
+Explanation: |
+  Noah’s boy is diner slang for a slice of ham or a ham sandwich. This nickname comes from the biblical story of
+  Noah’s Ark; according to Genesis, one of Noah's sons was named Ham.
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 491de771-6261-4c3d-b2a8-93d4f9137010
+
+Question: >
+  It's your first day on the job at your favorite diner! The waitress next to you yells out to the short order cook
+  that she needs two cows, make them cry, and paint 'em red. What has she requested the short order cook to prepare?
+
+Answers:
+  1: Two hamburgers with onions, cover in ketchup.
+  2: Two orders of beef liver and onions with ketchup.
+  3: Salisbury steak with American sauce.
+  4: Double cheeseburger, no onions, special sauce.
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 9d979676-cca4-4547-a0ae-67fba57d32d8
+
+Question: >
+  Your friend's favorite breakfast is a shingle with shimmy and shake, squeeze one. What does your friend like to eat
+  for breakfast?
+
+Answers:
+  1: French toast and apple juice
+  2: Link sausage,  toast and juice
+  3: Buttered toast with jam and orange juice
+  4: Short stack of pancakes and instant coffee
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 62dceb77-89ef-4d6e-901e-2d1d8ae0f185
+
+Question: >
+  What is diner-speak for an order of hash?
+
+Answers:
+  1: Burn the British
+  2: Gravel train
+  3: Customer will take a chance
+  4: Pittsburgh
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: da5222c6-04de-42b2-a5d3-a5327c3bdba7
+
+Question: >
+  Mom always told you to get plenty of iron in your diet, so you order a put out the lights and cry.  What item have
+  you ordered?
+
+Answers:
+  1: Patty melt, no onions
+  2: Ham on rye with soup
+  3: T - Bone steak with onions
+  4: Liver and onions
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 15d4a2c3-3c51-448e-8d09-1171f824c777
+
+Question: >
+  Keep off the grass in diner-speak means this.
+
+Answers:
+  1: Tomato only
+  2: Like the sign says...
+  3: No parsley
+  4: Hold the lettuce
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 8e0cab81-f252-4f28-9f9b-8ccc05a9e571
+
+Question: >
+  The final order of the night is for a Bow - wow, Pittsburgh on the bun, frog sticks, and a 55 with Hail.  What has
+  been ordered?
+
+Answers:
+  1: Bratwurst, no bun, mashed potatoes, cherry coke with Ice.
+  2: Bacon wrapped steak with fries and black coffee.
+  3: Kielbasa, extra mustard, frog legs and a chocolate shake.
+  4: Hot dog, burn or toast the bun, side of french fries and a root beer with ice.
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: afb73a86-cf2b-48e7-878c-471ab5135049
+
+Question: >
+  A fellow comes in on the night shift and orders a Hockey puck with wax, wreck em, frog sticks in the alley, and draw
+  one in the dark.  What on Earth does he want to eat?
+
+Answers:
+  1: Medium-rare burger, onion rings, fries, and a strawberry shake.
+  2: Tuna salad with cheese, fries on the side and black forest cake.
+  3: Liver, no onions, frog legs, fried eggs, and black coffee.
+  4: Well done burger with American cheese, fries on the side, scrambled eggs, and black coffee.
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 572c2036-2897-4c9e-98ae-a41c2883fd6b
+
+Question: >
+  Chicks on a raft with blowout patches refers to what?
+
+Answers:
+  1: Western omelet with french toast
+  2: Eggs on toast with pancakes
+  3: Scrambled eggs and sausage
+  4: Fried chicken and mashed potatoes
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 6927fdd4-e635-4912-9ce8-65b6b11ee264
+
+Question: >
+  Finally, a customer orders Bossy in a bowl, bullets or whistleberries, a blonde with sand, a bucket of cold mud, and
+  belchwater. What have they ordered?
+
+Answers:
+  1: Beef stew, baked beans, coffee with cream and sugar, chocolate ice cream, and seltzer water.
+  2: Chili con carne with Lima beans, ice tea, a vanilla sundae and a Perrier water.
+  3: Tomato soup, fried okra, root beer, chocolate ice cream, and Perrier water.
+  4: Chicken noodle soup, blackberries, vanilla coke, German chocolate cake and seltzer water.
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 05ca3cc5-042e-4989-ab39-3386dcd1f52e
+
+Question: >
+  This fruit is generally considered to grow on a tree, but the tree is actually a giant herb. The fruit contains
+  potassium and vitamin B, which are necessary for the production of sex hormones.
+
+Answers:
+  1: Strawberry
+  2: Banana
+  3: Peach
+  4: Cherry
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 68dde80a-6f9e-4b7e-8217-8e60bc74b273
+
+Question: >
+  This food is a very good source of energy. It also contains phenylethylamine, which triggers the same reaction in
+  the body as falling in love does.
+
+Answers:
+  1: Honey
+  2: Beeswax
+  3: Chocolate
+  4: Sugar
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 3edc00db-f55c-490d-a634-254181641d05
+
+Question: >
+  Although too smelly, this member of the onion family is considered to be an aphrodisiac. It also has antioxidant
+  properties and is used in alternative medicine.
+
+Answers:
+  1: Spinach
+  2: Leeks
+  3: Celery
+  4: Garlic
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: fec4d066-4e84-4de8-91f7-6bff4cc4a1ae
+
+Question: >
+  Although natural, this food contains more calories than beet-sugar. It is used in a lot of skin-care products, but
+  in the ancient Egyptians considered it to be a cure for impotence and sterility.
+
+Answers:
+  1: Honey
+  2: Chocolate
+  3: Avocado
+  4: Cinnamon
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: d2dd3255-edeb-4007-b363-8edd9c55ffbc
+
+Question: >
+  This very nutritious and rich in proteins seafood is stated to be the favourite one of Casanova. He was famous as
+  one of the world's greatest lovers and an ardent connoisseur of this food, which was always on his menu.
+
+Answers:
+  1: Crabs
+  2: Fish
+  3: Oysters
+  4: Leeks
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: b337563b-6b63-4a4b-9229-eb86fbd56d35
+
+Question: >
+  These fruits were used as wedding breakfast in France. Newlyweds had a soup of thinned sour cream, borage and
+  powdered sugar, and these.
+
+Answers:
+  1: Strawberries
+  2: Blackcurrant
+  3: Cherries
+  4: Peaches
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: c0ca94df-d539-4f07-8f9c-eb4c8ceb339b
+
+Question: >
+  As this drink relaxes and stimulates the senses, it is considered the proper drink for a romantic evening. The
+  recommended quantity is one or two glasses, otherwise you will get sleepy and spoil the moment.
+
+Answers:
+  1: Whisky
+  2: Tea
+  3: Wine
+  4: Coffee
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 8d459c66-85a2-428b-acdc-6414350abc0f
+
+Question: >
+  This drink is a widely known stimulant, but if you have too much, it becomes a depressant. Its active ingredient -
+  caffeine - is known as the world's most popular drug.
+
+Answers:
+  1: Water
+  2: Orange juice
+  3: Tea
+  4: Coffee
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: a67ca29c-c84a-458d-9356-bbc1fbafb874
+
+Question: >
+  Having been cultivated for more than 1000 years, this is one of the oldest spices in the world. However, you should
+  be aware of its hallucinogenic properties it taken in large quantities. In Asia, It was highly appreciated for its
+  aphrodisiac qualities.
+
+Answers:
+  1: Black pepper
+  2: Nutmeg
+  3: Turmeric powder
+  4: Cinnamon
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 66c5ff06-f2a5-4e86-be9b-44724f21b0e1
+
+Question: >
+  Whisky is traditional for this country. Its color can give you a hint about its age.
+
+Answers:
+  1: Wales
+  2: USA
+  3: Scotland
+  4: Ireland
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: f101de5a-4bc5-479e-9002-2991c1caddc1
+
+Question: >
+  Tequila is named after a town with the same name in the country where it is a traditional drink.
+
+Answers:
+  1: Chile
+  2: Spain
+  3: Portugal
+  4: Mexico
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 98b14d1f-d79b-43dc-825a-8c72d486d9b2
+
+Question: >
+  Vodka is traditional for this country. People there like to flavor vodka with lemon peel, pepper or herbs.
+
+Answers:
+  1: Ukraine
+  2: Russia
+  3: Macedonia
+  4: Romania
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 447c9129-8431-4168-b1fa-992295e153ac
+
+Question: >
+  Rakia is a strong alcoholic drink made of various fruits, usually grapes, plums or apricots. In which of the
+  following countries is it common?
+
+Answers:
+  1: Finland
+  2: Hungary
+  3: Russia
+  4: Bulgaria
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: ebacab63-6765-45fc-ae31-7009f3d00b5c
+
+Question: >
+  Pastis is the most popular aperitif in this country. It is made with anise, licorice and additional aromatic plants.
+
+Answers:
+  1: France
+  2: Italy
+  3: Switzerland
+  4: Germany
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 63e3988f-6649-4388-8e18-2097b3b13a16
+
+Question: >
+  In this country people drink gorilka. It is similar to vodka.
+
+Answers:
+  1: Ukraine
+  2: Georgia
+  3: Azerbaijan
+  4: Belarus
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 5a5fc50d-249c-4704-be24-3f77edbd5ef1
+
+Question: >
+  Sangria is consumed all year round in this country. It is made of wine mixed with fruit and spices.
+
+Answers:
+  1: Malta
+  2: Ecuador
+  3: Argentina
+  4: Spain
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 45ef307e-64de-492d-9561-72acaf2bbe03
+
+Question: >
+  Caipirinha takes lime, caster sugar, and Cachaca, or Rum to chill out the citizens of this country.
+
+Answers:
+  1: Cuba
+  2: Mexico
+  3: Brazil
+  4: Hawaii
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: c96ba75e-b7b1-4692-96df-098017f30188
+
+Question: >
+  Schnapps is a kind of fruit brandy and is typical for the country which gave the name of this beverage.
+
+Answers:
+  1: Austria
+  2: Italy
+  3: The Netherlands
+  4: Germany
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: e789a056-8302-4e3a-88fc-03e7a966cfa3
+
+Question: >
+  Ouzo is the preferred drink in this country. It is produced from pressed grapes, herbs and berries.
+
+Answers:
+  1: Hungary
+  2: Greece
+  3: Macedonia
+  4: Turkey
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 7549d6d7-a097-4b0a-8f96-cd499d37f40b
+
+Question: >
+  Coca-Cola used to contain cocaine.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 2
+
+Explanation: |
+  The original recipe for Coca-Cola included extracts from coca leaves, which contained small amounts of cocaine.
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 0c04c248-b468-4047-89c4-23e3e19963d8
+
+Question: >
+  Coca-Cola was originally green.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 256182d6-06b7-4133-8a5b-a19d0cbf31c0
+
+Question: >
+  The acids which the Coca-Cola beverage contains make it harmful to drink.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: d54ab5f6-148f-4f89-bdd6-aa2306698252
+
+Question: >
+  North Americans believed these were poisonous until 1820, when Colonel Robert Gibbon Johnson disproved that myth
+  during a public demonstration on the courthouse steps in Salem, NJ. They were imported from Mexico to Europe in the
+  middle of 16th century.
+
+Answers:
+  1: Strawberries
+  2: Cherries
+  3: Peppers
+  4: Tomatoes
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 1db6d777-9d35-470c-ab95-7dd4993f01d9
+
+Question: >
+  Ploughman's Lunch is traditional for this country. It consists of cheese, a bit of pickle and pickled onion, and a
+  slice of bread.
+
+Answers:
+  1: Wales
+  2: England
+  3: Scotland
+  4: Ireland
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 0ccc31c0-bef1-4ecb-a0e1-35cd6b763fba
+
+Question: >
+  What fruits are added between the layers as well as on top of the Black Forest cake?
+
+Answers:
+  1: Bananas
+  2: Figs
+  3: Cherries
+  4: Peaches
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 96b40892-baed-4b4e-b485-b401f5f66ea2
+
+Question: >
+  What vegetable is used for the preparation of the Passion Cake, which probably originated in the United Kingdom?
+
+Answers:
+  1: Potato
+  2: Tomato
+  3: Carrot
+  4: Cucumber
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 685c27a7-0736-4be0-85d5-c31442d061e7
+
+Question: >
+  What is the other name for the sponge cake called Battenberg cake?
+
+Answers:
+  1: Bathroom cake
+  2: Chair cake
+  3: Door cake
+  4: Window cake
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: d53d2fc4-2ceb-4d8c-831e-08e45bfeff14
+
+Question: >
+  Which of these is added to the ingredients of the Devil's food cake to raise the pH level of the batter and deepen
+  its color?
+
+Answers:
+  1: Coffee powder
+  2: Baking powder
+  3: None of these
+  4: Baking soda
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 1b9f37c0-f984-473c-92d3-efd7650d50ab
+
+Question: >
+  In what country is the popular Spice cake believed to have originated?
+
+Answers:
+  1: Brazil
+  2: the United States
+  3: France
+  4: Philippines
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 0be614ab-32b8-4e31-9501-7dcf7bdc4813
+
+Question: >
+  What is the famous Hungarian cake, called Dobos torte, topped with?
+
+Answers:
+  1: Cotton candy
+  2: Caramel slices
+  3: Chocolate shavings
+  4: Sugar glass
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 8788776f-dfa0-4ca1-aedb-b0938a61eadd
+
+Question: >
+  A ready to eat banana is this color.
+
+Answers:
+  1: brown
+  2: black
+  3: yellow
+  4: green
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 30e28cf6-37fb-4634-b039-58ab10e59bb0
+
+Question: >
+  This company, founded in Long Island in 1972  by Hyman Golden, Arnold Greenberg and Leonard Marsh, initially offered
+  only carbonated apple soda.
+
+Answers:
+  1: Coca Cola
+  2: Astaris
+  3: Pepsi
+  4: Snapple
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 94b3f904-3483-4657-9f01-81917975cd1b
+
+Question: >
+  This country has the highest number of breweries in the world, and beer plays a significant part of its culture.
+  Among the numerous famous brands it produces are Krombacher, Warsteiner and Bitburger.
+
+Answers:
+  1: Belgium
+  2: Sweden
+  3: Austria
+  4: Germany
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 1c97134f-d615-4b4a-867d-1bd32852919e
+
+Question: >
+  This dark stout beer was first brewed in 1759 at St. Jamess Gate Brewery, Dublin, Ireland. One of its varieties is
+  Foreign Extra Stout Nigeria, which is brewed using sorghum instead of barley.
+
+Answers:
+  1: Grolsch
+  2: Guinness
+  3: Bud Light
+  4: Beck’s
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 801013c7-192d-43ac-9d70-66c46f8ff8e1
+
+Question: >
+  Efes Beverage Group, founded in 1969 and named after an ancient city, is the major beer producer in this country.
+
+Answers:
+  1: Denmark
+  2: Poland
+  3: Turkey
+  4: Greece
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: f86a8658-6082-439c-a05d-80fe24fa7b26
+
+Question: >
+  This beer brand, which is a German language adjective for something from the city of České Budějoviceis, is often
+  advertised as the King of Beers.
+
+Answers:
+  1: Budweiser
+  2: Heineken
+  3: Corona
+  4: Pilsner Urquell
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: a9c725e3-81fd-4edb-8d93-3d6332eb397c
+
+Question: >
+  Beer is proof that God loves us and wants us to be happy. These words were delivered by this philosopher, inventor,
+  politician and economist.
+
+Answers:
+  1: Thomas Jefferson
+  2: Benjamin Franklin
+  3: Abraham Lincoln
+  4: Washington Irving
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: c442a124-814e-4cce-a6b3-dbc4e882bc01
+
+Question: >
+  One of the most famous events in Munich, Germany is this two-week annual festival. It begins with a keg of beer
+  tapped by the Mayor of Munich.
+
+Answers:
+  1: Shwung Festival
+  2: Oktoberfest
+  3: Bayreuth Festival
+  4: Bregenzer Festspiele
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 7bdcc8e6-e780-4dfb-9473-03f60a3ff031
+
+Question: >
+  This country is famous for its lager beers, especially Amstel, Heineken and Grolsch.
+
+Answers:
+  1: Belgium
+  2: Denmark
+  3: Germany
+  4: Netherlands
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: bca0e375-e713-4691-91dc-99563690de10
+
+Question: >
+  Name the phase in beer brewing in which the malted grains are crushed and soaked in warm water, as a result of
+  which, enzymes turn starches into fermentable sugars.
+
+Answers:
+  1: Sparging
+  2: Fermentation
+  3: Boiling
+  4: Mashing
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 0e22899a-a9a6-4b29-83cf-71ebe6d94ee8
+
+Question: >
+  This term refers to a technique of food preparation, whereby food is cut into long, thin, matchstick-sized strips.
+
+Answers:
+  1: Frenching
+  2: Julienning
+  3: Dicing
+  4: Botox
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 6efed3f5-d59d-4779-9dd1-aa14668016f6
+
+Question: >
+  This cooking term refers to the process of gently simmering food in liquid, generally water, stock or wine.
+
+Answers:
+  1: Blanching
+  2: Poaching
+  3: Steaming
+  4: Stewing
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: c235c088-4434-4906-b959-cd5b806d99f7
+
+Question: >
+  In cooking, pinch means a very small amount of an ingredient, typically salt, sugar or spice.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 467d4569-342e-422a-8567-7710e0715232
+
+Question: >
+  This mixture of wheat flour and fat, cooked by stirring over heat, is the basis of Sauce béchamel, Sauce velouté,
+  and Sauce Espagnole.
+
+Answers:
+  1: Roux
+  2: Gravy-starter
+  3: Veau
+  4: Petit
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 7119db52-4d14-4e4e-866f-57cb252c42b4
+
+Question: >
+  Reducing is the process where food volume is reduced in half, by using half the measurements for a given recipe.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 2d04df4c-dea0-45e1-a5b2-ac609b67ddd1
+
+Question: >
+  This is a cooking technique, generally done in a wok, but also possible in a frying pan; the food is tossed about in
+  a hot pan with very little oil, in a process not unlike sauteing.
+
+Answers:
+  1: Poaching
+  2: Frying
+  3: Stir-fry
+  4: Browning
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 8e53b135-5212-4b93-83c6-ba33a56a5dc4
+
+Question: >
+  Plunging a food product into boiling water for a few minutes then in a cold water bath, to halt the cooking process,
+  is known as what?
+
+Answers:
+  1: Canning
+  2: Marinating
+  3: Poaching
+  4: Blanching
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 881af446-6844-484d-99d8-add6d6278b98
+
+Question: >
+  The cooking technique, whereby meats or vegetables are soaked in a flavoring liquid, such as soy sauce, wine, oil,
+  or vinegar, is known as what?
+
+Answers:
+  1: Drenching
+  2: Stuffing
+  3: Marinating
+  4: Dressing
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 26042476-10ef-45e9-940f-78f0c8eb7cc2
+
+Question: >
+  Meats or fish, generally sliced thin,  that are rolled about in flour in preparation for frying or sauteing is known
+  as dredging in flour.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: e3852ebe-1814-465b-a17f-f54da0b5d19c
+
+Question: >
+  Deglazing a pan is the process of covering a cast iron pan in cooking oil and placing it in the oven.  The pan will
+  come out black.
+
+Answers:
+  1: True
+  2: False
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: a4461fc3-17b2-4b94-b219-1f22427fa820
+
+Question: >
+  This quality is attributed to coffee.
+
+Answers:
+  1: Addictive
+  2: Soporific
+  3: Soothing
+  4: Calming
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: bdb3e011-87a9-472b-9456-abb77092518f
+
+Question: >
+  Caffeine's effects as a stimulant peak this long after intake.
+
+Answers:
+  1: 1 hour
+  2: 4 hours
+  3: 3 hours
+  4: 2 hours
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 09e77206-8eb5-466a-bf54-0422be09814d
+
+Question: >
+  Brewed coffee contains this amount of calories per cup.
+
+Answers:
+  1: 10
+  2: 0
+  3: 20
+  4: 30
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 5b2232db-243a-4558-88da-4f42cbda3614
+
+Question: >
+  Coffee is a good source of this mineral.
+
+Answers:
+  1: Potassium
+  2: Sodium
+  3: Fluoride
+  4: Kaolin
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 844c315d-fb90-4d59-9edd-7849a8975a2c
+
+Question: >
+  Coffee has a negative effect on this.
+
+Answers:
+  1: Cognitive abilities
+  2: Adaptive skills
+  3: Fertility
+  4: Motor skills
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 1540089f-70fd-4626-8a51-ecb38704d391
+
+Question: >
+  People with these illnesses are not advised to drink coffee.
+
+Answers:
+  1: illnesses of the lungs
+  2: illnesses of the liver
+  3: Mental illnesses
+  4: Skin illnesses
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: a63d895b-7a0e-4020-b39d-32ecb000362f
+
+Question: >
+  If you are a coffee drinker, this is the recommended maximum number of cups you should have per day.
+
+Answers:
+  1: 2
+  2: 3
+  3: 4
+  4: 1
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 5e66b069-4798-4e0f-a297-1bb56934f1fa
+
+Question: >
+  Kiwi fruit or Chinese Gooseberries came from which country?
+
+Answers:
+  1: Newfoundland
+  2: Kiwi
+  3: China
+  4: New Zealand
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 6f0cbd04-4916-4880-9b36-3a7ec932e466
+
+Question: >
+  Italians may not be the first ones to eat pizzas but they surely were the ones to name it. The word pizza in its
+  current spelling emerged some time in Middle Ages. It was used to describe the sweet and salty pies that were very
+  popular among this social class in Italy.
+
+Answers:
+  1: Aristocracy
+  2: Clergymen
+  3: Peasants
+  4: Warriors
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: dbe21d38-7ac6-4e7a-a1f1-70e98f97d26f
+
+Question: >
+  In what year was the world's first pizza parlor built?
+
+Answers:
+  1: 1830
+  2: 1910
+  3: 1880
+  4: 1770
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 14eef05b-3d28-43a3-bfbd-f45b1bdd151e
+
+Question: >
+  The man who is believed to have made pizza an international hit is Raffaele Esposito, who in 1889 baked pizzas for
+  King Umberto and Queen Margherita. That pizza consisted of mozzarella, basil and tomatoes. Why did the baker choose
+  these three ingredients?
+
+Answers:
+  1: Because the colours of the three ingredients were the same as the colours on the Italian flag.
+  2: Because they were the Kings favorites.
+  3: Because these were the only ingredients that could be found in Italy at that time.
+  4: Because they were his favorites.
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 99dd6e5a-bbfa-4130-8b86-381c14fe500e
+
+Question: >
+  The very first pizza was made in Italy and is considered to be an Italian food.
+
+Answers:
+  1: True
+  2: False
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: b4654536-d63c-4b42-9ce0-4263d3024193
+
+Question: >
+  Pizza became a total hit all over the USA in ...?
+
+Answers:
+  1: 1950s
+  2: 1940s
+  3: 1960s
+  4: 1970s
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 0d29f500-dd25-47d1-bee2-c7b2c6a33eb9
+
+Question: >
+  How many pizzas are eaten in the USA every year on the average?
+
+Answers:
+  1: Three trillion pizzas
+  2: Five million pizzas
+  3: Three billion pizzas
+  4: Three million pizzas
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 8e7cdb08-3c96-4d0f-80b4-5942ce443efa
+
+Question: >
+  Eating pizza once a week can reduce the risk of this disease.
+
+Answers:
+  1: Cancer
+  2: Jaundice
+  3: Heart attack
+  4: Diabetes
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 04cf02d7-5ede-44f7-b0f6-e38f70426314
+
+Question: >
+  Tea helps you look good, as it is rich in flavonoids. These are strong antioxidants that fight this.
+
+Answers:
+  1: Cellulite
+  2: Free radicals
+  3: Tar in your lungs
+  4: Cholesterol
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 0d0d149f-f1a7-4e54-ac26-d8767fd67323
+
+Question: >
+  Tea is a good anti-stress therapy. Flavonoids may prevent oxidation of bad cholesterol in the blood, which leads to
+  accumulation of plaque in artery walls. It also prevents blood clot formation.  Thus, tea is good for this too.
+
+Answers:
+  1: Nails
+  2: Brain
+  3: Heart
+  4: Gall-bladder
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 2838704d-0448-46f8-869a-f205284601c7
+
+Question: >
+  Tea is rich in fluoride, so it helps maintain these healthy.
+
+Answers:
+  1: Legs
+  2: Eyes
+  3: Lungs
+  4: Teeth
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: d4fa2252-5041-4fdf-b352-0419506afb1b
+
+Question: >
+  Tea is refreshing and stimulating because it contains this.
+
+Answers:
+  1: Caffeine
+  2: Amphetamine
+  3: Vitamin K
+  4: Nicotine
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: d118ec8d-056a-4bbb-92bb-fae218fe5207
+
+Question: >
+  Green tea and Oolong tea cause calories to burn faster, and  thus help control this.
+
+Answers:
+  1: Cell formation
+  2: Body weight
+  3: Blood pressure
+  4: Heart rate
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: d05e5977-c623-462f-95ef-c4e3e327dea1
+
+Question: >
+  Prepare a tub of diluted, cool tea, add some lemon juice and a pinch of salt. It will help if you have this.
+
+Answers:
+  1: Achy head
+  2: Tired eyes
+  3: Tired feet
+  4: Swollen wrists
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: a9ea875f-e6f1-4a58-8ce4-6b539f5ebc54
+
+Question: >
+  Five cups of green tea per day could reduce your risks of cancer. It also promotes this.
+
+Answers:
+  1: Hearing
+  2: Mental activity
+  3: Eye sight
+  4: Calmness
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 95df1bf0-490d-435c-a095-e02713a62285
+
+Question: >
+  As tea inhibits growth of bacteria, it helps fight this.
+
+Answers:
+  1: Bad breath
+  2: Tongue polyps
+  3: Dry cough
+  4: High fever
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: dbcd9d2f-59cd-4314-9fb0-8ee4b3bc01f5
+
+Question: >
+  Tea could reduce the risk for gastric, esophageal, and skin types of these.
+
+Answers:
+  1: Polyps
+  2: Ulcers
+  3: Cancers
+  4: Eczemas
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 18019c64-2b75-4738-bcdb-6c751351486a
+
+Question: >
+  You should not have too much tea; one side effect could be this.
+
+Answers:
+  1: Insomnia
+  2: Asthma
+  3: Blurred eye sight
+  4: Hair loss
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: e260fb6f-5ba3-4980-a147-56c21eca98f3
+
+Question: >
+  This cocktail is made of 1/2 oz rum, 1/2 oz coconut-flavored rum, 1/2 oz grenadine syrup, 1 oz oj, 1 fluid ounce
+  pineapple juice and 1 cup crushed ice. Blend, shake them until the drinks consistency is slushy.
+
+Answers:
+  1: Banana Daiquiri
+  2: Bloody Mary
+  3: Bellini
+  4: Bahama Mama
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 4b2cdac9-f88b-456d-b208-7ded80f7423b
+
+Question: >
+  You need 2 oz vodka, 3 oz Tomato Juice, 1/2 oz Lemon Juice, pepper  salt, 3 dashes Worcestershire, 2 drops Tabasco
+  sauce. Mix all the ingredients in a shaker and add ice. Strain into a highball glass over crushed ice and garnish
+  with a lemon wedge and celery.
+
+Answers:
+  1: Bloody Bull
+  2: Bloody Mary
+  3: Black Maria
+  4: Black Magic
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 2bc83e0d-de4f-4c9f-8976-6bf7fea5736f
+
+Question: >
+  For this cocktail you will need 1/2 oz Irish Cream, 1/2 oz coffee liqueur, 1/2 oz hazelnut liqueur, 6 ounces coffee,
+  whipped cream and cinnamon . Mix ingredients into a tall coffee mug. Pour fresh hot coffee over the mixture. Garnish
+  with whipped cream and cinnamon.
+
+Answers:
+  1: Amaretto Coffee
+  2: An Irish Kiss
+  3: Irish Cream Coffee
+  4: Cafe Don Juan
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 3ff08174-259f-46fd-8b28-a2a8ea19d59b
+
+Question: >
+  Which of these cocktails contains the following ingredients: 1 teaspoon powdered sugar, Juice from 1 lime (2
+  ounces), 4 mint leaves, 1 sprig of mint, Havana Club white Rum (2 ounces) and 2 ounces club soda?
+
+Answers:
+  1: Mango Mojito
+  2: Classic Cuban Mojito
+  3: Cuban Breeze
+  4: Blue Mojito
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 0d56d5b9-f5b4-4006-9bcf-90a08aede896
+
+Question: >
+  1/2 shot Kahlua, 1/2 shot Amarula Cream, 1/2 shot Grand Marnier. Pour the ingredients over the back of a spoon in
+  the same order, so that they form layers in the glass.
+
+Answers:
+  1: Blue Lady
+  2: Blue Hawaii
+  3: Blue Margarita
+  4: B-52
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: fbb0fbf1-6010-48d9-a371-b3c0ff528694
+
+Question: >
+  Shake 1/2 oz Vodka, 1/2 oz Kahlua, and 1/4 ozIrish Cream liqueur. Put some cracked ice in the shaker as well. Pour
+  into chilled cocktail glass.
+
+Answers:
+  1: Mudslide
+  2: Caipirinha
+  3: Bronx
+  4: Bullshot
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 6614bb2d-7cba-46c0-9717-6034abd2acb6
+
+Question: >
+  You need 2 tsp superfine sugar, 1 lime cut into small wedges and 2 to 2 1/2 oz Cachaca (Brazilian cane liquor).
+  Gently mash the lime wedges in a glass. Add sugar and stir until it dissolves into lime juice. Add ice and pour
+  Cachaca. Stir again.
+
+Answers:
+  1: Egg Nog
+  2: Dry Martini
+  3: Caipirinha
+  4: Cocotini
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 0df4c005-7c99-494a-b094-bcd3facc01f9
+
+Question: >
+  To get properly refreshed, take 1 part vodka, 1 part tequila, 1 part rum, 1 part gin, 1 part triple sec, 1 1/2 parts
+  sweet and sour mix, a splash Coca-Cola. Mix all the ingredients together with some crushed ice in a glass. Pour into
+  a shaker and shake it briskly. Pour the mixture into the glass and garnish with lemon.
+
+Answers:
+  1: French Connection
+  2: Florida Sunrise
+  3: Frostbite
+  4: Long Island Iced Tea recipe
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 85a21be0-4857-46e7-a7d8-cc01758fe014
+
+Question: >
+  For this cocktail you just need 1 1/4 oz. Cognac and 3/4 oz. Amaretto. Pour them over ice into a snifter and
+  snifter.
+
+Answers:
+  1: Florida Sunrise
+  2: Fifty-fifty
+  3: Frozen Margarita
+  4: French Connection
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 372f926a-156c-446b-a654-b46ec09f114f
+
+Question: >
+  Take 2 oz. Gin or Vodka and splash a dash of Dry Vermouth. Mix the ingredients and stir with ice. Then strain into a
+  chilled cocktail glass and garnish with skewered cocktail onions.
+
+Answers:
+  1: Good Night
+  2: Gimlet
+  3: Gibson
+  4: Gin and French
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: af89fddd-7d56-456c-b05a-b45da9251ce0
+
+Question: >
+  This non-alcoholic drink originated as medicine against malaria because it contained quinine. However, it was not a
+  pleasant drink and people started mixing it with an alcoholic beverage. Therefore, this famous cocktail was born and
+  its initial purpose - forgotten.
+
+Answers:
+  1: Vodka and tomato juice
+  2: Gin and tonic
+  3: Whiskey and soda
+  4: Vodka and coke
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 87f96193-1e81-49cb-bace-9b0d1787da28
+
+Question: >
+  The nutritional value and vitamin content in soft drinks are generally only this much.
+
+Answers:
+  1: 1/20th of the daily requirements
+  2: 1/10th of the daily requirements
+  3: 1/8th of the daily requirements
+  4: 1/5th of the daily requirements
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 6041d441-e006-4913-9c17-06d8aa47e9e8
+
+Question: >
+  Many soft drinks contain caffeine. Your body absorbs caffeine more readily from soft drinks than coffee, due to
+  this.
+
+Answers:
+  1: Coloring
+  2: Sweetness
+  3: Carbonation
+  4: Softness
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 60da33c9-4dbf-47f2-b2c7-ccbd33dad6cf
+
+Question: >
+  The circled-U symbol found on the labels of certain products shows that the Union of Orthodox Congregations have
+  found the food is kosher. What was the first food product to have this symbol?
+
+Answers:
+  1: Breakstones sour cream
+  2: Heinz ketchup
+  3: Manischewitz matzot
+  4: Empire chicken
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 334bc449-d3c1-4ca2-96ee-e474e2ef75d0
+
+Question: >
+  What is strange about the edible vegetable Salicornia, which Israel exports to Europe?
+
+Answers:
+  1: It can only be eaten cooked.
+  2: The plant is 100% edible.
+  3: It is completely salt-free.
+  4: The vegetable is also used in glass-making.
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 4fc95ad4-f181-49c8-9ea5-1a7c312baabc
+
+Question: >
+  What is the traditional food for Shavuot, a major festival in Judaism?
+
+Answers:
+  1: Boiled chicken
+  2: Fish
+  3: Potato dishes
+  4: Dairy products
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1

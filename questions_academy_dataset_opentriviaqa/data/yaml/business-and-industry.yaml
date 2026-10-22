@@ -671,3 +671,1800 @@ Notes: >
   None
 
 SchemaVersion: 1
+---
+ID: b11dd627-f2e9-407a-9278-9f80d86855fd
+
+Question: >
+  De Beers is a diamond cartel founded by Cecil Rhodes.
+
+Answers:
+  1: True
+  2: False
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 07d9bf02-d24d-4ef9-b671-b843a55193c0
+
+Question: >
+  What is the most widely recognized international symbol of pharmacy?
+
+Answers:
+  1: The Mano Fico
+  2: Fasces
+  3: Labrys
+  4: The bowl of Hygeia
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 7503b19a-1089-4a20-bb98-4957afb688bb
+
+Question: >
+  Which of the following is not among the founders of Facebook, the leading social networking site of the 2000s?
+
+Answers:
+  1: Dustin Moskovitz
+  2: Eduardo Saverin
+  3: Mark Zuckerberg
+  4: Sean Parker
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: d375c1ac-84e5-4276-a9ee-3bcb078e7964
+
+Question: >
+  This production company co-founded by John Cleese produces entertaining business training videos.
+
+Answers:
+  1: Video Otto
+  2: Completely Different
+  3: Video Arts
+  4: Fawlty Video
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: c404cdee-7970-44f9-930d-52c2d65be0d7
+
+Question: >
+  What measurement system is commonly used in the United States?
+
+Answers:
+  1: SI
+  2: Customary System
+  3: CI
+  4: None of these
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 4313bbea-e909-49bf-9f61-1c02c5b77a94
+
+Question: >
+  When were the first Barbie dolls released?
+
+Answers:
+  1: 1962
+  2: 1959
+  3: 1966
+  4: 1960
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 9fdc308d-e237-4919-bd08-d76f775fea5b
+
+Question: >
+  Which of these Barbie dolls debuted in 1971?
+
+Answers:
+  1: Malibu Barbie
+  2: Silkstone Barbie
+  3: Holiday Barbie
+  4: Vintage Barbie
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: f6fa85ab-72b7-4ecb-aaea-553d02d627a0
+
+Question: >
+  When was an 18 Supersize Barbie, with a Superstar face, first made?
+
+Answers:
+  1: 1980
+  2: 1967
+  3: 1969
+  4: 1978
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: cf86e113-09a7-4c8b-89ed-7862a5ca9c60
+
+Question: >
+  What was the name of the Mattel fashion designer who created Barbies clothes?
+
+Answers:
+  1: Charlotte Johnson
+  2: Bob Mackie
+  3: Kelly Smith
+  4: Byron Lars
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 4d47c7db-d909-4c5b-8f7b-6734c88f1021
+
+Question: >
+  What is the first name of Ruth Handler's daughter?
+
+Answers:
+  1: Kelly
+  2: Barbie
+  3: Mary
+  4: Barbara
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: a0fbb4b9-dd2e-40da-be03-4f56d9831f7f
+
+Question: >
+  During the 1990s Barbies waist was widened.
+
+Answers:
+  1: True
+  2: False
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 3a0a6490-53e6-467f-b14f-ed72fecaab64
+
+Question: >
+  Barbie's boyfriend Ken first appeared in 1961.
+
+Answers:
+  1: True
+  2: False
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: ada5477d-60ed-4e29-be92-d8c78af5af08
+
+Question: >
+  Which of these companies tried to trademark the sound of their product?
+
+Answers:
+  1: Porsche
+  2: Harley Davidson
+  3: Leer Jets
+  4: Rolex
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 4c40c4f2-45c8-4437-91b9-98bfed4f35ae
+
+Question: >
+  Why were Ikea customers outraged about the company's 2010 catalog?
+
+Answers:
+  1: It left out the entire section of table lamps.
+  2: None of these
+  3: It was 50 pages thinner.
+  4: The font had been changed to Verdana.
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: c7306e71-8db5-4f53-933a-231125ee27d5
+
+Question: >
+  Entrepreneur Mark Zuckerberg was born on May 14, 1984. What did he co-found with his classmates?
+
+Answers:
+  1: Last.fm
+  2: Microsoft
+  3: Facebook
+  4: Twitter
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 9347c1cd-a409-4720-bb0d-dfdfd11213e8
+
+Question: >
+  What was to be the name of the site we know as Amazon.com?
+
+Answers:
+  1: Bookie.com
+  2: Bookcrasher.com
+  3: Cadabra.com
+  4: Openbooks.com
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: fe7ba475-43c7-46c5-ac0b-8f64aa412800
+
+Question: >
+  Who was the first person to build a working internal combustion engine?
+
+Answers:
+  1: Francois I. de Rivaz
+  2: James Atkinson
+  3: Gottlieb Daimler
+  4: Karl Benz
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: f25efe17-9f63-43f6-9c10-a5f1cfa4e730
+
+Question: >
+  What did Oliver Pollock invent?
+
+Answers:
+  1: The rubber band
+  2: The electric lighthouse
+  3: The $ sign
+  4: Ovaltine
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 898560aa-22b3-468f-9af7-d612539bfcba
+
+Question: >
+  In what year were emoticons used for the first time?
+
+Answers:
+  1: 1982
+  2: 1857
+  3: 1881
+  4: 1952
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 62ef462d-b53e-4e99-a3bc-c6a069549a27
+
+Question: >
+  Who invented the padlock?
+
+Answers:
+  1: Joseph Bramah
+  2: Thomas Edison
+  3: Nickolai Tesla
+  4: Charles Goode
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: a2b5b4da-2fbf-46b1-8194-2b77a0d0db75
+
+Question: >
+  What famous American is given credit for inventing the chuckwagon?
+
+Answers:
+  1: Levi Strauss
+  2: Charles Goodnight
+  3: John Astor
+  4: Henry Ford
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: aa769b65-3ca9-421b-baad-64d16a527e9f
+
+Question: >
+  In which of these devices are iron sights used?
+
+Answers:
+  1: Firearms
+  2: Television sets
+  3: Eyeglasses
+  4: Cameras
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 94cf696d-30b8-484f-9c0e-76c000ce5562
+
+Question: >
+  Mostly completed in 2008 and located on the Yangtze River, what construction marvel is billed as the World's Largest
+  Electricity-Generating Plant?
+
+Answers:
+  1: Hoover Dam
+  2: Gezhouba Dam
+  3: Three Gorges Dam
+  4: Aswan Dam
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: aef6ec21-736e-44c8-b663-aafd4f0870bd
+
+Question: >
+  The first sales of the Coca Cola drink were made at Jacobs Pharmacy in Atlanta, Georgia, in what year?
+
+Answers:
+  1: 1886
+  2: 1798
+  3: 1900
+  4: 1800
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: d940775d-53a8-44b3-a5ab-bc4368242550
+
+Question: >
+  Attorneys Benjamin Thomas and Joseph Whitehead of Chattanooga, Tennessee, bought the exclusive rights to distribute
+  Coke syrup to bottlers across most of the US. How much did they pay to obtain the rights?
+
+Answers:
+  1: $100
+  2: $1000
+  3: $1
+  4: $10
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 8aaea71b-200c-4ce4-9fe4-9dd72d2beace
+
+Question: >
+  Why was Coca-Cola once considered an anti-Semitic company?
+
+Answers:
+  1: Coca-Cola did not have a bottling plant in Israel
+  2: All of these
+  3: Coca-Cola was successfully doing business in the Middle East
+  4: The manager of Coca-Cola's Egyptian bottling operations announced that Coca-Cola would never allow the Israelis a franchise
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: c4b78058-9964-4562-b7a6-1da8464ea62c
+
+Question: >
+  Which of these is the mascot for Lucky Charms cereal, the frosted oat cereal with sweet surprises?
+
+Answers:
+  1: Lucky
+  2: Seamus
+  3: Tommy The Leprechaun
+  4: Magic Man
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: acc09d24-2900-43f8-954f-a5ba828f3a59
+
+Question: >
+  Which advertising mascot describes his Frosted Flakes cereal by saying They're Grrreat?
+
+Answers:
+  1: Charlie The Cheetah
+  2: Pete Puma
+  3: Tony The Tiger
+  4: Tommy The Tiger
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: f3875876-4b4e-4cfe-9ba1-7a6925303194
+
+Question: >
+  Which cereal mascot said Trix has the fruit taste I like, there's orange and lemon in every bite.?
+
+Answers:
+  1: Bugs Bunny
+  2: Roger Rabbit
+  3: Timmy The Rabbit
+  4: Trix Rabbit
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: e8a79fb9-0d8f-4461-b27a-fb7021289cd7
+
+Question: >
+  Which of the following was the mascot for Sugar Crisp, a cereal that came out in 1963?
+
+Answers:
+  1: Golden Bear
+  2: Sugar Bear
+  3: Teddy Bear
+  4: Huggy Bear
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 950a4339-3ebf-4276-902f-8444cfd20724
+
+Question: >
+  What was the name of the cereal mascot that wore a green jumpsuit and had a propeller on his head?
+
+Answers:
+  1: Johnny Bravo
+  2: Johnny Quest
+  3: Quisp
+  4: Martin the Martian
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 53b3b3b9-2cef-4049-941f-25bbf134d64d
+
+Question: >
+  Who was the mascot for Kellogg's Froot Loops that used to say Follow your nose, it always knows.?
+
+Answers:
+  1: Pete the Pelligan
+  2: Harry the Hen
+  3: Toucan Sam
+  4: Big Beak Billy
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 98aea3f8-fa0c-4a17-8043-c35da1acbbb1
+
+Question: >
+  What was the name of the cartoon mascot for Cocoa Puffs that used to exclaim I'm cuckoo for Cocoa Puffs!?
+
+Answers:
+  1: Cher
+  2: Stevie
+  3: Sonny
+  4: Sammy
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: b736dcda-f71c-4c64-998c-cfb36ee31c7d
+
+Question: >
+  What was the mascot for Orange Julius, a franchise marketing a drink which was a blend of a dairy creamer and
+  oranges, in the 1970s until Arizona State University threatened a lawsuit for stealing their mascot?
+
+Answers:
+  1: A Native American with a tomahawk
+  2: A devil with a pitchfork
+  3: A rattlesnake
+  4: An orange wearing sunglasses
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: fc5c27f2-9f63-479e-8630-09fb94955c1b
+
+Question: >
+  Model 5150 of this was announced in 1981 by IBM and retailed for $2880.
+
+Answers:
+  1: PC
+  2: PC-DOS
+  3: Hard Drive
+  4: MAC
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: dba08a08-c23b-4bee-b450-c8f10cf4135b
+
+Question: >
+  The launch of this item is referred to as the Big Bang of digital audio revolution. It was released on the market in
+  1983 and 800,000 were sold in the US alone.
+
+Answers:
+  1: DVD
+  2: Laser Disc
+  3: Compact Disc
+  4: MP3
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 1c6b4225-1e4c-4dc2-8e16-b18c844fa2e9
+
+Question: >
+  Tim Berners-Lee was the creator of this, initially a networked information project at CERN.
+
+Answers:
+  1: The Mac
+  2: The World Wide Web
+  3: IBM PC
+  4: The Internet
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: ea91f384-5ef4-48a6-bb9a-395e090d7c4e
+
+Question: >
+  As AIDS became widely spread, commercials of these appeared for the first time on TV.
+
+Answers:
+  1: Contraceptive pills
+  2: Antibiotics
+  3: ED Drugs
+  4: Condoms
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: f8e4880c-ca54-4225-93fe-82442a8a49cb
+
+Question: >
+  Even though the first system of this kind, Aspen Movie Map was created in 1977, the term did not get coined till
+  1989.  Lanier, who coined the term,  is one of the pioneers of the field, founding a company, which built some of
+  the first systems in the 1980s.
+
+Answers:
+  1: Theory of Relativity
+  2: Virtual Reality
+  3: Parallel Reality
+  4: Astral Projection
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: ebff683b-765d-4810-9d66-f4abbf4f0edd
+
+Question: >
+  The greatest myth about this person is that he invented the automobile. However, he was the man to enable mass
+  production of automobiles. This became possible by the standardized interchangeable parts and assembly-line
+  techniques.
+
+Answers:
+  1: Nicolaus August Otto
+  2: Gottlieb Daimler
+  3: Karl Benz
+  4: Henry Ford
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: caaf1bb0-6831-4e10-bb4f-fcb9edb70be0
+
+Question: >
+  My predecessor, Blue Ribbon Sports, was incorporated in 1964. My name came from the Greek goddess for victory. Would
+  that mean I am Nike, Inc.?
+
+Answers:
+  1: Yes
+  2: No
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 46716578-7308-4fc0-84a7-30894b44c1f8
+
+Question: >
+  In what year did mechanic Walter Hunt invent  the safety pin?
+
+Answers:
+  1: 1772
+  2: 1243
+  3: 1994
+  4: 1849
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: c287f87f-3bf4-42d5-8233-5b7f23be938f
+
+Question: >
+  Nike once denied a customer's request to have his running shoes personalized with the word "sweatshop" .
+
+Answers:
+  1: True
+  2: False
+
+Correct: 1
+
+Explanation: |
+  In the early 2000's, Nike allowed customers to personalize their Nike shoes with words of their choice, using an
+  online service called Personal iD. A customer requested the word "sweatshop" printed on the shoes, which Nike
+  rejected for being inappropriate.
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: b12a0b99-3620-4140-88b9-934852a44000
+
+Question: >
+  According to the US Bureau of Labor Statistics, this was the most dangerous job in 1997.  With 118 victims out of
+  100,000 workers in the same year, this wood-bound profession is paid very well in order to attract workers.
+
+Answers:
+  1: Carpenter
+  2: Timber-cutter
+  3: Babysitter
+  4: Teacher
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: dad6c6f2-d3f7-4338-9fc2-54f25a617dea
+
+Question: >
+  Being a fisherman can be quite dangerous. Fishermen's most common cause of death is this.
+
+Answers:
+  1: Lethal bites from fish
+  2: Accidents with fishing equipment
+  3: Getting lost and dying of thirst
+  4: Drowning
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 1682fa97-1e90-449b-ad31-d5411c4dc27d
+
+Question: >
+  The most common cause of death for truck drivers is accidents on the road. This is what usually causes them.
+
+Answers:
+  1: Flat tires
+  2: Logs and other obstacles
+  3: Damaged roads
+  4: Fatigue
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 432808a0-9f16-4cf2-ab36-6b27b2a4b2ec
+
+Question: >
+  Being a pizza-deliverer or a vending machine filler is actually very dangerous.
+
+Answers:
+  1: True
+  2: False
+
+Correct: 1
+
+Explanation: |
+  These occupations statistically rank as dangerous, primarily because of the long hours spent driving.
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 40029836-96e7-4970-b36c-2d989f5ccb79
+
+Question: >
+  Known as the world's most finicky cat, he became the spokes-cat for Purina's 9 Lives cat food in 1969.
+
+Answers:
+  1: Garfield
+  2: Morris
+  3: Pussy
+  4: Kitty
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: e53112e1-1dd4-4ba6-8b24-98c4fe1c351b
+
+Question: >
+  What is the camel's hair brush made of?
+
+Answers:
+  1: Human hair
+  2: Camels hair
+  3: Catgut
+  4: Squirrel hair
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 0b82eff3-9b4d-4e8d-85e0-c76a564f2632
+
+Question: >
+  Who is credited with the invention of M&Ms?
+
+Answers:
+  1: Milton S. Hershey
+  2: Forrest Mars Sr.
+  3: Leo Hirshfield
+  4: Bruce Murries
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 0fa8dfba-38ca-4c7c-97f2-aa96d222d7b2
+
+Question: >
+  When did the first laundromat in the USA open?
+
+Answers:
+  1: 1919
+  2: 1945
+  3: 1934
+  4: 1809
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: df701449-5ada-4124-bf97-8791e914aa78
+
+Question: >
+  In the beginning of the 21th century, Pizza Hut is reckoned as the largest pizza maker.
+
+Answers:
+  1: True
+  2: False
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: e2619a2e-081f-459e-ba94-498be7819dee
+
+Question: >
+  Although these famous dolls are presented as intimate friends, they are named after a brother and sister - who are
+  the children of the dolls creator - Ruth Handler.
+
+Answers:
+  1: Napoleon  Josephine
+  2: Tramp  Lady
+  3: Aladdin  Jasmine
+  4: Barbie and Ken
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 721fd384-72d0-4c01-9fd7-584a67f343c3
+
+Question: >
+  This railroad, built between 1891 and 1916,  is 9,288 kilometres (5,772 miles) long and spans 8 time zones.
+
+Answers:
+  1: Trans-Alpine railway
+  2: Trans-American railway
+  3: Trans-Siberian railway
+  4: Trans-Scandinavian railway
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 0580ea45-89fe-4505-a75f-d0b9d0b56997
+
+Question: >
+  The New Coke debuted in 1988.
+
+Answers:
+  1: True
+  2: False
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 47db0fe3-5267-4d99-aeb4-49854a59e753
+
+Question: >
+  SeaWorld has an official airline and one of its Boeing 737 jetliners is painted to look like a flying Killer Whale.
+  Name this airline.
+
+Answers:
+  1: U.S Air
+  2: Delta
+  3: Southwest
+  4: Jetblue
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 30e054bb-dcdd-49ae-84a8-c4aaf9476db2
+
+Question: >
+  In what year did SeaWorld Orlando open?
+
+Answers:
+  1: 1965
+  2: 1973
+  3: 1968
+  4: 1970
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: f09310fc-dcf8-490c-b4e5-ac9857a30b06
+
+Question: >
+  What SeaWorld attraction allows you to walk through a tube in which sharks swim all around you?
+
+Answers:
+  1: Sharktastic!
+  2: Mission: Shark
+  3: Shark Adventure
+  4: Shark Encounter
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: e388ed58-92ee-4038-b7f6-bab18545cf1a
+
+Question: >
+  What is the name of the SeaWorld Orlando amusement ride that is a combination of a water ride and a roller coaster?
+
+Answers:
+  1: The Lost City of Atlantis
+  2: Atlantis the Lost Continent
+  3: Journey to Atlantis
+  4: Atlantis: The Lost World
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 321ee418-9b32-4b0c-942f-b34f57b7ede0
+
+Question: >
+  What are the names of the four theme parks that make up Disney World?
+
+Answers:
+  1: Magic Kingdom, Epcot, Animal Kingdom, Disney Hollywood Studios
+  2: Universal Studies, Animal Safari,  Epcot
+  3: Cedar Point, Holiday World, Magic Kingdom, Wilderness Park
+  4: Walt Disney World, Sea World, Busch Gardens, Circus World
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 4ddbef78-65cf-4109-a1e0-d7b8238c8aaf
+
+Question: >
+  How many acres did Walt Disney purchase for Disney World to be built on?
+
+Answers:
+  1: 25,000
+  2: 12,500
+  3: 11,950
+  4: 27,400
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 12bf4038-d327-4671-9b16-639fa8af2ba5
+
+Question: >
+  What is the main icon of the Magic Kingdom park?
+
+Answers:
+  1: Cinderellas Castle
+  2: Cinderellas Stagecoach
+  3: Spaceship Earth
+  4: The Tree of Life
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 602df32e-ccad-44e9-bcd5-6e856e53bc42
+
+Question: >
+  What is the title, given to employees at Disney World?
+
+Answers:
+  1: Disney Friends
+  2: Directors
+  3: Mickey Mouse Helpers
+  4: Cast Members
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: ca043495-247c-4ac2-87c6-616710d25711
+
+Question: >
+  Which of the following statements is a true fact about Disney World?
+
+Answers:
+  1: There is a tree farm on the Disney property, so that when a tree in one of the parks dies, it can be replaced by another mature tree.
+  2: All of the above.
+  3: The streets of Disney are steam cleaned every night after the parks close.
+  4: Gold leaf paint is used to paint the carousel horses.
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: f0fd214e-40c7-4226-853b-677937359372
+
+Question: >
+  How many resorts are there on the Disney World property?
+
+Answers:
+  1: 35
+  2: 32
+  3: 17
+  4: 24
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 5d481844-d3c6-482b-b681-0f04db938a83
+
+Question: >
+  World Showcase is a part of the Epcot theme park that highlights different countries and cultures. Which of the
+  following countries is not in the Showcase?
+
+Answers:
+  1: Morocco
+  2: Mexico
+  3: France
+  4: Spain
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 293ef105-2a98-4378-b462-5ba056c8ba8b
+
+Question: >
+  What is the main icon of the Animal Kingdom park?
+
+Answers:
+  1: The Tree of Life
+  2: Habitat Habit
+  3: Silverback Gorillas
+  4: Dinosaur Ride
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 8c2e0cc8-9a92-4828-825b-90c1964dd8a5
+
+Question: >
+  Which of the four parks is the largest single Disney theme park in the world?
+
+Answers:
+  1: Epcot
+  2: Magic Kingdom
+  3: Animal Kingdom
+  4: Hollywood Studios
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: de0f5d00-2ab3-46b9-9e96-a501585d4867
+
+Question: >
+  The production of the world's first commercially available bicycles began in what year?
+
+Answers:
+  1: 1867
+  2: 1973
+  3: 1493
+  4: 1843
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 886a9b37-1789-455e-baa4-3a868e856f1f
+
+Question: >
+  In what year did Specialized Bicycle Components produce the first mountain bike called the Stumpjumper?
+
+Answers:
+  1: 1982
+  2: 1973
+  3: 1978
+  4: 1984
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: fe7eb03f-50f3-4222-a003-3835494f4095
+
+Question: >
+  In what business did John M. Brunswick and his two half brothers, David and Emmanuel, make their fortune?
+
+Answers:
+  1: Entertaining industry
+  2: Aircraft industry
+  3: Billiard table business
+  4: Cell phone business
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: d8cd53d4-5952-4c1b-a7cf-b94491396ba1
+
+Question: >
+  What was the only automobile brand named after a Jew?
+
+Answers:
+  1: Oldsmobile
+  2: Citroen
+  3: Duesenberg
+  4: Auburn
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 4d7b7243-56a7-41c1-9717-fb6e9d49da3f
+
+Question: >
+  What did Rose and Morris Michtom create in 1902?
+
+Answers:
+  1: The Teddy Bear
+  2: The endoscope
+  3: The credit card
+  4: The vacuum tube
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: c4a669bb-614e-4bd9-bdc3-3939a02e8f8c
+
+Question: >
+  An Israeli has invented a gun that can shoot around corners.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 8a247d92-5df7-43b5-9d9f-54e0c8fe043a
+
+Question: >
+  What is Israel's number one agricultural export?
+
+Answers:
+  1: bananas
+  2: flowers
+  3: seedless watermelon
+  4: oranges
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1

@@ -20,3 +20,553 @@ Notes: >
   None
 
 SchemaVersion: 1
+---
+ID: 17d13685-e73b-45b4-abe5-69d8dd595cba
+
+Question: >
+  The 40th wedding anniversary is known as a diamond wedding anniversary.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 44371113-db70-4a40-ae5d-0083f50f09e9
+
+Question: >
+  It is considered that diamonds protect from evil forces and bring health to their owner, but only if acquired in a
+  fair way.
+
+Answers:
+  1: True
+  2: False
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 5706cc52-51fb-42f0-854e-7f8275ba86f8
+
+Question: >
+  Which of the following astrological signs is not associated with fire, one of the four classical elements?
+
+Answers:
+  1: Aries
+  2: Sagittarius
+  3: Gemini
+  4: Leo
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 33c0009f-a27c-4800-a48d-a74e78dc03f0
+
+Question: >
+  In Spanish-speaking countries, this day, commonly referred to as Martes y trece, is considered a day of bad luck
+  instead of Friday, the 13th.
+
+Answers:
+  1: Saturday, the 13th
+  2: Tuesday, the 13th
+  3: Monday, the 13th
+  4: Tuesday, the 14th
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: e34a3aae-e8b5-417b-b773-f9292b775051
+
+Question: >
+  Which great mind's last words were: I have offended God and mankind because my work did not reach the quality it
+  should.?
+
+Answers:
+  1: Michael Landon
+  2: Leonardo Da Vinci
+  3: Dan Quayle
+  4: Dan Blocker
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 3029bc54-4fce-4cc8-a0fc-c440a6d73261
+
+Question: >
+  Relax, this won't hurt. were the last words of this inventor of Gonzo journalism.
+
+Answers:
+  1: Hunter Thompson
+  2: Ben Bradley
+  3: James Fenimore Cooper
+  4: William Randolph Hearst
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 4b140ab9-845e-4c5d-a0a4-174ab8519144
+
+Question: >
+  The Celtic spiral knot stands for growth, eternal life and movement.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 615bee1c-dc23-4a19-b055-55a04f8809a9
+
+Question: >
+  Which Chinese character is used in Chinese New Year decorations and is often placed upside-down on the front door of
+  a house?
+
+Answers:
+  1: Cai - wealth, money
+  2: Fu - Blessing, Good Fortune, Good Luck
+  3: Lu – Prosperity
+  4: Shou – Longevity
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: b9af8969-1810-46b2-9f67-38fd35e55895
+
+Question: >
+  According to Roman tradition the future founders of Rome were saved by a wolf.
+
+Answers:
+  1: True
+  2: False
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 222ad556-fc8b-428b-9540-3d9f28dd04f0
+
+Question: >
+  In what classic fairy tale does a cannibalistic witch live in a house of candy and cake?
+
+Answers:
+  1: None of these
+  2: Tom Thumb
+  3: Snow White
+  4: Hansel and Gretel
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: ad708004-2121-4289-98fa-c6ac5a8375df
+
+Question: >
+  The Water of Life or Fountain of Youth has been associated with which of the following locations?
+
+Answers:
+  1: Florida
+  2: the mythical land of Bimini
+  3: All of these
+  4: the land of the Ethiopians
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: bc7deca1-b8b4-44d9-825e-c7390b24540a
+
+Question: >
+  What is Robin Hood's group of fellow outlaws referred to as?
+
+Answers:
+  1: The Merry Men
+  2: The Merry Pranksters
+  3: The Angry Men
+  4: The Merry Saviours
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 813d01a5-5b07-4a6a-a82d-0bb8a34a34c6
+
+Question: >
+  Name the legendary leader, who led the defence of Britain against the Saxon invaders.
+
+Answers:
+  1: King Arthur
+  2: None of these
+  3: Robin Hood
+  4: Joan of Ark
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: b4ac0c04-3dc2-4235-8f19-9e832badb927
+
+Question: >
+  What name is given to a variety of fictional and factual events of 1212 which are related to the conversion of
+  Muslims in the Holy Land to Christianity?
+
+Answers:
+  1: The Crusade of Nuns
+  2: All of these
+  3: The Children’s Crusade
+  4: The Crusade of Templars
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 27195ee4-bda0-4953-9085-3c94b5df2cdc
+
+Question: >
+  Held every year from July 7-14, the very dangerous, yet entertaining, Running of the Bulls event takes place in what
+  Spanish city?
+
+Answers:
+  1: Valencia
+  2: Pamplona
+  3: Seville
+  4: Barcelona
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 6e209eb2-5312-4898-b2c8-abb72172711f
+
+Question: >
+  Black is the most popular color of dress shoes for men and boys. What is the second most popular color?
+
+Answers:
+  1: red
+  2: brown
+  3: blue
+  4: green
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 936a2969-334c-42fe-9e85-ca12920a69b0
+
+Question: >
+  This color is usually associated with girls.
+
+Answers:
+  1: yellow
+  2: brown
+  3: red
+  4: pink
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: e8c76fe8-401c-4fae-b3c4-013a9ba0415f
+
+Question: >
+  CB radios were highly popular during the 1970s, and users (primarily truckers) had a colorful CB slang. A Kojak with
+  a Kodak is a law officer with a radar gun. What is a smokey in a plain brown wrapper?
+
+Answers:
+  1: A Sheriff's Deputy car
+  2: A state trooper
+  3: An unmarked police car
+  4: A driver who appears to be drunk or is driving recklessly
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 95d9da3c-bba1-411c-b3ee-f2f0a371411f
+
+Question: >
+  The Uape Indians, who live in the Amazon, mix the ashes of their cremated relatives with alcohol, then all members
+  of the family drink the mix.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 45ae33c5-ee86-4c70-9f1d-89b096473930
+
+Question: >
+  In Jewish traditions, what is the ceremony for the naming of a female baby on the evening of her fifth day?
+
+Answers:
+  1: Sarahs Ceremony
+  2: The Confirmation
+  3: Pinyin Ha-ben
+  4: The Eve of the Sixth
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 00a4b908-81ea-4ebf-866a-244c54b85b27
+
+Question: >
+  During Jewish wedding ceremonies, the bride and groom stay under a canopy. What is this canopy called?
+
+Answers:
+  1: Chutzpah
+  2: Chanukia
+  3: Tallit katan
+  4: Chupah
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: eb52b172-e21a-4043-863b-8250dcd7c548
+
+Question: >
+  Jewish children are considered grown up enough to be responsible for their actions at what age?
+
+Answers:
+  1: All children above 13
+  2: Boys at 13, girls at 12
+  3: Boys at 14, girls at 13
+  4: Boys at 13, girls at 14
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: d3a187a9-51c5-451e-89cc-b5ed123a06c5
+
+Question: >
+  What is the meaning of the Hebrew toast lChaim!?
+
+Answers:
+  1: To life!
+  2: To our country!
+  3: To health!
+  4: To success!
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1

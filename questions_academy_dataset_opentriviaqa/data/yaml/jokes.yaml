@@ -3503,3 +3503,28 @@ Notes: >
   None
 
 SchemaVersion: 1
+---
+ID: 653a3278-4087-469f-81b3-7ca87042a6ef
+
+Question: >
+  Complete the old joke about questionable stones: Whether its a _________ or a pink sapphire depends on whether
+  you're the buyer or the seller.
+
+Answers:
+  1: amethyst
+  2: malachite
+  3: ruby
+  4: diamond
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1

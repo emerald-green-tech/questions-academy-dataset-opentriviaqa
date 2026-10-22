@@ -19,3 +19,171 @@ Notes: >
   None
 
 SchemaVersion: 1
+---
+ID: 4ea1847c-a8a0-47f4-860c-c614abb1e9b7
+
+Question: >
+  Printer steganography is a type of steganography where tiny yellow dots are added to each page.
+
+Answers:
+  1: True
+  2: False
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: fd4a048e-55f2-4d70-87ce-7339aebdb035
+
+Question: >
+  What device converts a vehicle’s 12 or 24 volt DC current into 110 or 220 volt AC current?
+
+Answers:
+  1: Generator
+  2: A twist-lock adapter
+  3: None of these
+  4: Inverter
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: d0823d88-9146-488a-86cf-1871ef96e129
+
+Question: >
+  This programming language was invented by Grace Murray Hopper, who in 1973 became the first person from the United
+  States and the first woman of any nationality, to be made a Distinguished Fellow of the British Computer Society.
+
+Answers:
+  1: FORTRAN
+  2: VISUAL BASIC
+  3: COBOL
+  4: BASIC
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 6b363012-46c1-4f48-a39d-486c73d94f4b
+
+Question: >
+  What color is the black box on an airplane ?
+
+Answers:
+  1: black
+  2: orange
+  3: striped
+  4: white
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 36692ba3-521d-4b5e-973a-dab7292f2d71
+
+Question: >
+  Criticisms of the F-15s close combat maneuverability, large size and this major factor, led to the development of
+  the F-16, an airplane that complements the F-15 by having strengths in which area?
+
+Answers:
+  1: Cost
+  2: Payload
+  3: Speed
+  4: Range
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 5db9cef4-fa79-4936-baca-28233d78d6df
+
+Question: >
+  Which famous person is responsible for the technology behind the cellular phone?
+
+Answers:
+  1: Charlton Heston
+  2: Thomas Alva Edison
+  3: Hedy Lamarr
+  4: Albert Einstein
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 1343493a-9093-4b78-8797-06268fc994e9
+
+Question: >
+  Which of the following hi-tech trends did not take place in the 80s?
+
+Answers:
+  1: Breakthrough of compact disc technology
+  2: Introduction of the IBM PC
+  3: Popularization of personal computers
+  4: The rise of Nintendo
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1

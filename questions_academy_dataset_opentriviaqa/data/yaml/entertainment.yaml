@@ -1,3 +1,70 @@
+ID: 909ad020-3d22-49f4-b5c9-84f46f214016
+
+Question: >
+  David Copperfield made his Broadway show Dreams & Nightmares in collaboration with Francis Ford Coppola.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: bcbe0824-8acc-4864-b7e5-cdba3a8ff6e4
+
+Question: >
+  David Copperfield founded Project Magic to help gifted children around the world.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 9350a65b-c013-4a9e-9fca-cb8c8b5edd4a
+
+Question: >
+  In the early 1990s, illusionist David Copperfield set a record for the largest private collection of magic
+  artifacts.
+
+Answers:
+  1: True
+  2: False
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: b2e24084-9d21-4bd6-829d-24e656092bbf
 
 Question: >
@@ -10,6 +77,1093 @@ Answers:
   4: Howard Stern, Wolfman Jack, Don Imus, Soupy Sales
 
 Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 841a8248-7444-4f98-ac71-e1106796bf73
+
+Question: >
+  O and Ovo are among the shows performed by this circus group founded in 1984.
+
+Answers:
+  1: Cirque du Soleil
+  2: Circus Smirkus
+  3: Circus Amok
+  4: Archaos
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: ef45e591-6dfa-4dc1-b7e1-53bf34c07f64
+
+Question: >
+  Name the Frenchman who invented the flying trapeze in 1859.
+
+Answers:
+  1: Monty Python
+  2: Guy Laliberté
+  3: Daniel Gauthier
+  4: Jules Leotard
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 1710fbab-ec47-4a77-9929-05236d53590f
+
+Question: >
+  Which of these is the name of an old British circus dynasty that toured Europe and the Far East with their shows?
+
+Answers:
+  1: Forepaugh
+  2: Ashton
+  3: Chipperfield
+  4: Barnum
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 3a27fe11-0a21-43c7-9bc9-32dc0135847e
+
+Question: >
+  What circus was founded in 1995 by a duo named Fireplay?
+
+Answers:
+  1: Silvers Circus
+  2: Albert  Friends Instant Circus
+  3: The Bindlestiff Family Cirkus
+  4: Chipperfields Circus
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 229e8a56-f939-4a2a-a8ce-409d41f34ca0
+
+Question: >
+  What is the first tubular steel track roller coaster?
+
+Answers:
+  1: Revolution Six Flags Magic Mountain
+  2: Storm Runner Hershey Park
+  3: Matterhorn Bobsleds, Disneyland
+  4: Corkscrew Knotts Berry Farm
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 9cc6a3cd-5f07-4e7f-ace9-39533bdbe272
+
+Question: >
+  What is the first amusement park with four roller coasters that are taller than 200 feet (61 m)?
+
+Answers:
+  1: Kings Dominion Doswell, Virginia, USA
+  2: Canadas Wonderland Vaughan, Ontario, Canada
+  3: Cedar Point Sandusky, Ohio, USA
+  4: Six Flags Magic Mountain Valencia, California, USA
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 6728cc69-144f-4c46-bd07-87491f16e12b
+
+Question: >
+  What was the first looping roller coaster?
+
+Answers:
+  1: Corkscrew, Knotts Berry Farm, Buena Park, California.
+  2: Centrifugal Railway, Frascati Garden, Paris
+  3: Carolina Cyclone, Carowinds, North Carolina
+  4: Revolution, Six Flags Magic Mountain, Valencia, California
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 0a92df3d-620d-4933-bf20-978b5080ac4d
+
+Question: >
+  What was the first roller coaster to reach a height of 100 ft?
+
+Answers:
+  1: Cyclone, Revere Beach, Revere, Massachusetts, United States
+  2: Drop-The-Dips, Coney Island
+  3: Centrifugal Railway, Frascati Garden, Paris
+  4: Gravity Pleasure, Coney Island, Brooklyn, New York
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: e6bb4cc2-2d08-4aa8-a4cf-b397b863a639
+
+Question: >
+  There has never been a wooden roller coaster with an inversion.
+
+Answers:
+  1: True
+  2: False
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 8c979c0e-7819-447a-a9f7-19c9425cb9ba
+
+Question: >
+  What is the first modern roller coaster to have a vertical loop?
+
+Answers:
+  1: Shockwave, Six Flags Great America, Gurnee, Illinois, United  states
+  2: Dragon Khan, Port Aventura, Salou, Spain
+  3: Revolution, Six Flags Magic Mountain, Valencia, California
+  4: Corkscrew, Knotts Berry Farm, Buena Park, California
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: bb5864ce-7fe6-4d02-9383-a1fef2f5297c
+
+Question: >
+  Who is the mascot for the Indiana Beach amusement park?
+
+Answers:
+  1: IB Crow
+  2: Beach Bird
+  3: Indiana Jones
+  4: Hoosier Hawk
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 8f1f323a-354e-44ba-9bae-b6e14521f915
+
+Question: >
+  Which roller coaster was Indiana Beach's first?
+
+Answers:
+  1: Cornball Express
+  2: Tigrr
+  3: Galaxy
+  4: Steel Hawg
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: ae9a7457-69bb-44e3-95d1-ac7da00f87b1
+
+Question: >
+  In addition to the sandy beach, Indiana Beach also has a large waterpark.
+
+Answers:
+  1: True
+  2: False
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 96721414-19b7-4347-9897-f9fcbc9c1015
+
+Question: >
+  Which of the following is not a lodging option at Indiana Beach?
+
+Answers:
+  1: Cottages
+  2: Time-shares
+  3: Camping
+  4: Motel
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: f2226591-b6c7-4ff1-9813-7f4074fa119a
+
+Question: >
+  What year did Indiana Beach open?
+
+Answers:
+  1: 1996
+  2: 1929
+  3: 1955
+  4: 1926
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 45b9a081-e87f-491d-9cce-b4d1da3860d2
+
+Question: >
+  What is the Shafer Queen at the Indiana Beach amusement park?
+
+Answers:
+  1: Fine dining restaurant
+  2: Mini golf course
+  3: Antique auto
+  4: River boat
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 9f25134d-4f03-4c91-a0fd-62725b92faee
+
+Question: >
+  What is the Indiana Beach slogan?
+
+Answers:
+  1: A beach in the middle of nowhere
+  2: A beach in the middle of a corn field
+  3: Come and walk on the boardwalk!
+  4: There's more than corn in Indiana.
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 1e89bf4d-563b-4c47-98bb-53ceec3ae845
+
+Question: >
+  Indiana Beach has a water and ski show.
+
+Answers:
+  1: True
+  2: False
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 1413cf44-60f8-4f02-830a-251a37fb6cb2
+
+Question: >
+  What type of walk-through attraction at Indiana Beach was voted the worlds #1 in 2006?
+
+Answers:
+  1: a house of mirrors
+  2: a petting zoo
+  3: a haunted house
+  4: a funhouse
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: ae460390-1db9-4f1e-87ac-92316f99d25b
+
+Question: >
+  In Homestar Runner, what power does the blue diamond on Strong Bad's mask give him?
+
+Answers:
+  1: He can hover about three inches off the ground.
+  2: He can make a black dot appear on walls.
+  3: He can mentally open Cold Ones.
+  4: He can change the color of his mask at any time.
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: d790a5f0-1ba8-4dae-8aef-624d7aca304d
+
+Question: >
+  In the Internet cartoon Homestar Runner, Strong Bad works with Homestar and The Cheat at an unnamed tech company,
+  but what is his dream job?
+
+Answers:
+  1: universal make-out helper for hot girls
+  2: 2nd 2nd assistant space whale scrubber
+  3: death-defying juggling trapeze artist
+  4: supreme ultralord of the international gazebo
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: b8cb09cd-cc79-46fb-ad45-7f85a5583b46
+
+Question: >
+  What is the name of the fan club dedicated to Homestar Runner character Strong Bad?
+
+Answers:
+  1: The Deleteheads
+  2: The Trogdorians
+  3: The Geddup Noise
+  4: The Lucho Libres
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: a022f817-da1d-4e69-baec-b6373ce8de0d
+
+Question: >
+  In the e-mail secret recipes, Strong Bad claims he has a secret family recipe for cooking which of the following?
+
+Answers:
+  1: Cheek
+  2: Chekt
+  3: Chort
+  4: Chemp
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: baf068c4-4e2e-4caa-89ed-98b0c68b7464
+
+Question: >
+  In the e-mail animal, Homestar Runner character Strong Bad is asked to make-up an animal. What is NOT one of the
+  animals that he creates?
+
+Answers:
+  1: Sterrance
+  2: Da Huuuuuudge
+  3: Deep Sea Fangly Fish
+  4: La Mongo
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: fc53f57b-30b1-4db5-93dc-45f4bbc1c6c7
+
+Question: >
+  Cartoon character Strong Bad got this name because he can bench-press 125 pounds.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 723e6803-cabd-43f4-8001-5661b2c7a4ee
+
+Question: >
+  In the Homestar Runner cartoon, Strong Bad and Strong Sad co-author the Teen Girl Squad comic.
+
+Answers:
+  1: True
+  2: False
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 987586ba-47d9-4ef1-b289-698ae488ba5a
+
+Question: >
+  Emmett Kelly, who initially was a trapeze artist, started working as a clown in what year?
+
+Answers:
+  1: 1931
+  2: 1921
+  3: 1935
+  4: 1928
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 939a6ff0-8b23-42e1-9e94-8fcd89b35b59
+
+Question: >
+  What was the name of Emmett Kelly's son, who also played a character named Weary Willie?
+
+Answers:
+  1: William Kelly
+  2: Red Skelton
+  3: Emmett Kelly Jr.
+  4: Red Kelly
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: a6ed26d3-3d17-4e5c-8587-fb18f7c1c421
+
+Question: >
+  Circus performer Emmet Kelly is depicted in a famous photograph trying to put out the fire that occurred shortly
+  after the San Francisco Earthquake in 1938.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 91767670-53e2-4dec-8ba9-0eb7869b4a1d
+
+Question: >
+  Emmett Kelly died of heart attack in 1979 at age of 80.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: b0ba4a03-d963-4277-871f-0c601fa11b8e
+
+Question: >
+  Emmett Kelly took a year off from the stage and circus to serve as mascot for which baseball team?
+
+Answers:
+  1: Los Angeles Dodgers
+  2: Brooklyn Dodgers
+  3: Kansas City Royals
+  4: New York Mets
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 13f714fb-d3ab-4ddd-bc66-35f43dc27087
+
+Question: >
+  In 1957, Cecil B. DeMilles hired Emmett Kelly to perform in I, Clowns.
+
+Answers:
+  1: True
+  2: False
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 22d5906a-bf3c-4c20-8c1f-57be36c5a019
+
+Question: >
+  Circus performer Emmet Kelly started his trapeze act in 1923 with the John Robinson Circus.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 2662d76f-bf9d-45ab-aaf5-be166f42057b
+
+Question: >
+  Name Emmett Kelly's birth state, which is also the location of the Emmett Kelly Museum.
+
+Answers:
+  1: Iowa
+  2: Kansas
+  3: Nevada
+  4: Nebraska
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: f4c125ca-881e-4a19-bfb6-d8df9aae57b1
+
+Question: >
+  Emmett Kelly's character, Weary Willie, always made fans burst out in laughter.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: aef4a7a1-f457-4b2c-86c1-dedceda194a2
+
+Question: >
+  How many contestants are there in the Miss America competition each year?
+
+Answers:
+  1: 50
+  2: 52
+  3: 40
+  4: 51
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 7a471f06-59a2-4e93-97cf-4e3a21307030
+
+Question: >
+  How many years does the winner of the Miss America Pageant hold the Miss America title?
+
+Answers:
+  1: 2
+  2: 4
+  3: 1
+  4: She is Miss America for the rest of her life.
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 3bd29e55-8b15-4b05-9815-72a39a455078
+
+Question: >
+  Where did the first Miss America pageant take place?
+
+Answers:
+  1: Las Vegas, Nevada
+  2: Miami, Florida
+  3: St. Louis, Missouri
+  4: Atlantic City, New Jersey
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 644174cc-b38b-4601-862a-25c458724cc9
+
+Question: >
+  The Miss America Pageant is the number one provider of which of the following?
+
+Answers:
+  1: Medical insurance for women in the United States
+  2: Battered women shelters
+  3: Job opportunities for women in the United States
+  4: Scholarships for women in the United States
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: a72df0f7-3117-473a-9773-797d3bef52ee
+
+Question: >
+  During the talent portion of the Miss America competition the contestants perform on stage. What are the two most
+  common talents that are exhibited?
+
+Answers:
+  1: Cheer leading and speech
+  2: Piano and tap dancing
+  3: Acting and juggling
+  4: Singing and dancing
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 69305bbc-1401-42cc-a33b-0002e69e9205
+
+Question: >
+  In 1996, a phone-in poll was held to ask the public if they should continue with the swimsuit portion of the Miss
+  America Pageant. What percentage of voters wanted the swimsuit portion to continue?
+
+Answers:
+  1: 75%
+  2: 99%
+  3: 87%
+  4: 14%
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 0d03f631-3d3a-449b-a263-8befdd8ff010
+
+Question: >
+  Who was the very first woman to win the Miss America competition?
+
+Answers:
+  1: Phyllis McDonald
+  2: Anne Washington
+  3: Margaret Gorman
+  4: Lee Meriwether
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: a692e76e-b826-4146-9faa-c3cea023a932
+
+Question: >
+  What year was the Miss America competition televised for the very first time?
+
+Answers:
+  1: 1980
+  2: 1952
+  3: 1926
+  4: 1955
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 67f7e0cf-2dc2-422c-a450-4b793c8b3dfa
+
+Question: >
+  Who became the first African American woman to win the title of Miss America?
+
+Answers:
+  1: Halle Berry
+  2: Naomi Campbelle
+  3: Tyra Banks
+  4: Vanessa Williams
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: da7f7d44-4aad-423f-982d-da06c51e6551
+
+Question: >
+  How many times can a woman compete in the Miss America pageant?
+
+Answers:
+  1: It is not specified.
+  2: 3
+  3: 2
+  4: 1
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 22571227-471f-4c05-a270-34653678590c
+
+Question: >
+  The Dark Knight is an indoor roller coaster.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 2
 
 Explanation: |
   None

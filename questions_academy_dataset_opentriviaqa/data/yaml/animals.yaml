@@ -465,7 +465,7 @@ Active:
   True
 
 Notes: >
-  Original OpenTriviaQA Category was: animals.
+  None
 
 SchemaVersion: 1
 ---
@@ -17958,10 +17958,10 @@ Question: >
   Which of the following statements is true about ants eyes and eyesight?
 
 Answers:
-  1: The eyesight of most ants ranges from poor to average, and a number of species that live underground
+  1: The eyesight of most ants ranges from poor to average, and a number of species that live underground are completely blind.
   2: All of these
   3: Ants have compound eyes which consist of multiple small lenses.
-  4: Ants have three simple eyes called ocelli on the top of their heads that detect light levels and pol
+  4: Ants have three simple eyes called ocelli on the top of their heads that detect light levels and polarization
 
 Correct: 2
 
@@ -27852,10 +27852,10 @@ Question: >
   Some sharks hardly ever stop swimming during their whole existence. What is the reason for this?
 
 Answers:
-  1: Some sharks are very desirable hosts for small parasitic creatures. Those sharks are constantly tryi
-  2: Sharks are highly anxious and easily agitated animals. They cannot stay in the same place for more t
-  3: Sharks are cold-blooded animals. If they stop moving their body temperature will decrease too much a
-  4: Some sharks have lost the ability to pump water through their gills, so they need to keep moving in 
+  1: Some sharks are very desirable hosts for small parasitic creatures. Those sharks are constantly trying to escape from them by incessant swimming.
+  2: Sharks are highly anxious and easily agitated animals. They cannot stay in the same place for more than a few seconds.
+  3: Sharks are cold-blooded animals. If they stop moving their body temperature will decrease too much and will cause hypothermia, which can be lethal.
+  4: Some sharks have lost the ability to pump water through their gills, so they need to keep moving in order to stay alive
 
 Correct: 4
 
@@ -31801,6 +31801,3741 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: 5f6138b5-c720-454f-8a44-0f85cd8f590c
+
+Question: >
+  Horses evolved in North America but became extinct there 10,000 years ago.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 8bca5a07-e81b-473c-977d-eb02c0951e00
+
+Question: >
+  Dinosaurs were the largest terrestrial animals to have ever lived.
+
+Answers:
+  1: True
+  2: False
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 14b1bf1e-5ca0-474d-bda4-7abd24e29091
+
+Question: >
+  The duck bill dinosaurs are actually known as Hadrosaurs.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 2f01e746-7429-4c77-a5e7-22d5e0ac8d2f
+
+Question: >
+  A partial skeleton of this dinosaur was discovered in 1900.
+
+Answers:
+  1: Tyrannosaurus
+  2: Daspletosaurus
+  3: Velociraptor
+  4: Dynamosaurus
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 22385ae9-f38f-4af9-8beb-1da99eb28210
+
+Question: >
+  Allosaurus gave rise to Tyrannosaurus.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 001b34e9-305b-4056-afd8-bf53381f7cb5
+
+Question: >
+  Did birds evolve from dinosaurs?
+
+Answers:
+  1: No
+  2: Yes
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: a4119023-8f42-41a3-bf6c-ad55ef710920
+
+Question: >
+  The pubis of which of these dinosaurs points forward?
+
+Answers:
+  1: Ornithischians
+  2: Stegosaurids
+  3: Saurischian
+  4: Tyrannosaurids
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 40a2689c-e18e-4fba-af72-51f337613d9f
+
+Question: >
+  The skeleton of this dinosaur was found in Mongolia entangled with a Protoceratops skeleton.
+
+Answers:
+  1: Oviraptor
+  2: Velociraptor
+  3: Protoceratops
+  4: Achillobator
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 3b2dfdbd-655a-4c62-b892-e64199789536
+
+Question: >
+  The Australian Shepherd is a breed of dog developed in Australia.
+
+Answers:
+  1: True
+  2: False
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: b6dd402a-db2a-418e-804a-ddf6b9bbc64a
+
+Question: >
+  Is it true that the Pembroke Welsh Corgi is the preferred breed of Queen Elizabeth II?
+
+Answers:
+  1: No
+  2: Yes
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 82e98d0b-6fcc-4096-a5f7-154cd3b1d001
+
+Question: >
+  The Cockerpoo is a Cocker Spaniel Poodle Mix.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: cdcda125-eb53-40b6-9c67-0c660962b0eb
+
+Question: >
+  The Australian Shepherd is used for herding.
+
+Answers:
+  1: True
+  2: False
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 0573d103-d9e8-4d92-af69-652a029191ae
+
+Question: >
+  Is it true that Bichons were court dogs during the Middle Ages?
+
+Answers:
+  1: Yes
+  2: No
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 19c9b1bc-203d-43f6-bede-d01a31261b35
+
+Question: >
+  The tiger is the national animal of which of the following countries?
+
+Answers:
+  1: India
+  2: Moscow
+  3: Israel
+  4: Sri Lanka
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 2f4ca8a5-8464-430c-b0e1-bc3265465248
+
+Question: >
+  What did the Tungusic people of Siberia and northern China call the Siberian Tiger?
+
+Answers:
+  1: Old Man
+  2: None of these
+  3: Both of these
+  4: Grandfather
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: da40aaa7-45db-4335-aacd-ba6de133b880
+
+Question: >
+  What is a group of tigers called?
+
+Answers:
+  1: Sawt
+  2: Pride
+  3: Streak
+  4: Leap
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: dde1c329-d89a-4b04-9428-28f6cd8f2eaf
+
+Question: >
+  Tigers like to spend time in pools.
+
+Answers:
+  1: True
+  2: False
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 3a233084-9f1e-407a-8c46-37f5eac8239a
+
+Question: >
+  Tigers sometimes carry their dead prey across lakes.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: ab96ce5b-b5a7-4dba-a27f-a9480ae192f0
+
+Question: >
+  Tigers cannot easily walk over broken or thorny ground.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 4dad1361-e737-452d-ba92-50ba1c210af6
+
+Question: >
+  Do tigers kill other predators?
+
+Answers:
+  1: Yes
+  2: No
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: f8024b84-eac3-4852-ada5-ed63446e76e1
+
+Question: >
+  What is a tiger's lifespan in the wild?
+
+Answers:
+  1: over 30 years
+  2: 20-30 years
+  3: 5-10 years
+  4: 10-15 years
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 80d2c386-43d3-4120-9d8f-fac43e652e77
+
+Question: >
+  The Caspian tiger is extinct.
+
+Answers:
+  1: True
+  2: False
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 597b29a9-4780-4a9f-93f1-03791ece5a75
+
+Question: >
+  The South China tiger is extinct.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 605b1dfa-1685-4423-9dde-a19ecd47a6fb
+
+Question: >
+  How many muscles does a cat have in each ear?
+
+Answers:
+  1: 46
+  2: 32
+  3: 21
+  4: None of These
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: ba6ccd7d-b1ba-46a1-87ce-d94788212702
+
+Question: >
+  Which word refers to the footprint of large animals?
+
+Answers:
+  1: Eccrine marks
+  2: Pugmarks
+  3: Dactolyines
+  4: Slor prints
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 03c497ca-c9e4-487b-ab39-0612faed61ee
+
+Question: >
+  Which of these got its name from a racing horse's name?
+
+Answers:
+  1: The pez
+  2: The sneaker
+  3: The lollipop
+  4: The kiosk
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: d3466f85-1a1d-4153-9511-d7bb800666cc
+
+Question: >
+  What does the diet of sparrows mainly consist of?
+
+Answers:
+  1: Buds
+  2: Insects
+  3: Fruit
+  4: Seeds
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 16ffd4db-623f-4d2a-a1ec-3809ae919233
+
+Question: >
+  True sparrows, belonging to the genus Passer, are native to which continent?
+
+Answers:
+  1: Europe
+  2: Asia
+  3: Africa
+  4: All of these
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 716a6f34-90b7-4da4-bca6-c8497b4f868d
+
+Question: >
+  What was the aim of the Great sparrow campaign carried out between 1958 and 1962 in China?
+
+Answers:
+  1: To destroy the sparrow population in the country
+  2: To preserve the sparrows and increase their population
+  3: To teach people how to take care of injured sparrows
+  4: To import new sparrow species in the country
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 9050176b-bf34-43b2-9576-50a4c62773c8
+
+Question: >
+  Naturally, or in the wild, all mice species are classified as which of the following?
+
+Answers:
+  1: Omnivores
+  2: Carnivores
+  3: Specialized eaters
+  4: Herbivores
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: c9087d1f-26b9-4499-b6e9-6aa6b3bb5c53
+
+Question: >
+  What does the term knockout mouse denote?
+
+Answers:
+  1: An extraordinary and unique mouse
+  2: A very aggressive mouse which defends its territory by all means, and even attacks humans
+  3: A mouse whose genes have been selectively turned off
+  4: A mouse that is used in military operations
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 9f81c156-bb62-4b5d-8607-270d0217c8b8
+
+Question: >
+  House mice have not one, but two of which of the following organs?
+
+Answers:
+  1: Stomach
+  2: Thyroid gland
+  3: Liver
+  4: Thymus
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: a3b562d6-7ef6-43bf-8e6b-5c1c413f7811
+
+Question: >
+  Mice have excellent vision.
+
+Answers:
+  1: True
+  2: False
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 6ffd3b45-9bf6-4080-a184-029373e26415
+
+Question: >
+  Which of the following is not true about mice in general?
+
+Answers:
+  1: Mice often attack rats.
+  2: None of these
+  3: Mice often vomit food they are unable to digest and chew it all over again.
+  4: Unlike other rodents, they do not eat their droppings.
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 0f6db079-80aa-4a7b-a814-c42583786cef
+
+Question: >
+  Mice are known to be repelled by which of the following scents?
+
+Answers:
+  1: Paint
+  2: Human urine
+  3: Artificial fruit scent
+  4: Garlic and onion
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 8dd8e4fa-f908-4fad-bdbc-d916c11f1eea
+
+Question: >
+  Mice communicate through pheromones which are contained in which of the following?
+
+Answers:
+  1: Urine
+  2: Tear fluid
+  3: All of these
+  4: Preputial glands
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 45dc9662-8418-4ee6-a076-8535f97e8da5
+
+Question: >
+  Mice do not use their tails for which of the following?
+
+Answers:
+  1: For support
+  2: In fights
+  3: For keeping balance
+  4: For communication
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: bea07efc-bb7b-4714-ae74-ddd5b2026c42
+
+Question: >
+  Garlic and onions are considered toxic for which animals?
+
+Answers:
+  1: Rabbits and hares
+  2: Cats and dogs
+  3: Sheep and goats
+  4: Horses and donkeys
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 2f42c8ab-b051-4930-9127-5f617484d5e0
+
+Question: >
+  A giraffe has a 21-inch long tongue.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: e1f023ac-63d3-40c1-b7a0-8e9fdd59f698
+
+Question: >
+  Some species of cuckoos lay their eggs in the nests of other birds.
+
+Answers:
+  1: True
+  2: False
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: f38bc29f-e119-4086-b99e-4bb99f3e1910
+
+Question: >
+  All chameleons change their color to blend in with their environment.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: f70137a9-d8ed-42b3-b3e9-464d5de13998
+
+Question: >
+  There is a species of crab that is as small as a pea.
+
+Answers:
+  1: True
+  2: False
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 46a86e62-dc73-4c4e-9a94-cd65de02e98a
+
+Question: >
+  No bird can soar for over 3 years.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: a58d6919-84a2-4567-ae7e-baa05dcda9a5
+
+Question: >
+  The male Emperor penguin incubates the egg.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 126359d9-7b52-407c-8a36-b7ba64f388e1
+
+Question: >
+  A mackerel lays only one egg at a time.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: fb42231f-49bb-4cdc-8632-67d9813ce1ff
+
+Question: >
+  All clams are born as females.
+
+Answers:
+  1: True
+  2: False
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: d0ade366-fbde-4220-9a29-774a2c68ebe3
+
+Question: >
+  Poisonous snakes cause the largest number or animal-related human deaths worldwide.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 7b38caf3-95cf-4d0b-b5a8-5bc5d86e541a
+
+Question: >
+  The largest insect egg is smaller than a peanut.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: aee10af6-3c04-4f93-95c8-bf54d796ca29
+
+Question: >
+  In what geographical area are chimpanzees found naturally?
+
+Answers:
+  1: Africa
+  2: Africa and Asia
+  3: Africa and South America
+  4: Africa and Australia
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 667d01e0-9a2e-4b06-81ba-a75a5e7240ab
+
+Question: >
+  The brain of a mature chimpanzee is about the size of the brain of an adult human.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 73c85ab3-faba-4ae3-9326-63d7b74b310d
+
+Question: >
+  What type of diet does the Common Chimpanzee have?
+
+Answers:
+  1: Mainly carnivorous
+  2: None of these
+  3: Herbivorous
+  4: Omnivorous
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: fa0b5b5b-deb2-4e30-9e01-50178ac29381
+
+Question: >
+  Which of the following is an evidence of spirituality in chimpanzees?
+
+Answers:
+  1: Display of mourning
+  2: Feeding other species
+  3: Contemplation of the sunset
+  4: All of these
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 0634e308-16f1-425a-ac8d-1722c2fdfa2e
+
+Question: >
+  Studies show that chimpanzees can remember which of the following?
+
+Answers:
+  1: Words
+  2: Events
+  3: All of these
+  4: Numbers
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: eeedc8d7-be35-4656-b41f-6b4af7ff8e76
+
+Question: >
+  Chimpanzees use laughter-like noises to express which of the following?
+
+Answers:
+  1: Joy
+  2: Anger
+  3: Fear
+  4: Hunger
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 5fd1934f-766b-4710-9414-ce63cbb74d25
+
+Question: >
+  What kind of law was passed in the United States in February 2009 concerning chimpanzees and primates in general?
+
+Answers:
+  1: Pet primates should be held on a leash all the time.
+  2: All pet primates should be castrated
+  3: Ban to be kept as pets
+  4: Only female primates can be kept as pets
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 9da8f201-8fcc-4d4a-9b39-06fa463429f8
+
+Question: >
+  What is the number one natural predator for chimpanzees?
+
+Answers:
+  1: Python
+  2: Lion
+  3: Hyena
+  4: Leopard
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 0ee91ccc-0bc9-40af-9fc0-9c6efb68a319
+
+Question: >
+  An orange tiger can only give birth to orange cubs.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 17906422-a2e9-4049-8a97-1b416c700524
+
+Question: >
+  The Giant Panda is related to bears and belongs to the the Ursidae family.
+
+Answers:
+  1: True
+  2: False
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 7e7cda4e-e9c8-4ec2-8564-c1e66f1f8aca
+
+Question: >
+  Slugs have 3 noses.
+
+Answers:
+  1: True
+  2: False
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: f910dea4-ce84-423e-a417-0e9284aaaa71
+
+Question: >
+  Bats are blind.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: bde21f67-1c08-4aac-bb6e-2ed1ec46dbc8
+
+Question: >
+  All corals reproduce asexually.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 65a7fb9e-ca49-44f0-85bc-2bee7c3b9a47
+
+Question: >
+  A cat loses heat through its whiskers.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: b5a6ede1-5348-4076-b10b-e6b82b7870aa
+
+Question: >
+  Camels can survive the longest without water.
+
+Answers:
+  1: True
+  2: False
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: b4e719e2-b579-48b7-985d-657433a1ca8a
+
+Question: >
+  Goldfish never lose their color.
+
+Answers:
+  1: True
+  2: False
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 6c6197f8-f10a-487a-8c06-66c2194ac6b8
+
+Question: >
+  Rats vomit if they eat asparagus.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 6f4c61b8-cf18-46b1-8212-3d686aa58f46
+
+Question: >
+  No animal can fall half asleep.
+
+Answers:
+  1: True
+  2: False
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 81bb2f78-f200-4cc9-84ba-5d5833ea2dce
+
+Question: >
+  Which animals are the subject of study of the science called apiology?
+
+Answers:
+  1: Shark species
+  2: Honey bees
+  3: Termites
+  4: Tapeworms
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 1eb23907-ae6f-411b-a238-87ff56093762
+
+Question: >
+  What does conchology study?
+
+Answers:
+  1: Reptile skins
+  2: Bird feathers
+  3: Mollusk shells
+  4: Hairs, nails and quills of mammals
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: c88e7d27-006d-41f9-9c40-c1cd106cec79
+
+Question: >
+  What is the subject of study of ethology?
+
+Answers:
+  1: Animals in heraldry
+  2: Names of animal species
+  3: Animal behavior
+  4: None of these
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: e200589c-f9c7-47f2-a8cf-4f19da53cd2c
+
+Question: >
+  Which of these animals is within the field of study of cetology?
+
+Answers:
+  1: All of these
+  2: Dolphins
+  3: Walruses
+  4: Seals
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 43a15e2a-c5bd-434c-a070-f6830b27d0a8
+
+Question: >
+  Which of these animals is not studied by arachnology?
+
+Answers:
+  1: Fleas
+  2: All of these
+  3: Scorpions
+  4: Harvestmen
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: a88a5ce8-c47c-4699-911d-f67ff1da26cf
+
+Question: >
+  Lepidopterology is a zoological science which studies which of the following?
+
+Answers:
+  1: Flightless birds
+  2: Moths and butterflies
+  3: Fossil arthropods
+  4: Flying mammals
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: c1291310-e1d0-47f6-a770-ef674d7aa19f
+
+Question: >
+  What is the subject of study of the science called ethnoornithology?
+
+Answers:
+  1: Relationship between humans and birds
+  2: Distribution of bird species on the planet
+  3: Interaction between different bird species
+  4: All of these
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: e33f6ba3-8f08-44ef-a876-a2ec7abef4ce
+
+Question: >
+  What would your pet cat use to relieve itself?
+
+Answers:
+  1: Chamber Pot
+  2: Litter Box
+  3: Lavatory
+  4: Outhouse
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: c74a444d-fffa-420c-a318-021cc76a48ee
+
+Question: >
+  What is the name of the large African antelope much hunted by lions?
+
+Answers:
+  1: Fey
+  2: Gnu
+  3: Ong
+  4: Ork
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 8fa24e2c-8031-4125-88a7-5d58e9742a33
+
+Question: >
+  Roy Rogers, a famous American singer and cowboy actor, appeared in his movies accompanied by which horse?
+
+Answers:
+  1: Bullett
+  2: Trigger
+  3: Scout
+  4: Flicka
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 07194229-6da1-429e-8ae2-f90af84a91c8
+
+Question: >
+  The Western character Tonto, the famous sidekick of the Lone Ranger, had a horse called what?
+
+Answers:
+  1: Scout
+  2: Kicker
+  3: Rowdy
+  4: Full Moon
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 9395cd22-ce03-4069-9f36-68292b171814
+
+Question: >
+  I am small, grey and I eat cheese.  What am I?
+
+Answers:
+  1: Bat
+  2: Tapir
+  3: Kangaroo
+  4: Mouse
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 3fd5e61d-3e3b-4dbb-8543-f6cf61f22386
+
+Question: >
+  I have claws, fur and a tail.  I like to live with people and come from a family called Felidae.  What am I?
+
+Answers:
+  1: Dog
+  2: Cat
+  3: Canary
+  4: Mouse
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 91d28be6-3597-40ba-a8cf-77a8c1313e0d
+
+Question: >
+  I am a cousin of the horse. I run fast and have stripes on my fur. What am I?
+
+Answers:
+  1: Tiger
+  2: Lion
+  3: Kangaroo
+  4: Zebra
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: b53f9306-e8f7-43c6-a3e1-b058ea400e04
+
+Question: >
+  I have a pouch and I carry my baby in it.  What am I?
+
+Answers:
+  1: Kangaroo
+  2: Bear
+  3: Hyena
+  4: Whale
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 5d421bae-006b-4da6-bdf8-b3bac6cc4cd6
+
+Question: >
+  I have eight legs and I live in the water.  I am very strong.  What am I?
+
+Answers:
+  1: King Crab
+  2: Octopus
+  3: Whale
+  4: Squid
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: d68e7b84-0e48-4744-ab77-ac8f95419d14
+
+Question: >
+  I am an insect, I have very pretty wings.  What am I?
+
+Answers:
+  1: Parrot
+  2: Butterfly
+  3: Beetle
+  4: Bee
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: dea17007-4666-4c94-b884-730c511d8f48
+
+Question: >
+  I hop, I swim and I eat flies.  What am I?
+
+Answers:
+  1: Lizard
+  2: Cricket
+  3: Frog
+  4: Scorpion
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: e796296b-0028-45a7-8419-9411672cec4f
+
+Question: >
+  I am the fastest animal on Earth.  I can run reach speeds of 70 mph (110 km/h).  What am I?
+
+Answers:
+  1: Puma
+  2: Cheetah
+  3: Zebra
+  4: Tiger
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 9d17d3ab-7f04-4f3e-ae0b-113e3b31ac8e
+
+Question: >
+  I am a fish, I have a long mouth and I eat other fish.  I come out at night.  What am I?
+
+Answers:
+  1: Eel
+  2: Barracuda
+  3: Shark
+  4: Whale
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 0464f889-8d68-40f2-a9b3-00e1191c8c41
+
+Question: >
+  I am the only mammal that can fly.  I hang upside down and come out at night.  What am I?
+
+Answers:
+  1: Owl
+  2: Spider
+  3: Bat
+  4: Monkey
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 9be818bb-bada-4ac0-9573-b005c98eb72b
+
+Question: >
+  Elephants can live to 70 plus years.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 7f2acb1a-e60e-4f00-bbdf-3c0fdb5d3f51
+
+Question: >
+  The African Elephant is an endangered species.
+
+Answers:
+  1: True
+  2: False
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 719d78f9-d48e-452a-b055-932baec026f2
+
+Question: >
+  Tiny elephants once lived on the island of Crete.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 9c90d047-cc14-47c5-bafe-f3dad9f26b8e
+
+Question: >
+  Elephants are the only member of the group of animals known as Pachyderms.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 5c5f1d39-dbc9-4f32-acf8-e5e7f8beb323
+
+Question: >
+  Asian Elephants are larger than African Elephants.
+
+Answers:
+  1: True
+  2: False
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 7e3d61ad-cb29-4ec0-8091-1456f9c70c0e
+
+Question: >
+  There are only two remaining species of elephants in the world.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 38d432e6-064f-4ba3-b92f-1beb95a0a40d
+
+Question: >
+  Nowadays there are nearly 1.3 million wild African Elephants.
+
+Answers:
+  1: True
+  2: False
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 4f26abdd-db31-4443-af47-6e3b2818f3aa
+
+Question: >
+  An elephant's trunk has over 40,000 individual muscles in it.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: cb93f95e-c984-4745-85ab-6419d3cadd90
+
+Question: >
+  Elephants' tusks can grow an entire foot (30 cm) each year.
+
+Answers:
+  1: True
+  2: False
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 1ea8496e-3c44-4296-ba7a-bc00f0219871
+
+Question: >
+  Elephants are related to manatees.
+
+Answers:
+  1: True
+  2: False
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 3738e9af-4eae-4028-80f4-5c15f27a2def
+
+Question: >
+  Which collective noun refers to a group of gorillas?
+
+Answers:
+  1: Band
+  2: Gang
+  3: Brood
+  4: Herd
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 72b93272-ca5c-4dc6-8d04-05466ecbbc7e
+
+Question: >
+  Quails and swans live in groups, referred to as what?
+
+Answers:
+  1: Bevy
+  2: Team
+  3: Hive
+  4: Gaggle
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 08da0432-85a2-4d4e-a07d-cb1c8664de80
+
+Question: >
+  What collective noun can be used as a synonym of troup, which means a group of kangaroos?
+
+Answers:
+  1: Gaggle
+  2: Herd
+  3: Flock
+  4: Mob
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 04a146a3-b6ac-4551-981e-7773fb35fee1
+
+Question: >
+  A group of geese is called both a gaggle and a skein.
+
+Answers:
+  1: True
+  2: False
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 1c7a914e-8bd7-441e-89b5-29cebd62bd1f
+
+Question: >
+  Which collective noun refers to a group of cats?
+
+Answers:
+  1: Colony
+  2: Troop
+  3: Flock
+  4: Clutter
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 987c8bf3-10d7-4cf4-85c1-6d41b0b7f664
+
+Question: >
+  Which collective noun means a group of bees?
+
+Answers:
+  1: Swarm
+  2: All of these
+  3: Hive
+  4: Grist
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: d390c477-4f7a-4137-acda-341c4e688110
+
+Question: >
+  Elk live in a group called what?
+
+Answers:
+  1: Congregation
+  2: Gang
+  3: Band
+  4: Brood
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: c8d70ca1-3c33-4194-9754-1ff73d14f29d
+
+Question: >
+  Crows live in a group called a murder.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 99e5919c-ee84-43ee-b404-416d29af35b0
+
+Question: >
+  Which word means a group of whales or seals?
+
+Answers:
+  1: Team
+  2: Pack
+  3: School
+  4: Pod
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 04d682d3-b412-48fc-8e85-f82310c152cc
+
+Question: >
+  Which noun means a group of swine?
+
+Answers:
+  1: Leash
+  2: None of these
+  3: Brace
+  4: Brood
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 7a5a7617-826f-4187-9fa6-85b4dd45c46a
+
+Question: >
+  Pound for pound, leopards are considered to be seven times stronger than humans.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 9762524f-0eae-414e-8099-51d73b7d294c
+
+Question: >
+  Does any creature have the ability to change its sex?
+
+Answers:
+  1: No
+  2: Yes
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 630d5cec-9f2a-405c-afb2-8b55764af641
+
+Question: >
+  Jumping spiders, which represent the largest family of spiders, are superior to most other spiders in which of the
+  following ways?
+
+Answers:
+  1: They lay more eggs.
+  2: They have better vision
+  3: They are more agile.
+  4: They produce stickier webs.
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 3d0d53c7-b7b9-4be2-aad9-b0b33c44bea1
+
+Question: >
+  What is the female of the horse family called?
+
+Answers:
+  1: Stallion
+  2: Doe
+  3: Steed
+  4: Mare
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: fc0b3357-b413-4e15-9643-5513c654cec4
+
+Question: >
+  In the bovine family, what is the male counterpart of the cow?
+
+Answers:
+  1: Boar
+  2: Bull
+  3: Buck
+  4: Ox
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: e04524e0-6511-4c99-b153-bec7f0dffef4
+
+Question: >
+  In the animal world, what is a male cat called?
+
+Answers:
+  1: Tom
+  2: Bitch
+  3: Ram
+  4: Cat
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 6f441f66-2713-41eb-b6e0-69e490310dbf
+
+Question: >
+  What is the term for a female cat who has given birth - or is about to give birth - to her kittens?
+
+Answers:
+  1: A duchess
+  2: A queen
+  3: A lady
+  4: A princess
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 7727fb39-0714-4af8-9716-e21b5f2e7328
+
+Question: >
+  What are the accurate names for young male and female horses?
+
+Answers:
+  1: Colt and Filly
+  2: Mare and Steed
+  3: Billy and Frilly
+  4: Colt and Foal
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 0872f3ed-8bb4-4c6a-9597-0a2bbff73e7c
+
+Question: >
+  A doe is a deer, a female deer. What is the male of the family called?
+
+Answers:
+  1: Stag
+  2: Hart
+  3: All of these
+  4: Buck
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 80cc6a8a-7018-4b42-8b81-c9eeea366fc0
+
+Question: >
+  Which of this pairing of animals is incorrect?
+
+Answers:
+  1: Boar - Sow
+  2: Dog - Bitch
+  3: Goat - Nanny
+  4: Ram - Ewe
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 8798f561-8c6b-4b65-96fa-ed8ca407b0aa
+
+Question: >
+  A male sheep is a ram. What is the female sheep called?
+
+Answers:
+  1: Nan
+  2: Doe
+  3: Dam
+  4: Ewe
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 24c95baf-b9f4-4ea1-964b-d77102d0ab87
+
+Question: >
+  Someone once wrote a check on the side of a cow.
+
+Answers:
+  1: True
+  2: False
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  False
+
+Notes: >
+  This question is not active on the Questions Academy website.
+
+SchemaVersion: 1
+---
+ID: 5fe9bfb3-2c59-4b97-8407-c219228e6c06
+
+Question: >
+  These birds are so well adapted to flying, that they have been observed flying for days without rest. Landing though
+  seems to be a problem - their landings are often described as semi-controlled crashes.
+
+Answers:
+  1: Bald Eagle
+  2: Coopers Hawk
+  3: Wandering Albatross
+  4: Brown Pelican
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 27e8d228-2f2f-489e-8fdb-413b19a47200
+
+Question: >
+  The Peregrine Falcon, one of America's most spectacular flyers, was almost driven to extinction during the 1950s and
+  1960s. Which of these human activities caused this?
+
+Answers:
+  1: Deforestation
+  2: Active hunting
+  3: Extermination of the species it feeds on
+  4: Usage of certain pesticides
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 75f1fd8d-f034-4617-aa15-8470c4bf00b9
+
+Question: >
+  The Sharp-shinned Hawk, a type of small hawk with short, broad wings and a long square-ended tail, are known for
+  which of this flying abilities?
+
+Answers:
+  1: Sudden dives for prey in water
+  2: High-speed, sharp turns in flight
+  3: Soaring in the air for days without rest
+  4: Flying at great heights
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 380fa90d-1424-497f-aa89-6e4ee2f2189a
+
+Question: >
+  Engineers have discovered the Turkey Vulture, a species of brownish black vultures typical for the southern United
+  States, to help them in which of these activities?
+
+Answers:
+  1: Forecasting tornadoes
+  2: Positioning for oil platforms
+  3: Detecting strong air currents
+  4: Locating cracked or broken underground fuel pipes
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: d0ea3c84-ab40-4c86-866d-19f9e5e39f71
+
+Question: >
+  To the Common Snipe, a type of small shorebird found in Canada, the United States, northern Europe and Russia,
+  flying plays an important role in which of these processes?
+
+Answers:
+  1: Respiration
+  2: Mating
+  3: Digestion
+  4: Sleeping
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: de64deee-128a-4f64-8f96-42807218e83b
+
+Question: >
+  The horns of these animals consist of keratin, densely compacted hair.
+
+Answers:
+  1: Giraffes
+  2: Rhinos
+  3: Deer
+  4: Cows
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 3ec92e4a-3742-4272-80b5-11929aa1d9f6
+
+Question: >
+  Depending on the species, male deer are called all of these except one.
+
+Answers:
+  1: Harts
+  2: Stags
+  3: Does
+  4: Bucks
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 754fac91-3250-40a0-be9c-e758c36074cc
+
+Question: >
+  A cows only sweat glands are located in this organ.
+
+Answers:
+  1: Nose
+  2: Back
+  3: Neck
+  4: Mouth
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 04ec0934-92c7-4441-88d9-d24609004686
+
+Question: >
+  Is there a difference between a ram and a wether?
+
+Answers:
+  1: Yes
+  2: No
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 273657a0-cb98-42f0-b6e0-c35201e4a6d0
+
+Question: >
+  An elephants tusk's are actually its horns.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 671b5070-ef3e-476c-a018-dff98aaa6658
+
+Question: >
+  This is the largest terrestrial mammal in North America.
+
+Answers:
+  1: Domestic Cow
+  2: Bighorn Sheep
+  3: American Deer
+  4: American Bison
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: ff2379e8-4dae-42bb-b20c-623bcd129c1f
+
+Question: >
+  One of these statements concerning giraffes is wrong.
+
+Answers:
+  1: Giraffes give birth standing up.
+  2: Giraffes always sleep upright.
+  3: Giraffes have only seven vertebrae in their neck.
+  4: Giraffes can run at speeds of up to 50kph.
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: f79f0367-13ab-41f3-86c9-d1c89199a401
+
+Question: >
+  This is the number of teats for milking that a goat has.
+
+Answers:
+  1: 2
+  2: 3
+  3: 4
+  4: 6
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 02401d1b-41c1-4896-abc3-5afa714c61ea
+
+Question: >
+  The name panther is used to describe all of these animals but one.
+
+Answers:
+  1: Puma
+  2: Tiger
+  3: Jaguar
+  4: Leopard
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: e632a1b2-7661-41c1-90fd-35bb635fca80
+
+Question: >
+  Which animal sees more daylight than any other creature on the planet, thanks to its 19,000 km (12,000 mile) journey
+  to winter in the Antarctic?
+
+Answers:
+  1: The Blue Whale
+  2: The Emperor Penguin
+  3: The Arctic Tern
+  4: The Polar Bear
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 3fa9d12b-e7e2-493a-97d8-9607d99fb7d2
+
+Question: >
+  What color is the male purple finch?
+
+Answers:
+  1: Purple
+  2: Crimson
+  3: Green
+  4: Yellow
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 16353f4a-2ce5-4d4c-a497-1f09caf77677
+
+Question: >
+  Which of these animals is immune to rattlesnake venom?
+
+Answers:
+  1: Dog
+  2: Cat
+  3: Opossum
+  4: Rat
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: a6c7c713-2926-4635-9b26-ab39f8bfbbe6
+
+Question: >
+  This puppy was rescued from debris of shattered buildings in Germany during World War I. He starred in 25 movies
+  including "Where The North Begins" (1925). He signed contracts by himself with his paw print.
+
+Answers:
+  1: Rin Tin Tin
+  2: Benjy
+  3: Lassie
+  4: Enzo
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 4d08c4dc-8e7b-431e-84c9-5c59192d6ba4
+
+Question: >
+  This famous dog is known as a party animal. He first appeared on the TV screen water skiing, laughing and
+  skateboarding in a 1987 Bud Light beer commercial.
+
+Answers:
+  1: Snoopy
+  2: Spuds MacKenzie
+  3: Lassie
+  4: Goofy
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 602acab5-909a-4864-b660-3739e2c88509
+
+Question: >
+  Ailurophilia is love for these animals.
+
+Answers:
+  1: Dogs
+  2: Fish
+  3: Crocodiles
+  4: Cats
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: a6db8602-dde9-48e4-82c8-8b8233989772
+
+Question: >
+  The first mammal sent into space was this.
+
+Answers:
+  1: Fish
+  2: Cat
+  3: Sheep
+  4: Dog
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: a44e94c3-5883-4784-80d7-679dbc9163e5
+
+Question: >
+  One of the largest breeds of these animals is the Maine Coon. Males weigh twelve to twenty pounds (5.4 to 13.6 kg),
+  with females weighing ten to fifteen pounds (4.5 to 6.8 kg).
+
+Answers:
+  1: Fish
+  2: Dogs
+  3: Tigers
+  4: Cats
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: b170daf6-f7a1-4706-bb67-22e0faacb976
+
+Question: >
+  A person who studies these pets is called an ichthyologist.
+
+Answers:
+  1: Fish
+  2: Dogs
+  3: Snakes
+  4: Cats
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 9ad28200-4692-478e-817b-41357ad56208
+
+Question: >
+  The oldest specimen of these animals died at the age of 29.
+
+Answers:
+  1: Dogs
+  2: Fish
+  3: Bunnies
+  4: Cats
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 46348fe8-f4ce-402d-97a0-f34f74c0f0a5
+
+Question: >
+  Some of these animals were originally bred to retrieve fishing nets.
+
+Answers:
+  1: Dogs
+  2: Fish
+  3: Cows
+  4: Cats
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 72a0617d-24a3-48fb-b560-b4cc0a2ebe09
+
+Question: >
+  Florida breeds and supplies about 95 percent these pets sold in North America.
+
+Answers:
+  1: Cats
+  2: Fish
+  3: Pigs
+  4: Dogs
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 2354fc08-f91e-4e20-a334-5010ff8e6152
+
+Question: >
+  A specimen of these pets managed to kill 28,899 other animals. What a murderer!
+
+Answers:
+  1: Donkeys
+  2: Cats
+  3: Dogs
+  4: Fish
+
+Correct: 2
+
+Explanation: |
+  Towser, a long-haired tortoiseshell cat holds the Guinness World Record for catching the most mice over her
+  lifetime.
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 4b0ac1ad-fd6b-4e09-aa7e-8aca106aacb0
+
+Question: >
+  Students who own these pets score the highest on both math and verbal SATs, with a combined score 200 points higher
+  than non-pet owners.
+
+Answers:
+  1: Dogs
+  2: Fish
+  3: Cats
+  4: Kangaroos
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 0196919a-5975-434c-98ab-9edb64a6713e
+
+Question: >
+  This animal is very popular in the USA. In fact, Benjamin Franklin wanted to make it, not the Bald Eagle, the
+  national animal of the United States.
+
+Answers:
+  1: Turkey
+  2: Dog
+  3: Fish
+  4: Cat
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 035e4ae1-85b3-4994-b1e2-b173020b8882
+
+Question: >
+  What do scientists call dinosaur bones found deep in the ground?
+
+Answers:
+  1: Rocks
+  2: Fossils
+  3: Dino bones
+  4: Wood
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: cd8078ad-c5a0-45fb-b4ff-907391816210
+
+Question: >
+  Humuhumu-nukunuku-a-pua‘a is a word with Hawaiian origins, referring to what type of animal?
+
+Answers:
+  1: Bird
+  2: Insect
+  3: Mammal
+  4: Fish
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 04dc3b99-ceee-4410-85f8-7d847e5cdaa9
+
+Question: >
+  What type of teeth do rodents lack?
+
+Answers:
+  1: Canine teeth
+  2: Incisors
+  3: Premolars
+  4: They have all of these.
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 877b436f-033e-4b77-a4fa-9b109382ccda
+
+Question: >
+  Which of these rodents, once native to the West Indies, is now extinct?
+
+Answers:
+  1: Capybara
+  2: Laotian rock rat
+  3: Giant hutia
+  4: African mole rat
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 5ad70fff-a664-454c-8b4b-634444fb009c
+
+Question: >
+  Which of these mammals is not a rodent?
+
+Answers:
+  1: Vole
+  2: Hamster
+  3: Chinchilla
+  4: Rabbit
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 0c0e001b-993b-4ea5-a964-14f7a4769741
+
+Question: >
+  Keeping what rodent as a pet is illegal in the state of California?
+
+Answers:
+  1: Gerbil
+  2: Guinea pig
+  3: Hamster
+  4: Pet mouse
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 0628b1eb-6d34-4b1d-b820-74f994a845f5
+
+Question: >
+  Which rodent can be trained to sniff out land mines?
+
+Answers:
+  1: The Gambian pouch rat
+  2: The Guinea pig
+  3: The American Beaver
+  4: The Chinese hamster
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 5828bed9-3529-4252-93fc-ddc539a2b19d
+
+Question: >
+  The wolf is a member of the canine family.
+
+Answers:
+  1: True
+  2: False
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: d7a5eca5-460f-4b68-9675-503c392a3c97
+
+Question: >
+  Wolves are solitary animals, hence the term lone wolf.
+
+Answers:
+  1: True
+  2: False
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: fd8a5362-20c7-4385-b420-fa966f8c8a15
+
+Question: >
+  The leaders of a wolf pack are called the dominae.
+
+Answers:
+  1: True
+  2: False
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: ef3b1c46-ca08-4c65-baae-14ac2be3a2b7
+
+Question: >
+  Which of the lower 48 states of the USA has the biggest wolf population?
+
+Answers:
+  1: Montana
+  2: Minnesota
+  3: Wyoming
+  4: Maine
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 736c6a6e-16a7-45c7-bbd9-f33119b91b6c
+
+Question: >
+  The average adult wolf weighs between 75 and 125 pounds (35 – 60 kg.)
+
+Answers:
+  1: False
+  2: True
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: 15155790-af65-40c5-a02e-9ee94fdae496
 
 Question: >
@@ -31811,6 +35546,76 @@ Answers:
   2: True
 
 Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 8252994b-7154-4e47-9e4e-4f7b4fa1d933
+
+Question: >
+  There is more than one Killer Whale named Shamu in the SeaWorld parks in the U.S.
+
+Answers:
+  1: True
+  2: False
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: c202a87a-e8d4-4b73-9f6c-cd920eefb54a
+
+Question: >
+  Which of these creatures is not featured in the exhibit of the world famous SeaWorld attraction Wild Arctic?
+
+Answers:
+  1: Beluga Whale
+  2: Polar Bear
+  3: Walrus
+  4: Penguin
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 2d5fb073-56d6-4110-9a31-6c7e7a3d6c0d
+
+Question: >
+  Under what circumstances is it okay to touch underwater creatures?
+
+Answers:
+  1: You can touch underwater creatures if you are not wearing gloves.
+  2: You can touch underwater creatures if you are wearing gloves.
+  3: Under no circumstances should you touch underwater creatures.
+  4: You can touch underwater creatures if they are not dangerous.
+
+Correct: 3
 
 Explanation: |
   None

@@ -72,6 +72,548 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: 6a9b8aec-853a-4513-b01c-f21b83ba5181
+
+Question: >
+  I go to an island where all of the natives lie, and all of the immigrants tell the truth. I would like to hire an
+  immigrant as a guide, so when I see a group of people, I ask the first man if he is a immigrant. He does not reply,
+  but instead tells me that the woman behind him told him that she was a native. With this information, should I hire
+  this man?
+
+Answers:
+  1: Yes
+  2: No
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: f5400801-d964-4ac4-89d7-d5154f92eb3e
+
+Question: >
+  Artie is trying to enter a door, but he can't understand the instructions on the door sign which read:
+  TOOP
+  ENDO
+  ORPU
+  SH
+  What must he do?
+   What must he do?
+
+Answers:
+  1: Push
+  2: Pull
+  3: Slide
+  4: Unlock
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 736bb6be-43d1-4e83-b15a-b1bc601ac1dc
+
+Question: >
+  When Thomas came home from the movies, he was asked who he went with. He replied with this riddle: my sister's
+  brother's father's wife's sister's son.  Who did he go to the movies with?
+
+Answers:
+  1: His grandfather
+  2: His son
+  3: His uncle
+  4: His cousin
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 27052685-5d50-4a49-8384-0960aa3d3540
+
+Question: >
+  If a rooster is sitting on his egg in the middle of a roof with a 30 degree slant, when the wind comes from the
+  north, which way will the rooster fall?
+
+Answers:
+  1: none of these
+  2: south
+  3: west
+  4: east
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 2f23bffe-f30b-45db-8e83-cbf7cbf729b6
+
+Question: >
+  The clue words are Trip, Family, Christmas and European. Can you guess the password?
+
+Answers:
+  1: Job
+  2: Leave
+  3: Vacation
+  4: Car
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 0fd44758-bbc2-40b3-8178-55f9ecb5ec4f
+
+Question: >
+  The clue words are Large, Stone, Architecture and Sculpture. Guess the password.
+
+Answers:
+  1: Moratorium
+  2: Monomer
+  3: Monolith
+  4: Mastoid
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 095ca460-23e9-4a5c-a640-ebc00f7a4a9a
+
+Question: >
+  The clue words are Diaphragm, Mind and Nerve. Guess the password.
+
+Answers:
+  1: Pestle
+  2: Peritoneum
+  3: Petrel
+  4: Phrenic
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: ef0f9f80-c2ca-4362-831e-94b43091ad8b
+
+Question: >
+  The clue words are Mammal, Gnu, Middle and Dutch. Guess the password.
+
+Answers:
+  1: Wildebeest
+  2: Thrush
+  3: Rhea
+  4: Shrike
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 51dbeb95-d0a4-4eb0-9105-383558b56871
+
+Question: >
+  The clue words are Vapor, Disappear, Fade and Vanish. Guess the password.
+
+Answers:
+  1: Estranging
+  2: Evanesce
+  3: Escaping
+  4: Euphoria
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: f6e2c628-bfa5-4144-8df2-922a95bab7f7
+
+Question: >
+  The clue words are Muscles, Sinew, Power, Strength and Physical. Guess the password.
+
+Answers:
+  1: Polaris
+  2: Thew
+  3: Ashlar
+  4: Khedive
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 7a5bdb82-7032-42c8-aee1-383e780f6f19
+
+Question: >
+  The clue words are Drapery, Hung, Door and Way. Guess the password.
+
+Answers:
+  1: Portico
+  2: Portmanteau
+  3: Portiere
+  4: Poplin
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 1d500566-f06c-45fb-b1c8-ac27f454e02a
+
+Question: >
+  The clue words are Plant, Thick, Bulbous, Livestock and Feed. Guess the password.
+
+Answers:
+  1: Usufruct
+  2: Wastrel
+  3: Tommyrot
+  4: Rutabaga
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: b2ff6ca9-f403-4dd1-a7d6-0768ac6f639a
+
+Question: >
+  The clue words are Burrowing, Animal, Stocky, Hairy and Claws.
+
+Answers:
+  1: weasel
+  2: aardwolf
+  3: mole
+  4: aardvark
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: ca4e092d-2ae0-4da0-b8ee-d35959f7c48b
+
+Question: >
+  The clue words are Small, Fly, Wheel, Regulates, Speed and Spinning. Guess the password.
+
+Answers:
+  1: whelk
+  2: whydah
+  3: whorl
+  4: whilom
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: a273cb14-d6f4-412c-bbe8-ad252562fdf8
+
+Question: >
+  I am in a dark room. I have a candle, a wood stove, a gas lamp and a match to light, which all can drive away
+  darkness. What to light first?
+
+Answers:
+  1: The candle
+  2: The wood stove
+  3: The gas lamp
+  4: The match
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 76e9ada2-5500-46df-8a46-74dbe4d8f509
+
+Question: >
+  What's as big as the biggest camel and weighs nothing at all?
+
+Answers:
+  1: wind
+  2: shadow
+  3: water
+  4: air
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 4ed5e95c-d9aa-400c-bed1-c10002885b0a
+
+Question: >
+  What kind of camel can jump higher than a tree?
+
+Answers:
+  1: no camel
+  2: a leaping camel
+  3: a frog camel
+  4: any kind of camel
+
+Correct: 4
+
+Explanation: |
+  Because trees can't jump...
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 45d85609-cfbe-42f5-a775-2e702323a695
+
+Question: >
+  Golden treasure am I, guarded by hundreds and thousands of armed guards. I am stored in a labyrinth where no man can
+  walk, yet men often come to steal my gold. What am I?
+
+Answers:
+  1: none of these
+  2: golden jewellery
+  3: honey
+  4: gold
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 3e3eb09f-bdbb-441d-8e05-1c9192a9e365
+
+Question: >
+  They do not have feathers, or flesh, or scale, or bone. Yet they have fingers and thumbs of their own. What are
+  they?
+
+Answers:
+  1: polar bear
+  2: gloves
+  3: eel
+  4: boxing
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 7dae5b01-24ed-4f6b-bf46-3cf5b20c4f91
+
+Question: >
+  Gleaming and glittering down I thrust a sparkling spear, I never rust. What am I?
+
+Answers:
+  1: spear
+  2: stalagmite
+  3: icicle
+  4: horn
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 7be8a8b7-051e-4bc9-ae70-d1506f1678e6
+
+Question: >
+  I am related to the water but I am not wet.
+  I am related to a shadow but I am multicolored.
+  I create an illusion but show what is real. What am I?
+
+Answers:
+  1: gold
+  2: a mirror
+  3: a bed
+  4: shiny things
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: a249a0ca-a2c3-4bfd-938b-4b0fdde5c09c
+
+Question: >
+  What kind of game is the game known as Hearts, or Black Maria?
+
+Answers:
+  1: Board game
+  2: Game with marbles
+  3: Role play game
+  4: Card game
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: 57e348fb-31df-4f59-994b-5afe283b70d1
 
 Question: >
@@ -84,6 +626,958 @@ Answers:
   4: shatranj
 
 Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 5d42493c-6676-4add-994f-d5d2db662155
+
+Question: >
+  In the game of  Scrabble each player starts with how many letters?
+
+Answers:
+  1: 5
+  2: 6
+  3: 10
+  4: 7
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: b32703b0-8bc6-4624-a070-265122affb43
+
+Question: >
+  How many triple word score squares are there on the board of Scrabble?
+
+Answers:
+  1: 9
+  2: 4
+  3: 8
+  4: 7
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 4c21cf96-d569-4cba-9dcc-5eebfc846deb
+
+Question: >
+  If you play the word wagon in the game of Scrabble and it is not on any letter or word premium squares, how many
+  points is it worth?
+
+Answers:
+  1: 9
+  2: 20
+  3: 14
+  4: 11
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 39881fb1-7124-4b28-8147-d4e867e267b0
+
+Question: >
+  Is oe a valid word in the game of Scrabble?
+
+Answers:
+  1: Yes
+  2: No
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: c4814f0d-ced2-43b7-9ab3-0ea2e8618c68
+
+Question: >
+  What is the best score you could get in Scrabble with the following letters, not using any letter or word premium
+  squares: Y H K E C S O?
+
+Answers:
+  1: 14
+  2: 11
+  3: 19
+  4: 69
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 6fb71e60-e1f2-4651-bf6e-6d9ece230081
+
+Question: >
+  What is a blank tile worth in the game of Scrabble?
+
+Answers:
+  1: One point
+  2: Nothing
+  3: It depends on where they are played
+  4: There are no blank tiles
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 691c8db3-a9d8-4e12-bfc6-200b4c6259d7
+
+Question: >
+  If you get stuck with the letter Q at the end of the game of Scrabble, how many points will be deducted from your
+  score?
+
+Answers:
+  1: 3
+  2: 5
+  3: 10
+  4: 1
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 286d8ffc-2dd3-4c37-bb40-29cbca3c1f2b
+
+Question: >
+  You may never exchange your letters in the game of Scrabble.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 7a756cc0-1742-41cc-adb1-b84b580baff0
+
+Question: >
+  Who wins in the game of Scrabble?
+
+Answers:
+  1: The first person to use all their letters
+  2: The person with the highest score
+  3: No one does, its just for fun.
+  4: The person with the least amount of points
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 0ec3b183-daf4-44f7-a3dc-020dd3a44ff1
+
+Question: >
+  If a rooster is sitting on the roof of a barn and lays an egg, it will always roll down the shortest path.
+
+Answers:
+  1: True
+  2: False
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 35b90280-d563-4422-876d-10f3b886e57b
+
+Question: >
+  If a doctor gives you three pills with instructions to take one every half hour, when will you take the last one?
+
+Answers:
+  1: 1 hour later
+  2: None of the above
+  3: 1 and 1/2 hours later
+  4: 2 hours later
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 57e42a3e-9dd5-4640-a887-4b24ede8866c
+
+Question: >
+  Assume you have an old fashioned analog alarm clock. If it is currently 6 pm and you want to wake up at 7 am
+  tomorrow and you set your clock accordingly. The clock will go off 13 hours later.
+
+Answers:
+  1: True
+  2: False
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 0400c551-82c0-49ee-ad21-dd2722719c1a
+
+Question: >
+  Brothers and sisters I have none, but that man's father is my father's son. Who am I?
+
+Answers:
+  1: Son
+  2: Uncle
+  3: Father
+  4: Grandfather
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 8f133921-1fe1-4a76-90a4-a754a5ea524d
+
+Question: >
+  Do they have a 4th of July in Great Britain?
+
+Answers:
+  1: No
+  2: Yes
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: fff5fe44-abc9-45b5-bf66-251b8f7b46ff
+
+Question: >
+  Some months have 30 days and some have 31. How many have 28?
+
+Answers:
+  1: 5
+  2: 1
+  3: 12
+  4: 3
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 7001bdda-a0f7-47fd-889e-44f21c753285
+
+Question: >
+  In California, is it possible for a man to marry his widow's sister?
+
+Answers:
+  1: Yes
+  2: No
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: b2c236ac-38e2-4268-923e-5326220feecc
+
+Question: >
+  A doctor walks into an operating room and after looking at a patient says, "I can't operate on him, he's my son."
+  The doctor is not the patients father. Is this possible?
+
+Answers:
+  1: No
+  2: Yes
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 84b8e435-8078-45b3-8b20-792c2ae10fef
+
+Question: >
+  A plane crashes on the border of Canada and the USA, 60 people die. Where do they bury the survivors?
+
+Answers:
+  1: Split 50/50
+  2: Neither
+  3: USA
+  4: Canada
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 6dd02a7f-171d-469c-b716-9aee9166bc78
+
+Question: >
+  I have 10 apples and I give all but 6 away, how many do I have left?
+
+Answers:
+  1: 0
+  2: 5
+  3: 4
+  4: 6
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 1efb7f6e-bf3b-4709-88b4-d6e4b981a1e6
+
+Question: >
+  A British mill engineer once broke the bank at a Monte Carlo casino.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 2
+
+Explanation: |
+  Joseph Hobson Jagger, a British engineer from Yorkshire, noticed that a specific roulette wheel would favor a
+  cluster of numbers due to a mechanical imperfection.
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: b29fb56f-6b56-44c6-a2d4-725737513ecf
+
+Question: >
+  Is there a fourth of July in England?
+
+Answers:
+  1: Yes
+  2: No
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 12f9b15c-e3b7-45ce-b4d2-177bf15404b5
+
+Question: >
+  How many birthdays does the average man have?
+
+Answers:
+  1: 33
+  2: 63
+  3: 75
+  4: 1
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 543a4d3a-5864-4f80-885f-8c66e4883854
+
+Question: >
+  A man builds a house with four square sides, and each side faces south. A bear walks by. What color is the bear?
+
+Answers:
+  1: White
+  2: Brown
+  3: Grey
+  4: Black
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: e0a0ce1f-5bb1-41ad-8c53-f7774e5db7d2
+
+Question: >
+  There is a one storеy house, where one wall is blue, one is green, one is purple, one is red, the ceiling is orange,
+  and the floor is black. What color are the stairs?
+
+Answers:
+  1: Green
+  2: There are none
+  3: Orange
+  4: Black
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: ab2c7bd6-80fd-4168-8ac1-22eaec1351af
+
+Question: >
+  If an accountant says a certain attorney was their brother, but the attorney says he doesn't have a brother, is the
+  accountant lying?
+
+Answers:
+  1: Yes
+  2: No
+
+Correct: 2
+
+Explanation: |
+  The accountant is the attorney's sister.
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: e30c35cb-5f6a-4f63-8e93-fc0739094bda
+
+Question: >
+  How many months have twenty eight days?
+
+Answers:
+  1: 3
+  2: 1
+  3: 10
+  4: 12
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 90fbd535-cbdb-4e7c-b54a-cdfba2721d0b
+
+Question: >
+  How many animals of each sex did Moses take on the ark?
+
+Answers:
+  1: 3
+  2: 2
+  3: 1
+  4: 0
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 6afb7867-4635-4b3f-be52-c1972ea8b638
+
+Question: >
+  How many of each type of animal did Moses bring into the ark?
+
+Answers:
+  1: 4
+  2: 2
+  3: 5
+  4: 0
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 0ab54cb6-bbde-44aa-87a3-e28719707f0e
+
+Question: >
+  How many cards are in a traditional pack?
+
+Answers:
+  1: 52
+  2: 10
+  3: 50
+  4: 100
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 9714ff78-2f08-4eca-b628-7cf0b39d7e3e
+
+Question: >
+  This chess opening involves up to 3 knight moves in succession before any other piece or pawn is moved.
+
+Answers:
+  1: Nimzovitch
+  2: Sicilian
+  3: Pirc
+  4: Alekhine
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 153f72c9-e51a-40b6-b336-e48279484bec
+
+Question: >
+  This chess opening involves the move P-KB4 (f4) by white, and often the fianchetto of the queens bishop.
+
+Answers:
+  1: Birds Opening
+  2: Queens Gambit
+  3: Benko Gambit
+  4: Wing Gambit
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 9a7b53eb-152c-4bdb-b5e2-73c6ef7636c2
+
+Question: >
+  The Fischer Defense to the Kings Gambit involves which of the following moves by black?
+
+Answers:
+  1: P-Q4, N-KB3, and in some cases QxP
+  2: B-QB4, N-KB3, N-QB3
+  3: N-KB3, Q-K2, P-Q3, N-Q2
+  4: P-Q3, P-KN4, P-KR3, B-KN2
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: e3309e25-9406-4191-b278-9fe756a26b05
+
+Question: >
+  The first chess world champion, Steinitz lost many games against this opening which involves the moves 1 P-K4 P-K4 2
+  N-KB3 N-QB3 3 B-B4 B-B4 4 P-QN4.
+
+Answers:
+  1: Trompowsky Attack
+  2: Wing Gambit
+  3: Benko Gambit
+  4: Evans Gambit
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 8f41bf2f-a345-409c-aede-5d4505cbc66b
+
+Question: >
+  This chess opening was named after a mythical creature.
+
+Answers:
+  1: The Dragon Variation of the Sicilian Defense
+  2: The Phoenix Variation of the Trompowsky Attack
+  3: The Unicorn Variation of the Kings Gambit
+  4: The Centaur Variation of the Queens Gambit
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: e990401d-0b5c-45df-a376-33b8cdfb430d
+
+Question: >
+  Which of the following is a Hypermodern opening?
+
+Answers:
+  1: Benko Gambit
+  2: English Opening
+  3: Sicilian Defense
+  4: Queens Gambit
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: d863daf4-2332-4a4d-aced-dc41754ec91d
+
+Question: >
+  The first chess move by white 1 N-KB3 could result in all of the following openings except which one?
+
+Answers:
+  1: English Opening
+  2: King's Gambit
+  3: Spanish Opening
+  4: King's Indian Attack
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 5a5984f6-937a-4802-a0cd-5d4e0da83671
+
+Question: >
+  This chess opening involves no pawn moves beyond the third rank.
+
+Answers:
+  1: The British Defense
+  2: The Hedgehog Defense
+  3: The Hamster Defense
+  4: The Squirrel Defense
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 947b2884-eeb5-4e8e-aeb1-a14081ce2176
+
+Question: >
+  This defense to the first move P-K4 involves the move P-QB3. It is considered solid, and was a favorite of world
+  champion Anatoly Karpov.
+
+Answers:
+  1: Nimzovitch Defense
+  2: Caro-Kann Defense
+  3: Sicilian Defense
+  4: French Defense
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 509dfab7-b864-408e-8857-1dbc38bcb9b8
+
+Question: >
+  This chess defense to the first move P-K4 involves the move P-K3. It is a very difficult opening to play and was a
+  favorite of Victor Korchnoi.
+
+Answers:
+  1: The Two-Knights Defense
+  2: The Korchnoi Defense
+  3: The Falkbeer Counter-gambit
+  4: The French Defense
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 2e6b603e-2d8d-4413-9b87-cfed4754b16c
+
+Question: >
+  There are open, semi-open and closed openings in chess. Which of the following openings would be considered an open
+  game?
+
+Answers:
+  1: The Queens Indian Defense
+  2: The Two Knights Defense
+  3: The Kings Indian Defense
+  4: The Queens Gambit
+
+Correct: 2
 
 Explanation: |
   None

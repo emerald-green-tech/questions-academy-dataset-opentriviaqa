@@ -68,6 +68,54 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: 126b99df-579d-4842-9fa5-90c3f7e19a5e
+
+Question: >
+  In what US state is the Tillamook Cheese Factory located?
+
+Answers:
+  1: Minnesota
+  2: Idaho
+  3: Wisconsin
+  4: Oregon
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 47936e11-6adb-43a4-bec1-de99d50c3d3b
+
+Question: >
+  In which U.S. state is the city called Pearl located?
+
+Answers:
+  1: Texas
+  2: Mississippi
+  3: Nevada
+  4: Missouri
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: 6d9b46cb-6b03-42f4-b419-5ea6d666eacf
 
 Question: >
@@ -92,6 +140,126 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: 0d0ad1c7-3546-4a17-9340-a78ee57802eb
+
+Question: >
+  Which of these nicknames refers to the U.S. state of South Dakota?
+
+Answers:
+  1: Sunshine State
+  2: Palmetto State
+  3: All of these
+  4: Rough Rider State
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 2a17b57b-d2af-42ef-a701-c1c5606154f1
+
+Question: >
+  The U.S. state of South Dakota was named after which of the following?
+
+Answers:
+  1: Tree
+  2: Indigenous tribe
+  3: Explorer
+  4: River
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: f1c4b8db-09f0-4a26-9eb2-38fdd7f29777
+
+Question: >
+  What is the tallest mountain in North America?
+
+Answers:
+  1: Mount McKinley
+  2: Mount Elbrus
+  3: Dengali
+  4: Mount Washington
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 1be8d4f1-e491-40de-ad06-8d3b04b06203
+
+Question: >
+  The U.S. state of Delaware was named after which of the following?
+
+Answers:
+  1: British nobleman
+  2: French explorer
+  3: Valley
+  4: Indigenous tribe
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: b70787f0-891a-435c-ac2e-3d6aed090f71
+
+Question: >
+  Which of these nicknames refers to the U.S. state of Delaware?
+
+Answers:
+  1: First State
+  2: Second State
+  3: Sooner State
+  4: Mother State
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: 149690e8-45ff-4b8a-bd5b-8771676ad4e3
 
 Question: >
@@ -104,6 +272,126 @@ Answers:
   4: Annapolis
 
 Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 610681b8-12dc-49f1-99f6-4c5949a7f8f6
+
+Question: >
+  Which of these statements is true about the U.S. state of Delaware?
+
+Answers:
+  1: It is the second-smallest U.S. state by territory.
+  2: It is the least populous U.S. state.
+  3: All of these
+  4: It is the most densely-populated U.S. state.
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 32170c4a-448e-4087-94ac-09b699fe0dea
+
+Question: >
+  Who first popularized New York City's famous nickname The Big Apple?
+
+Answers:
+  1: A comedian
+  2: A journalist
+  3: A restaurateur
+  4: A politician
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 632c1f4b-de8d-4164-b417-208124125a53
+
+Question: >
+  Which New York City borough is the largest in area?
+
+Answers:
+  1: The Bronx
+  2: Manhattan
+  3: Queens
+  4: Brooklyn
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 8d1bb2ab-f53c-4509-847f-f2467db96fe6
+
+Question: >
+  In which of these U.S. states is there a town called Iron City?
+
+Answers:
+  1: Texas
+  2: Utah
+  3: Mississippi
+  4: Tennessee
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 710ec0e7-4bb1-49c6-94cb-cd434640e36a
+
+Question: >
+  At only 1,122 nautical miles from the North Pole, what is the northernmost point in the U.S.?
+
+Answers:
+  1: Point Beechey
+  2: Juneau
+  3: Point Barrow
+  4: Rogers-Post Site
+
+Correct: 3
 
 Explanation: |
   None
@@ -1549,6 +1837,415 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: e99a3feb-a4ee-45c5-9543-6e1ee20012cc
+
+Question: >
+  In which of these states is Slippery Rock University located?
+
+Answers:
+  1: California
+  2: Kentucky
+  3: Tennessee
+  4: Pennsylvania
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 1965bbe3-fa72-4996-b020-d5ddf056d50e
+
+Question: >
+  What state is Gonzaga University in?
+
+Answers:
+  1: Arkansas
+  2: Delaware
+  3: New York
+  4: Washington
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 07c6ba6b-ad53-4483-a68b-0b58003b1865
+
+Question: >
+  The Old Dominion University Monarchs are from which state?
+
+Answers:
+  1: West Virginia
+  2: Georgia
+  3: Virginia
+  4: South Carolina
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 214557d8-2793-480f-ad51-289bda5dcb86
+
+Question: >
+  In which of these states can you find Appalachian State University?
+
+Answers:
+  1: West Virginia
+  2: Virginia
+  3: South Carolina
+  4: North Carolina
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 196116e3-1254-4cea-bc19-fc02a438600c
+
+Question: >
+  Name the state in which Murray State University is located.
+
+Answers:
+  1: Wisconsin
+  2: California
+  3: Kentucky
+  4: Ohio
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 41e3055b-d7ec-4fcc-8acc-79f1c7cff1b3
+
+Question: >
+  Tulane University is in which of the following states?
+
+Answers:
+  1: New Mexico
+  2: Louisiana
+  3: Nevada
+  4: Colorado
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 2fc2ae35-aac3-45f4-9571-6352dfd9edf0
+
+Question: >
+  In which of these states is Austin Peay State University located?
+
+Answers:
+  1: Illinois
+  2: Tennessee
+  3: Oregon
+  4: Indiana
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 17553cc1-8c1f-426f-969d-92f308ff0afe
+
+Question: >
+  Morehead State University is in the city of Morehead that is located in which state?
+
+Answers:
+  1: Florida
+  2: Ohio
+  3: Alabama
+  4: Kentucky
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 36f58b7b-4c9c-47ea-8752-b62b5e4e265a
+
+Question: >
+  Which of these states is the location of Marshall University?
+
+Answers:
+  1: West Virginia
+  2: South Dakota
+  3: Hawaii
+  4: Arizona
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: bf423ce3-43b3-4e5d-8521-b300231d9daf
+
+Question: >
+  St. Bonaventure University, founded in 1858, is located in Cattaraugus County. Which state is it in?
+
+Answers:
+  1: Florida
+  2: Pennsylvania
+  3: New York
+  4: Idaho
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 7ef7eb4e-ed71-4152-a9bc-975472c318bb
+
+Question: >
+  In the B & O Railroad, what does the B stand for?
+
+Answers:
+  1: Birmingham
+  2: Baltimore
+  3: Boston
+  4: Brooklyn
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 09253ac0-c7a1-4ff6-b20a-1dfa3f7504ae
+
+Question: >
+  The symbol of this chemical element represents the US postal abbreviation for the state, which is home of the
+  highest peak of the Rocky Mountains-  Mount Elbert
+
+Answers:
+  1: Cobalt
+  2: Neptunium
+  3: Aluminium
+  4: Astatine
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 096625e0-9fb2-4bea-b6c7-b2c0e8b182ad
+
+Question: >
+  The symbol of Manganese in the periodic table of elements is also the US Post Office abbreviation of this state.
+
+Answers:
+  1: Mississippi
+  2: Massachusetts
+  3: Maine
+  4: Minnesota
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: fff136ba-fb99-4351-a1b3-30e0e016d4d5
+
+Question: >
+  The second-lightest noble gas has symbol, which is the same as the US postal abbreviation of this state.
+
+Answers:
+  1: Nebraska
+  2: Kansas
+  3: Delaware
+  4: Arizona
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 5167387b-2ea3-4310-ab06-fae11f6500ef
+
+Question: >
+  The symbol of Meitnerium in the periodic table is Mt, which corresponds to the abbreviation of this US state.
+
+Answers:
+  1: Montana
+  2: Michigan
+  3: Minnesota
+  4: Massachusetts
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 9addd4dc-8e09-41b8-a0f5-c6ed9a9591da
+
+Question: >
+  SC is the US postal abbreviation of South Carolina as well as the symbol of this 21st element in the periodic table.
+
+Answers:
+  1: Cesium
+  2: Sulfur
+  3: Scandium
+  4: Silicon
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 52535558-3fb6-4176-83b1-f5f4abea7242
+
+Question: >
+  The US postal abbreviation of the Peach State is symbol of this chemical element.
+
+Answers:
+  1: Germanium
+  2: Francium
+  3: Gold
+  4: Gallium
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: 7e0a431e-0f9c-4536-a137-6dab48a50cdf
 
 Question: >
@@ -1562,6 +2259,54 @@ Answers:
   4: Lansing
 
 Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: dff21015-712b-44b7-aef4-28737bb24c65
+
+Question: >
+  This US state is famous for Lake Okeechobee, the fourth largest lake completely within the United States.
+
+Answers:
+  1: California
+  2: Alabama
+  3: Florida
+  4: Kentucky
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 97d9af4e-7ef1-4f9e-9024-934580fb33d5
+
+Question: >
+  What is the southern most state in the USA?
+
+Answers:
+  1: Florida
+  2: California
+  3: Hawaii
+  4: Texas
+
+Correct: 3
 
 Explanation: |
   None
@@ -1748,6 +2493,127 @@ Answers:
   4: Montana
 
 Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: b1d59713-4093-44d0-85b3-86a96f587313
+
+Question: >
+  Being a pilot in one of these states is very perilous.
+
+Answers:
+  1: New York
+  2: Florida
+  3: Alaska
+  4: California
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 27cd755f-4c5d-446a-a18b-96cd50cd0d12
+
+Question: >
+  This state in the USA is the biggest source of all USA-grown fresh cut flowers.
+
+Answers:
+  1: New York
+  2: California
+  3: Texas
+  4: Nevada
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 205140a4-8f80-4e21-a59c-ffa8a0e6ffd4
+
+Question: >
+  What is the official name for a resident of the state of Utah?
+
+Answers:
+  1: Utahian
+  2: Utahtonian
+  3: Utahn
+  4: Ute
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 50ce24e8-1b9f-4f72-af04-e7343336d1b8
+
+Question: >
+  This avenue bisects Manhattan Island.
+
+Answers:
+  1: Seventh Avenue
+  2: Fifth Avenue
+  3: Fourth Avenue
+  4: Sixth Avenue
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 70127aec-4f5f-4345-9f22-cbd44f42a58a
+
+Question: >
+  The name, Chargoggagoggmanchauggauggagoggchaubunagungamaugg, containing ten a-s, refers to what United States
+  geographical landmark ?
+
+Answers:
+  1: A Mountain
+  2: A River
+  3: A Lake
+  4: A Canyon
+
+Correct: 3
 
 Explanation: |
   None
@@ -4079,6 +4945,52 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: afafd6c4-3cb8-43da-86b6-ea08e08af459
+
+Question: >
+  In which state did the first circus building in the USA open in 1793?
+
+Answers:
+  1: Pennsylvania
+  2: California
+  3: Illinois
+  4: Oklahoma
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 636194a0-8af4-4016-bc95-41851abc67a7
+
+Question: >
+  The nickname of Wisconsin, "Badger State", was given to it in irony, because no gold rushes occurred in the region.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: 93981f0c-aed5-4a31-9fa2-bf0713deb5a7
 
 Question: >
@@ -4349,6 +5261,78 @@ Answers:
   2: Wheels
   3: Pistons
   4: Brakes
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: f0796c95-f42d-4dd4-80cf-fc10103a4afb
+
+Question: >
+  The image of a bucking horse and rider is a registered trademark of which state?
+
+Answers:
+  1: Wyoming
+  2: Texas
+  3: Colorado
+  4: Nevada
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 0e16fafe-9767-42c2-9942-2920d0cfb091
+
+Question: >
+  What was the approximate Jewish population of the United States in 1790?
+
+Answers:
+  1: 5200-5500
+  2: 2500-2700
+  3: 1300-1500
+  4: 3950-4300
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: ca9a2db2-da19-4795-aef4-0c1e94b5ef2d
+
+Question: >
+  Which Israeli city is a sister city of New York City?
+
+Answers:
+  1: Haifa
+  2: Netanya
+  3: Tel Aviv
+  4: Jerusalem
 
 Correct: 3
 

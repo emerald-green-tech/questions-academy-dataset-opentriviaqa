@@ -166,6 +166,30 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: 02e8bbfe-0997-47ae-82cb-df2181259ff2
+
+Question: >
+  Which of these is a symbol of Ireland and a trademark registered by the Government of Ireland?
+
+Answers:
+  1: All of these
+  2: The Celtic Cross
+  3: The Leprechaun
+  4: The shamrock
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: 1518c2f2-d3f0-4264-a5c1-a5602006c32e
 
 Question: >
@@ -176,6 +200,78 @@ Answers:
   2: False
 
 Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 8ed260a9-1840-4724-b32c-3a9b03087996
+
+Question: >
+  What is the state animal of the U.S. state of South Dakota?
+
+Answers:
+  1: Deer
+  2: Coyote
+  3: Grizzly bear
+  4: Cougar
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 704735f9-01ff-4dff-97f7-16de9588679b
+
+Question: >
+  What is the state beverage of the U.S state of Delaware?
+
+Answers:
+  1: Milk
+  2: Water
+  3: Green tea
+  4: Tomato juice
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 4896923d-f67c-4700-8f63-d6fff276243f
+
+Question: >
+  What is the state flower of the U.S. state of Delaware?
+
+Answers:
+  1: Peach blossom
+  2: Daffodil
+  3: Hyacinth
+  4: Daisy
+
+Correct: 1
 
 Explanation: |
   None
@@ -2475,6 +2571,74 @@ Answers:
   4: Green, orange and blue
 
 Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 342e25dd-9298-4620-8042-708c319053d5
+
+Question: >
+  The Rose Is America's National Flower.
+
+Answers:
+  1: True
+  2: False
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 9c5132fd-76d0-4cf5-9737-b6f886576f52
+
+Question: >
+  What semi-aquatic rodent is the national animal of Canada?
+
+Answers:
+  1: Patagonian Mara
+  2: Beaver
+  3: Guinea Pig
+  4: Capybara
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 70b31212-2f76-49f6-b4c9-54812dd05f9d
+
+Question: >
+  The shortest national anthem is the Japanese one and it is just four verses long.
+
+Answers:
+  1: True
+  2: False
+
+Correct: 1
 
 Explanation: |
   None

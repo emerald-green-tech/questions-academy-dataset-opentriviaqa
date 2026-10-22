@@ -122,6 +122,30 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: 2466bdf9-c32f-4044-a0b8-dc9784e906cf
+
+Question: >
+  Only one of the following small countries possesses farms.
+
+Answers:
+  1: Monaco
+  2: Vatican City
+  3: Nauru
+  4: Andorra
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: 9a66541d-b943-492f-b532-8a29b3f7d1a0
 
 Question: >

@@ -43,3 +43,25 @@ Notes: >
   None
 
 SchemaVersion: 1
+---
+ID: cda4a5dc-7fed-47af-b917-17670cdb7150
+
+Question: >
+  The United Kingdom is both in the top ten for GDP and child poverty.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
