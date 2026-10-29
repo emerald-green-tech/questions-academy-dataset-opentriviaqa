@@ -303,6 +303,30 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: dcfe41b1-9682-47e7-a655-211b35d07e19
+
+Question: >
+  Which twin towers, located in Kuala Lumpur, Malaysia, were the world's highest buildings from 1998 to 2004?
+
+Answers:
+  1: Republic Plaza
+  2: Rialto Towers
+  3: Jin Mao Building
+  4: Petronas Towers
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: 89883c10-359a-4522-a8f3-75a831cc1e99
 
 Question: >
@@ -317,6 +341,53 @@ Answers:
   4: Sears
 
 Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 719a1148-08b7-4ab1-b942-5d99ad62db90
+
+Question: >
+  The Pentagon is the world's largest office building by floor area.
+
+Answers:
+  1: True
+  2: False
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 42f140e3-a1ea-4c9e-b2bb-9129540bf51c
+
+Question: >
+  Upon completion, the Washington Monument, built to commemorate the first US President, became the world's tallest
+  structure. What is the name of the architect who designed it?
+
+Answers:
+  1: Charles Bulfinch
+  2: James Hoban
+  3: Jorn Utzon
+  4: Robert Mills
+
+Correct: 4
 
 Explanation: |
   None
@@ -458,6 +529,56 @@ Answers:
   2: Tonic
   3: Corinthian
   4: Doric
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: b5bc6bad-59b7-471b-88a5-a765652c7f44
+
+Question: >
+  He was born Charles Edouard Jeanneret in 1887 in Switzerland. He became one of the world's greatest and most famous
+  architects, championing the International Style. What pseudonym did he adopt?
+
+Answers:
+  1: van der Rohe
+  2: Frank Lloyd Wright
+  3: Gropius
+  4: Le Corbusier
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 37a98fc9-4bf2-4fb8-9a4b-7012c6183ed4
+
+Question: >
+  Who are the two ancient Greek architects who designed the Parthenon, a temple regarded as one of the world's
+  greatest cultural monuments.
+
+Answers:
+  1: Eugenius and Arcadius
+  2: Theodosius and Delos
+  3: Iktinos and Kallikrates
+  4: Theotokos and Pisisitratus
 
 Correct: 3
 

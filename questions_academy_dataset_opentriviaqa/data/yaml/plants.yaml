@@ -273,6 +273,700 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: ddf801d0-90a6-4b47-8fe2-2353da94033c
+
+Question: >
+  Botanically speaking, which of the following is not a fruit?
+
+Answers:
+  1: Tomato
+  2: Arugula
+  3: Olive
+  4: None of these
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 5bc4e2ca-d45a-4e9e-8079-326a5274cfa7
+
+Question: >
+  A potato will sometimes have green skin. What is characteristic of this skin?
+
+Answers:
+  1: It is sweet.
+  2: It identifies a foreign (non USA) potato.
+  3: It is ugly but edible.
+  4: It contains a poisonous alkaloid.
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 8666bfba-8cbb-4873-9069-72f79a4d9941
+
+Question: >
+  Is it true that the word corn may refer to any cereal that is grown in a country?
+
+Answers:
+  1: Yes
+  2: No
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: bcd2532f-427d-4b15-b689-f58b74e150ee
+
+Question: >
+  This flowering plant, native to the eastern Mediterranean region and southwest Asia, is used as a spice in different
+  liqueurs like raki and ouzo.
+
+Answers:
+  1: Chicory
+  2: Cardamon
+  3: Allspice
+  4: Anise
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 2a8bb686-75d4-44a9-83f3-3bafdfb2e103
+
+Question: >
+  This herb, regarded as the king of herbs in many cooking books, is also known as Albahaca and St. Josephs Wort.
+
+Answers:
+  1: Bergamot
+  2: Annato
+  3: Basil
+  4: Calamus
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 40e55f91-fd19-4af3-9aee-9f330fd0852b
+
+Question: >
+  Which popular substance, derived from orchids, is widely used in  the making of desserts.
+
+Answers:
+  1: Vanilla
+  2: Oregano
+  3: Nigella
+  4: Lovage
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 6132fff3-cef0-4f79-bb27-9abea05e0aa8
+
+Question: >
+  Mace is one of the spices, derived from the fruit of this evergreen tree, indigenous to tropical southeast Asia and
+  Australasia.
+
+Answers:
+  1: Paprika
+  2: Nutmeg
+  3: Primrose
+  4: Poppy
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 423c2f3a-91b5-4269-bcde-5ed41cead7e8
+
+Question: >
+  Oregano is a spicy perennial herb, particularly common to which region in Europe?
+
+Answers:
+  1: The Baltic Region
+  2: The Mediterranean Region
+  3: The North Region
+  4: The Arabic Region
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 7ed25531-4eaf-4625-9c28-39d14504ba53
+
+Question: >
+  This highly aromatic perennial herb, native to southern Europe, is widely used in salads, meat and potato balls, and
+  its flavor is similar to that of anise.
+
+Answers:
+  1: Licorice
+  2: Ginger
+  3: Fennel
+  4: Hyssop
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 7deb1a8e-2cb4-43d6-9543-4af90f2fae25
+
+Question: >
+  Sesame is an annual plant , whose closest relatives originated in which continent?
+
+Answers:
+  1: South America
+  2: Europe
+  3: Asia
+  4: Africa
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: e30a1e85-c51a-4a93-86ae-3758784ba8e3
+
+Question: >
+  What is the best environment for a cocoa tree to grow well?
+
+Answers:
+  1: All of these
+  2: Rainfall
+  3: Constant warmth
+  4: Deep shade
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 1c627290-6238-4f35-9fc9-d6dc07907016
+
+Question: >
+  This plant oil is said to be the richest natural source of vitamin E. It is widely used in cosmetics as an anti-
+  ageing substance.
+
+Answers:
+  1: Olive oil
+  2: Wheat germ oil
+  3: Palm oil
+  4: Sunflower oil
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: a5f5c0b4-bc7e-489b-8e46-ab9618656c51
+
+Question: >
+  While the seed kernels of this plant are a rich source of vitamin E and its sprouts are highly nutritious, its
+  petals are poisonous. The kernels are used for the production of oil.
+
+Answers:
+  1: Briar
+  2: Honeysuckle
+  3: Tulip
+  4: Sunflower
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 3c61b205-2c0c-4f15-bdd1-d1431ea73572
+
+Question: >
+  This nut is also a source of folic acid, which diminishes the risk of birth defects and heart diseases. It is often
+  combined with chocolate.
+
+Answers:
+  1: Hazelnut
+  2: Peanut
+  3: Chestnut
+  4: Walnut
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: d1021d1f-24fe-4849-b645-a855de8f6eb6
+
+Question: >
+  Parts of the plant Helianthus annuus are edible.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 004af001-8004-49b3-afd7-1986491369e3
+
+Question: >
+  Asteraceae is a flower, commonly known as this.
+
+Answers:
+  1: Daisy
+  2: Black Eyed Susan
+  3: All of the these
+  4: Aster
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 8974a44e-5e68-4d7e-b6cd-95dc4b8046d1
+
+Question: >
+  Which of these wild roses is native to China?
+
+Answers:
+  1: Rosa laevigata
+  2: Rosa eglanteria
+  3: Rosa canina
+  4: Rosa gigantea
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 3fb1f0dc-38ec-44cb-af78-d8e599d338ce
+
+Question: >
+  Dianthus caryophyllus, or carnation, was originally grown in which colour?
+
+Answers:
+  1: Green
+  2: Yellow
+  3: White
+  4: Pink
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 4df0662b-68ae-46a5-a7b3-60cbc3001776
+
+Question: >
+  Gypsophila flowers are sometimes referred to as this.
+
+Answers:
+  1: Arum
+  2: Lady Banks
+  3: Gypsy rose
+  4: Baby's breath
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 920f7ecc-59af-4fca-8697-64df9a8f2147
+
+Question: >
+  Highly coveted bulbs of a member of the Liliaceae family, caused this in the Netherlands in the early 17th century.
+
+Answers:
+  1: Tulipation
+  2: Tulip Madness
+  3: Tulipancy
+  4: Tulipomania
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 5e19ba81-b14a-44bd-bf20-89f6075e7c50
+
+Question: >
+  The common name of the flower Lilium lancifolium is the name of a character in which children's classic?
+
+Answers:
+  1: The Adventures of Huckleberry Finn
+  2: Winnie the Pooh
+  3: The Adventures of Peter Pan
+  4: Anne of Green Gables
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 1a87c4a7-c200-486d-b676-9a8791b7b269
+
+Question: >
+  Where were the oldest ears of popcorn found in 1948?
+
+Answers:
+  1: Mammoth, Kentucky
+  2: Crystal Cave, California
+  3: Wyandotte Cave, Indiana
+  4: Bat Cave, New Mexico
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 045828ab-3911-44a9-8a7a-eff983d0fd0d
+
+Question: >
+  This type of grape, native to Europe, was devastated by a pest in the middle 1800s.
+
+Answers:
+  1: vitis aestivalis
+  2: vitis sylvestris
+  3: vitis vinifera
+  4: vitis labrusca
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 9bac28b4-917c-426c-9850-d027c5d20416
+
+Question: >
+  What is the scientific (Latin) name of the wild carrot?
+
+Answers:
+  1: Neee wassupdoc
+  2: Noctus viseus
+  3: Carota carota
+  4: Daucus carota
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: eee41058-66b6-44f4-948e-ad171df487da
+
+Question: >
+  The carrot is thought to have originated from this country.
+
+Answers:
+  1: India
+  2: Afghanistan
+  3: China
+  4: Brazil
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 9fc651e4-249f-4eca-a096-8de59f0425db
+
+Question: >
+  Parsley is a close relative of the carrot
+
+Answers:
+  1: False
+  2: True
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: f2dd7d5b-f630-4f20-aa2d-e25259a506bb
+
+Question: >
+  The carrot was outlawed in Holland in the 16th century.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: ed2e9984-2167-4de2-83ad-8ee19bf06d47
+
+Question: >
+  Which country had the highest production of carrots in 2005?
+
+Answers:
+  1: Egypt
+  2: China
+  3: Russia
+  4: USA
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 8cbd51ec-5bb8-4a32-9bdb-07e6f36ec0dd
+
+Question: >
+  Bulgaria is one of the world's biggest producers of this agricultural crop.
+
+Answers:
+  1: Raspberries
+  2: All of these
+  3: Sunflower seed
+  4: Anise
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: 264fcc8d-333b-483b-8aab-e8a5e664c0f5
 
 Question: >
@@ -476,6 +1170,30 @@ Answers:
   4: Feeding livestock
 
 Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 70bf7f3a-514e-4249-8a39-20b30161c485
+
+Question: >
+  Extract from the Periwinkle plant is one of the world's most powerful drugs, used to fight this disease.
+
+Answers:
+  1: Cancer
+  2: Hepatitis B
+  3: AIDS
+  4: Psoriosis
+
+Correct: 1
 
 Explanation: |
   None

@@ -43,3 +43,28 @@ Notes: >
   None
 
 SchemaVersion: 1
+---
+ID: 57e667b3-9171-499a-afe3-76379bb2e43e
+
+Question: >
+  The former Winter Palace in Saint Petersburg, Russia now contains one of the world's greatest museums of art and
+  culture. What is it called?
+
+Answers:
+  1: The Pushkin Museum
+  2: The Tretyakov Museum
+  3: The Hermitage
+  4: The Russian Museum
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1

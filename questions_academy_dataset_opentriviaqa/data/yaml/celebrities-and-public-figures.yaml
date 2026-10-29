@@ -4060,6 +4060,30 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: 92e0504d-afb4-44ce-a23e-bb650287b09f
+
+Question: >
+  According to her biography, this Hollywood actress once took a bath in 350 bottles of Champagne.
+
+Answers:
+  1: Ava Gardner
+  2: Katharine Hepburn
+  3: Marilyn Monroe
+  4: Vivien Leigh
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: bff405c9-d46b-4b7d-a969-6c7e64edb5ae
 
 Question: >
@@ -9935,30 +9959,6 @@ Answers:
   4: Ursula Andress
 
 Correct: 1
-
-Explanation: |
-  None
-
-Active:
-  True
-
-Notes: >
-  OpenTriviaQA Category was: celebrities. Pending category review.
-
-SchemaVersion: 1
----
-ID: dbe2a678-8495-4417-ba49-cf83c5d20251
-
-Question: >
-  It Happened at the Worlds Fair (1963) stars Elvis and this beauty.
-
-Answers:
-  1: Elsa Cardenas
-  2: Ursula Andress
-  3: Joan OBrien
-  4: Ann-Margret
-
-Correct: 3
 
 Explanation: |
   None
@@ -26421,30 +26421,6 @@ Notes: >
 
 SchemaVersion: 1
 ---
-ID: b26bb1f0-e3a2-4a06-b069-223c635b8c17
-
-Question: >
-  Tom Cruises performance in the 2005 movie War of the Worlds brought him a nomination for this award.
-
-Answers:
-  1: Golden Globe Award
-  2: All of these
-  3: Golden Raspberry Award
-  4: Academy Award
-
-Correct: 3
-
-Explanation: |
-  None
-
-Active:
-  True
-
-Notes: >
-  OpenTriviaQA Category was: celebrities. Pending category review.
-
-SchemaVersion: 1
----
 ID: 01bd8bf7-25c0-4041-9c9c-182b6d893753
 
 Question: >
@@ -41888,30 +41864,6 @@ Notes: >
 
 SchemaVersion: 1
 ---
-ID: edfd3699-c226-4553-a6ec-a08f40a48e18
-
-Question: >
-  Which of these Radiohead songs from OK Computer is featured in the movie William Shakespeares Romeo+Juliet ?
-
-Answers:
-  1: Karma Police
-  2: Airbag
-  3: Paranoid Android
-  4: Exit Music (For a Film)
-
-Correct: 4
-
-Explanation: |
-  None
-
-Active:
-  True
-
-Notes: >
-  OpenTriviaQA Category was: celebrities. Pending category review.
-
-SchemaVersion: 1
----
 ID: f56bf27a-8c74-44d5-bfcc-39b4ffa97def
 
 Question: >
@@ -52666,7 +52618,7 @@ Question: >
 
 Answers:
   1: Alexander
-  2: Mr.  Mrs. Smith
+  2: Mr. & Mrs. Smith
   3: Shark Tale
   4: Lara Croft: Tomb Raider
 
@@ -52679,7 +52631,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: celebrities. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -53808,8 +53760,8 @@ SchemaVersion: 1
 ID: 224552e6-9042-4875-9f49-dbe9c8557627
 
 Question: >
-  This comedian, born in Mexico but raised in East L.A., starred in films such as Crocodile Dundee in Los Angeles,  A
-  Cinderella Story and The Worlds Fastest Indian. Many of his comedy specials focus on serious issues of the Latino
+  This comedian, born in Mexico but raised in East L.A., starred in films such as Crocodile Dundee in Los Angeles, A
+  Cinderella Story and The World's Fastest Indian. Many of his comedy specials focus on serious issues of the Latino
   community.
 
 Answers:
@@ -53827,7 +53779,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: celebrities. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -73559,31 +73511,6 @@ Answers:
   2: False
 
 Correct: 2
-
-Explanation: |
-  None
-
-Active:
-  True
-
-Notes: >
-  OpenTriviaQA Category was: celebrities. Pending category review.
-
-SchemaVersion: 1
----
-ID: 245d1016-ec94-4669-9d32-62e1900895ff
-
-Question: >
-  In the 1979 film The Two Worlds of Jennie Logan starring Lindsay Wagner, what were the two worlds of Jennie that the
-  title referred to?
-
-Answers:
-  1: She had affairs while her husband was gone and then played the perfect wife when he was home.
-  2: She often fantasized about men while living with her real husband.
-  3: She travelled into the past while maintaining her life in the present.
-  4: She discovered her clairvoyant abilities and hid them from her husband.
-
-Correct: 3
 
 Explanation: |
   None

@@ -379,6 +379,311 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: d6a6b088-c7fd-45ad-81a0-45d896a34d8c
+
+Question: >
+  How many solar segments are there in a year of the Chinese calendar?
+
+Answers:
+  1: 24
+  2: 16
+  3: 6
+  4: 12
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: c450b1d7-9562-49a4-a72d-207f93cd9534
+
+Question: >
+  It is considered that Chinese astrology emerged around this time.
+
+Answers:
+  1: 3000 BC
+  2: 2000 AD
+  3: 1000 BC
+  4: 5000 BC
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: a94c4c01-cee2-4c28-800a-c624f601d373
+
+Question: >
+  To define someone's personality, the Chinese consider this.
+
+Answers:
+  1: The month of birth
+  2: The year of birth
+  3: The time of birth
+  4: The date of birth
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 1a67f757-525e-4918-a9ce-d7836df28284
+
+Question: >
+  What was the name of the Emperor who introduced the first cycle of Chinese zodiac in 2637 BC?
+
+Answers:
+  1: Ming Shu
+  2: Tsian Tza
+  3: Fei Lin
+  4: Huang Ti
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 69f560f2-380b-4a67-863b-a70730a2a975
+
+Question: >
+  Chinese zodiac is not limited to just defining what animal you are. It also tells you this.
+
+Answers:
+  1: Your emotional factor
+  2: Your element
+  3: Your spiritual age
+  4: Your physical coefficient
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 491c12fb-af1e-4d2a-8ed4-4ad17c1ef19f
+
+Question: >
+  Literally translated Feng Shui means wind and water.
+
+Answers:
+  1: True
+  2: False
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 992f8fd6-d4af-4fcc-8a30-04d069b2ea89
+
+Question: >
+  One of the major purposes of Feng Shui is the search for the universal abstract energy or life force that governs
+  our world. It is called this.
+
+Answers:
+  1: Yi
+  2: Chi
+  3: Ru Li
+  4: Fu
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: a69f6982-8441-469a-b02b-c8dceca5fbcc
+
+Question: >
+  Wind is one of the five elements in Feng Shui.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 1
+
+Explanation: |
+  The five traditional elements in Feng Shui are wood, fire, earth, metal, and water.
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: af5e0f52-71b8-4a5e-a1d8-c1ec44f38471
+
+Question: >
+  In Feng Shui, the cycle fire - earth - metal - water -  wood - fire is known as this.
+
+Answers:
+  1: Cycle of production
+  2: Cycle of reduction
+  3: Cycle of neutralization
+  4: Cycle of destruction
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 66433ff2-13b2-4953-a06d-27f54b16d323
+
+Question: >
+  In Feng Shui, Is irregularly shaped land considered good to build your home on?
+
+Answers:
+  1: Yes
+  2: No
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 89df0526-0ceb-4d14-930d-da22e9fce259
+
+Question: >
+  According to Feng Shui water symbolizes one of these.
+
+Answers:
+  1: Intelligence
+  2: Prosperity
+  3: Health
+  4: Posterity
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: a7c2b36b-3301-4977-be2e-a65d436c976e
+
+Question: >
+  According to Feng Shui, the master bedroom should be as far away from the front door as possible.
+
+Answers:
+  1: True
+  2: False
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 6a71f673-e60a-477f-9d09-38b687eea8be
+
+Question: >
+  According to Feng Shui the toilet should be this.
+
+Answers:
+  1: It does not matter where the toiler is.
+  2: Attached to the bedroom.
+  3: Hidden.
+  4: Always open.
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: 6e209eb2-5312-4898-b2c8-abb72172711f
 
 Question: >

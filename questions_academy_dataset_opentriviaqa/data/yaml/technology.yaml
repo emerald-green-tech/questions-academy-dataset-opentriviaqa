@@ -1,3 +1,27 @@
+ID: eeff83ac-a02e-48ce-b3a1-21fb97a18c07
+
+Question: >
+  What technology term comes from the epithet of a king who united the tribes of Denmark into a single kingdom?
+
+Answers:
+  1: Bluetooth
+  2: Java
+  3: Mozilla
+  4: Linux
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: b6c9a022-bb92-4dcf-ba64-d2e52f7a4af8
 
 Question: >
@@ -176,6 +200,31 @@ Answers:
   4: The rise of Nintendo
 
 Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: b512fac8-02fe-4c04-b60f-1b84e7193d92
+
+Question: >
+  This person wrote what historians recognize as the world's first computer program - a method for calculating
+  Bernoulli numbers with Charles Babbage's analytical engine.
+
+Answers:
+  1: Johnny von Neumann
+  2: Benjamin Bannekker
+  3: Blaise Pascal
+  4: Lord Byron's daughter
+
+Correct: 4
 
 Explanation: |
   None

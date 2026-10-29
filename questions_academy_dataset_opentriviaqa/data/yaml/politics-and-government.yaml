@@ -1162,6 +1162,77 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: 6eda3c48-c914-4947-89b3-318a198ac56d
+
+Question: >
+  The legal drinking age in a few US states is 18.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 1
+
+Explanation: |
+  The legal purchase and public consumption age is 21 in all 50 U.S. states.
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: e9eeb8d0-d415-466b-ad81-82834d964221
+
+Question: >
+  According to the Bureau of Justice statistics, graffiti is the most common form of this.
+
+Answers:
+  1: Pollution
+  2: Art
+  3: Street exhibition
+  4: Vandalism
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 04adb0a8-517d-4c01-a9d3-eec9eed42413
+
+Question: >
+  In the US, if the police catch a graffiti offender and they are under 18, the parents will have to pay a fine up to
+  what amount?
+
+Answers:
+  1: $ 20,000
+  2: $ 100,000
+  3: $ 5,000
+  4: $ 10,000
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: a16241f3-7076-4f59-b546-a697d3c29c68
 
 Question: >

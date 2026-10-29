@@ -1823,6 +1823,126 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: c095a9db-196e-470a-bcf9-11f7a0dd0490
+
+Question: >
+  How many groups are the twelve astrological signs arranged in?
+
+Answers:
+  1: 3 groups of 4
+  2: 2 groups of 6
+  3: 4 groups of 3
+  4: 1 groups of 12
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 15f43d72-b99c-4de4-af55-c24c7dd33608
+
+Question: >
+  How many astrological signs are there in the Chinese zodiac?
+
+Answers:
+  1: 24
+  2: 4
+  3: 12
+  4: 6
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: a178bb12-516e-405f-a35e-03c7b42bc68d
+
+Question: >
+  Who determined the order in which the astrological signs appear?
+
+Answers:
+  1: Christ
+  2: Buddha
+  3: Osiris
+  4: Zeus
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 983a57d9-b735-4e4e-9b6e-0503d4741bc3
+
+Question: >
+  Which sign is considered to be most lucky and powerful?
+
+Answers:
+  1: Rooster
+  2: Ox
+  3: Dragon
+  4: Fox
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 2a00579d-77af-4397-aec0-5f7db27a44e9
+
+Question: >
+  The roots of Chinese astrology lay in the teachings of this ancient Chinese philosopher.
+
+Answers:
+  1: Confucius
+  2: Mao Tse-tung
+  3: Lao Tse
+  4: Ho Shi Min
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: b7eca866-51fc-48ac-8739-7a97d02760be
 
 Question: >
@@ -3957,7 +4077,7 @@ SchemaVersion: 1
 ID: 8fb2fe4b-b932-4e10-919a-312f20930473
 
 Question: >
-  There are ten holy days of obligation, days other than Sunday on which all the worlds Catholics are required to
+  There are ten holy days of obligation, days other than Sunday on which all the world's Catholics are required to
   attend mass.
 
 Answers:
@@ -12325,8 +12445,7 @@ SchemaVersion: 1
 ID: d4bb361c-493a-4180-8d55-261614a37f4b
 
 Question: >
-  The  Book of Genesis contains the first Biblical reference to someone being put into prison. Who was put into
-  prison?
+  The Book of Genesis contains the first Biblical reference to someone being put into prison. Who was put into prison?
 
 Answers:
   1: Cain

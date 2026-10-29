@@ -2303,6 +2303,30 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: 22ed7acb-1010-42e6-add6-cfb3db3cb7bf
+
+Question: >
+  Built on 1963 in Puerto Rico, this is one of world's largest radio telescopes.
+
+Answers:
+  1: James Clerk Maxwell Telescope
+  2: Arecibo Radio Telescope
+  3: Allen Radio Telescope
+  4: Atacama Radio Telescope
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: e0665a97-b9ae-4508-9f8e-3710158e760a
 
 Question: >
@@ -3104,6 +3128,31 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: 35755714-7d32-4a5f-899b-7dc14850389f
+
+Question: >
+  The Arecibo Observatory, located approximately 12 miles south-southwest from Arecibo, Puerto Rico, is notable for
+  owning the world's largest single-aperture telescope of this type.
+
+Answers:
+  1: Dioptric telescope
+  2: Radio telescope
+  3: Catadioptric telescope
+  4: Catoptric telescope
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: 9a321698-ddd9-4a45-97bc-3280b1e578ac
 
 Question: >
@@ -3115,6 +3164,78 @@ Answers:
   2: True
 
 Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 7828b333-3977-45ee-ad2b-b38645b6e572
+
+Question: >
+  Oxygen levels during the Mesozoic were lower than today's levels.
+
+Answers:
+  1: True
+  2: False
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: b4c381ab-f250-4ade-b36e-7f45689b21bc
+
+Question: >
+  What is the location of the world's largest particle physics laboratory, established in 1954?
+
+Answers:
+  1: In the EU
+  2: Both have laboratories of equal size.
+  3: In the US
+  4: In neither of them
+
+Correct: 4
+
+Explanation: |
+  CERN, the world's largest particle physics laboratory is located in Meyrin, in the western suburbs of Geneva,
+  Switzerland. It is neither in the US nor the EU.
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 7741ef0c-6ec8-4d48-9aa7-9291a93b2633
+
+Question: >
+  The Philippines has the world's largest deposit of heavy water which can be used for atomic energy, in spectroscopy,
+  and as an automobile fuel. What makes heavy water different from water?
+
+Answers:
+  1: An extra hydrogen molecule
+  2: One  less hydrogen molecule making it HO not H2O
+  3: An extra oxygen molecule
+  4: The presence of deuterium
+
+Correct: 4
 
 Explanation: |
   None

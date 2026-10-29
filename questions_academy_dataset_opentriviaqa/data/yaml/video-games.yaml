@@ -868,6 +868,30 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: fa4e516c-fc22-40d8-bc9c-d45ece8c18be
+
+Question: >
+  Pong, the first commercially successful video game, is a video screen adaptation of what classic game?
+
+Answers:
+  1: Othello
+  2: Tic-tac-toe
+  3: Table tennis
+  4: Soccer
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: a763af32-4576-41c8-a2fa-8053fd749d9d
 
 Question: >

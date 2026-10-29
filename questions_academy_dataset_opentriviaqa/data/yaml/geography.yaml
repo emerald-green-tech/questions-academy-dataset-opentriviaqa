@@ -22,35 +22,10 @@ Notes: >
 
 SchemaVersion: 1
 ---
-ID: 1ddf3b20-bf84-48aa-9bc8-58d68475b330
-
-Question: >
-  The town of Kemi, which in 1996 became the home of the worlds largest snow castle, is located in this European
-  country.
-
-Answers:
-  1: Denmark
-  2: Norway
-  3: Finland
-  4: Sweden
-
-Correct: 3
-
-Explanation: |
-  None
-
-Active:
-  True
-
-Notes: >
-  None
-
-SchemaVersion: 1
----
 ID: db39e7ad-b0c0-4bc3-9a42-995c6f5c99c7
 
 Question: >
-  The original Ferris Wheel was created for the 1893 Worlds Columbian Exposition, held in this city.
+  The original Ferris Wheel was created for the 1893 World's Columbian Exposition, held in this city.
 
 Answers:
   1: Toronto
@@ -1035,6 +1010,102 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: e142089f-4d0c-4e9e-9cbd-e135ff02e9c5
+
+Question: >
+  Which is the world's highest mountain system?
+
+Answers:
+  1: The Himalayas
+  2: The Andes
+  3: The Cordilleras
+  4: The Apennines
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: eed531f8-b55a-4ff2-ac86-1117a00d73b7
+
+Question: >
+  This mountain range, spanning seven countries, is the world's longest.
+
+Answers:
+  1: The Tatra Mountains
+  2: The Andes
+  3: The Pyrenean Mountains
+  4: The Himalayas
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 72b6072e-403b-46ac-9561-a18ab6b7f7d5
+
+Question: >
+  Which ocean is the world's largest body of water, covering nearly one third of the Earth's surface?
+
+Answers:
+  1: The Pacific Ocean
+  2: The Indian Ocean
+  3: The Atlantic Ocean
+  4: The Arctic Ocean
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: fab86ed3-989b-4f5e-8b3b-0bf663227248
+
+Question: >
+  This sea, which is a basin of the Indian Ocean between Africa and Asia, is the world's most northern tropical sea.
+
+Answers:
+  1: Red Sea
+  2: South China Sea
+  3: Coral Sea
+  4: Arabian Sea
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: e25c7a65-abf2-4220-8f7a-010feab6f0d9
 
 Question: >
@@ -1277,6 +1348,31 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: f9db3300-a819-4a9e-9887-565cbdf6ff30
+
+Question: >
+  As unbelievable as it may seem, seventeen of the world's twenty largest hotels are located in the same city, on the
+  same street. Which is this city?
+
+Answers:
+  1: New York
+  2: Las Vegas
+  3: Dubai
+  4: Paris
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: 85abc9a9-3ba9-457d-a271-3d1bd8ee4f20
 
 Question: >
@@ -1421,6 +1517,31 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: d785652e-6765-43f9-b96f-0266edfd7519
+
+Question: >
+  In the late 1880s and 1890s, brothers Dr. William and Dr. Charles Mayo joined forces with an order of Catholic nuns
+  to form one of the world's best-known medical establishments. What town is it located in?
+
+Answers:
+  1: Moorhead
+  2: Faribault
+  3: St. Cloud
+  4: Rochester
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: 4f6f7f7b-a563-4031-9d2a-afdd6072c16e
 
 Question: >
@@ -1539,6 +1660,30 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: ffbd7620-5c96-41de-ae42-135e83e21133
+
+Question: >
+  The world's first botanical garden was established in 1545 in this Italian city.
+
+Answers:
+  1: None of these
+  2: Milano
+  3: Agrigento
+  4: Padua
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: 5fc66ab9-b4f1-43e9-8878-46afaf078fd9
 
 Question: >
@@ -1576,6 +1721,31 @@ Answers:
   4: Ifugao
 
 Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: a539d22d-07be-48a8-8ea1-ee07b1c5ed7b
+
+Question: >
+  The Great Pyramid of Giza claimed to be the world's tallest man-made structure for around four millennia. Along
+  which river is the monument located?
+
+Answers:
+  1: Volga
+  2: Amazon
+  3: Mississippi
+  4: Nile
+
+Correct: 4
 
 Explanation: |
   None
@@ -2435,6 +2605,30 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: fc59a613-4508-4f63-b233-7ef72e91857e
+
+Question: >
+  What is the largest city on the world's largest island?
+
+Answers:
+  1: Rabaul
+  2: Frobisher Bay
+  3: Nuuk
+  4: Weser
+
+Correct: 3
+
+Explanation: |
+  Nuuk, formerly named Godthaab (also spelled Godthåb) is the capital and largest city of Greenland.
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: e4d1b5ae-8963-4266-82de-f19cdc5433b5
 
 Question: >
@@ -2507,6 +2701,54 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: 6bd0bbc1-fdd5-4874-8934-0c5ceec2be15
+
+Question: >
+  Measured from base to peak, what is the world's highest mountain?
+
+Answers:
+  1: Chimborazo
+  2: Mauna Kea
+  3: K2
+  4: Mt. Everest
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 0fbe4fc4-b339-4a8f-afe2-1df0adf19aac
+
+Question: >
+  The world's oldest lake is also the worlds deepest lake. Where would it be found?
+
+Answers:
+  1: Siberia
+  2: Between Europe and Asia
+  3: Israel
+  4: Brazil
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: cfe71611-89e5-44f9-857b-2ac99dd488ac
 
 Question: >
@@ -2519,6 +2761,54 @@ Answers:
   4: Petaluma, California.
 
 Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 2702174b-cc7d-4791-a325-184799e48bb9
+
+Question: >
+  Where does Iraq rank in the world's supply of oil?
+
+Answers:
+  1: Fourth
+  2: First
+  3: Third
+  4: Fifth
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  Fifth after Venezuela, Saudi Arabia, Iran, and Canada.
+
+SchemaVersion: 1
+---
+ID: 3bfd4f8c-ba31-4238-8dc3-298727feccd3
+
+Question: >
+  The Temple of Artemis is one of World's Seven Wonders. Where is it located?
+
+Answers:
+  1: Ephesus
+  2: Turkey
+  3: Sparta
+  4: Athens
+
+Correct: 1
 
 Explanation: |
   None
@@ -4090,7 +4380,7 @@ SchemaVersion: 1
 ID: 5e8e3cdb-8a34-469f-9411-98f1e8928565
 
 Question: >
-  This country has more than 60% of worlds lakes due to its special drainage system.
+  This country has more than 60% of the world's lakes due to its special drainage system.
 
 Answers:
   1: Australia
@@ -4107,7 +4397,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: geography. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -5104,7 +5394,7 @@ SchemaVersion: 1
 ID: 1403fc9d-b944-4367-87de-f609732a3784
 
 Question: >
-  This island is well known in scientific fields for being home of five percent of the worlds plant and animal
+  This island is well known in scientific fields for being home of five percent of the world's plant and animal
   species, with 80% of them unique to it. The island is also the fourth biggest on Earth, with population of about
   17,500,000 people.
 
@@ -5123,7 +5413,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: geography. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -5230,7 +5520,7 @@ SchemaVersion: 1
 ID: 42d1461f-5a0d-4f55-88d8-e25733599aba
 
 Question: >
-  This is the largest island in the Mediterranean Sea, famous for one of the worlds most active volcanoes - Etna.
+  This is the largest island in the Mediterranean Sea, famous for one of the world's most active volcanoes - Etna.
 
 Answers:
   1: Sicily
@@ -5247,7 +5537,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: geography. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -7127,30 +7417,6 @@ Answers:
   4: Illinois (Illinois)
 
 Correct: 1
-
-Explanation: |
-  None
-
-Active:
-  True
-
-Notes: >
-  OpenTriviaQA Category was: geography. Pending category review.
-
-SchemaVersion: 1
----
-ID: b4c381ab-f250-4ade-b36e-7f45689b21bc
-
-Question: >
-  What is the location of the worlds largest particle physics laboratory, established in 1954?
-
-Answers:
-  1: In the EU
-  2: Both have laboratories of equal size.
-  3: In the US
-  4: In neither of them
-
-Correct: 4
 
 Explanation: |
   None
@@ -9715,30 +9981,6 @@ Notes: >
 
 SchemaVersion: 1
 ---
-ID: 147419fb-3b01-4117-8c0a-fd65c4291b2d
-
-Question: >
-  The largest city in what US state hosts Summerfest, or The Worlds Largest Music Festival?
-
-Answers:
-  1: New Jersey
-  2: Wisconsin
-  3: Kentucky
-  4: Maryland
-
-Correct: 2
-
-Explanation: |
-  None
-
-Active:
-  True
-
-Notes: >
-  OpenTriviaQA Category was: geography. Pending category review.
-
-SchemaVersion: 1
----
 ID: 4213465e-a755-4a9a-b78f-7606509e059a
 
 Question: >
@@ -9844,31 +10086,6 @@ Answers:
   2: Zamballes and Puerto Princesa City
   3: Zamballes and Manila
   4: Davao City and Puerto Princesa City
-
-Correct: 4
-
-Explanation: |
-  None
-
-Active:
-  True
-
-Notes: >
-  OpenTriviaQA Category was: geography. Pending category review.
-
-SchemaVersion: 1
----
-ID: 7741ef0c-6ec8-4d48-9aa7-9291a93b2633
-
-Question: >
-  The Philippines has the worlds largest deposit of heavy water which can be used for atomic energy, in spectroscopy,
-  and as an automobile fuel. What makes heavy water different from water?
-
-Answers:
-  1: An extra hydrogen molecule
-  2: One  less hydrogen molecule making it HO not H2O
-  3: An extra oxygen molecule
-  4: The presence of deuterium
 
 Correct: 4
 
@@ -16786,30 +17003,6 @@ Notes: >
 
 SchemaVersion: 1
 ---
-ID: 24225cdf-1b59-4571-a028-5f826b2967f1
-
-Question: >
-  Madagascar is the worlds largest producer and exporter of what product?
-
-Answers:
-  1: Sugarcane
-  2: Vanilla
-  3: Tapioca
-  4: Rice
-
-Correct: 2
-
-Explanation: |
-  None
-
-Active:
-  True
-
-Notes: >
-  OpenTriviaQA Category was: geography. Pending category review.
-
-SchemaVersion: 1
----
 ID: 87f59d94-0c88-4d5a-ba40-65bb16851919
 
 Question: >
@@ -18488,7 +18681,7 @@ SchemaVersion: 1
 ID: 8d68db2a-366b-4f84-91eb-4f1c9ee54679
 
 Question: >
-  Which of the following oceans is the worlds largest?
+  Which of the following oceans is the world's largest?
 
 Answers:
   1: Indian Ocean
@@ -18505,7 +18698,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: geography. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -18534,7 +18727,7 @@ SchemaVersion: 1
 ID: ca3cdc83-cc86-4f46-be4f-d4c742c6fb98
 
 Question: >
-  Which of the following countries is the worlds smallest continent, and can also be considered an island since it is
+  Which of the following countries is the world's smallest continent, and can also be considered an island since it is
   surrounded by water?
 
 Answers:
@@ -18552,14 +18745,14 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: geography. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
 ID: c3af103c-2ae4-49c2-9a2f-b57dbd37b3b9
 
 Question: >
-  Russia is the worlds largest country, with a land area of 17,098,242 square kilometers.
+  Russia is the world's largest country, with a land area of 17,098,242 square kilometers.
 
 Answers:
   1: False
@@ -18574,14 +18767,14 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: geography. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
 ID: 1a438513-8727-4c34-ab64-acdf42f3b51a
 
 Question: >
-  This is the worlds smallest independent state with a population in 2007 of approximately 821.
+  This is the world's smallest independent state with a population in 2007 of approximately 821.
 
 Answers:
   1: Vatican City
@@ -18598,7 +18791,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: geography. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -19820,28 +20013,6 @@ Answers:
   4: A very rare flower that only grows in the mountains
 
 Correct: 3
-
-Explanation: |
-  None
-
-Active:
-  True
-
-Notes: >
-  OpenTriviaQA Category was: geography. Pending category review.
-
-SchemaVersion: 1
----
-ID: 2e4b6815-e31f-4dc6-b97a-7677cb1d36f2
-
-Question: >
-  One the worlds largest silver nuggets was found in Colorado.
-
-Answers:
-  1: True
-  2: False
-
-Correct: 1
 
 Explanation: |
   None

@@ -1,3 +1,28 @@
+ID: 1ddf3b20-bf84-48aa-9bc8-58d68475b330
+
+Question: >
+  The town of Kemi, which in 1996 became the home of the world's largest snow castle, is located in this European
+  country.
+
+Answers:
+  1: Denmark
+  2: Norway
+  3: Finland
+  4: Sweden
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: fd3751e8-6c8c-42b2-a2af-336da3684fa3
 
 Question: >
@@ -72,6 +97,81 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: 0a9ee384-eca7-475f-b9eb-2a34ed0cf806
+
+Question: >
+  Krakatoa volcano caused the most violent volcanic eruption recorded in history. In 1883, it destroyed 75% of the
+  territory of this island.
+
+Answers:
+  1: Thailand
+  2: Malaysia
+  3: Indonesia
+  4: Surinam
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 704f02f1-e590-4f37-b345-58497debc167
+
+Question: >
+  Constituted of 17,508 islands this country gives home to about 240 million. Its tropical rain forest accounts for
+  10% of the world's rain forests.
+
+Answers:
+  1: Bali
+  2: Singapore
+  3: Malaysia
+  4: Indonesia
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 743e4a03-6d8d-4247-9c38-63395a8f7c68
+
+Question: >
+  This country is an enclave in central Italy. Its territory is 61.2 sq. km. (24 sq. miles). It claims to be the
+  world's oldest republic still in existence, founded in 301 A.D.
+
+Answers:
+  1: Vatican City
+  2: Palau
+  3: Seychelles
+  4: San Marino
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: 3ea4b989-7528-4e18-b235-cc69063f74f4
 
 Question: >
@@ -134,6 +234,55 @@ Answers:
   4: Andorra
 
 Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: d8dde98d-0f99-4421-b3b3-96da915466d0
+
+Question: >
+  In which country would you find the world's largest underground lake?
+
+Answers:
+  1: Ukraine
+  2: Poland
+  3: USA
+  4: Namimbia
+
+Correct: 4
+
+Explanation: |
+  The largest underground lake in the world is in Dragon's Breath Cave in Namibia. The second largest is The Lost Sea
+  in Tennessee, United States.
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 15744f29-39bb-4204-990c-0a95889e1522
+
+Question: >
+  The world's largest swimming pool in 2007 was in this country.
+
+Answers:
+  1: Chile
+  2: Morocco
+  3: North Korea
+  4: Venezuela
+
+Correct: 1
 
 Explanation: |
   None

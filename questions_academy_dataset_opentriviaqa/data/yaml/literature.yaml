@@ -11311,6 +11311,226 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: 05d26bac-255e-4b47-a340-8f7a96293b0f
+
+Question: >
+  "Give an Irishman lager for a month, and he's a dead man. An Irishman is lined with copper, and the beer corrodes
+  it. But whiskey polishes the copper and is the saving of him." These words were written by an American novelist and
+  humorist, who used a pseudonym. The Mississippi river has a central role in some of his stories. Name him.
+
+Answers:
+  1: Mark Twain
+  2: Washington Irving
+  3: James Fenimore Cooper
+  4: Jack London
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 2fff5125-4baa-4f5c-91f3-df1821e84d50
+
+Question: >
+  Name the American author of children’s literature, poetry and prose who made the following observation regarding
+  chocolate: Strength is the capacity to break a chocolate bar into four pieces with your bare hands - and then eat
+  just one of the pieces.
+
+Answers:
+  1: Anne Sexton
+  2: Marianne Moore
+  3: Judith Viorst
+  4: Sylvia Plath
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 450d1be9-ba0c-4c80-83ad-c2ea1d0e0f96
+
+Question: >
+  In L. Frank Baum's story, The Wonderful Wizard of OZ, the Good Witch of the North comes with the Munchkins to greet
+  Dorothy, and gives her ruby slippers.
+
+Answers:
+  1: True
+  2: False
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 057d38bd-91b5-4d1f-b250-720789e19912
+
+Question: >
+  Charles Dickens made the following statement about beer: It was as natural as eating and to me as necessary, and I
+  would not have thought of eating a meal without drinking beer.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 54a966af-06cc-424c-9455-28d21b042837
+
+Question: >
+  Peter Rabbit, the first patented soft toy, initially appeared in a children's story written by this author.
+
+Answers:
+  1: Lewis Carroll
+  2: Paulette Bourgeois
+  3: Dr. Seuss
+  4: Beatrix Potter
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 65d75191-9c20-4566-b734-6919b682e43e
+
+Question: >
+  Who is the author of the children's book Charlie and the Chocolate Factory that revolves around a boy named Charlie
+  Bucket?
+
+Answers:
+  1: A. A. Milne
+  2: J. M. Barrie
+  3: Roald Dahl
+  4: Lewis Carroll
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 82f57e6e-6c44-424e-9c35-32e992a8ea83
+
+Question: >
+  What was the name of the first novel by Stephen King in which the main character was a writer?
+
+Answers:
+  1: Salem's Lot
+  2: Misery
+  3: The Shining
+  4: The Dark Half
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 129957ca-774b-4a48-848e-4d5d23810081
+
+Question: >
+  In H. C. Andersen's The Little Match Girl, on Christmas Eve, a young girl is wandering through the streets of the
+  snowbound city, trying to sell her matches.  What happens to the little girl at the end of the story?
+
+Answers:
+  1: She goes back home to celebrate with her father
+  2: She dies alone in the snow
+  3: She is visited by Santa and given presents
+  4: She is invited by a rich family to celebrate the holiday with them
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: cc379848-32c6-430b-9663-cf3bfbaaba97
+
+Question: >
+  Which of these characters appears in William Shakespeare's comedy A Midsummer Nights Dream?
+
+Answers:
+  1: Oberon
+  2: All of these
+  3: Lysander
+  4: Tom Snout
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: 0bfc7f71-7e3f-42bc-a11f-f314f7686a5c
 
 Question: >
@@ -13151,7 +13371,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: literature. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -18905,7 +19125,7 @@ SchemaVersion: 1
 ID: 230534fa-12d0-4b0f-ab0c-9ae2fe07d30b
 
 Question: >
-  Shakespeares history play Henry V depicts events occurring immediately before and after the Battle of Agincourt.
+  Shakespeare's history play Henry V depicts events occurring immediately before and after the Battle of Agincourt.
   During which war was this battle fought?
 
 Answers:
@@ -18923,15 +19143,15 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: literature. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
 ID: bc380517-8ac7-4867-9526-35610fa9ff28
 
 Question: >
-  This pastoral comedy contains one of Shakespeares most quoted monologues, which opens with the lines, All the worlds
-  a stage,
+  This pastoral comedy contains one of Shakespeare's most quoted monologues, which opens with the lines, All the
+  world's a stage,
   And all the men and women merely players.
 
 Answers:
@@ -18949,7 +19169,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: literature. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -19466,7 +19686,7 @@ SchemaVersion: 1
 ID: 017ae117-1a86-48b6-bb55-1c0045164ae1
 
 Question: >
-  FInish the popular quote by Mark Twain: ...each place has its advantages - heaven for climate and hell for...
+  Finish the popular quote by Mark Twain: ...each place has its advantages - heaven for climate and hell for...
 
 Answers:
   1: seeing ones enemies.
@@ -19483,7 +19703,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: literature. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -20080,7 +20300,7 @@ SchemaVersion: 1
 ID: ee1572fa-4516-4088-9795-3f1098914822
 
 Question: >
-  In which of William Shakespeares tragedies does a minor character disappear in Act III with no explanation given?
+  In which of William Shakespeare's tragedies does a minor character disappear in Act III with no explanation given?
 
 Answers:
   1: King Lear
@@ -20097,7 +20317,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: literature. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -21047,7 +21267,7 @@ SchemaVersion: 1
 ID: d643a08d-d905-473e-81be-19c680c34ed6
 
 Question: >
-  What is the definition of the term dogberrysm, which is derived from Shakespeares play Much Ado About Nothing?
+  What is the definition of the term dogberrysm, which is derived from Shakespeare's play Much Ado About Nothing?
 
 Answers:
   1: a seemingly small but actually crucial weakness
@@ -21064,7 +21284,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: literature. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -22902,7 +23122,7 @@ SchemaVersion: 1
 ID: 420c21c1-0639-4a0c-bbf9-1f443e657cae
 
 Question: >
-  Who were William Shakespeares parents?
+  Who were William Shakespeare's parents?
 
 Answers:
   1: John and Lyn Shakespeare
@@ -22919,7 +23139,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: literature. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -22974,7 +23194,7 @@ SchemaVersion: 1
 ID: 83c9c2e7-41ea-4381-8d91-02b7526d2ae4
 
 Question: >
-  What were the names of William Shakespeares three children, two of whom were twins, a boy and a girl?
+  What were the names of William Shakespeare's three children, two of whom were twins, a boy and a girl?
 
 Answers:
   1: Ophelia, Harry and Catherine
@@ -22991,14 +23211,14 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: literature. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
 ID: f2ed0aa4-3737-4fc4-8f7b-39ed049ccd77
 
 Question: >
-  What was the name of Shakespeares theatre, where his acting company performed?
+  What was the name of Shakespeare's theatre, where his acting company performed?
 
 Answers:
   1: The Theatre
@@ -23015,7 +23235,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: literature. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -25290,28 +25510,6 @@ Notes: >
 
 SchemaVersion: 1
 ---
-ID: 64b8f0c7-e83e-44f7-87a7-b072478ffc40
-
-Question: >
-  Mariel Hemingway never starred in a Superman movie.
-
-Answers:
-  1: False
-  2: True
-
-Correct: 1
-
-Explanation: |
-  None
-
-Active:
-  True
-
-Notes: >
-  OpenTriviaQA Category was: literature. Pending category review.
-
-SchemaVersion: 1
----
 ID: 95394f02-7d3c-408c-94ad-345d12c7eb92
 
 Question: >
@@ -25679,7 +25877,7 @@ SchemaVersion: 1
 ID: f7e6eb73-b346-4107-89d7-a18a5ae4f899
 
 Question: >
-  What is Romeos last name in Shakespeares play Romeo and Juliet?
+  What is Romeo's last name in Shakespeare's play Romeo and Juliet?
 
 Answers:
   1: Montague
@@ -25696,7 +25894,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: literature. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -28028,7 +28226,7 @@ SchemaVersion: 1
 ID: 0472ded2-08c0-4ed0-addd-24562b74537d
 
 Question: >
-  What was the name of Hans Christian Andersens first story which was published in 1822?
+  What was the name of Hans Christian Andersen's first story which was published in 1822?
 
 Answers:
   1: The Tinder Box
@@ -28045,7 +28243,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: literature. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -28125,7 +28323,7 @@ SchemaVersion: 1
 ID: 9a8f72f6-9637-46ce-aa01-f69bf965e864
 
 Question: >
-  From which Hans Christian Andersens fairy tale are the characters Kai and Gerda?
+  From which Hans Christian Andersen's fairy tale are the characters Kai and Gerda?
 
 Answers:
   1: The Steadfast Tin Soldier
@@ -28142,7 +28340,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: literature. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -28150,7 +28348,7 @@ ID: db7be556-a85a-4bf5-8ac0-9a3741708afb
 
 Question: >
   What unforgettable character from the novel David Copperfield by Charles Dickens is believed to be based on Hans
-  Christian Andersens personality and appearance?
+  Christian Andersen's personality and appearance?
 
 Answers:
   1: Edward Murdstone
@@ -28167,7 +28365,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: literature. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -28222,7 +28420,7 @@ SchemaVersion: 1
 ID: 7079ab8f-65d0-43f6-9054-9833df92c4cc
 
 Question: >
-  Name the headstrong and sharp-tongued woman whose feisty spirit is tamed by Petruccio in Shakespeares comedy The
+  Name the headstrong and sharp-tongued woman whose feisty spirit is tamed by Petruccio in Shakespeare's comedy The
   Taming of the Shrew?
 
 Answers:
@@ -28240,7 +28438,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: literature. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -28369,7 +28567,7 @@ SchemaVersion: 1
 ID: 7ac33a64-cd34-410b-9835-dcc524d4ac0e
 
 Question: >
-  How does young Juliet Capulet die in Shakespeares tragedy Romeo and Juliet?
+  How does young Juliet Capulet die in Shakespeare's tragedy Romeo and Juliet?
 
 Answers:
   1: She swallows poison.
@@ -28386,14 +28584,14 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: literature. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
 ID: a6a64701-3516-4aa4-aacb-f10c71542be6
 
 Question: >
-  In Shakespeares history play Richard III, this lady asked Richard, Did you not kill my husband? and got the
+  In Shakespeare's history play Richard III, this lady asked Richard, Did you not kill my husband? and got the
   following reply: Your beauty which did haunt me in my sleep could make me undertake the death of all the world.
 
 Answers:
@@ -28411,7 +28609,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: literature. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -30483,7 +30681,7 @@ SchemaVersion: 1
 ID: afb13ba0-0d06-4962-999c-dc7f686b0896
 
 Question: >
-  This character, often regarded as one of Shakespeares most malevolent villains, is an expert manipulator, who
+  This character, often regarded as one of Shakespeare's most malevolent villains, is an expert manipulator, who
   states, I am not what I am.
 
 Answers:
@@ -30501,7 +30699,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: literature. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -30583,7 +30781,7 @@ SchemaVersion: 1
 ID: ca20e57c-2475-4b56-92ef-cd39672ca6fb
 
 Question: >
-  Name King Lears brutal son-in-law who gouged out Gloucesters eyes in Shakespeares tragedy King Lear.
+  Name King Lear's brutal son-in-law who gouged out Gloucester's eyes in Shakespeare's tragedy King Lear.
 
 Answers:
   1: Duke of Burgundy
@@ -30600,7 +30798,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: literature. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -40396,30 +40594,6 @@ Notes: >
 
 SchemaVersion: 1
 ---
-ID: 528e8c4a-ed33-4499-b3f5-b49bd0a6b7bf
-
-Question: >
-  In the Hellraiser film series, what is the name of the puzzle-box used to open the gateway to the other world?
-
-Answers:
-  1: Midnight configuration
-  2: Lacrimal configuration
-  3: Lament configuration
-  4: Pandemonium configuration
-
-Correct: 3
-
-Explanation: |
-  None
-
-Active:
-  True
-
-Notes: >
-  OpenTriviaQA Category was: literature. Pending category review.
-
-SchemaVersion: 1
----
 ID: 45c9b8b0-50b5-49f8-be73-3d75d4dc00a1
 
 Question: >
@@ -40638,7 +40812,7 @@ SchemaVersion: 1
 ID: b007cb34-e768-4545-b81d-1ba747c2497e
 
 Question: >
-  Bloody Stupid Johnson, Discworlds famous dyslexic architect, is Terry Pratchetts version of Leonardo da Vinci.
+  Bloody Stupid Johnson, Discworld's famous dyslexic architect, is Terry Pratchett's version of Leonardo da Vinci.
 
 Answers:
   1: True
@@ -40653,7 +40827,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: literature. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -45717,6 +45891,127 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: 51a56f88-ed10-44ad-9196-6dfd221e3054
+
+Question: >
+  Which sport is mentioned in Shakespeare's Henry V?
+
+Answers:
+  1: Tennis
+  2: Golf
+  3: Bowling
+  4: Darts
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 8af56757-b3ff-478b-a8d9-ea1edd9f667d
+
+Question: >
+  How did the alien invasion in Herbert G. Wells's well-known science fiction novel, The War of the Worlds eventually
+  come to a halt?
+
+Answers:
+  1: All nations united and together, repelled the invasion.
+  2: The aliens were unexpectedly killed by a terrestrial disease.
+  3: The alien invaders took possession of Earth.
+  4: Aliens and humans reached an agreement to coexist on Earth.
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: ec372fb9-98a4-4392-8820-94a80684bb22
+
+Question: >
+  What was Shakespeare's last play?
+
+Answers:
+  1: A Lovers Complaint
+  2: Romeo and Juliet
+  3: The Winters Tale
+  4: The Tempest
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 6677efe7-455b-48ab-b6be-0fd08018f7c1
+
+Question: >
+  How many people die in the final scene of Shakespeare's Hamlet?
+
+Answers:
+  1: 5
+  2: 0
+  3: 6
+  4: 4
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 10dd4229-4d7e-4a89-8cc7-e5b14d08e8df
+
+Question: >
+  What happens to the Little Mermaid at the end of Hans Christian Andersen's fairy tale The Little Mermaid?
+
+Answers:
+  1: She returns to the underwater world and marries a merman.
+  2: Her body turns into foam.
+  3: She dies and is damned for eternity.
+  4: She marries the prince and they live happily ever after.
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: 1c404ca2-44c2-4615-98e6-9dfd7de82590
 
 Question: >
@@ -45767,6 +46062,55 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: cc2001af-45aa-4e3d-9327-a08afc51bfb2
+
+Question: >
+  How is the wizarding world's newspaper, The Daily Prophet, delivered each morning in the Harry Potter novels?
+
+Answers:
+  1: Workers of the Postal Union 151
+  2: Owl post
+  3: United Parcel Service
+  4: Postal carriage
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: f9827b74-0178-4a59-b069-82b1aa4a07e4
+
+Question: >
+  In Andersen's fairy tale The Princess and the Pea, a young woman arrives at the royal family's gate and claims to be
+  a real princess. Who decides to test the validity of her claim by placing a pea under her mattresses?
+
+Answers:
+  1: the Queen
+  2: the King
+  3: the Princes sister
+  4: the Prince
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: b9b64159-d3f8-46fe-bbfc-75c2a75c8b69
 
 Question: >
@@ -45780,6 +46124,129 @@ Answers:
   4: Elixir of Life
 
 Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 2d699693-f688-4ec1-955a-306d793d1c2a
+
+Question: >
+  What does the Sea Witch want from the Little Mermaid in exchange for the magic potion in Andersen's fairy tale The
+  Little Mermaid?
+
+Answers:
+  1: Her soul
+  2: Her heart
+  3: Her tongue/voice
+  4: Her necklace
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 87736e7f-9c86-472a-a67f-d4ab41aef60f
+
+Question: >
+  What is the meaning of a falling star according to the late grandmother in Andersen's The Little Match Girl?
+
+Answers:
+  1: Someone is dying
+  2: God is crying
+  3: Someone is born
+  4: An angel is coming to earth from Heaven
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 3635a902-a6e3-454a-a4b9-8a792cf48362
+
+Question: >
+  What is Elisa forbidden to do until she finishes knitting the eleven nettle shirts in Hans Christian Andersen's
+  fairy tale The Wild Swans?
+
+Answers:
+  1: Smile
+  2: Cut her hair
+  3: Go out in the sunlight
+  4: Speak
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 50356867-4983-42ec-9922-bae549ad94d3
+
+Question: >
+  What is the word that Kai has to spell using pieces of ice in order to regain his freedom in Andersen's fairy tale
+  The Snow Queen?
+
+Answers:
+  1: Forgiveness
+  2: Eternity
+  3: Love
+  4: Purity
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: b7c1d4f8-c986-4c6e-979a-49130881753b
+
+Question: >
+  What animals mock the little duck in Hans Christian Andersen's fairy tale The Ugly Duckling?
+
+Answers:
+  1: Cat and dog
+  2: Cat and hen
+  3: Hen and dog
+  4: Geese
+
+Correct: 2
 
 Explanation: |
   None

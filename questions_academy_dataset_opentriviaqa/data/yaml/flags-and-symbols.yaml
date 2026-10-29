@@ -284,6 +284,224 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: f21cd34c-7d53-4e8f-98a3-bd4fd18b4b74
+
+Question: >
+  This famous mountain flower, endangered in many countries, is the national flower of Switzerland and Austria.
+
+Answers:
+  1: Petunia
+  2: Lilly
+  3: Edelweiss
+  4: Heliconia
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 8da80178-6e3d-49dd-9d5a-9ebf5169a114
+
+Question: >
+  It is national flower of Venezuela, and its family consists of more than 25,000 species.
+
+Answers:
+  1: Peony
+  2: Orchid
+  3: Camellia
+  4: Magnolia
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 6129817e-ded1-4ef6-8de7-8920ae559ad2
+
+Question: >
+  Which is the national flower of Mexico and Columbia, introduced to Europe as late as the end of the 19th century?
+
+Answers:
+  1: Dahlia
+  2: Lilac
+  3: Iris
+  4: Rose
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 5fc032af-8f1f-4095-a8de-f78242bf338e
+
+Question: >
+  This perennial bulbous plant from the family of Liliaceae is the national flower of Iran.
+
+Answers:
+  1: Lily
+  2: Rose
+  3: Sagebrush
+  4: Tulip
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 5fc1a008-fd34-4617-8468-9a63f991b53f
+
+Question: >
+  This plant, whose name in Greek means rose tree, is widespread in the Sino-Himalayan region and is the national
+  flower of Nepal.
+
+Answers:
+  1: Datura
+  2: Rhododendron
+  3: Goldenrod
+  4: Daisy
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 15abd784-8fa3-4d54-a46f-77b36e34b016
+
+Question: >
+  What is the common name of the national flower of India, which is also called Sacred water lily and is often
+  associated with Buddhism?
+
+Answers:
+  1: Chamomile
+  2: Dahlia
+  3: Poppy
+  4: Lotus
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 9c5d348e-5fca-4283-a6d8-c5d3e0ac778f
+
+Question: >
+  This special kind of clover, originally used in medicine, is the national flower of Ireland.
+
+Answers:
+  1: Cosmos
+  2: Caladium
+  3: Shamrock
+  4: Celosia
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 14718350-9e7b-4156-8607-c3c9d4229d4c
+
+Question: >
+  This flower, often associated with narcissism and egoism in art, is the national flower of Wales.
+
+Answers:
+  1: Daffodil
+  2: Carnation
+  3: Lily
+  4: Violet
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 2d5630c3-f453-46dd-bcb5-f0d86ec89fd1
+
+Question: >
+  This plant with small blue flower heads, often regarded as a weed in the past, is the national flower of Estonia.
+
+Answers:
+  1: Daisy
+  2: Lily
+  3: Blue cornflower
+  4: Dahlia
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: 319bc5f4-b5aa-4f76-8006-5bedfdcfd253
 
 Question: >

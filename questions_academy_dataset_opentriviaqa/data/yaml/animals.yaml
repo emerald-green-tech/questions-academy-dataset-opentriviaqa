@@ -24805,9 +24805,9 @@ Question: >
   The koala is the only animal species on the planet to possess this quality.
 
 Answers:
-  1: All of these
+  1: All of these.
   2: It sleeps with open eyes.
-  3: When its hungry, it starts sucking on its tail.
+  3: When it's hungry, it starts sucking on its tail.
   4: Its brain size is extremely reduced.
 
 Correct: 4
@@ -31390,7 +31390,7 @@ SchemaVersion: 1
 ID: dbd4eab6-cdfd-47d6-97cc-b8b8214fbcf3
 
 Question: >
-  What is the worlds smallest winged insect?
+  What is the world's smallest winged insect?
 
 Answers:
   1: Psocids
@@ -35527,6 +35527,76 @@ Correct: 2
 
 Explanation: |
   None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 22412934-05f8-4a28-9fbc-47f611aca450
+
+Question: >
+  This country is the world's largest exporter of corals.
+
+Answers:
+  1: India
+  2: Australia
+  3: Indonesia
+  4: Thailand
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: a54549c3-372f-4536-927f-60f83b6830f4
+
+Question: >
+  The molars of the African elephant can be longer than a foot.
+
+Answers:
+  1: True
+  2: False
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 407df913-1741-4323-b5fa-e4f6e381e761
+
+Question: >
+  Where would one find the world's largest vulture?
+
+Answers:
+  1: South Africa
+  2: Australia
+  3: California
+  4: The Andes
+
+Correct: 4
+
+Explanation: |
+  The Andean condor (Vultur gryphus) is the world's largest vulture and one of the largest flying birds on Earth.
 
 Active:
   True

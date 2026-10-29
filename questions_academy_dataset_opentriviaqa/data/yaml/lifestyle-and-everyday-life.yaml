@@ -46,6 +46,55 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: e1b5fcd1-e21b-4db5-bd47-a8af4c88ae5f
+
+Question: >
+  If you want to remove graffiti from the wall of your house, you should do it within this period of time.
+
+Answers:
+  1: 1 week
+  2: 48-72 hours
+  3: 24-48 hours
+  4: 6 hours
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: ac8fa2ba-a1bb-424c-9924-31570a73ea4a
+
+Question: >
+  The American Philatelic Society is the U.S. organization of the fans of one of the world's most popular hobbies.
+  Which is it?
+
+Answers:
+  1: Stamp collecting
+  2: Coin collecting
+  3: Knitting
+  4: Matchbox collecting
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: c39fd4c1-14cf-4cdc-b74e-0a5f049c373f
 
 Question: >

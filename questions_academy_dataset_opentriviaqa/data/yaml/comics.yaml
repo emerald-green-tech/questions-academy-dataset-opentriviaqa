@@ -884,6 +884,54 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: dd949da1-96bb-46e0-b7b5-4035efab1b82
+
+Question: >
+  Who was the creator of the "Peanuts" cartoon, that featured characters like Lucy, Linus, Snoopy and Charlie Brown?
+
+Answers:
+  1: Charles Addams
+  2: Charles Schulz
+  3: Dr. Suess
+  4: Matt Groening
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 11e9c5d2-4ed8-4045-b5e6-5f01586991aa
+
+Question: >
+  Which Peanuts cartoon character said, All I really need is love, but a little chocolate now and then doesn't hurt!?
+
+Answers:
+  1: Charlie Brown
+  2: Linus
+  3: Lucy
+  4: Sally
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: 8ffe16aa-4110-429e-941d-53206532f5cc
 
 Question: >

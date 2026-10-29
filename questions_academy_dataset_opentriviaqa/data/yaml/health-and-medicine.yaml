@@ -1017,6 +1017,296 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: ea753d73-b031-488a-a6b5-ca103e5f9350
+
+Question: >
+  How does chocolate affect blood cholesterol levels?
+
+Answers:
+  1: It raises only LDL (bad cholesterol)
+  2: It lowers only HDL (good cholesterol)
+  3: It raises both LDL (bad cholesterol) and HDL (good cholesterol)
+  4: It raises only HDL (good cholesterol)
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: fd0b400a-46d8-4f48-8f54-1eb2f472a8b4
+
+Question: >
+  A research used mice to reveal that red wine can slow down the development of cancer cells and increase life
+  expectancy of rodents. Researchers attribute this to the anti-oxidizing properties of these agents.
+
+Answers:
+  1: Minerals
+  2: Polyphenols
+  3: Free radicals
+  4: Enzymes
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 98079bbd-1220-4419-90b6-e0d028470b20
+
+Question: >
+  If you drink more red wine than the recommended dose, you will increase the benefits.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 1f0a4fc3-9a33-4439-9a68-77d3de9506ca
+
+Question: >
+  This agent, present in the skin of grapes, is one of the most important beneficiary agents in wine. It has
+  antioxidant, anticoagulant, anti-inflammatory and anti-cancer properties.
+
+Answers:
+  1: Resveratrol
+  2: Caffeine
+  3: Flavonoids
+  4: Azulene
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 7955f2ee-4765-4420-9f93-8dc9e6c70489
+
+Question: >
+  The effects of red and white wine on your body are comparable.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 677962d6-96a0-4b8f-8cfa-327285d5299c
+
+Question: >
+  It is not the alcohol in wine that causes hangover. Hangover is actually caused by these.
+
+Answers:
+  1: Antioxidants
+  2: Polyphenols
+  3: Carbides
+  4: Impurities
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: a8992865-4f78-4abc-a115-038bf2f59b0a
+
+Question: >
+  Age-related macular degeneration, cancer, heart diseases and neural-tube defects are all diseases which this green
+  leafy vegetable will help you with, as a preventive measure. It is also a good source of iron.
+
+Answers:
+  1: Leeks
+  2: Lettuce
+  3: Asparagus
+  4: Spinach
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 756e54c0-7fd8-4508-9063-774610243483
+
+Question: >
+  Besides containing vitamin E, this fruit also has many carotenoids, especially Beta-carotene, which helps you cope
+  with harmful sun rays.
+
+Answers:
+  1: Mango
+  2: Banana
+  3: Apple
+  4: Cucumber
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 92310c72-128d-43b6-ac36-f589c4c9a6b2
+
+Question: >
+  This coenzyme is naturally produced by a specific algae. It is used for transforming food into energy that the body
+  will use to perform all its activities. It is also a powerful antioxidant.
+
+Answers:
+  1: Riboflavin
+  2: Thiamin
+  3: Q 10
+  4: Niacin
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 7b921d32-1bc6-4194-8629-0b0d4ec8c7b6
+
+Question: >
+  This ingredient is often used in anti-cellulite lotions and slim gels because it enhances the micro-circulation and
+  easily dissolves body fat.
+
+Answers:
+  1: Chocolate
+  2: Nicotine
+  3: THC
+  4: Caffeine
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 0281f593-4345-4efc-a596-29e200696d78
+
+Question: >
+  Eating carrots can improve a person's night vision.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 65df1ae8-ad1f-4278-9fa6-5d337f2f720f
+
+Question: >
+  Addiction, hyper excitability, and hallucinations were believed to be manifestations of this syndrome, urged by
+  absinthe. People considered that these traits, once acquired from absinthe drinking, became hereditary and could be
+  passed over to their children.
+
+Answers:
+  1: Downing syndrome
+  2: Absinthism
+  3: Opitz G/BBB Syndrome
+  4: Aspergers syndrome
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: 6dadcad0-e6cc-4201-933f-0f6c6b4ec208
 
 Question: >
@@ -2578,6 +2868,30 @@ Answers:
   2: Typhoid fever
   3: Indian bird flu
   4: Smallpox
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 59e1d85e-71a5-4586-8096-b9c3e00ea429
+
+Question: >
+  This terrible disease killed as much as 5% of the world's population and affected almost 20% in just six months.
+
+Answers:
+  1: Spanish Flu
+  2: Measles
+  3: Bubonic plague
+  4: Cholera
 
 Correct: 1
 

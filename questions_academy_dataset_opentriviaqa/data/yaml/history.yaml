@@ -9547,6 +9547,224 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: 90dafefe-13a5-4aff-93a1-47ba9f06f40e
+
+Question: >
+  The federal tax on liquor and distilled drinks imposed in 1791 by Alexander Hamilton caused public protests and an
+  uprising, known as the Whiskey Rebellion, which culminated in 1794. In which US state did the riot break out?
+
+Answers:
+  1: Florida
+  2: Virginia
+  3: Kentucky
+  4: Pennsylvania
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 512b0efd-2828-4dac-bb91-334ef14847a3
+
+Question: >
+  After retiring from the US Presidency in 1797, this person became one of the most successful American distillers of
+  whiskey.
+
+Answers:
+  1: James Maddison
+  2: George Washington
+  3: John Adams
+  4: Andrew Jackson
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 1e594a63-f2ac-4123-b3ae-0250c2d726e2
+
+Question: >
+  These ancient people drew graffiti on walls and monuments.
+
+Answers:
+  1: Hindus
+  2: Romans
+  3: American Indians
+  4: Moguls
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: edd053cb-f699-4709-b1f9-e0b2139fbfbf
+
+Question: >
+  This botanist taught former slaves farming techniques for self-sufficiency and is known for suggesting hundreds of
+  uses for the peanut.
+
+Answers:
+  1: Eli Whitney
+  2: Harriet Beecher Stowe
+  3: George Washington Carver
+  4: Abe Lincoln
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: b58220fb-e42a-45c2-b15d-73435e1e62b0
+
+Question: >
+  What US President was a peanut farmer from the south?
+
+Answers:
+  1: Jimmy Carter
+  2: John Quincy Adams
+  3: Abe Lincoln
+  4: George W Bush
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 011e72f5-49f2-4f0e-9860-ef5f4576a0ed
+
+Question: >
+  During World War 2 the game Monopoly was used by the British Secret Services for this very practical and clever
+  purpose.
+
+Answers:
+  1: To draw away the attention of Nazi soldiers
+  2: To code secret information about key German targets and send it to GB disguised as a Monopoly game
+  3: None of these
+  4: To secretly provide prisoners of war held by the Nazis with useful objects – maps, compasses, real money, etc.
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: b6596bc9-7a45-49b1-9909-3a989e1eebeb
+
+Question: >
+  During the years of the Civil War molasses was made using maple syrup because it did not require slave labor.
+
+Answers:
+  1: True
+  2: False
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: da8f9449-72ab-4048-81a0-5294b728f3f0
+
+Question: >
+  Who is said to have carried chocolate with him on military campaigns?
+
+Answers:
+  1: Caesar
+  2: Napoleon
+  3: George Patton
+  4: Alexander the Great
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: eb7c402c-bca1-4c5b-8fa1-26f671af0eaa
+
+Question: >
+  Who was the world's first woman prime minister?
+
+Answers:
+  1: Mrs. Bandaranaike
+  2: Indira Gandhi
+  3: Mrs. Thakadandre
+  4: Prathibha Patel
+
+Correct: 1
+
+Explanation: |
+  Sirimavo Bandaranaike was the Prime Minister of Sri Lanka, and the first woman prime minister in the world.
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: a9a7a74e-e139-4306-a1f0-b6c92a3e308f
 
 Question: >
@@ -9607,6 +9825,30 @@ Answers:
   4: July 4
 
 Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 4c5bd29c-e608-42f2-8ef6-ee3f8b70d095
+
+Question: >
+  Which country, situated in today's Iraq and Iran, was a major enemy of the Roman Empire?
+
+Answers:
+  1: Parthia
+  2: Persia
+  3: Poland
+  4: Prussia
+
+Correct: 1
 
 Explanation: |
   None
@@ -9682,6 +9924,31 @@ Answers:
   4: Adam Smith
 
 Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 1866f7cb-90a0-490a-9a35-d984419ad6a9
+
+Question: >
+  The world's first constitution was the American one. Which constitution was the second in the world and the first in
+  Europe?
+
+Answers:
+  1: Greek
+  2: Polish
+  3: French
+  4: British
+
+Correct: 2
 
 Explanation: |
   None
@@ -13764,6 +14031,31 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: 5acf3e56-6b50-44a9-b77f-e6a4ef3e7a45
+
+Question: >
+  This is the year in which the world's first nuclear power plant generating electricity for commercial use was
+  officially connected to the Soviet power grid.
+
+Answers:
+  1: 1954
+  2: 1956
+  3: 1953
+  4: 1955
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: b2925e4d-df68-4612-98f6-5dc17c557ccc
 
 Question: >
@@ -13776,6 +14068,54 @@ Answers:
   4: Furman  v. Florida
 
 Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: af48d2f9-a251-412a-b50b-63453ed88620
+
+Question: >
+  Who is considered the world's first photojournalist?
+
+Answers:
+  1: Eadweard Muybridge
+  2: Jacob Riis
+  3: Matthew  Brady
+  4: Minor White
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: e4e2b3ee-27d1-4f0f-8608-f89aa3915e19
+
+Question: >
+  Where was the world's first modern electrically air-conditioned building located?
+
+Answers:
+  1: San Antonio, Texas
+  2: Rome, Italy
+  3: New York, New York
+  4: Barcelona, Spain
+
+Correct: 1
 
 Explanation: |
   None
@@ -13851,6 +14191,56 @@ Answers:
   4: Arthur Vercoe Pedlar
 
 Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 3bc412a8-307b-4851-b408-cf6aa077a703
+
+Question: >
+  The ruler of the Mughal Empire married his wife when they were still teenagers. She gave birth to 14 children. After
+  her death in 1629, the grieving emperor created one of world's most beautiful edifices - Taj Mahal, paying tribute
+  to his beloved wife. Who were they?
+
+Answers:
+  1: Alfred Lunt and Lynn Fontanne
+  2: Shah Jahan and Raza Devi
+  3: Abelard and Heloise
+  4: Shah Jahan and Mumtaz Mahal
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: people
+
+SchemaVersion: 1
+---
+ID: 056ee7f7-0c44-44e9-94dc-e2ed8f49cd10
+
+Question: >
+  Who became the world's first female prime minister in 1960 in Sri Lanka?
+
+Answers:
+  1: Golda Meïr
+  2: Indira Gandhi
+  3: Sirimavo Bandaranaike
+  4: Élisabeth Domitién
+
+Correct: 3
 
 Explanation: |
   None
@@ -13950,6 +14340,31 @@ Answers:
   4: Mesopotamia
 
 Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: ae677fe0-ca54-44f6-bb88-d1b754cf4286
+
+Question: >
+  This red-haired Italian military and political figure has been dubbed the Hero of the Two Worlds due to his military
+  expeditions in both South America and Europe.
+
+Answers:
+  1: Enrico Fermi
+  2: Benito Mussolini
+  3: Giuseppe Mazzini‎
+  4: Giuseppe Garibaldi
+
+Correct: 4
 
 Explanation: |
   None
@@ -14775,8 +15190,8 @@ SchemaVersion: 1
 ID: 350b191b-c8df-4d51-8afe-64782dde5564
 
 Question: >
-  One of the worlds greatest generals. By  the age of 30 he ruled almost half of the world. This great leader died at
-  the peak of his campaign at the age of 33.  His was taught by Aristotle.
+  One of the world's greatest generals. By  the age of 30 he ruled almost half of the world. This great leader died at
+  the peak of his campaign at the age of 33. His was taught by Aristotle.
 
 Answers:
   1: Alexander The Great
@@ -14793,7 +15208,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: history. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -22759,7 +23174,7 @@ SchemaVersion: 1
 ID: cd8f0660-9042-447e-a4d5-2fad30916e9d
 
 Question: >
-  Issued during the Victorian period, it is the name of the worlds first official adhesive postage stamp.
+  Issued during the Victorian period, it is the name of the world's first official adhesive postage stamp.
 
 Answers:
   1: Penny Red
@@ -22776,7 +23191,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: history. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -23501,31 +23916,6 @@ Answers:
   2: False
 
 Correct: 1
-
-Explanation: |
-  None
-
-Active:
-  True
-
-Notes: >
-  OpenTriviaQA Category was: history. Pending category review.
-
-SchemaVersion: 1
----
-ID: 44cd7772-caab-4a01-802a-cce1d5ceb91e
-
-Question: >
-  Li Ka Shing, a Hong Kong businessman and one of the worlds richest men, paid an extremely large ransom for the safe
-  return of his son, Victor Li Tzar. How much did he pay?
-
-Answers:
-  1: $1,500,500.00
-  2: 144,000,000.00
-  3: $125,000,000.00
-  4: 134,000,000.00
-
-Correct: 4
 
 Explanation: |
   None
@@ -38003,7 +38393,7 @@ SchemaVersion: 1
 ID: bbc85d94-b708-43bf-a6ee-82be0edaa11c
 
 Question: >
-  Shakespeares theater, The Globe, was destroyed by fire in 1613. Which Queen saw its reopening?
+  Shakespeare's theater, The Globe, was destroyed by fire in 1613. Which Queen saw its reopening?
 
 Answers:
   1: Elisabeth I
@@ -38020,7 +38410,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: history. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -44632,7 +45022,7 @@ SchemaVersion: 1
 ID: 4ed55b85-e74a-4d63-8be2-d71fc0e649ee
 
 Question: >
-  What city opened the first Worlds Fair in the United States on July 14, 1853?
+  What city opened the first World's Fair in the United States on July 14, 1853?
 
 Answers:
   1: St. Louis
@@ -44649,7 +45039,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: history. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -45231,7 +45621,7 @@ SchemaVersion: 1
 ID: 783218e2-1b7e-449d-affa-b841e3542239
 
 Question: >
-  The Byzantine period began in this century which also saw the  Valerians massacre of Christians.
+  The Byzantine period began in this century which also saw the Roman Emperor Valerian's massacre of Christians.
 
 Answers:
   1: 2nd century BC
@@ -45479,28 +45869,6 @@ Answers:
   2: The formation of a super-continent
   3: An increase in biodiversity
   4: None of these
-
-Correct: 1
-
-Explanation: |
-  None
-
-Active:
-  True
-
-Notes: >
-  OpenTriviaQA Category was: history. Pending category review.
-
-SchemaVersion: 1
----
-ID: 7828b333-3977-45ee-ad2b-b38645b6e572
-
-Question: >
-  Oxygen levels during the Mesozoic were lower than todays levels.
-
-Answers:
-  1: True
-  2: False
 
 Correct: 1
 
@@ -47361,31 +47729,6 @@ Answers:
   4: The North-Atlantic Treaty Organisation (NATO)
 
 Correct: 1
-
-Explanation: |
-  None
-
-Active:
-  True
-
-Notes: >
-  OpenTriviaQA Category was: history. Pending category review.
-
-SchemaVersion: 1
----
-ID: 37a98fc9-4bf2-4fb8-9a4b-7012c6183ed4
-
-Question: >
-  Who are the two ancient Greek architects who designed the Parthenon, a temple regarded as one of the worlds greatest
-  cultural monuments.
-
-Answers:
-  1: Eugenius and Arcadius
-  2: Theodosius and Delos
-  3: Iktinos and Kallikrates
-  4: Theotokos and Pisisitratus
-
-Correct: 3
 
 Explanation: |
   None

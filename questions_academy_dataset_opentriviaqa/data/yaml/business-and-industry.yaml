@@ -1,3 +1,52 @@
+ID: 47d65eb0-2989-4403-8d82-0dfc262829c8
+
+Question: >
+  Which of these people was not one of the co-founders of the Apple Inc. corporation?
+
+Answers:
+  1: Steve Wozniak
+  2: Steve Jobs
+  3: Ronald Wayne
+  4: Paul Allen
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: d6484ceb-e35d-4bbe-9e4d-8145d4a34934
+
+Question: >
+  In August 2012, this corporation became the most valuable public company of all time with a stock market value of
+  around $623.52 billion.
+
+Answers:
+  1: Google
+  2: Microsoft
+  3: General Motors
+  4: Apple Inc.
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: b505c664-024e-4fbf-9fd3-2648aca30f06
 
 Question: >
@@ -1292,6 +1341,510 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: fc24b9f3-40fe-48c0-81a3-3ce227a73c70
+
+Question: >
+  What was the first self service grocery store?
+
+Answers:
+  1: Safeway
+  2: Atlantic  Pacific Tea Company
+  3: Piggly Wiggly
+  4: Hinky Dinky
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: a52c26c9-5136-45f2-be9a-a155b7f85930
+
+Question: >
+  Who built the first restaurant from the McDonald's chain, one of the world's largest chains of fast-food
+  restaurants?
+
+Answers:
+  1: The MacDonald brothers
+  2: The U. S. meatpackers conglomerate
+  3: Ray Kroc
+  4: Dave Thomas
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: e348aa56-22f0-4e90-94f5-54aef6e12583
+
+Question: >
+  Who developed the process of conching, which is used for a better refining of chocolate?
+
+Answers:
+  1: Rudolph Lindt
+  2: None of these
+  3: The Cadbury brothers
+  4: Milton Hershey
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: ae3b6be8-e31f-4743-adbb-19eee4805824
+
+Question: >
+  Which of these is not a Swiss chocolate manufacturer?
+
+Answers:
+  1: Suchard
+  2: Nestle
+  3: Lindt
+  4: Hershey's
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 60a9c3ac-197b-40b1-ba07-6a109d72c756
+
+Question: >
+  A lilac colored cow is the symbol of this brand of chocolate, a best-seller for Kraft Foods, created in 1901 in
+  Neuchâtel, Switzerland by chocolatier Philippe Suchard.
+
+Answers:
+  1: Nestle
+  2: Milka
+  3: Svoge
+  4: Lindt
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: c4044b1f-6077-4320-a844-09bf93ada608
+
+Question: >
+  The mascot of which cereal is an animated sun, named Sunny?
+
+Answers:
+  1: Special K
+  2: None of these
+  3: Raisin Bran
+  4: Total
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 1dae405f-7ef7-4351-8241-209fcfd6a939
+
+Question: >
+  What characters from an animated series, did the cereal Fruity Pebbles feature as its mascots?
+
+Answers:
+  1: None of these
+  2: Daffy Duck and Bugs Bunny
+  3: Tom and Jerry
+  4: Mickey Mouse and Donald Duck
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 99db01e1-32ab-4131-ab58-cc74064072be
+
+Question: >
+  What was the original mascot for the Cookie Crisp cereal?
+
+Answers:
+  1: a bear
+  2: a wizard
+  3: a masked man
+  4: an animated cookie
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 6b396966-2abc-4e3e-be5d-6f82e36c08c2
+
+Question: >
+  Complete the advertising slogan of a peanut butter brand: Choosy mothers choose ...
+
+Answers:
+  1: Peter Pan
+  2: Jif
+  3: Planters
+  4: Skippy
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 429c5c5e-dc01-467f-9bca-6f6b2378b49a
+
+Question: >
+  This snack food company, founded in 1906, is famous for its peanuts and the Mr. Peanut icon.
+
+Answers:
+  1: Skippy
+  2: Diamond Foods
+  3: Planters
+  4: Con-Agra Foods
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 7fce1e7f-9419-4638-8c92-5366ae6630de
+
+Question: >
+  Who was the inventor of the Malian peanut sheller?
+
+Answers:
+  1: Thomas Edison
+  2: George Washington Carver
+  3: Ben Franklin
+  4: Jock Brandis
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: ffdbdfa1-45f7-456e-9b70-767351f42acc
+
+Question: >
+  This world-famous manufacturer of athletic shoes has its origins in a company called Blue Ribbon Sports, founded by
+  Phil Knight and his track coach, Bill Bowerman.
+
+Answers:
+  1: Nike
+  2: Adidas
+  3: K-Swiss
+  4: Reebok
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 5c008415-5a2f-4eb4-8650-5e658ff69c5c
+
+Question: >
+  The fabric hook-and-loop fasteners with the brand name, Velcro, were invented by Swiss engineer Georges de Mestral
+  in what year?
+
+Answers:
+  1: 1969
+  2: 1948
+  3: 1960
+  4: 1965
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: b7acd602-7ccf-45c2-ad01-4413bbdc5eba
+
+Question: >
+  Barbie.com is the number one girls site. There are about this many visits to the site each month.
+
+Answers:
+  1: Over 2 million
+  2: Over 1 million
+  3: Over 5 million
+  4: Over 8 million
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 55d77bc9-294a-447a-888f-ef0324117cd0
+
+Question: >
+  What company is the manufacturer of Mr. Goodbar?
+
+Answers:
+  1: Mars
+  2: Nestle
+  3: none of these
+  4: Hershey
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: d4e03059-dfb1-45b1-8627-690122d57de1
+
+Question: >
+  What was the name of the German doll that inspired Ruth Handler to create the popular fashion doll Barbie?
+
+Answers:
+  1: Bild Lilli
+  2: Francie
+  3: Breeana
+  4: Midge Hadley
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 51d18160-65a7-4f3b-b582-f7a5b1549954
+
+Question: >
+  Approximately how many commercial maple syrup producers are there in North America?
+
+Answers:
+  1: 5,000
+  2: 16,000
+  3: 12,000
+  4: 20,000
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 3cab4807-38c2-4392-a2a1-7489d9a9a464
+
+Question: >
+  The world's first scheduled commercial airline flight occurred in Florida on January 1 of this year.
+
+Answers:
+  1: 1914
+  2: 1921
+  3: 1907
+  4: 1935
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 68bd864b-b578-44f7-95d5-17043ad0eb8e
+
+Question: >
+  The world's first public passenger rail service line began In September of 1825 in England.
+
+Answers:
+  1: True
+  2: False
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 8f82e361-987d-45a5-b45e-3b1613715cbc
+
+Question: >
+  This man, along with his half-brother, tried to corner the world's silver market. His failure led to his bankruptcy.
+
+Answers:
+  1: George Bannister
+  2: William C. Durant
+  3: Nelson Bunker Hunt
+  4: Sam Walton
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 999e6b36-3809-40a0-b8de-2f11056ac314
+
+Question: >
+  McDonald's is the world's largest user of toys.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: c4b78058-9964-4562-b7a6-1da8464ea62c
 
 Question: >
@@ -1989,6 +2542,55 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: 9620a629-215f-4d9b-bc23-8c5d2203dc18
+
+Question: >
+  In 1986, this diamond found in a South African mine beat the record for the world's largest faceted diamond.
+
+Answers:
+  1: Golden Jubilee
+  2: Second Star of Africa
+  3: Great Star of Africa
+  4: Centtenary
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 8fac855e-2ac7-4a36-b290-958f03d14a7d
+
+Question: >
+  General Electric, one of the world's biggest corporations, is active in many market segments. In which of these
+  areas do they NOT operate?
+
+Answers:
+  1: finance
+  2: oil drilling
+  3: electricity
+  4: jet engines
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: 47db0fe3-5267-4d99-aeb4-49854a59e753
 
 Question: >
@@ -2291,6 +2893,78 @@ Answers:
   4: Hollywood Studios
 
 Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 07e87182-2122-400e-84f0-cacac2fd4a4c
+
+Question: >
+  He founded one of the largest fast food companies. Having amassed a $500 million fortune during his lifetime, he was
+  included in the TIME 100 list of the world's most influential builders and titans of industry.
+
+Answers:
+  1: Ray Kroc
+  2: Michael Milken
+  3: Scott McNealy
+  4: Henry Kravis
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 44cd7772-caab-4a01-802a-cce1d5ceb91e
+
+Question: >
+  Li Ka Shing, a Hong Kong businessman and one of the world's richest men, paid an extremely large ransom for the safe
+  return of his son, Victor Li Tzar. How much did he pay?
+
+Answers:
+  1: $1,500,500.00
+  2: $144,000,000.00
+  3: $125,000,000.00
+  4: $134,000,000.00
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 2e4b6815-e31f-4dc6-b97a-7677cb1d36f2
+
+Question: >
+  One the world's largest silver nuggets was found in Colorado.
+
+Answers:
+  1: True
+  2: False
+
+Correct: 1
 
 Explanation: |
   None

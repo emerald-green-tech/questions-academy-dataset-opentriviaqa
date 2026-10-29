@@ -524,6 +524,756 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: 9bffbb11-c4e4-4de8-b5fb-204d881db596
+
+Question: >
+  This undergarment was originally introduced in 1968 by Gossard, with the byline "makes 34 look 36, makes 36 look
+  pow…".
+
+Answers:
+  1: Lingerie
+  2: Wonderbra
+  3: Briefs
+  4: Camisole
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 9e95d2ce-7057-4b26-8541-d1d6707c8bbd
+
+Question: >
+  BVD is a brand of men's underwear, commonly referred to as BVDs. What does BVD stand for?
+
+Answers:
+  1: Black, Victor and Dorn
+  2: Basic Value Dressing
+  3: Bradley, Voorhees and Day
+  4: Big Value Designer
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 84a3caba-db97-425a-9d61-d9e0d22b53c8
+
+Question: >
+  What is the common American nickname for briefs, a type of Y-shaped underwear?
+
+Answers:
+  1: Band brands
+  2: Tighty whities
+  3: People pants
+  4: Cotton cups
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 1dadd1aa-cc04-4e9a-acf1-cc91c9422f7c
+
+Question: >
+  This skirt-like undergarment was worn for warmth or to give a skirt or dress the desired fashionable shape.
+
+Answers:
+  1: Camisole
+  2: Panty hose
+  3: Bustle
+  4: Petticoat
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 460a92e6-2b2b-47d1-81c4-2aa89966a6f1
+
+Question: >
+  Which word refers to leotard-like undergarment that has snaps at the crotch?
+
+Answers:
+  1: Camisole
+  2: Bloomers
+  3: Brassiere
+  4: Bodysuit
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 4387ebe4-194d-4bcb-8d0d-48823ea224f6
+
+Question: >
+  This is a one-piece garment, that men in some hot countries wear around their waist.
+
+Answers:
+  1: Pantalettes
+  2: Boxers
+  3: Loincloth
+  4: Crinoline
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 13ecade4-a2fa-4964-85a6-4ee830bd3d89
+
+Question: >
+  This garment, which replaced the corset, is constructed of elasticized fabric and usually fastened by hook and eye
+  closures.
+
+Answers:
+  1: Brassiere
+  2: Camisole
+  3: Boxers
+  4: Girdle
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 27324c33-5a19-489a-ba5c-5f028902e3d9
+
+Question: >
+  This buttonless and collarless piece of clothing was originally worn as an undershirt.
+
+Answers:
+  1: T-shirt
+  2: Girdle
+  3: Slip
+  4: Hosiery
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 7eb7a0f2-cdb9-4d31-b104-f2d4e242d59a
+
+Question: >
+  In 1853, this jeans producer started the first denim clothing business, intended to supply the miners in California
+  with strong clothing.
+
+Answers:
+  1: Levi Strauss
+  2: Lee Jeans
+  3: Wrangler
+  4: D  G
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 6a56d920-3073-4289-9b90-c94257770701
+
+Question: >
+  The origin of the word denim is related to the name of which southern French city?
+
+Answers:
+  1: Nimes
+  2: Genoa
+  3: Nantes
+  4: Montpellier
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 9274c5ba-88e5-4fb9-b6e7-963ac6da7e20
+
+Question: >
+  This leading American brand of denim jeans, introduced in the mid-1940s, was originally developed for rodeo use.
+
+Answers:
+  1: Wrangler
+  2: Levis
+  3: Gap
+  4: Armani
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 8447502b-b7c4-4898-8ec7-acf1ec176707
+
+Question: >
+  The European company Diesel, producing jeans and other clothing, was founded in which country?
+
+Answers:
+  1: Albania
+  2: Spain
+  3: Sweden
+  4: Italy
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 02887ca3-a99b-423b-a34f-95398801f6b0
+
+Question: >
+  This model is famous for her provocative series of Calvin Klein jeans ads in the 1990s and for posing nude in an
+  advertisement for Calvin Klein's perfume brand.
+
+Answers:
+  1: Naomi Campbell
+  2: Tyra Banks
+  3: Heidi Klum
+  4: Kate Moss
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: f25014e8-bd03-4696-95da-92e7bd2c2a27
+
+Question: >
+  Why were Levi's original blue jeans sewn with orange thread?
+
+Answers:
+  1: Because it matched the color of the copper rivets
+  2: Because the orange thread was cheaper
+  3: Because of the trademark color
+  4: Because the orange thread was the strongest available
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 49d3ac1e-bfc7-4f48-9ca9-6edaed4cf9fe
+
+Question: >
+  Denim, the fabric of which classic blue jeans are sewn, is actually made from what?
+
+Answers:
+  1: Cotton
+  2: Viscose
+  3: Silk
+  4: Wool
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 7d751add-11db-4ce8-9dbc-8d9277fe9ed7
+
+Question: >
+  The first label, which was sewn on the outside of a pair of jeans in 1936, represented what?
+
+Answers:
+  1: A bear
+  2: A red flag
+  3: A cowboy hat
+  4: A hawk
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 62610d66-18ba-4fb9-b12d-e47c69f7a4c5
+
+Question: >
+  In 1970, Elio Fiorucci showed designer jeans for the first time in which city?
+
+Answers:
+  1: Rome
+  2: Paris
+  3: New York
+  4: Milan
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 95d59836-7e16-46bf-83e4-a4252ec210b7
+
+Question: >
+  High-heeled shoes were first invented by men around 1500s AD, with this purpose in mind.
+
+Answers:
+  1: To be used as a weapon.
+  2: To look taller than women.
+  3: To keep feet from slipping out of stirrups while riding.
+  4: To keep feet high and dry from horse manure.
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: f92ce1e9-b4ad-448f-960f-e783a9f760a0
+
+Question: >
+  A clog is a type of shoe, made predominantly out of leather, associated with the Netherlands.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 5bcea50f-8160-4ddb-906e-e6a70c4968c5
+
+Question: >
+  This is one of the fashion designers whose designs were included in Barbie Dolls collection of couture.
+
+Answers:
+  1: Yves Saint Laurent
+  2: John Galiano
+  3: Gucci
+  4: Shiseido
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: be794e77-1d3f-4615-8855-4fe23ae47fd7
+
+Question: >
+  This fashion designer, whose first collection was entitled The Trapeze Line, once said the following words: I wish I
+  had invented blue jeans. They have expression, modesty, sex appeal, simplicity - all I hope for in my clothes.
+
+Answers:
+  1: Ives Saint-Laurent
+  2: Ana Molinari
+  3: Christian Lacroix
+  4: Ralph Lauren
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: c578fe3a-93dc-4d44-81bd-35bf52c73e77
+
+Question: >
+  This American fashion designer is widely recognized as the creator of the American Look.
+
+Answers:
+  1: Elsa Schiaperelli
+  2: James Mainbocher
+  3: Claire McCardell
+  4: Hattie Carnegie
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 56a9727e-409b-4a25-a006-0d281d8e4ca5
+
+Question: >
+  In 1987, this designer received an Oscar for Best Foreign Designer from the Council of Fashion Designers of America,
+  and later the same year, he opened his own couture house in Paris.
+
+Answers:
+  1: Chanel
+  2: Valentino
+  3: Lacroix
+  4: Dior
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 9eab58e8-966e-4f0f-872b-ec6d6046b399
+
+Question: >
+  The trilby is an item which belongs to what clothing group?
+
+Answers:
+  1: Dresses
+  2: Hats
+  3: Shoes
+  4: Pants
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 60c0dae6-3356-41cc-9e0e-3d8ca91ec859
+
+Question: >
+  In the 1920s, this fashion designer popularized the little black dress - a short evening or cocktail dress.
+
+Answers:
+  1: Christian Dior
+  2: Charles Frederick Worth
+  3: Vivienne Westwood
+  4: Coco Chanel
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 60c81b29-bf2a-47ac-89e5-5d226df5ea45
+
+Question: >
+  What famous person made the following observation about fashion: Fashion wears out more apparel than the man?
+
+Answers:
+  1: Chanel
+  2: Saint Laurent
+  3: Shakespeare
+  4: Lagerfeld
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 28bae7f5-6375-4e31-b6a9-d835261c82b5
+
+Question: >
+  This agent was patented by L'Oreal. It is stated to be the only sure UVA sun filter as its molecule remains
+  unaffected by solar energy. Thus, it provides effective and long-lasting sun protection.
+
+Answers:
+  1: Aminexil
+  2: Mexoryl SX
+  3: Adenosinetriphosphate
+  4: Ceramides
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 81903818-a906-4494-bd60-1435aa7b228f
+
+Question: >
+  The first ever Calvin Klein collection featured what kind of clothes?
+
+Answers:
+  1: Hats
+  2: Underwear
+  3: Coats
+  4: T-shirts
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 5229544e-4ecb-444e-ae18-cc8a4e770848
+
+Question: >
+  Calvin Klein won the Coty Award, the most prestigious award in fashion, in what three consecutive years?
+
+Answers:
+  1: 1970, 1971, 1972
+  2: 1972, 1973, 1974
+  3: 1973, 1974, 1975
+  4: 1974, 1975, 1976
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 3bc16c83-8719-44e9-a9bb-de3830427513
+
+Question: >
+  This celebrity, then 15-year-old, starred in the controversial Calvin Klein underwear advertisement which featured
+  the tagline nothing comes between me and my Calvins.
+
+Answers:
+  1: Johnny Depp
+  2: Natalia Vodianova
+  3: Kate Moss
+  4: Brooke Shields
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 8f186c47-cc5f-4707-905c-1227f196cf98
+
+Question: >
+  Which of these is not a name of a Calvin Klein fragrance?
+
+Answers:
+  1: Euphoria
+  2: Obsession
+  3: cK be
+  4: Dolce Vita
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: b1dc270b-b813-45ca-ad86-3576689144e2
 
 Question: >

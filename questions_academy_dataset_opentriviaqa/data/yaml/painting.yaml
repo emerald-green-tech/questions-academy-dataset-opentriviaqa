@@ -741,6 +741,103 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: a6630fc2-3613-41d9-924e-13e8a8484342
+
+Question: >
+  What are the four types of graffiti styles?
+
+Answers:
+  1: Sentence, quote, movie, and stylish.
+  2: Love, fame, simultaneous, and generic.
+  3: Dusty, reddish, round, and square.
+  4: Tagging, hate, gang, and generic.
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 9a00d665-2ab1-4dc0-88b5-9edde40c3ac4
+
+Question: >
+  He was one of the first New York graffiti vandals.
+
+Answers:
+  1: Julio 204
+  2: Filbo 234
+  3: San 313
+  4: Taki 183
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: c115f694-ce14-4f91-a3ba-f7e2eed52f0c
+
+Question: >
+  What do most graffiti artists prefer to be called?
+
+Answers:
+  1: Sprayers
+  2: Artists
+  3: Writers
+  4: Painters
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 65eb62d7-604a-442b-9a60-ba0caa5e12f3
+
+Question: >
+  The Absinthe Drinker and Woman Drinking Absinthe are paintings that immortalise the fame of absinthe. Who is the
+  artist that painted them?
+
+Answers:
+  1: Van Gogh
+  2: Monet
+  3: Picasso
+  4: Dali
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: 04da61c2-09ea-4764-9210-610dec730a4f
 
 Question: >

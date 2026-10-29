@@ -669,6 +669,54 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: 863389a8-429f-4823-be8d-a6b2d0fcc0fc
+
+Question: >
+  The word graffiti comes from this language.
+
+Answers:
+  1: Spanish
+  2: Portuguese
+  3: Italian
+  4: French
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: b933017c-67c6-4bd1-8c02-be823497104a
+
+Question: >
+  Graffiti is plural. This is the singular form.
+
+Answers:
+  1: Graffit
+  2: Graffito
+  3: Graffitius
+  4: Graffitium
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: a4fb8b1a-29ac-49bf-a760-1282c49c48a8
 
 Question: >
@@ -3560,6 +3608,31 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: ecfc2c64-982f-4bbb-ae3d-42aa9d0c960c
+
+Question: >
+  This country, known for the world's longest continuously used written language system, is the subject of study of
+  sinology.
+
+Answers:
+  1: China
+  2: Singapore
+  3: Japan
+  4: Korea
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: fe8582e0-231d-4e71-b36a-f37ee727c8d4
 
 Question: >
@@ -3647,6 +3720,81 @@ Active:
 
 Notes: >
   None
+
+SchemaVersion: 1
+---
+ID: 0451835c-1f13-4070-84ea-128ae685ceff
+
+Question: >
+  What is the participle in the following sentence? Jane noticed her father walking along the shoreline.
+
+Answers:
+  1: her
+  2: along
+  3: walking
+  4: Jane
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: af17047f-08c6-4f31-bfd1-a9234b18e895
+
+Question: >
+  Two words can be brought together as a compound word. They can be written together (e.g. one way), written as one
+  word (e.g. hairstylist) or written with a hyphen (e.g. forty-two). Which of the following sentences is a correct
+  usage of a hyphen?
+
+Answers:
+  1: Josh could only go one-way.
+  2: The cherries were chocolate-covered.
+  3: Edgar Allen Poe is well-known.
+  4: Josh was driving down a one-way street.
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 6c3ae82f-cec9-43f2-888f-9fb0d00f5c66
+
+Question: >
+  The word effect is used as what part of speech in the following sentence? Will lack of sleep have an effect on your
+  performance at work?
+
+Answers:
+  1: noun
+  2: adjective
+  3: adverb
+  4: verb
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: for-kids
 
 SchemaVersion: 1
 ---

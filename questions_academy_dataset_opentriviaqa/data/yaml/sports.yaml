@@ -1249,6 +1249,55 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: 6dc4edfa-5958-46ab-acd1-303a3a498e6d
+
+Question: >
+  The world's first international football match was played in 1872 between the national teams of Scotland and which
+  country?
+
+Answers:
+  1: Spain
+  2: France
+  3: Ireland
+  4: England
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 59e26b53-ddef-40c2-afb9-f4579e80ba25
+
+Question: >
+  The world's first rodeo was held in what Texas city on July 4, 1883?
+
+Answers:
+  1: Webster
+  2: Houston
+  3: Pecos
+  4: Arlington
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: 903270bb-2910-4637-a708-42e83e4634fd
 
 Question: >
@@ -2406,6 +2455,30 @@ Answers:
   4: Dormouse
 
 Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 21ba3bfc-3ac2-4fbf-b4e4-1cc37e2634ec
+
+Question: >
+  This great boxer, known as the Galveston Giant, was the world's Heavyweight Champion from 1908-1915.
+
+Answers:
+  1: Jim Jeffries
+  2: Jim Johnson
+  3: Jack Johnson
+  4: Jack Jeffries
+
+Correct: 3
 
 Explanation: |
   None
@@ -3728,8 +3801,8 @@ SchemaVersion: 1
 ID: ee0c96b3-f46a-48ef-8c5e-6c0416f9f715
 
 Question: >
-  This college and pro great had a very strange nickname -Crazy Legs.   His last name was Hirsch.  What was his real
-  first name ?
+  This college and pro great had the strange nickname Crazy Legs. His last name was Hirsch. What was his real first
+  name ?
 
 Answers:
   1: Lester
@@ -4618,7 +4691,7 @@ SchemaVersion: 1
 ID: 020d6e5c-b7ba-4536-bbdf-6acaa4cc1d06
 
 Question: >
-  He was selected by the Phoenix Suns in the first round (15th pick overall) of the 1996 NBA Draft.  In 2005 he was
+  He was selected by the Phoenix Suns in the first round (15th pick overall) of the 1996 NBA Draft. In 2005 he was
   awarded MVP (most valuable player).
 
 Answers:
@@ -4788,8 +4861,8 @@ SchemaVersion: 1
 ID: 05289f3a-ada4-46ea-aefa-f6afb0461d65
 
 Question: >
-  This player was the 31st selected in 2001 draft by the Golden State Warriors.  He and Jamison was chosen to
-  represent the Washington Wizards at the 2005 NBA All-Star Game.
+  This player was the 31st selected in 2001 draft by the Golden State Warriors. He and Jamison was chosen to represent
+  the Washington Wizards at the 2005 NBA All-Star Game.
 
 Answers:
   1: Carmelo Anthony
@@ -5271,7 +5344,7 @@ SchemaVersion: 1
 ID: df76dab4-6ade-463e-94db-0a306ae83b5f
 
 Question: >
-  This team, led by head coach James Tressel,  won the 2002 NCAA championship, beating Miami in overtime.
+  This team, led by head coach James Tressel, won the 2002 NCAA championship, beating Miami in overtime.
 
 Answers:
   1: USC
@@ -6109,7 +6182,7 @@ SchemaVersion: 1
 ID: 795bb9b3-d360-4348-af8f-4435ee840eab
 
 Question: >
-  What number did Tom Seaver, who was elected to the Baseball Hall of Fame on January in 1992,  wear when he was a
+  What number did Tom Seaver, who was elected to the Baseball Hall of Fame on January in 1992, wear when he was a
   player for the New York Mets in the 1970s?
 
 Answers:
@@ -6158,7 +6231,7 @@ SchemaVersion: 1
 ID: 95e7f51a-770f-438f-afc2-886624d64cd3
 
 Question: >
-  What number did  Baseball Hall of Famer, Rod Carew, wear on his uniform when he played for the Minnesota Twins?
+  What number did Baseball Hall of Famer, Rod Carew, wear on his uniform when he played for the Minnesota Twins?
 
 Answers:
   1: 33
@@ -6280,7 +6353,7 @@ SchemaVersion: 1
 ID: 4ae60837-3f73-4873-b4c8-33cee677553f
 
 Question: >
-  What number did Kirby Puckett,  who was elected to the Baseball Hall of Fame in 2001, wear when he was a player for
+  What number did Kirby Puckett, who was elected to the Baseball Hall of Fame in 2001, wear when he was a player for
   the Minnesota Twins?
 
 Answers:
@@ -7536,7 +7609,7 @@ SchemaVersion: 1
 ID: 18aeb995-f527-442f-bc19-7802d456320d
 
 Question: >
-  Who became owner of  Major League Baseball, New york Mets in 1961?
+  Who became owner of Major League Baseball, New York Mets in 1961?
 
 Answers:
   1: Nelson Doubleday
@@ -8103,7 +8176,7 @@ ID: f3c2fb87-3988-40b1-bab9-2a127c161f08
 
 Question: >
   The International Olympic Committee, created in June of 1894 to revive the Olympic Games, is the supreme authority
-  of the Olympic Movement.  It is based in which city?
+  of the Olympic Movement. It is based in which city?
 
 Answers:
   1: Lausanne
@@ -8173,7 +8246,7 @@ SchemaVersion: 1
 ID: b9d36468-9f10-4fc3-8579-dbf690743f04
 
 Question: >
-  Which member of the McMahon family tried to drug Triple H backstage in one of the editions of  Raw?
+  Which member of the McMahon family tried to drug Triple H backstage in one of the editions of Raw?
 
 Answers:
   1: Shane McMahon
@@ -8197,7 +8270,7 @@ SchemaVersion: 1
 ID: d24810a4-858e-4704-9e23-d989552fb61c
 
 Question: >
-  Amy  Dumas, an American professional wrestler, goes by what ring name?
+  Amy Dumas, an American professional wrestler, goes by what ring name?
 
 Answers:
   1: Victoria
@@ -11572,7 +11645,7 @@ SchemaVersion: 1
 ID: 2d5b1550-7549-4f52-9001-1dafb131348b
 
 Question: >
-  The Pittsburgh Pirates, nicknamed The Bucs, won  which World Series in the 1970s?
+  The Pittsburgh Pirates, nicknamed The Bucs, won which World Series in the 1970s?
 
 Answers:
   1: 1978
@@ -15312,8 +15385,8 @@ SchemaVersion: 1
 ID: e435f816-946b-4bbe-a635-1cb05a29dd9d
 
 Question: >
-  The motto of  the oldest established National Hockey League franchise, The Montreal Canadiens is: To you from
-  failing hands we throw the torch. Be yours to hold it high.
+  The motto of the oldest established National Hockey League franchise, The Montreal Canadiens is: To you from failing
+  hands we throw the torch. Be yours to hold it high.
 
 Answers:
   1: No
@@ -17442,7 +17515,7 @@ SchemaVersion: 1
 ID: 83c026df-6706-46d6-8f21-abe8d35575d0
 
 Question: >
-  For many years NFL placekickers would line-up directly in front of where the ball was placed. This  changed when
+  For many years NFL placekickers would line-up directly in front of where the ball was placed. This changed when
   soccer style placekickers entered the league. These two Hungarian-born brothers were the most significant of the
   early placekickers.
 
@@ -17493,8 +17566,8 @@ SchemaVersion: 1
 ID: 05063dd4-37fb-49dd-9a9f-34f3ddc4bf2f
 
 Question: >
-  This Kentucky grad had a very long Pro Football career. He won games as a kicker and as a  quarterback. He
-  originally played for the Chicago bears but also won fame playing for the Houston Oilers and the Oakland Raiders.
+  This Kentucky grad had a very long Pro Football career. He won games as a kicker and as a quarterback. He originally
+  played for the Chicago bears but also won fame playing for the Houston Oilers and the Oakland Raiders.
 
 Answers:
   1: Ray Guy
@@ -17543,8 +17616,8 @@ SchemaVersion: 1
 ID: 90b12d79-07ae-40d6-9265-b133e40a72ff
 
 Question: >
-  This great kicker was a Danish soccer star as a teenager. He was a visiting high school student  in Indianapolis
-  when he kicked a field goal, just to try it. This led to a scholarship to Michigan State and a  fine Pro career.
+  This great kicker was a Danish soccer star as a teenager. He was a visiting high school student in Indianapolis when
+  he kicked a field goal, just to try it. This led to a scholarship to Michigan State and a fine Pro career.
 
 Answers:
   1: Morten Andersen
@@ -18248,8 +18321,8 @@ SchemaVersion: 1
 ID: f16d1802-3681-4cd7-ac00-85800c167349
 
 Question: >
-  Who is the only player to hit 3 home runs twice in a World Series game?  If more than one person has done it, who
-  was first?
+  Who is the only player to hit 3 home runs twice in a World Series game? If more than one person has done it, who was
+  first?
 
 Answers:
   1: Reggie Jackson
@@ -19230,7 +19303,7 @@ ID: 5a14a9ec-8a9a-48f5-9638-5cb175e32544
 
 Question: >
   This point guard grew up in Kansas, where he went to school. Somehow, Red Auerbach got him into the Connecticut
-  National Guard, to keep him from being  drafted. Who is he?
+  National Guard, to keep him from being drafted. Who is he?
 
 Answers:
   1: Dennis Johnson
@@ -19254,7 +19327,7 @@ SchemaVersion: 1
 ID: a4e74a36-ef4d-4fd3-bd99-3cbc3d072c25
 
 Question: >
-  This backcourt wonder and Basketball Hall of Famer was often billed as the worlds greatest dribbler. He was born in
+  This backcourt wonder and Basketball Hall of Famer was often billed as the world's greatest dribbler. He was born in
   Oklahoma and attended Langston University.
 
 Answers:
@@ -19610,7 +19683,7 @@ Question: >
   lyrics:
   If I had a son, Sir
   I'll tell you what he's do
-  He'd yell:  To hell with Georgia
+  He'd yell: To hell with Georgia
   Like his Daddy use to do!
   In what university stadium would you be sitting?
 
@@ -19636,9 +19709,9 @@ SchemaVersion: 1
 ID: 4bbd4405-2db7-414f-b5e9-2df656aee4d4
 
 Question: >
-  College bands brings out the school spirit in the fans and some bands are renowned in their own right.  But the most
+  College bands brings out the school spirit in the fans and some bands are renowned in their own right. But the most
   famous band member in college football is not a member of a drumline or a strutting majorette, he's a sousaphone
-  player.  What universitys band is on the field when the sousaphone player dots the i?
+  player. What university's band is on the field when the sousaphone player dots the i?
 
 Answers:
   1: Princeton
@@ -19813,7 +19886,7 @@ ID: 2d220a16-b58d-4406-a120-4f514b0c44a4
 
 Question: >
   Two universities are are almost always listed in the number one or number two spot when naming the best college
-  fight song. One song mentioned is Notre Dames Notre Dame Victory March.  The second fight song lyrics start: Send a
+  fight song. One song mentioned is Notre Dames Notre Dame Victory March. The second fight song lyrics start: Send a
   volley cheer on high. Shake down the thunder from the sky. In which university stadium called the big house would
   you be sitting when the fans starting singing The Victors?
 
@@ -20823,7 +20896,7 @@ SchemaVersion: 1
 ID: eba2e0d7-d593-48b6-bf9b-227cf5fe861d
 
 Question: >
-  The New York  Mets lost to which team in the 1988 NLCS?
+  The New York Mets lost to which team in the 1988 NLCS?
 
 Answers:
   1: Cincinatti Reds
@@ -21483,7 +21556,7 @@ SchemaVersion: 1
 ID: d2b9cdb4-923b-444c-9329-d5de2634dbf3
 
 Question: >
-  Besides being co-owner of Chance 2 Motorsports, what other company does Dale Earnhardt  Jr. own?
+  Besides being co-owner of Chance 2 Motorsports, what other company does Dale Earnhardt Jr. own?
 
 Answers:
   1: JR Motorsports
@@ -23448,7 +23521,7 @@ SchemaVersion: 1
 ID: 4730dc3f-081e-48d3-88db-6e8e29419817
 
 Question: >
-  Who was the 1st  European-born hockey player to be drafted first overall in the NHL entry draft?
+  Who was the 1st European-born hockey player to be drafted first overall in the NHL entry draft?
 
 Answers:
   1: Mats Sundin
@@ -24404,7 +24477,7 @@ SchemaVersion: 1
 ID: ace67f79-650d-4a14-9b9c-4acdbd028ebe
 
 Question: >
-  Mark Bellhorn hit a home run from each side of the plate in a single inning.  Who is the other switch hitter to have
+  Mark Bellhorn hit a home run from each side of the plate in a single inning. Who is the other switch hitter to have
   accomplished this feat?
 
 Answers:
@@ -24622,7 +24695,7 @@ SchemaVersion: 1
 ID: 0125a7d9-208d-4724-8da5-4bf61f6568ff
 
 Question: >
-  Only one of the combinations (player  - his 2003/2004 squad number) is correct, which one?
+  Which of these combinations of players and their 2003/2004 squad numbers is correct?
 
 Answers:
   1: G. Nevilee - 3
@@ -25364,7 +25437,7 @@ SchemaVersion: 1
 ID: e68c11cd-0a7b-42b2-87e5-7e9aa76ed7fa
 
 Question: >
-  Many  major league baseball players  are from the Dominican Republic. Who was the first major leaguer from the
+  Many major league baseball players  are from the Dominican Republic. Who was the first major leaguer from the
   Dominican Republic?
 
 Answers:
@@ -28146,7 +28219,7 @@ SchemaVersion: 1
 ID: 3575bee7-6d7b-4716-ae6d-661de9fceceb
 
 Question: >
-  According to the rules of the International Skating Union, major speed skating competitions can be held  on outdoor
+  According to the rules of the International Skating Union, major speed skating competitions can be held on outdoor
   or indoor ice ovals, of what standard length?
 
 Answers:
@@ -28579,7 +28652,7 @@ SchemaVersion: 1
 ID: 850db56d-fee4-4b57-a62f-2a67897c2484
 
 Question: >
-  This baseball player won the National League Most Valuable Player Award in 1975 and 1976  while playing with the
+  This baseball player won the National League Most Valuable Player Award in 1975 and 1976 while playing with the
   Reds.
 
 Answers:
@@ -28604,7 +28677,7 @@ SchemaVersion: 1
 ID: 5e6d23f8-96cc-43c3-9eeb-ee1fcdcefeeb
 
 Question: >
-  This baseball player and manager, nicknamed The Ol Professor, said, Sports do not  build character. They reveal it.
+  This baseball player and manager, nicknamed The Ol Professor, said, Sports do not build character. They reveal it.
 
 Answers:
   1: Al Shalk
@@ -28629,13 +28702,13 @@ ID: ad6bf615-430c-44e9-8e19-0969817f8688
 
 Question: >
   What coach does this quote belong to: If the NBA were on Channel 5 and a bunch of frogs were making love on Channel
-  4, I would watch the frogs  even if the picture was coming in fuzzy.?
+  4, I would watch the frogs even if the picture was coming in fuzzy.?
 
 Answers:
   1: Bobby Knight
   2: Dick Vitale
   3: Chet Forte
-  4: Bill  Walton
+  4: Bill Walton
 
 Correct: 1
 
@@ -29851,7 +29924,7 @@ SchemaVersion: 1
 ID: 2038ece5-33f9-4e56-aba1-a3eb0305ec1a
 
 Question: >
-  Who was the first major leaguer to play at least 500 games at 5 different  positions?
+  Who was the first major leaguer to play at least 500 games at 5 different positions?
 
 Answers:
   1: Pete Rose
@@ -31238,7 +31311,7 @@ ID: f1c61624-d471-44e5-adf5-e53fe1aeb3c7
 
 Question: >
   Today in Major League Baseball a ground rule double is when a ball is hit fair, bounces and then goes over the
-  outfield. Which statement is  true about this rule?
+  outfield. Which statement is true about this rule?
 
 Answers:
   1: It became a rule when the baseball rules were canonized in 1886.
@@ -31576,11 +31649,11 @@ SchemaVersion: 1
 ID: 118f9cd3-9023-475d-9a89-c30f4b38cf44
 
 Question: >
-  The 1918 regular baseball season was shortened because of  World War I. What happened in the 1918 World Series,
+  The 1918 regular baseball season was shortened because of World War I. What happened in the 1918 World Series,
   played in September?
 
 Answers:
-  1: The Chicago Cubs were accused of  throwing the game to the Boston Red Sox.
+  1: The Chicago Cubs were accused of throwing the game to the Boston Red Sox.
   2: The Star Spangled Banner was sung for the first time at a sporting event.
   3: The Chicago White Sox were accused of throwing the series.
   4: It was the first World Series that was a best 4 out of 7 series of games.
@@ -32226,7 +32299,7 @@ SchemaVersion: 1
 ID: 653ca40a-8357-489a-b1c2-ed1767b62bd0
 
 Question: >
-  These  were the first two first basemen to win the Triple Crown.
+  These were the first two first basemen to win the Triple Crown.
 
 Answers:
   1: Lou Gehrig and Ty Cobb
@@ -32873,7 +32946,7 @@ SchemaVersion: 1
 ID: 67958ad2-c38f-4a5f-93c6-07b1ba8f4ddc
 
 Question: >
-  Which player hit  336 homers in 1423 games while playing for the Toronto Blue Jays?
+  Which player hit 336 homers in 1423 games while playing for the Toronto Blue Jays?
 
 Answers:
   1: Dave Winfield
@@ -34232,7 +34305,7 @@ SchemaVersion: 1
 ID: b764bd3f-eb00-4e25-aff4-57ad25130772
 
 Question: >
-  This  great pitcher threw the first perfect game of the 20th century.
+  This great pitcher threw the first perfect game of the 20th century.
 
 Answers:
   1: Walter Johnson
@@ -35815,7 +35888,7 @@ SchemaVersion: 1
 ID: 2954b0f1-98cf-4db3-8457-b3ab0081d901
 
 Question: >
-  Former baseball player and radio/television sports announcer Philip Rizzuto can be heard on a  Meatloaf song .
+  Former baseball player and radio/television sports announcer Philip Rizzuto can be heard on a Meatloaf song .
 
 Answers:
   1: True
@@ -35824,7 +35897,7 @@ Answers:
 Correct: 1
 
 Explanation: |
-  None
+  Rizzuto is featured on the 1977 Meat Loaf song "Paradise by the Dashboard Light" from the album Bat Out of Hell.
 
 Active:
   True
@@ -36263,7 +36336,7 @@ ID: abfd7cad-7485-494c-b7f8-a32553e0a1d6
 
 Question: >
   As of 2007, the Original Six team with the most Stanley Cups is The Canadiens with 24, followed by The Maple Leafs
-  with 13.  Who is third with 10 cup wins?
+  with 13. Who is third with 10 cup wins?
 
 Answers:
   1: Red Wings
@@ -36287,7 +36360,7 @@ SchemaVersion: 1
 ID: ce269c00-7eec-44b4-9b07-fb0f4a2be896
 
 Question: >
-  As of 2007, of the Original Six Teams the Montreal Canadiens have the most Stanley Cup wins.  Which two Original Six
+  As of 2007, of the Original Six Teams the Montreal Canadiens have the most Stanley Cup wins. Which two Original Six
   teams are tied for the most Stanley Cup losses with 12?
 
 Answers:
@@ -36335,7 +36408,7 @@ SchemaVersion: 1
 ID: 8b8f0bb5-b544-4068-954c-a028da681f95
 
 Question: >
-  As is common practice in todays NHL, most of the Original Six teams have moved into a new building over the years.
+  As is common practice in today's NHL, most of the Original Six teams have moved into a new building over the years.
   As of 2007, which of the Original Six teams has been playing in the same building the longest without moving?
 
 Answers:
@@ -36456,7 +36529,7 @@ ID: d8263c03-2f3e-4274-b091-15d4af697fad
 
 Question: >
   In 1980, University of Georgia running back Herschel Walker gained 1616 yards to break the previous record for most
-  yards rushed by a freshman.  What running back held this record before Herschel broke it?
+  yards rushed by a freshman. What running back held this record before Herschel broke it?
 
 Answers:
   1: Texas Earl Campbell
@@ -38919,7 +38992,7 @@ SchemaVersion: 1
 ID: fed032d2-5d31-41a1-96fb-a8de1ee4f1dc
 
 Question: >
-  Who was the starting quarterback  for LSU in their 2005 bowl game?
+  Who was the starting quarterback for LSU in their 2005 bowl game?
 
 Answers:
   1: Craig Davis
@@ -40138,7 +40211,7 @@ SchemaVersion: 1
 ID: 3b28db4e-dd81-49bb-a7b7-08540cfa5b06
 
 Question: >
-  Which European soccer player was named  European Soccer Player of the Year three times (1988, 89 and 92) and FIFA
+  Which European soccer player was named European Soccer Player of the Year three times (1988, 89 and 92) and FIFA
   World Player of the Year in 1992?
 
 Answers:
@@ -43771,7 +43844,7 @@ SchemaVersion: 1
 ID: 51361295-6664-4ac4-ae1a-73b0787baec1
 
 Question: >
-  He was the first person to hold the worlds record for running 50 yards, 75 yards and 100 yards backwards.
+  He was the first person to hold the world record for running 50 yards, 75 yards and 100 yards backwards.
 
 Answers:
   1: Bob Hayes
@@ -45162,7 +45235,7 @@ SchemaVersion: 1
 ID: f60dcb21-1af9-4c81-a525-21252b55add4
 
 Question: >
-  In what month and year did John McEnroe become the worlds number 1 player according to the association of tennis
+  In what month and year did John McEnroe become the world number 1 player according to the association of tennis
   professionals?
 
 Answers:

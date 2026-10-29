@@ -426,10 +426,10 @@ Question: >
   this pair who sang it first as pure country. Who are they?
 
 Answers:
-  1: Big  Rich
-  2: Homer  Jethro
-  3: Lonzo  Oscar
-  4: Brooks  Dunn
+  1: Big & Rich
+  2: Homer & Jethro
+  3: Lonzo & Oscar
+  4: Brooks & Dunn
 
 Correct: 3
 
@@ -3942,6 +3942,101 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: b8c7dd61-ce6e-41cc-8ab8-ec8494a51818
+
+Question: >
+  On a Gap Jeans commercial in 2003, Madonna appeared together with which famous American rapper?
+
+Answers:
+  1: Missy Elliott
+  2: Notorious B.I.G.
+  3: Eminem
+  4: 2Pac
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: dc9d5ccc-507f-41f1-b930-68a2797d9046
+
+Question: >
+  Art Paul Schlosser wrote a song about peanut butter called Have A Peanut Butter Sandwich.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 0ef93a27-f2d7-482c-9dc4-1a9bc96a521d
+
+Question: >
+  Elvis Presley, who was keen on Peanut Butter and Banana sandwiches, passed away in what year?
+
+Answers:
+  1: 1979
+  2: 1977
+  3: 1976
+  4: 1978
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: d9a11c12-55bc-4a36-9bb3-3c07a246a84d
+
+Question: >
+  The song, Blue Suede Shoes, which is generally associated with Elvis Presley, had a massive chart success in the
+  1950s. Who wrote the song?
+
+Answers:
+  1: Johnny Cash
+  2: Carl Perkins
+  3: Buddy Holly
+  4: Barbara Pittman
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: 85b7f69f-9e20-470b-bf46-f01e6b109ed1
 
 Question: >
@@ -5222,7 +5317,7 @@ SchemaVersion: 1
 ID: 2a1fcf73-eaf1-4a91-8fbe-1f8567076227
 
 Question: >
-  This country artist sang his heart out in the motion picture, Pure Country.
+  This country artist sang his heart out in the motion picture Pure Country.
 
 Answers:
   1: Travis Tritt
@@ -12081,10 +12176,10 @@ Question: >
   for 2 straight weeks in 1973.
 
 Answers:
-  1: Dionne Warwick  The Spinners
-  2: Gladys Knight  The Pips
-  3: Diana Ross  The Jacksons
-  4: Aretha Franklin  The DeFranco Family
+  1: Dionne Warwick & The Spinners
+  2: Gladys Knight & The Pips
+  3: Diana Ross & The Jacksons
+  4: Aretha Franklin & The DeFranco Family
 
 Correct: 2
 
@@ -12095,7 +12190,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: music. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -26987,9 +27082,9 @@ SchemaVersion: 1
 ID: bfb93c6c-afb2-4343-aa65-654e659eb7da
 
 Question: >
-  Perhaps the lead singer of this rock and roll band regrets saying I'd rather be dead than singing Satisfaction  when
-  I am forty five. This group known as the  Worlds Greatest Rock and Roll Band is ranked in the # 4 position in the
-  Rolling Stone Magazines list of Immortals.
+  Perhaps the lead singer of this rock and roll band regrets saying I'd rather be dead than singing Satisfaction when
+  I am forty five. This group known as the World's Greatest Rock and Roll Band is ranked in the #4 position in the
+  Rolling Stone Magazine's list of Immortals.
 
 Answers:
   1: The Rolling Stones
@@ -27006,7 +27101,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: music. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -27612,13 +27707,13 @@ ID: ed246992-20b2-49c7-a466-8e2a61161a5a
 
 Question: >
   Michael Stipe and other musicians of similar tastes formed this band in 1980 at the University of Georgia.
-  Throughout the 80s this band enjoyed primarily college radio success only to hit mainstream at the end of the decade
-  with songs like The One I Love and Losing My Religion. [sound clip: Pop Song 89]
+  Throughout the '80s this band enjoyed primarily college radio success only to hit mainstream at the end of the
+  decade with songs like The One I Love and Losing My Religion.
 
 Answers:
   1: Gin Blossoms
   2: R.E.M
-  3: Pear Jam
+  3: Pearl Jam
   4: Hootie  the Blowfish
 
 Correct: 2
@@ -27630,7 +27725,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: music. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -29538,7 +29633,7 @@ ID: d72e98b9-9d67-4eef-b428-aca87b43a2ec
 Question: >
   Charles Manson and his followers were convicted of the Sharon Tate murders and the following night murders of
   Rosemary and Leo LaBianca. Charles Manson thought the Beatles were singing to him in the White album about the
-  worlds destruction. From what Beatles song did Manson choose a nickname for convicted murderer Susan Atkins?
+  world's destruction. From what Beatles song did Manson choose a nickname for convicted murderer Susan Atkins?
 
 Answers:
   1: Lucy (in the Sky with Diamonds)
@@ -29555,7 +29650,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: music. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -51120,9 +51215,9 @@ SchemaVersion: 1
 ID: 00c3731e-e7fe-4f6f-94e8-f38620b719fa
 
 Question: >
-  The Small Faces were, second only to The Who, the worlds most successful mod band. The group would become
-  increasingly psychedelic in sound, as demonstrated by this song which reached Billboard #16 (sound clip). It
-  contains the lyrics: I feel inclined to blow my mind/ Get hung up feed the ducks with a bun
+  The Small Faces were, second only to The Who, the world's most successful mod band. The group would become
+  increasingly psychedelic in sound, as demonstrated by these lyrics: I feel inclined to blow my mind, Get hung up
+  feed the ducks with a bun.
 
 Answers:
   1: Itchycoo Park
@@ -51139,7 +51234,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: music. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -53479,7 +53574,7 @@ Question: >
   What does Johnny do after he beats the Devil in the song The Devil Went Down to Georgia?
 
 Answers:
-  1: He tells the Devil hell never be a good fiddler.
+  1: He tells the Devil he'll never be a good fiddler.
   2: He begins to play the golden fiddle he won.
   3: He challenges the Devil to come back another time for a rematch.
   4: He shakes the Devils hand.
@@ -53493,7 +53588,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: music. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -56625,7 +56720,7 @@ SchemaVersion: 1
 ID: a8eee389-1f6d-42dc-9baa-2803c82f1d6e
 
 Question: >
-  Which band recorded this Grammy Award-winning song?
+  Which band recorded "Bullet with Butterfly Wings", which won a Grammy Award for Best Hard Rock Performance in 1997?
 
 Answers:
   1: Stone Temple Pilots
@@ -56642,7 +56737,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: music. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -61419,7 +61514,7 @@ SchemaVersion: 1
 ID: de2e68a0-dc48-4ecb-8229-c9c0a497e808
 
 Question: >
-  Is it true that in 2005, singer Carrie Underwood was voted Worlds Sexiest Vegetarian?
+  Is it true that in 2005, singer Carrie Underwood was voted World's Sexiest Vegetarian?
 
 Answers:
   1: Yes
@@ -61434,7 +61529,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: music. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -70893,8 +70988,8 @@ SchemaVersion: 1
 ID: d7a0be64-53bc-48a6-9e63-5c5d3c588ccb
 
 Question: >
-  Juicy, a brother and sister act, hailing from North Carolina, had a 1985 R-n-B hit with this song that has been
-  sampled by many of todays rappers.
+  Juicy, a brother and sister act hailing from North Carolina, had a 1985 R-n-B hit with this song that has been
+  sampled by many rappers.
 
 Answers:
   1: I Can't Wait
@@ -70911,7 +71006,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: music. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -100964,7 +101059,7 @@ SchemaVersion: 1
 ID: f83f1d13-db21-4d74-8fd9-4c99905ede2e
 
 Question: >
-  The song The Killing Moon by Echo  the Bunnymen was featured in the soundtrack of what movie?
+  The song The Killing Moon by Echo & the Bunnymen was featured in the soundtrack of what movie?
 
 Answers:
   1: Donnie Darko
@@ -100981,7 +101076,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: music. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -106006,7 +106101,7 @@ SchemaVersion: 1
 ID: 453a7e8d-e2ce-4d55-a021-0db9325b58fa
 
 Question: >
-  This John Lennon song, included in his ‘Some Time in New York City’ album, was banned from radios in the USA.
+  This John Lennon song, included in his Some Time in New York City album, was banned from radios in the USA.
 
 Answers:
   1: Crippled Inside
@@ -106023,7 +106118,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: music. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -106054,7 +106149,7 @@ SchemaVersion: 1
 ID: 14212fa3-7702-43ef-82df-e6eeeac7aa04
 
 Question: >
-  John Lennon made a cover of this famous song for his ‘Rock’n’Roll’ album.
+  John Lennon made a cover of this famous song for his "Rock'n'’Roll" album.
 
 Answers:
   1: Can’t Take My Eyes Off Of You
@@ -106071,7 +106166,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: music. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -106126,8 +106221,7 @@ SchemaVersion: 1
 ID: 6dd42cb4-83ce-4a20-95f9-3fd5dab64226
 
 Question: >
-  This  John Lennon song dealing with heroin withdrawal symptoms was included on the album ‘Live Peace In Toronto
-  1969’.
+  This John Lennon song dealing with heroin withdrawal symptoms was included on the album Live Peace In Toronto 1969.
 
 Answers:
   1: Cold Turkey
@@ -106144,7 +106238,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: music. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -106175,8 +106269,8 @@ SchemaVersion: 1
 ID: f508c3aa-f644-4c43-928c-53c96e161e47
 
 Question: >
-  This song by John Lennon was banned from the BBC Radio for explicit content. It was included on the ‘John
-  Lennon/Plastic Ono Band’ album in 1970.
+  This song by John Lennon was banned from the BBC Radio for explicit content. It was included on the "John
+  Lennon/Plastic Ono Band" album in 1970.
 
 Answers:
   1: God
@@ -106193,14 +106287,14 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: music. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
 ID: ed4da2cf-bd14-493d-94ce-ec134d43b13c
 
 Question: >
-  On his 1970 album ‘John Lennon/Plastic Ono Band’ John Lennon included the song ‘Mother’ which deals with this issue.
+  On his 1970 album "John Lennon/Plastic Ono Band" John Lennon included the song "Mother" which deals with this issue.
 
 Answers:
   1: the abandonment by his parents
@@ -106217,7 +106311,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: music. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -106833,8 +106927,8 @@ SchemaVersion: 1
 ID: 6b5a80f7-522b-4a6c-a52e-abb57f210ca3
 
 Question: >
-  I would go back to her time after time..man I must have been out of my mind..
-  Are these lyrics from the song Cryin' For Nothin' ?
+  I would go back to her time after time... man I must have been out of my mind... Are these lyrics from the song
+  Cryin' For Nothin' ?
 
 Answers:
   1: No
@@ -106849,7 +106943,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: music. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -112868,7 +112962,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: music. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -112892,7 +112986,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: music. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -112917,7 +113011,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: music. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -112941,7 +113035,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: music. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -112966,15 +113060,15 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: music. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
 ID: 07e04753-1fd0-451a-83b8-5f368a853c5a
 
 Question: >
-  Finish this line from the song ‘Me, Myself  I’ by Beyonce: ‘You said that you love me but you don’t, you family told
-  me …’
+  Finish this line from the song ‘Me, Myself & I’ by Beyonce: ‘You said that you love me but you don’t, you family
+  told me …’
 
 Answers:
   1: You’re planning to leave me and move on
@@ -112991,7 +113085,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: music. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -113016,7 +113110,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: music. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -113040,7 +113134,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: music. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -113065,7 +113159,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: music. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -113090,7 +113184,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: music. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -116016,7 +116110,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: music. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -116041,7 +116135,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: music. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -124326,13 +124420,13 @@ Answers:
 Correct: 3
 
 Explanation: |
-  None
+  The lyric comes from the classic 1964 country song "King of the Road" written and recorded by Roger Miller.
 
 Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: music. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -127322,7 +127416,7 @@ SchemaVersion: 1
 ID: a7481ed8-ed09-4252-b2c8-9bb705c4818e
 
 Question: >
-  According to Downbeat Magazine, who is the worlds top jazz clarinetist?
+  According to Downbeat Magazine, who is the world's top jazz clarinetist?
 
 Answers:
   1: Jack Fischer
@@ -127339,7 +127433,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: music. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -137791,6 +137885,30 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: 147c3062-39e8-4f7d-ab80-947a11b5c4f3
+
+Question: >
+  What Rolling Stones member made a cameo appearance in the 2007 movie Pirates of the Caribbean: At World's End?
+
+Answers:
+  1: Keith Richards
+  2: Charlie Watts
+  3: Mick Jagger
+  4: Bill Wyman
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: 605dc76b-634b-48bb-b4f8-4287453a3ae4
 
 Question: >
@@ -137803,6 +137921,30 @@ Answers:
   4: Motley Crew
 
 Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: edfd3699-c226-4553-a6ec-a08f40a48e18
+
+Question: >
+  Which of these Radiohead songs from OK Computer is featured in the movie William Shakespeare's Romeo+Juliet ?
+
+Answers:
+  1: Karma Police
+  2: Airbag
+  3: Paranoid Android
+  4: Exit Music (For a Film)
+
+Correct: 4
 
 Explanation: |
   None

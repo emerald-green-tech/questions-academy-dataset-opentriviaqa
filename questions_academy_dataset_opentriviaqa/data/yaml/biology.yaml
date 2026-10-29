@@ -90,6 +90,205 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: ab6bde02-5f35-4357-b66f-2e38b5da214c
+
+Question: >
+  These agents are used to transport active ingredients through the skin and take them where they would be most
+  effective.
+
+Answers:
+  1: Nanosomes
+  2: UV
+  3: Ceramides
+  4: THC
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 54318266-7f28-49ce-9998-28f9ae218120
+
+Question: >
+  After 10 years of research L'Oreal found this molecule, which effectively stops hair loss.
+
+Answers:
+  1: Ceramide
+  2: Aminexil
+  3: THC
+  4: Nanozome
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 603a88c5-0a08-49e9-ad87-fc674fe553e7
+
+Question: >
+  This ingredient is used in a lot of cosmetic products. It is rich in micro-elements and minerals because it comes
+  from the depths of the sea. It has been said that this ingredient can activate the chemical process typical for
+  youthful skin.
+
+Answers:
+  1: Retinol
+  2: Nanosomes
+  3: Pearl powder
+  4: Amino-acids
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 18445e68-e9eb-4baf-a450-54693e8de577
+
+Question: >
+  These substances are added to lotions and creams because they smooth and soften the skin. There are several hundred
+  different kinds.
+
+Answers:
+  1: Humectants
+  2: Solvents
+  3: Emollients
+  4: Lubricants
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 4041eafe-8520-44c4-825f-63f8bbf1dfa5
+
+Question: >
+  These substances act as moisturizers by attracting water to themselves, even from the air. They are also used to
+  prevent creams from drying out.
+
+Answers:
+  1: Surfactants
+  2: Preservatives
+  3: Humectants
+  4: Antioxidants
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: d8eeef48-4ff4-495e-acdf-9c7c4b193964
+
+Question: >
+  This component produces adenosinetriphosphate, which increases the cells' vitality and enables the body to release a
+  quick burst of energy.
+
+Answers:
+  1: Estrogen
+  2: Creatine
+  3: Glutamine
+  4: Adrenaline
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 12b4178b-5b86-4071-b639-371813468fd1
+
+Question: >
+  This is a protein complex produced by the bacterium, Clostridium botulinum. It contains a toxin that causes food
+  poisoning. However, when injected in small doses it smoothens existing lines and wrinkles.
+
+Answers:
+  1: Botox
+  2: Dopamnine
+  3: Bo-Hylurox
+  4: Creatine
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 68a02b3c-c9f8-49bf-b93b-fe7ba27d4042
+
+Question: >
+  Which vitamin is the orange pigment beta-carotene converted to by the human body?
+
+Answers:
+  1: Vitamin C
+  2: Vitamin A
+  3: Vitamin B12
+  4: Vitamin E
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: ad39c313-b9ca-44e1-acf0-5cf52b40cb57
 
 Question: >
@@ -100,6 +299,30 @@ Answers:
   2: False
 
 Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 540fba41-55d0-4f73-a575-e8b17901e564
+
+Question: >
+  What is the length of the world's longest documented human hair?
+
+Answers:
+  1: 13.77 feet (4.2 m)
+  2: 23.95 feet (7.3 m)
+  3: 6.56 feet (2.0 m)
+  4: 18.37 feet  (5.6 m)
+
+Correct: 4
 
 Explanation: |
   None

@@ -15136,6 +15136,178 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: ece0d720-fed5-4b1f-85c3-0ae8532a4621
+
+Question: >
+  Simon says, generally a children's game of concentration and quick reactions, appears in which of these action-
+  packed movies?
+
+Answers:
+  1: The James Bond series
+  2: Cobra
+  3: Speed
+  4: The Die Hard series
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 20b75818-f548-41b6-974b-0587412a1f76
+
+Question: >
+  Name the 1994 movie, directed by Robert Zemeckis, in which the main character compared life to a box of chocolates.
+
+Answers:
+  1: What Lies Beneath
+  2: Charlie and the Chocolate Factory
+  3: Forrest Gump
+  4: Cast Away
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 56d5bac6-7c61-4a24-8cc3-28a82aa7de4d
+
+Question: >
+  One of the characters in this 2000 movie, Vianne, opens a chocolaterie in a small, old-fashioned French village and
+  sells confections, which inspire the conservative inhabitants of the village and revive their passions. Name the
+  movie.
+
+Answers:
+  1: Charlie and the Chocolate Factory
+  2: Like Water for Chocolate
+  3: Chocolat
+  4: Consuming Passions
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 191f1c1c-1713-4f4c-941e-4fe9c33f1423
+
+Question: >
+  What candy bar was used in the 1985 movie The Goonies?
+
+Answers:
+  1: babyruth
+  2: twix
+  3: milkyway
+  4: snickers
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 8812ff07-f48e-48f7-bfe9-38a2cbe6eb29
+
+Question: >
+  What toy is a must-have gift in the comedy movie Jingle All the Way, starring Arnold Schwarzenegger?
+
+Answers:
+  1: Turbo-Man
+  2: Action-Man
+  3: Sinbad
+  4: Dementor
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: ab1f09e9-66f0-4966-a141-894dc1f01823
+
+Question: >
+  Which Champagne, featured in at least eight Bond movies, does fictional spy James Bond prefer?
+
+Answers:
+  1: Bollinger
+  2: Ruinart
+  3: Dom Pérignon
+  4: Moet et Chandon
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 6e00d8b9-92ea-4f33-92c5-0883d3e3f237
+
+Question: >
+  Who directed the movie Champagne, which tells the story of a young woman forced to get a job after her father tells
+  her he has lost all his money?
+
+Answers:
+  1: Ingmar Bergman
+  2: Alfred Hitchcock
+  3: Martin Scorsese
+  4: Woody Allen
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: ddc7f70b-1737-4a61-bff3-5cd00305e95c
 
 Question: >
@@ -27622,7 +27794,7 @@ SchemaVersion: 1
 ID: 4691a03e-3cc4-4a94-8516-cdf2c1f7b80c
 
 Question: >
-  War of the Worlds is the 1953 film adaptation of Orson Wells famous radio broadcast based on H. G. Wells popular
+  War of the Worlds is the 1953 film adaptation of Orson Welles famous radio broadcast based on H. G. Wells' popular
   novel.
 
 Answers:
@@ -27638,7 +27810,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -30059,7 +30231,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -72557,7 +72729,7 @@ SchemaVersion: 1
 ID: e233848a-231d-4610-aeec-63d1ddcd8c9d
 
 Question: >
-  What was the first question that Bruce asked God at the beginning of the movie ‘Bruce Almighty’?
+  What was the first question that Bruce asked God at the beginning of the movie Bruce Almighty?
 
 Answers:
   1: Are you there at all, Lord?
@@ -72574,7 +72746,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -72653,7 +72825,7 @@ SchemaVersion: 1
 ID: 042fc2f6-d31f-47c4-85f1-5368a82fb6b5
 
 Question: >
-  What is the occupation of Jennifer Aniston’s character, Grace, in the 2003 movie ‘Bruce Almighty’?
+  What is the occupation of Jennifer Aniston's character, Grace, in the 2003 movie Bruce Almighty’?
 
 Answers:
   1: Florist
@@ -72670,14 +72842,14 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
 ID: 7f05e7f7-019b-403e-89d7-b8e6e02e72fa
 
 Question: >
-  What culinary miracle does Bruce Nolan perform in the cafeteria in the comedy ‘Bruce Almighty’?
+  What culinary miracle does Bruce Nolan perform in the cafeteria in the comedy Bruce Almighty?
 
 Answers:
   1: He fries an egg with a single look.
@@ -72694,7 +72866,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -76104,7 +76276,7 @@ SchemaVersion: 1
 ID: 5c7ce033-b1d6-445c-a2a4-1718d029f464
 
 Question: >
-  Which Academy Award did the 2007 movie Pirates of the Caribbean: At Worlds End win?
+  Which Academy Award did the 2007 movie Pirates of the Caribbean: At World's End win?
 
 Answers:
   1: None of these
@@ -76121,7 +76293,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -89687,7 +89859,7 @@ SchemaVersion: 1
 ID: acc4d55d-7f92-49ea-9109-a3e034e75ac6
 
 Question: >
-  What record did the 2007 movie Pirates of the Caribbean: At Worlds End set at the time of its release?
+  What record did the 2007 movie Pirates of the Caribbean: At World's End set at the time of its release?
 
 Answers:
   1: All of these
@@ -89704,7 +89876,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -97776,7 +97948,7 @@ SchemaVersion: 1
 ID: 2979f666-6b38-4f00-86fe-2909ccf112df
 
 Question: >
-  This haunting song by Echo  the Bunnymen was used in the opening sequence in the cult classic, Donnie Darko.
+  This haunting song by Echo & the Bunnymen was used in the opening sequence in the cult classic, Donnie Darko.
 
 Answers:
   1: Moon Over Bourbon Street
@@ -97793,7 +97965,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -98966,11 +99138,11 @@ ID: f8831632-8f30-4ca5-b009-530f18258eb8
 
 Question: >
   This movie character had a lot to say when he described the following:
-  ...its like when you're a kid, the first time they tell you that the worlds turning and you just can't quite believe
-  it cos everything looks like its standing still? I can feel it. The turn of the Earth. The ground beneath our feet
-  is spinning at a 1000 miles an hour and the entire planet is hurtling round the sun at 67,000 miles an hour and I
-  can feel it. Were falling through space, you and me, clinging to the skin of this tiny little world and if we let go
-  — that's who I am. Now forget me. Go home.
+  ...it's like when you're a kid, the first time they tell you that the world's turning and you just can't quite
+  believe it 'cause everything looks like it's standing still? I can feel it. The turn of the Earth. The ground
+  beneath our feet is spinning at a 1000 miles an hour and the entire planet is hurtling round the sun at 67,000 miles
+  an hour and I can feel it. We're falling through space, you and me, clinging to the skin of this tiny little world
+  and if we let go... that's who I am. Now forget me. Go home.
 
 Answers:
   1: Exeter, This Island Earth
@@ -98987,7 +99159,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -111006,7 +111178,7 @@ SchemaVersion: 1
 ID: e6ba6943-871c-4dcc-abaf-5439c31572c6
 
 Question: >
-  In Pirates of the Caribbean: At Worlds End, Will stabbed the heart of Davy Jones with his fathers knife.
+  In Pirates of the Caribbean: At World's End, Will stabbed the heart of Davy Jones with his father's knife.
 
 Answers:
   1: False
@@ -111021,7 +111193,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -117874,6 +118046,52 @@ Answers:
   4: Fried Green Tomatoes
 
 Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 64b8f0c7-e83e-44f7-87a7-b072478ffc40
+
+Question: >
+  Mariel Hemingway never starred in a Superman movie.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 1
+
+Explanation: |
+  Mariel Hemingway appeared as Lacy Warfield in Superman IV: The Quest for Peace (1987).
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 528e8c4a-ed33-4499-b3f5-b49bd0a6b7bf
+
+Question: >
+  In the Hellraiser film series, what is the name of the puzzle-box used to open the gateway to the other world?
+
+Answers:
+  1: Midnight configuration
+  2: Lacrimal configuration
+  3: Lament configuration
+  4: Pandemonium configuration
+
+Correct: 3
 
 Explanation: |
   None
@@ -134747,6 +134965,30 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: dbe2a678-8495-4417-ba49-cf83c5d20251
+
+Question: >
+  It Happened at the World's Fair (1963) stars Elvis and this beauty.
+
+Answers:
+  1: Elsa Cardenas
+  2: Ursula Andress
+  3: Joan OBrien
+  4: Ann-Margret
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: 5a200244-1995-4f01-bf30-9ff3d0ee38d3
 
 Question: >
@@ -134759,6 +135001,30 @@ Answers:
   4: His belt
 
 Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: b26bb1f0-e3a2-4a06-b069-223c635b8c17
+
+Question: >
+  Tom Cruise's performance in the 2005 movie War of the Worlds brought him a nomination for this award.
+
+Answers:
+  1: Golden Globe Award
+  2: All of these
+  3: Golden Raspberry Award
+  4: Academy Award
+
+Correct: 3
 
 Explanation: |
   None
@@ -134955,6 +135221,82 @@ Answers:
   4: Monsieur Verdoux
 
 Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 245d1016-ec94-4669-9d32-62e1900895ff
+
+Question: >
+  In the 1979 film The Two Worlds of Jennie Logan starring Lindsay Wagner, what were the two worlds of Jennie that the
+  title referred to?
+
+Answers:
+  1: She had affairs while her husband was gone and then played the perfect wife when he was home.
+  2: She often fantasized about men while living with her real husband.
+  3: She travelled into the past while maintaining her life in the present.
+  4: She discovered her clairvoyant abilities and hid them from her husband.
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 8fc66b77-e592-4442-b730-a3e73ce841ab
+
+Question: >
+  In the popular Disney animated film, Maleficent curses baby Aurora: she will die when she pricks her finger on a
+  spinning wheels spindle. Why does Maleficent arrive and curse the child?
+
+Answers:
+  1: She was in line to inherit the kingdom before Aurora was born.
+  2: She is in love with the king.
+  3: She hates the queen, her sister.
+  4: She was not invited to the christening.
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 8227b6d4-cdf3-4c7b-b712-3ec53dbc6c22
+
+Question: >
+  In the animated film Sleeping Beauty, Aurora and Prince Phillip dance a waltz and do not notice the fairies
+  magically changing the color of Aurora's ball gown. As the book closes, Aurora's gown turns this color and remains
+  this color.
+
+Answers:
+  1: Pink
+  2: Blue
+  3: Purple
+  4: Green
+
+Correct: 1
 
 Explanation: |
   None

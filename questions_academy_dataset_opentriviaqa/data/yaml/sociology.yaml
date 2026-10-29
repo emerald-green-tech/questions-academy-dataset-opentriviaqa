@@ -22,6 +22,30 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: 0e23ff57-d3b0-4527-b10a-a5465e2e8a05
+
+Question: >
+  Researches have found that most graffiti artists fall into this demographic category.
+
+Answers:
+  1: Females of age 25 to 35
+  2: Males of age 12 to 21
+  3: Females of age 12 to 21
+  4: Males of age 25 to 35
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: 248f0b7a-b1a7-4b9b-9869-0d03785a9271
 
 Question: >
@@ -113,6 +137,56 @@ Active:
 
 Notes: >
   None
+
+SchemaVersion: 1
+---
+ID: d0fde7c6-f853-4707-b057-e890a85a8a23
+
+Question: >
+  If the world were a village of 100 people, how many people would possess 59% of the world's wealth?
+
+Answers:
+  1: 20
+  2: 2
+  3: 60
+  4: 6
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: b652f0b7-30d7-4eaa-bb61-47fcbac3af73
+
+Question: >
+  There are many theories about the identity of this mysterious British serial killer. He marks the dawn of the modern
+  age of serial murders. Although the number of his victims is not high, compared to others on our list (5), he is
+  probably the world's most famous serial murderer.
+
+Answers:
+  1: Earl Frederick
+  2: Jack The Ripper
+  3: The Toledo Clubber
+  4: Joel Rifkin
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: people
 
 SchemaVersion: 1
 ---

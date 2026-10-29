@@ -546,6 +546,30 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: c7246305-5bb9-4570-bcb3-1fd914a99e28
+
+Question: >
+  What state holds the world's largest international hot air balloon festival?
+
+Answers:
+  1: New Mexico
+  2: Texas
+  3: Maryland
+  4: Nevada
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: 0b54fe70-21f0-4fef-9346-6b474f377a65
 
 Question: >
@@ -1837,6 +1861,31 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: 22b8a288-3e5d-47f6-afac-7c98629bc7df
+
+Question: >
+  This college hosts the Institute for Advanced Study, one of the world's leading centers for theoretical research and
+  intellectual inquiry.
+
+Answers:
+  1: Yale
+  2: Harvard
+  3: Chicago
+  4: Princeton
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: e99a3feb-a4ee-45c5-9543-6e1ee20012cc
 
 Question: >
@@ -2612,6 +2661,30 @@ Answers:
   2: A River
   3: A Lake
   4: A Canyon
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 1072ea92-d2d6-4327-81f4-70bfccbdf1de
+
+Question: >
+  This place, popular as the center of the Whiskey rebellion, is the world's first nuclear powered city.
+
+Answers:
+  1: San Diego, CA
+  2: Baltimore
+  3: Pittsburgh, Pennsylvania
+  4: Washington, D.C.
 
 Correct: 3
 
@@ -4969,6 +5042,30 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: 1413cf44-60f8-4f02-830a-251a37fb6cb2
+
+Question: >
+  What type of walk-through attraction at Indiana Beach was voted the world's #1 in 2006?
+
+Answers:
+  1: a house of mirrors
+  2: a petting zoo
+  3: a haunted house
+  4: a funhouse
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: 636194a0-8af4-4016-bc95-41851abc67a7
 
 Question: >
@@ -5051,6 +5148,30 @@ Answers:
   4: North Carolina
 
 Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 147419fb-3b01-4117-8c0a-fd65c4291b2d
+
+Question: >
+  The largest city in what US state hosts Summerfest, or The World's Largest Music Festival?
+
+Answers:
+  1: New Jersey
+  2: Wisconsin
+  3: Kentucky
+  4: Maryland
+
+Correct: 2
 
 Explanation: |
   None

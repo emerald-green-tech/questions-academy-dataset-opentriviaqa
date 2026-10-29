@@ -1573,7 +1573,7 @@ SchemaVersion: 1
 ID: 89c3df7f-3345-48fb-8b8c-289a2bd7666b
 
 Question: >
-  Which part did John Cleese play in the BBCs Television Shakespeare series?
+  Which part did John Cleese play in the BBC's Television Shakespeare series?
 
 Answers:
   1: Hamlet
@@ -3239,6 +3239,30 @@ Answers:
   2: False
 
 Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 2cc68c9c-c00a-43e7-a5c7-f37183713387
+
+Question: >
+  Which of these toys is seen in Chandler and Joey's apartment on the TV show Friends?
+
+Answers:
+  1: Silly Puty
+  2: LEGO Building Blocks
+  3: Magna Doodle
+  4: Draughts
+
+Correct: 3
 
 Explanation: |
   None
@@ -10782,7 +10806,7 @@ SchemaVersion: 1
 ID: c8f0e542-dad0-4982-9aae-c4a747069686
 
 Question: >
-  What was the name of Darrin Stephenss boss on Bewitched?
+  What was the name of Darrin Stephens's boss on Bewitched?
 
 Answers:
   1: Larry Strait
@@ -10799,7 +10823,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: television. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -14157,7 +14181,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: television. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -14229,7 +14253,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: television. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -23701,8 +23725,8 @@ SchemaVersion: 1
 ID: a4a026e0-d558-4c83-9efe-f91febe3aff5
 
 Question: >
-  Well, mission accomplished. It took some doing, but we talked Karl Marx out of building the worlds largest igloo and
-  back to writing the Communist Manifesto.
+  Well, mission accomplished. It took some doing, but we talked Karl Marx out of building the world's largest igloo
+  and back to writing the Communist Manifesto.
 
 Answers:
   1: Two Stupid Dogs
@@ -23719,7 +23743,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: television. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -35748,14 +35772,14 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: television. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
 ID: 6fdf5d6c-3367-4a00-aad9-96577bacb893
 
 Question: >
-  What was the theme song for the classic 80s television show Bosom Buddies"?
+  What was the theme song for the classic '80s television show Bosom Buddies?
 
 Answers:
   1: My Sharona by The Knack
@@ -35772,14 +35796,14 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: television. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
 ID: 3c1b1a34-aac2-4884-9d6a-3ab402294027
 
 Question: >
-  What was the name of the hotel that the guys and gals lived in on the popular 80s television show Bosom Buddies?
+  What was the name of the hotel that the guys and gals lived in on the popular '80s television show Bosom Buddies?
 
 Answers:
   1: The Haven Motel
@@ -35796,14 +35820,14 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: television. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
 ID: f37fe109-9911-4f9f-bba0-483f798e6ebd
 
 Question: >
-  Who played the role of Kip Wilson/Buffy on the popular 80s television show Bosom Buddies"?
+  Who played the role of Kip Wilson/Buffy on the popular 80s television show Bosom Buddies?
 
 Answers:
   1: Peter Scolari
@@ -35820,14 +35844,14 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: television. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
 ID: 6bb40466-017b-46a8-bc45-3209b3087f55
 
 Question: >
-  Where did Kip and Henry work in the 80s television series Bosom Buddies"?
+  Where did Kip and Henry work in the '80s television series Bosom Buddies?
 
 Answers:
   1: In a cosmetic company
@@ -35844,14 +35868,14 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: television. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
 ID: d0553aaf-d852-47f3-82c2-29ef9aa29443
 
 Question: >
-  Who played the role of Henry Desmond/ Hildegarde on the sitcom Bosom Buddies?
+  Who played the role of Henry Desmond/Hildegarde on the sitcom Bosom Buddies?
 
 Answers:
   1: Peter Scolari
@@ -35868,14 +35892,14 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: television. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
 ID: b1c4d957-4194-4258-932a-b3b86be7eed1
 
 Question: >
-  On the show Bosom Buddies Isabelle was played by actress Telma Hopkins. Before becoming an actress, Telma Hopkins
+  On the show Bosom Buddies, Isabelle was played by actress Telma Hopkins. Before becoming an actress, Telma Hopkins
   used to be in the musical group Tony Orlando And Dawn.
 
 Answers:
@@ -35891,14 +35915,14 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: television. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
 ID: e4efc6e2-87e9-46db-a24f-58ca7c9f7b57
 
 Question: >
-  What television network carried the show Bosom Buddies"?
+  What television network carried the show Bosom Buddies?
 
 Answers:
   1: CBS
@@ -35915,7 +35939,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: television. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -35939,7 +35963,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: television. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -35963,7 +35987,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: television. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -46856,7 +46880,7 @@ SchemaVersion: 1
 ID: 7004af52-719e-4298-bb0d-f5caabb1ae02
 
 Question: >
-  What was the flight number of the plane that crashed, stranding its passengers?
+  On the TV show Lost, what was the flight number of the plane that crashed, stranding its passengers?
 
 Answers:
   1: 822
@@ -46867,13 +46891,13 @@ Answers:
 Correct: 3
 
 Explanation: |
-  None
+  Oceanic Airlines Flight 815, to be precise.
 
 Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: television. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -91416,7 +91440,7 @@ SchemaVersion: 1
 ID: 1155fdaf-02b8-4c52-bfe7-31f870452787
 
 Question: >
-  On the TV show Heroes, Charlies full name is Charlotte.
+  On the TV show Heroes, Charlie's full name is Charlotte.
 
 Answers:
   1: True
@@ -91431,7 +91455,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: television. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -99287,30 +99311,6 @@ Notes: >
 
 SchemaVersion: 1
 ---
-ID: 82f57e6e-6c44-424e-9c35-32e992a8ea83
-
-Question: >
-  What was the name of the first novel by Stephen King in which the main character was a writer?
-
-Answers:
-  1: Salems Lot
-  2: Misery
-  3: The Shining
-  4: The Dark Half
-
-Correct: 1
-
-Explanation: |
-  None
-
-Active:
-  True
-
-Notes: >
-  OpenTriviaQA Category was: television. Pending category review.
-
-SchemaVersion: 1
----
 ID: a6996ee6-122d-4e8d-be1b-5ca490a432bb
 
 Question: >
@@ -102919,30 +102919,6 @@ Answers:
   4: a tree in the Harry Potter series
 
 Correct: 2
-
-Explanation: |
-  None
-
-Active:
-  True
-
-Notes: >
-  OpenTriviaQA Category was: television. Pending category review.
-
-SchemaVersion: 1
----
-ID: eb7c402c-bca1-4c5b-8fa1-26f671af0eaa
-
-Question: >
-  Who was the worlds first woman prime minister?
-
-Answers:
-  1: Mrs. Bandaranaike
-  2: Indira Gandhi
-  3: Mrs. Thakadandre
-  4: Prathibha Patel
-
-Correct: 1
 
 Explanation: |
   None
@@ -109136,10 +109112,10 @@ SchemaVersion: 1
 ID: 496f7f1f-6d67-4e3d-b680-220403fac095
 
 Question: >
-  Michaels desk on the TV show The Office always has a Worlds Best Boss award on it. How did he get it?
+  Michael's desk on the TV show The Office always has a World's Best Boss award on it. How did he get it?
 
 Answers:
-  1: He got it at Pams wedding.
+  1: He got it at Pam's wedding.
   2: It was awarded to him by the Scranton Better Business Bureau.
   3: He bought it himself.
   4: It was given to him by David Wallace.
@@ -109153,7 +109129,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: television. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -134018,6 +133994,30 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: bb918dd2-d7a3-43cd-8cfd-6c75ab4594a1
+
+Question: >
+  Tom Hanks co-starred in the TV program Bosom Buddies with this fine actor/juggler.
+
+Answers:
+  1: Christopher Knight
+  2: Peter Scolari
+  3: Steve Zahn
+  4: Tom Everett Scott
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: 26381a3f-6a9b-4fa6-ab7f-89b7e42ed5ee
 
 Question: >
@@ -134239,6 +134239,100 @@ Answers:
   4: Mae Questel
 
 Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: fc68df95-8b02-4413-8a61-92a45198b32d
+
+Question: >
+  What Zoey 101 character has a lisp?
+
+Answers:
+  1: Sally
+  2: Sam
+  3: Stacey
+  4: Sidney
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 9f225166-487c-4d7f-a0cb-62209bd1dccb
+
+Question: >
+  Who are Jimmy's best friends on the show The Adventures of Jimmy Neutron: Boy Genius?
+
+Answers:
+  1: Carl and Bolbi
+  2: Carl and Sheen
+  3: Bolbi and Nick
+  4: Sheen and Bob
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: b9f26dd6-28b7-4705-8485-b5c0b8850045
+
+Question: >
+  On the animated show The Adventures of Jimmy Neutron: Boy Genius, who is Sheen's favorite superhero?
+
+Answers:
+  1: Bat Man
+  2: UltraLord
+  3: Speed Boy
+  4: Super Man
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: c32c7a53-d1f4-4ef8-915c-81451420c501
+
+Question: >
+  Does animated character Jimmy Neutron have a brother?
+
+Answers:
+  1: Yes
+  2: No
+
+Correct: 1
 
 Explanation: |
   None

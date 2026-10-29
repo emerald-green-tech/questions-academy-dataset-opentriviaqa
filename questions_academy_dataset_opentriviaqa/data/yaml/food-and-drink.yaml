@@ -2048,6 +2048,5837 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: 26e3dd12-42c5-46f9-870d-f33f0d77e62b
+
+Question: >
+  Boza is a thick, fermented beverage with a sweet and sour taste. It is made from millet seed and various astringent
+  substances and was invented in which country?
+
+Answers:
+  1: Bulgaria
+  2: Greece
+  3: Macedonia
+  4: Turkey
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 24a9f6dc-11fa-4db2-85d6-8f0b2269dfea
+
+Question: >
+  Zong Zi is a traditional food for this country. It is a rice dumpling wrapped in bamboo or reed leaves.
+
+Answers:
+  1: Thailand
+  2: Japan
+  3: Singapore
+  4: China
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 3e8e7d0e-ee7b-4a56-9dff-2b122f55aa3d
+
+Question: >
+  Coq Au Vin is a typical dish for this country, and it is prepared in all its regions, though with slight changes in
+  recipe. It is a kind of chicken stew.
+
+Answers:
+  1: France
+  2: Belgium
+  3: Germany
+  4: Switzerland
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: e2862d52-3fd0-4168-9a09-f081ce181424
+
+Question: >
+  Bratwurst is often consumed in this country. They are sausages made of pork and veal and seasoned with ginger,
+  nutmeg, and coriander or caraway.
+
+Answers:
+  1: Macedonia
+  2: Hungary
+  3: Germany
+  4: Romania
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 9c809412-3ec2-4594-a2fa-8e532299ddf0
+
+Question: >
+  Feijohada has been consumed for centuries in this country. It is a stew made of black beans and pork.
+
+Answers:
+  1: Spain
+  2: Brazil
+  3: Mexico
+  4: Portugal
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 593076c2-bc4c-4216-a87f-6537118708ce
+
+Question: >
+  Tzatziki is a typical dip of this country. It is made with yogurt, olive oil, cucumbers and onions.
+
+Answers:
+  1: Greece
+  2: Montenegro
+  3: Turkey
+  4: Romania
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 93d63c47-222f-4665-a881-de85f9fb3be1
+
+Question: >
+  Quesadillas are folded tortillas, stuffed with cheese and then grilled. Which country are they typical of?
+
+Answers:
+  1: China
+  2: Italy
+  3: Japan
+  4: Mexico
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: e1536823-0ff0-4618-8e2c-6930116af5e0
+
+Question: >
+  The Shish Kabob is very popular in this country. It is often served with the traditional greens and tomato salad,
+  tahini sauce and pita bread.
+
+Answers:
+  1: Egypt
+  2: Russia
+  3: Germany
+  4: France
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 2dcc2882-c39d-4507-b5a0-24c92298061e
+
+Question: >
+  Tandoori Chicken is a meal named after the oven in which it is cooked - a small clay oven using a wood fire. Which
+  country is it typical of?
+
+Answers:
+  1: Indonesia
+  2: Thailand
+  3: India
+  4: Siam
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 6277785d-66cf-46dc-8136-357f537a36bc
+
+Question: >
+  What meat does a proper Irish breakfast usually include?
+
+Answers:
+  1: It does not include meat.
+  2: Beef
+  3: Chicken
+  4: Pork
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 7b74bb6c-c9f2-446b-a2d2-d5487290c852
+
+Question: >
+  What dish is traditionally served for breakfast in Cambodia, Thailand and Vietnam?
+
+Answers:
+  1: Fish
+  2: Pork chops
+  3: Fried potatoes
+  4: Soup
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: a4c3ca8f-e99f-464c-ae99-62a4c25a6ab9
+
+Question: >
+  Which kind of breakfast is sometimes referred to as a Full Monty?
+
+Answers:
+  1: Continental breakfast
+  2: Irish breakfast
+  3: French breakfast
+  4: Full English breakfast
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 3b7ea638-7729-47b7-a0c8-53f7aa65732c
+
+Question: >
+  Which word refers to the fermented soybeans that are a part of the traditional Japanese breakfast?
+
+Answers:
+  1: Congee
+  2: Negi
+  3: Natto
+  4: Youtiao
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: b94bcc1a-f60b-47e9-a202-4a8159335391
+
+Question: >
+  In the United Kingdom, when is the wedding breakfast served?
+
+Answers:
+  1: at the wedding reception
+  2: in the morning after the wedding
+  3: in the morning before the wedding
+  4: the day before the wedding
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 1a2700e4-3682-4e80-b3c9-dd733c84635a
+
+Question: >
+  The popular breakfast cereal dish muesli was invented in 1900 in which country?
+
+Answers:
+  1: Sweden
+  2: Switzerland
+  3: Ireland
+  4: Turkey
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: cd75fc4a-3539-4548-96f0-91914295de15
+
+Question: >
+  The traditional Malayan breakfast dish Nasi lemak includes soaking rice in what?
+
+Answers:
+  1: Cow milk
+  2: Coconut cream
+  3: Coffee
+  4: Green tea
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 6a5a9766-7984-4029-bd8a-d168f675d7d5
+
+Question: >
+  In which country does the typical breakfast consist of Caffè e latte and a pastry?
+
+Answers:
+  1: Italy
+  2: Cambodia
+  3: Scotland
+  4: England
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: ee57cc9a-a065-4092-897f-0288ae7647cd
+
+Question: >
+  Besides flour and milk, what is the third essential ingredient of the batter for pancakes in the UK?
+
+Answers:
+  1: Lemon
+  2: Jam
+  3: Eggs
+  4: Sugar
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: d4373f71-4d57-41c1-b0e0-bc0a343d920e
+
+Question: >
+  The title of Kurt Vonnegut's book Breakfast of Champions is also the slogan of what famous American breakfast
+  cereal?
+
+Answers:
+  1: Honey Bunches of Oats
+  2: Krispies
+  3: Wheaties
+  4: Cheerios
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: f0472d05-5bbe-4b86-8c80-864b604e19ea
+
+Question: >
+  The carbonated beverage Fanta is a product of which company?
+
+Answers:
+  1: Royal Crown (RC)
+  2: Independently owned and operated
+  3: Pepsi
+  4: Coca-Cola Bottling Co.
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 75608f96-78f9-485a-90b1-e745dea218a6
+
+Question: >
+  The special Fanta flavour in Romania, based on a traditional local drink made from elderflower, is called by what
+  name?
+
+Answers:
+  1: Fanta Shokata
+  2: Fanta Roma
+  3: Fanta Amanta
+  4: Fanta Eldera
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 83469321-a885-469f-8ee8-0a734d9ca5ff
+
+Question: >
+  Fanta was named by a German salesman, named Joe Knipp. During a contest for employees, the contestants were told to
+  let their fantasy run wild and Knipp said: Fanta.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: a6ee70c1-403e-40ef-8140-abc6941ce3a4
+
+Question: >
+  The first soft drinks that were sold in all-aluminum cans in 1964 were products of the Royal Crown Cola company.
+
+Answers:
+  1: True
+  2: False
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: ba8310e9-b2fc-4c65-a9f1-db129b274d7a
+
+Question: >
+  In 1985, Shasta was acquired by the Royal Crown Cola Corp., which also owned the Faygo line of soft drinks.
+
+Answers:
+  1: True
+  2: False
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 4da3615c-38bc-4047-a04d-4af868da4fda
+
+Question: >
+  Which American soft drink company was established by pharmacist Claude A. Hatcher in 1905?
+
+Answers:
+  1: Royal Crown Cola Corp.
+  2: Tropical Fantasy
+  3: National Beverage Corp.
+  4: None of these
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 6f146bd6-f967-497c-a3ac-e5ab6cccab9a
+
+Question: >
+  What soft drink brand has the same name as a Native American tribe of Northern California?
+
+Answers:
+  1: Shasta
+  2: Coca-Cola
+  3: RC Cola
+  4: Pespi
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 2f6d8372-d70c-4144-81c1-67008d6f0886
+
+Question: >
+  This cocktail is prepared from 1 1/2 oz. dark rum, 1/2 oz. each: Orange Curacao and creme de noyaux, lime juice,
+  dash of grenadine. You shake the ingredients with ice and serve in a Hurricane or decorative glass.
+
+Answers:
+  1: Frozen Daiquiri
+  2: Sea Breeze
+  3: Southern Sparkler
+  4: Mai Tai
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 05d7a107-b814-44f3-a181-64bacd6c148e
+
+Question: >
+  This summer cocktail requires 1 1/2 oz. vodka, 1/2 oz. lime juice, 1/2 oz. triple sec, 6 frozen watermelon cubes,
+  1/2 shaker of ice, 1/2 oz. chambord. The ingredients are placed into a shaker and mixed very well.
+
+Answers:
+  1: Watermelon Martini
+  2: Goom Bay Smash
+  3: Hurricane
+  4: Caribbean Cruise
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: ddbbccfb-3180-49f9-924f-b871a6e4c36b
+
+Question: >
+  If you want to prepare this cocktail, you will need 3 oz pineapple juice, 3 oz orange juice, 3 oz lime juice, 8
+  dashes Angostura bitters, 6 oz rum and 2 oz simple syrup. Mix the ingredients in a shaker with ice.
+
+Answers:
+  1: Mint Julep
+  2: Mai Tai
+  3: Rum Punch
+  4: Peppermint Pattie
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 2216b4fd-f198-412a-bad6-41750ee622fb
+
+Question: >
+  This cocktail is made of 2 oz vodka, 3 oz cranberry juice, 2 oz grapefruit juice. The ingredients are shaken with
+  ice and then strain into a highball glass.
+
+Answers:
+  1: Bloody Mary
+  2: Caipirinha
+  3: Sea Breeze
+  4: Kamikaze
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 4d0294a9-ef4d-454b-8919-3ef534c3fb04
+
+Question: >
+  This is a type of punch. In a big bowl pour the following ingredients: 1 bottle red wine, shotglass of lime juice, 2
+  shots Bacardi and add random fruit. Chill the mixture overnight.
+
+Answers:
+  1: Godfather
+  2: Greyhound
+  3: Sangria
+  4: Gin Buck
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 7948e7b4-3780-44ec-a1f3-12cf22c80a0a
+
+Question: >
+  You just need 1 oz white creme de cacao and 1 oz white creme de menthe for this cocktail. They are poured over ice
+  in an old fashioned glass.
+
+Answers:
+  1: Peppermint Pattie
+  2: Kama Sutra
+  3: Kapu-Kai
+  4: Grape Crush
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: hobbies
+
+SchemaVersion: 1
+---
+ID: ebaa301f-9c40-4b8e-8be9-bb81eba6a4c1
+
+Question: >
+  This more complex cocktail requires 1 1/2 oz light rum, 1 tbsp triple sec, 1 1/2 oz lime juice, 1 tsp sugar, 1
+  cherry and 1 cup crushed ice. Except the cherry, combine all ingredients and blend them for 5 seconds in a blender.
+  Pour the mixture into a champagne glass and top with the cherry.
+
+Answers:
+  1: Kats Kiss
+  2: Acapulco
+  3: Frozen Daiquiri
+  4: La Florida
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 456fe9f3-097d-4178-bce9-1c1843e7c696
+
+Question: >
+  This cocktail's ingredients are as follows: 1 1/4 oz. Southern Comfort, grapefruit juice, pineapple juice, soda.
+  They are all mixed and shaken with ice.
+
+Answers:
+  1: Lobotomy
+  2: Kir
+  3: After Five
+  4: Southern Sparkler
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: d2b5f831-7114-47f2-a4e5-540b43fa9cec
+
+Question: >
+  To prepare this one, you need 1 1/2 oz. Kahlua, 1/2 oz. peppermint schnapps, splash of cream and splash of cola.
+  Shake the ingredients and add ice.
+
+Answers:
+  1: Cosmopolitan
+  2: Vodka Martini
+  3: Georgia Peach
+  4: Colorado Minty Dog
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 02b4f4d9-35b8-49fd-91c3-31820b438d04
+
+Question: >
+  This strongly acidic and detoxifying fruit grows on trees named Citrus sinensis and Citrus aurantium.
+
+Answers:
+  1: Grapefruit
+  2: Orange
+  3: Avocado
+  4: Lemon
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 2fc38214-4125-4fe5-8ab8-0b6315a55e71
+
+Question: >
+  Similarly to spinach, this fruit, called petia in Spain, contains plenty of iron.
+
+Answers:
+  1: Mango
+  2: Avocado
+  3: Banana
+  4: Watermelon
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 94805e02-c6a1-4abd-8264-649de68641df
+
+Question: >
+  Which of the following groups of fruits are considered low-acid fruits?
+
+Answers:
+  1: Cherries, sweet peaches, sweet plums
+  2: Blueberries, huckleberries, strawberries
+  3: All of these
+  4: Mangos, elderberries, olives, fresh figs
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 4557bb9d-3c5b-4274-a87d-91aac8df4fb9
+
+Question: >
+  These fruits of the Family Musaceae are a valuable source of Vitamin A, Vitamin C, and potassium and are highly
+  recommended by doctors to patients, whose potassium levels are low.
+
+Answers:
+  1: Pear
+  2: Strawberry
+  3: Apple
+  4: Banana
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 7280f237-9d23-4c6a-8dc5-4ad1a5190fa5
+
+Question: >
+  Why do doctors and dietitians recommend that we have five to nine fresh pieces of fruit a day?
+
+Answers:
+  1: All of these
+  2: Fruits stimulate the memory.
+  3: Fruits help the organism release toxins.
+  4: Fruits are rich in vital vitamins.
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: c6af45a6-c8ea-4084-8211-f088422f0cbf
+
+Question: >
+  What type of food is Pancetta?
+
+Answers:
+  1: sausage
+  2: milk
+  3: bacon
+  4: small pepper
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: d9ba050d-7cf6-417d-bf10-8c947d05d36b
+
+Question: >
+  Sometimes sushi is served rolled in nori. What is nori?
+
+Answers:
+  1: meat
+  2: mushroom
+  3: rice
+  4: seaweed
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: e27a7e63-0980-46a6-9d9b-bab8a9ef105f
+
+Question: >
+  The fish taco is generally cooked by what method?
+
+Answers:
+  1: Broiling
+  2: Baking
+  3: Poaching
+  4: Frying
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 1d63faea-b269-4c67-a54c-1c0d10a437b6
+
+Question: >
+  Stilton is a cheese which originated in which country?
+
+Answers:
+  1: France
+  2: The Netherlands
+  3: Switzerland
+  4: England
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: fc879a2a-babc-422c-a2e7-abee8007501e
+
+Question: >
+  This cocktail is as simple as mixing 1 oz vanilla liqueur and 1/2 fluid ounce cream.
+
+Answers:
+  1: Good Night
+  2: Creme De Cocoa
+  3: Gimlet
+  4: Little Beer
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 777d2a3e-b06e-457f-aa2c-cbb9e75e8dcc
+
+Question: >
+  Prepare 1 1/2 oz lemon-flavored vodka, 3/4 oz fresh lemon juice, 1 lemon wedge, 1 teaspoon sugar. Moisten a martini
+  glass with the lemon wedge and then dip it into sugar. Shake the ingredients well and strain into the sugared glass.
+
+Answers:
+  1: Lemon Drop Cocktail
+  2: Havana
+  3: Grenada
+  4: Hot Toddy
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 85ae53f6-2fb5-4e76-9a15-46abc877cca3
+
+Question: >
+  Take 50ml Rye Whiskey, 25ml Sweet Vermouth, 1 dash Angostura Bitters. Stir all the ingredients together with ice and
+  strain in a martini glass. Garnish with a Maraschino cherry.
+
+Answers:
+  1: Manhattan
+  2: Irish Coffee
+  3: Grapefruit
+  4: Jamaica Glow
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: a3914ac6-23ae-4dbe-8ee4-e49adfadc4ac
+
+Question: >
+  In a shaker, mix 1 oz Kahlua, 1 oz butterscotch schnapps and 6 oz milk. Strain into a glass.
+
+Answers:
+  1: Irish Coffee
+  2: Kahlua Butterball
+  3: John Collins
+  4: Hot Toddy
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 3cf79e04-9bae-413e-8e58-f8d675fc99c3
+
+Question: >
+  Layer ingredients in a shot glass in the following order: 15 ml Creme De Cacao white liqueur, 15 ml  Blue curacao
+  liqueur, 15 ml Scotch Whisky.
+
+Answers:
+  1: Kiss Me Quick
+  2: Martini Perfect
+  3: Mexican Coffee
+  4: African Violet
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 6676f17b-8ca7-4f7e-b4e8-c56c582fcf1c
+
+Question: >
+  For this refreshing cocktail you need 2 oz tequila, juice of 1/2 lime and Coca-Cola. Mix tequila and lime juice over
+  ice cubes in a the glass. Add cola, stir, and its ready.
+
+Answers:
+  1: Mexicola
+  2: Mojito
+  3: Mimosa
+  4: Monmartre
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 440dc50c-028c-4a96-803d-ae07f395f0c8
+
+Question: >
+  Prepare 1 1/2 oz gin, 2 tsp grapefruit juice, 1 tbsp maraschino liqueur. Mix all ingredients and shake them with
+  ice. Then strain into a cocktail glass. Add a sprig of mint.
+
+Answers:
+  1: Singapore Sling
+  2: Silver Fizz
+  3: Sangria
+  4: Seventh Heaven
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 44f00d37-3c73-4448-ae75-c81154c04a79
+
+Question: >
+  To experience this sweet delight you need 1 oz light rum, 1 oz dark rum, 1 oz coconut cream, 1 cup Ice, 4 oz
+  pineapple juice and 4 strawberries. Mix all the ingredients in a shaker. Garnish with a pineapple wedge.
+
+Answers:
+  1: Swamp Water
+  2: Strawberry Colada
+  3: Spanish Coffee
+  4: Singapore Sling
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 30f71ebd-be52-4d56-966a-46c5dbcba407
+
+Question: >
+  Shake the following ingredients with ice: 1/2 oz. Creme De Banane, 1/2 oz. pineapple juice, 1 oz. gin, 1 oz. cream
+  and add a dash of Grenadine.
+
+Answers:
+  1: Velvet Kiss
+  2: Frozen Irish Coffee
+  3: Silver Fizz
+  4: White Russian
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 952a964c-37cf-4182-8e64-40381fd1c701
+
+Question: >
+  This cocktail is a sweet combination of 4 oz. vodka, 2 oz. Midori and some Sprite mixed with ice.
+
+Answers:
+  1: Hocus Pocus
+  2: Midori Dream
+  3: Hole In One
+  4: Highland Sling
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: f95bc425-bddc-478b-9e39-f2f927d08db3
+
+Question: >
+  The seeds of which of these herbs are the key spice in Indian curries?
+
+Answers:
+  1: Coriander
+  2: Tansy
+  3: Costmary
+  4: Thyme
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 43de9226-da95-43b9-aea3-c8ea1ac4761b
+
+Question: >
+  Which special type of wormwood, used exclusively for spicing, is one of the four fines herbes of French cooking?
+
+Answers:
+  1: Rocket
+  2: Tarragon
+  3: Sumac
+  4: Mustard
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: bf345787-7088-4874-b479-cd5956347875
+
+Question: >
+  This aromatic perennial herb, that is native to Europe, North Africa and Asia, is widely used in many cuisines,
+  especially in the Mediterranean.
+
+Answers:
+  1: Poppy
+  2: Pepper
+  3: Thyme
+  4: Paprika
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 966b81e8-d2cf-4b3d-90d4-ddabcf0c7645
+
+Question: >
+  Greyhound is a cocktail which contains Tonic.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 1
+
+Explanation: |
+  A traditional Greyhound is made with just two ingredients: gin or vodka, and fresh grapefruit juice (typically
+  served on the rocks in a highball or rocks glass).
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 3aa4b3aa-a135-43bc-84af-eaee84c50e23
+
+Question: >
+  This London style porter has the flavor of chocolate and coffee incorporated into the brewing process for a unique
+  tasting adventure.
+
+Answers:
+  1: Blackhook
+  2: Bud
+  3: Winterhook
+  4: Copperhook
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: d7df0493-7685-404e-ba07-cac006a56501
+
+Question: >
+  A Grasshopper is characterized by its soft color and taste, which comes from this strong green liqueur.
+
+Answers:
+  1: Apple Pucker
+  2: Creme de Grasshopper
+  3: Creme de Menthe
+  4: Lime Juice
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 64b5a85a-904c-4ef2-92af-4cba2b935d19
+
+Question: >
+  One and a half ounce of 80 proof liquor, straight or with a mixer, 12 ounce beer (a regular size can, bottle, mug,
+  or glass) or a 5 ounce glass of wine all take about 8 hours each for your body to get rid of them.
+
+Answers:
+  1: True
+  2: False
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 4e983802-d675-4164-ac4c-3ff8a51eb07d
+
+Question: >
+  There are several renditions of the famed Long Island Iced Tea, but almost all of the recipes call for this
+  carbonated drink.
+
+Answers:
+  1: Sparkling Water
+  2: 7-UP
+  3: Soda Water
+  4: Cola
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 0a9e6a7f-bacb-473c-9b8f-a8c4004b198b
+
+Question: >
+  Brandy Separators are made with this coffee-flavored liqueur.
+
+Answers:
+  1: Creme de Cacao
+  2: Kahlua
+  3: Baileys
+  4: Frangelico
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 7e7c1796-cfa0-496e-83ff-4ae4ffcd7d27
+
+Question: >
+  This is a traditional Scottish dish, boiled in a sheep’s stomach. Some of the main ingredients are sheep’s pluck,
+  onion, salt and spices.
+
+Answers:
+  1: Ratatouille
+  2: Haggis
+  3: Marmite
+  4: Hot Pot
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 0308ada4-b169-4c36-8020-3897179bd408
+
+Question: >
+  This dish is usually cooked in a large, flat pan. It is most typical for the region of Valencia, Spain and contains
+  ingredients such as rice, saffron and olive oil.
+
+Answers:
+  1: Enchilada
+  2: Paella
+  3: Lasagna
+  4: Tajine
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 23749517-6fe5-485b-bbb8-f9c8fc68b1a4
+
+Question: >
+  Which of these dishes is a traditional Mexican dish, prepared out of a tortilla dipped in a sauce, containing
+  peppers?
+
+Answers:
+  1: Polenta
+  2: Enchilada
+  3: Baccala
+  4: Jambalaya
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: ad60a026-5841-437b-ac0c-22f759c24b96
+
+Question: >
+  This Hungarian dish, meaning cowherd, is prepared with beef, onion, red peppers and paprika.
+
+Answers:
+  1: Utopenec
+  2: Bramborak
+  3: Pljeskavica
+  4: Goulash
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: c9a61e36-8db3-4f22-908c-0e69146a2e0e
+
+Question: >
+  This Romanian dish, widely known around the world under the Italian name of polenta, is traditionally prepared of
+  maize, cooked in an iron pot.
+
+Answers:
+  1: Vesalica
+  2: Mămăligă
+  3: Hornazo
+  4: Pilaf
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 437a8f95-4de8-4146-8030-0cbe50f1a3aa
+
+Question: >
+  This delicacy, typical for "The Country of the Rising Sun", usually only consists of thinly sliced raw seafood,
+  dipping sauce and garnish.
+
+Answers:
+  1: Sashimi
+  2: Moussaka
+  3: Tsatsiki
+  4: Vaho
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 74391200-6a42-4343-9072-a32df002651d
+
+Question: >
+  This member of Czech cuisine, consists of a marinated sausage, usually served with slices of Czech bread.
+
+Answers:
+  1: Drstkova
+  2: Utopenec
+  3: Polevka
+  4: Knedliky
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: f1231610-7e03-4dea-8470-26e27193d51a
+
+Question: >
+  Which of these is a French dish, whose main ingredients are veal, onions and mushrooms?
+
+Answers:
+  1: Blanquette de veau
+  2: Souffle
+  3: Pot-au-feu
+  4: Coq au Vin
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: bfd7ef8b-3f92-4010-9f38-c2091116e54b
+
+Question: >
+  This German dish, whose name means sow’s stomach is popular in Palatinate, a region in south-western Germany.
+
+Answers:
+  1: Saumagen
+  2: Eisbein
+  3: Bistec
+  4: Haggis
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: a036d53e-7ea3-4a6e-8305-6f46a8ceefb4
+
+Question: >
+  What is the quantity of caffeine in an average chocolate?
+
+Answers:
+  1: as much as in a cup of tea
+  2: as much as in a cup of decaffeinated coffee
+  3: as much as in a cup of coffee
+  4: as much as in a glass of coke
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: dee39234-ff75-4aae-a85b-f5356bb1b15c
+
+Question: >
+  Which type of chocolate is richest in fat?
+
+Answers:
+  1: Baking Chocolate
+  2: Semisweet
+  3: Bittersweet
+  4: Unsweetened
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 85be6703-cce8-4d10-9662-39885b25dce3
+
+Question: >
+  Why does chocolate melt in your mouth?
+
+Answers:
+  1: None of these
+  2: The melting point of cocoa butter is a little lower than the human body temperature
+  3: The melting point of cocoa butter is a little higher than the human body temperature
+  4: It contains nutrients that speed up salivation
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: f97ecd01-c8a6-4c9a-8093-f67107edd94e
+
+Question: >
+  What does the term dutching mean when referring to chocolate?
+
+Answers:
+  1: Hardening the chocolate
+  2: Pulverizing the chocolate
+  3: Alkalizing the chocolate
+  4: None of these
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 2bf89995-5eb3-411c-b58f-bdb60791b94a
+
+Question: >
+  Which of these statements is NOT a myth about chocolate?
+
+Answers:
+  1: Chocolate has no nutritional value
+  2: Chocolate causes cancer
+  3: Chocolate is rich in caffeine
+  4: It is unsafe to feed chocolate to a dog
+
+Correct: 4
+
+Explanation: |
+  Feeding chocolate to a dog is unsafe because dogs cannot metabolize the theobromine and caffeine found in cocoa.
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 0fdeb4a4-bead-4527-bfaa-e342c55ef19a
+
+Question: >
+  What was the name that Aztecs and Mayas gave to the drink they produced from cocoa beans?
+
+Answers:
+  1: Gianduja
+  2: Theobroma
+  3: Carraque
+  4: Xocoatl
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 5a5cb307-9866-42f1-a21d-a821a378d451
+
+Question: >
+  This is the recommended beneficial daily dose of wine.
+
+Answers:
+  1: Five glasses
+  2: Three to four glasses
+  3: One to two glasses
+  4: Six glasses
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 26a8e005-082e-48b6-ae76-110068895752
+
+Question: >
+  For its ability to reduce anxiety and tension, wine is considered to be this.
+
+Answers:
+  1: Intoxicating
+  2: Grappa Duve
+  3: Controlled substance
+  4: Natural tranquilizer
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 527fbf46-76b5-4147-9328-6b1f974faf67
+
+Question: >
+  The Framingham Heart Study concluded that moderate drinkers were 50% less likely to die from coronary diseases than
+  this group of people.
+
+Answers:
+  1: Heavy drinkers
+  2: Drug addicts
+  3: Stressed persons
+  4: Non drinkers
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 3dd72744-a143-4581-9054-8571fccb14b9
+
+Question: >
+  High consumption of saturated fats increases the risk of cardiovascular diseases. Although the residents of the
+  Toulouse region in France consume dishes with plenty of saturated fat, the occurrence of cardiovascular diseases
+  there is comparatively low. It is because they drink a lot of wine, which helps accelerate the elimination of this
+  from the blood.
+
+Answers:
+  1: Fat
+  2: Free radicals
+  3: Oxidants
+  4: Cholesterol
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 50aa878a-21ff-437c-8b4a-9a042d4b39b8
+
+Question: >
+  It is generally accepted that whiskey has been made in Ireland since Irish monks brought the distillation process
+  from the Middle East. In Gaelic, the drink was known as Uisge Beatha, which means what in English?
+
+Answers:
+  1: Spirit of life
+  2: Water of the gods
+  3: Water from heaven
+  4: Water of life
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: a914fa94-680d-400e-8e3d-fc79605454d2
+
+Question: >
+  Prior to fermentation, one of the phases in the production of whisky, dried malt is soaked in water, sugar gets
+  dissolved, and a this sugary liquid is produced.
+
+Answers:
+  1: Peat
+  2: Amylase
+  3: Still
+  4: Wort
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: f0976d3a-b204-410b-8133-2f60241d1e3a
+
+Question: >
+  This distillery, founded in 1608 in a small village in Northern Ireland, is the oldest licenced whiskey distillery
+  in the world.
+
+Answers:
+  1: Old Bushmill's Distillery
+  2: Cooley Distillery
+  3: Tullamore Distillery
+  4: Heaven Hill
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: d9d19e4d-1c71-4a09-9cb5-f4de2d30a015
+
+Question: >
+  This spirit is distilled from a fermented mash containing no less than 51% corn or maize in addition to wheat, rye
+  and malted barley.
+
+Answers:
+  1: Bourbon
+  2: Scotch
+  3: Welsh whiskey
+  4: Canadian whisky
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 0bfe7050-ee4d-4465-811d-2e02307a5e05
+
+Question: >
+  Which of these words refers to secret and illegal production of whiskey, commonly carried out at night.
+
+Answers:
+  1: Moonscape
+  2: Moonbeam
+  3: Moonstone
+  4: Moonshining
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: bb4a5ac7-a9e2-4a49-981e-e49b95b4d857
+
+Question: >
+  The "Scotch Whisky Act 1988" legally defines Scotch whisky. Which of these is the standard that whisky must meet in
+  order to be called, Scotch Whisky?
+
+Answers:
+  1: It must be distilled at a Scottish distillery.
+  2: All of these
+  3: It must have an alcoholic strength of less than 94.8% by volume.
+  4: It must be matured in Scotland in oak casks for not less than three years.
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: c1ec9f29-d508-4399-ad20-a77c091fcac7
+
+Question: >
+  This popular cocktail, usually garnished with a cherry, contains rye or bourbon whiskey mixed with sweet vermouth.
+
+Answers:
+  1: Cuba Libre
+  2: Cosmopolitan
+  3: Manhattan
+  4: Margarita
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 61d13025-cdf8-438c-9200-4558becb448c
+
+Question: >
+  This is one of the earliest cultivated foods. The protein in these nuts is very much like the protein in human
+  breast milk. This makes it suitable for inclusion in baby foods.
+
+Answers:
+  1: Walnuts
+  2: Peanuts
+  3: Almonds
+  4: Chestnuts
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 383b97ff-47d0-4b55-9b2d-9cad40e92666
+
+Question: >
+  This food was invented in 1890 by a doctor, for his patients with decayed teeth. Before the 1960s it was hardly
+  consumed outside America, as the rest of the world did not relish it.
+
+Answers:
+  1: Butter
+  2: Peanut butter
+  3: Olive oil
+  4: Cream
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 8708ddc1-f00a-439d-90e7-da7d933b8c6f
+
+Question: >
+  This is one of the few non-fish oils that contains linolenic acid, an omega-3 fatty acid. This will lower your
+  chances of having a heart disease. It also contains no cholesterol.
+
+Answers:
+  1: Sunflower oil
+  2: Soybean oil
+  3: Olive oil
+  4: Palm oil
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 419fe861-6e5b-424a-8565-c0e6a48882e7
+
+Question: >
+  This green vegetable is number one on the list of foods that contain agents preventing cancer. The list contains
+  about 30 such agents.
+
+Answers:
+  1: Broccoli
+  2: Cabbage
+  3: Spinach
+  4: Lettuce
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: b2f1db4c-79d3-4eae-8390-7da3e5f53e8a
+
+Question: >
+  Famous also as Chinese gooseberry, this fruit is the richest in vitamins and minerals. However, it should not be
+  served with dairy products, as its enzyme actinidin will start dissolving the milk proteins and leave a bitter taste
+  in your mouth.
+
+Answers:
+  1: Apple
+  2: Orange
+  3: Banana
+  4: Kiwi
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 308fed29-f8e7-4d01-aa7a-9fff4906f6b6
+
+Question: >
+  The scientific name of the evergreen tree cacao, the source of cocoa and chocolate, is Theobroma Cacao. What does
+  "Theobroma" mean in Greek?
+
+Answers:
+  1: curse of the gods
+  2: food of the gods
+  3: made by the gods
+  4: forbidden by the gods
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: fd937c6e-c617-46ce-9ec2-3d89bb121da1
+
+Question: >
+  Before raw, unprocessed chocolate becomes suitable for eating, It has to be stirred and kneaded using equipment with
+  rollers, in a process called what?
+
+Answers:
+  1: Molding
+  2: Mashing
+  3: Sparging
+  4: Conching
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: b8751209-9f21-4a94-9426-eee7a17be96d
+
+Question: >
+  Complete this slogan which advertises a candy bar: "A _______ a day helps you work, rest and play".
+
+Answers:
+  1: Mars
+  2: Kit Kat
+  3: Snickers
+  4: Twix
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 7eb2be64-eda1-4e4b-847c-3cf35a8789ef
+
+Question: >
+  Which of these types of chocolate is based on cocoa butter, but does not contain cocoa solids?
+
+Answers:
+  1: Dark chocolate
+  2: White chocolate
+  3: Semi-sweet chocolate
+  4: Milk chocolate
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 5362fe1f-3f0f-4a24-97e3-df9664b19f8d
+
+Question: >
+  Ganache is a fancy word for an apron.
+
+Answers:
+  1: True
+  2: False
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: a3ce79cb-57db-4712-a094-4b0dc5f967b0
+
+Question: >
+  Pommes de terre is a French term literally translated as apples of the earth. In English the term refers to which of
+  the following?
+
+Answers:
+  1: potatoes
+  2: tomatoes
+  3: apples
+  4: beets
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 805fc91a-376b-4996-a414-40c8ad97e876
+
+Question: >
+  Modern cakes were first baked in Europe around the mid-17th century. They were not frosted. Why did they start
+  frosting cakes?
+
+Answers:
+  1: As a status symbol - because sugar was very expensive only the rich could afford a frosted cake
+  2: To add flavor since the cakes were more like breads or biscuits
+  3: To impress the King since one needed the Kings permission to open a bakery
+  4: To better preserve the cake since there was no modern refrigeration available
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 59a88eaf-71e3-4663-b094-390e0b926961
+
+Question: >
+  To decant means to pour wine (or other liquid) from one container to another.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: ab7ee7fa-688a-42da-bd24-f23639a9c2ff
+
+Question: >
+  Tea is made by a process called infusing.
+
+Answers:
+  1: True
+  2: False
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 82de1a64-ca9e-4d62-92d2-5ea424ed3fa7
+
+Question: >
+  What does the word epicure mean?
+
+Answers:
+  1: a person who critiques restaurants
+  2: a person who oversees all operations in a restaurant
+  3: a person who works in the wine industry
+  4: a gourmet with extensive knowledge of food and wine
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: e582b463-dd79-4b78-953e-44183d97e879
+
+Question: >
+  A marmite is a large circular sieve made with bamboo and mesh.
+
+Answers:
+  1: True
+  2: False
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 2d5a839d-64a8-4c68-9738-164fe6d67b1e
+
+Question: >
+  Farfalle is a French word meaning butterfly.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 1
+
+Explanation: |
+  Farfalle means "butterflies" in Italian, not French.
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 3c6bd4ce-4b35-4c28-b164-3d5dfb179ff7
+
+Question: >
+  Chefs James Beard and Julia Child were lifelong friends.
+
+Answers:
+  1: True
+  2: False
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 325cb8a3-cd97-4a16-942e-93d65c5bfa0f
+
+Question: >
+  One of Wolfgang Puck's food handlers tested positive for Hepatitis A. What was the event Puck was catering that
+  possibly exposed hundreds of people to Hepatitis?
+
+Answers:
+  1: Academy Awards
+  2: Playboys Playmate of the Year celebration
+  3: The Tony Awards
+  4: Sports Illustrated annual swimsuit issue party
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: c013dd6f-8b74-4d67-ac5a-a88b6e87b9e1
+
+Question: >
+  How many calories does whole milk contain per serving of 8 fluid ounces?
+
+Answers:
+  1: 102
+  2: 150
+  3: 98
+  4: 180
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: aaedcda5-29de-4356-9ab7-95c39a409f0f
+
+Question: >
+  Sweetened condensed whole milk is canned milk concentrate with molasses added to it.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 861119bf-1f56-42e1-92fc-c955bd0658e9
+
+Question: >
+  How many glasses of milk is recommended for people 50+ each day?
+
+Answers:
+  1: 2-3
+  2: 0-1
+  3: 1-2
+  4: 3-4
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: f65c6e23-7ad3-4031-86e6-9daf9e339537
+
+Question: >
+  Freezing does not change the structure of milk.
+
+Answers:
+  1: True
+  2: False
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 0b79a030-b15e-4696-ac9a-1a7703e84211
+
+Question: >
+  Which term refers to the process of dispersing milk fat throughout the milk?
+
+Answers:
+  1: Homogenization
+  2: Pasteurization
+  3: Fortification
+  4: Ultrapasteurization
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 99fd1cc4-28c3-4423-bb03-5c761f896dbe
+
+Question: >
+  Generally milk stays fresh for up to a week after the sell by or pull date.
+
+Answers:
+  1: True
+  2: False
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: e24bc0c6-4ff6-4c23-9711-8232e633a8a0
+
+Question: >
+  What percentage of water is removed from milk to make evaporated milk?
+
+Answers:
+  1: 40%
+  2: 70%
+  3: 60%
+  4: 50%
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: d632c2ae-8a9a-41a3-a5bf-db4a5615d368
+
+Question: >
+  Milk should not be exposed to strong light.
+
+Answers:
+  1: True
+  2: False
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: d72da6f9-a668-4502-8646-005921657cd4
+
+Question: >
+  How many calories does 1 serving (8 fl. oz.) of skim milk contain?
+
+Answers:
+  1: 50
+  2: 80
+  3: 70
+  4: 100
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 8b7aba08-5b2d-4d20-a1ee-8fc18087ae9f
+
+Question: >
+  Peanuts are not considered to be nuts. They are legumes, and belong to the same class as peas and beans.
+
+Answers:
+  1: True
+  2: False
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: d8131208-512d-4866-89af-a95c28a50db1
+
+Question: >
+  This peanut related sandwich, common in the USA and Canada, is often served with a glass of milk.
+
+Answers:
+  1: Peanut butter and jelly
+  2: Peanut butter and tuna fish
+  3: Grilled cheese and peanuts
+  4: Peanut sauce and broccoli
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 61acaa80-5333-4651-a91d-85875119d41f
+
+Question: >
+  This is the kind of rice you should use for your risotto.
+
+Answers:
+  1: Round or semi-round rice
+  2: Brown rice
+  3: Chinese rice
+  4: Long grained rice
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 1685d347-359d-4e59-8bcd-6138f0d4406c
+
+Question: >
+  Apart from olive oil, what else can you use to saute minced onions and herbs?
+
+Answers:
+  1: Unsalted palm oil
+  2: Unsalted sunflower oil
+  3: Unsalted butter
+  4: Unsalted lard
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: b033b32d-94be-478e-8353-7d4c3237dd9f
+
+Question: >
+  When making risotto, you should stir the rice while frying it until it becomes this.
+
+Answers:
+  1: White
+  2: Soft
+  3: Golden
+  4: Translucent
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 80b4e729-fbfe-465b-982f-b5ef319226a6
+
+Question: >
+  To prevent rice from sticking, you should do this.
+
+Answers:
+  1: Saute on low heat
+  2: Add some salt
+  3: Stir
+  4: Pour additional water
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 19713458-0f8f-43eb-a2c3-c4d4f161b793
+
+Question: >
+  Which of these ingredients is most commonly added while cooking, and then allowed to evaporate?
+
+Answers:
+  1: Wine
+  2: Rum
+  3: Beer
+  4: Martini
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 747ec2f3-d5f0-4871-8b68-db5404dabf67
+
+Question: >
+  When you add a ladle of broth to risotto, it should be in this condition.
+
+Answers:
+  1: Unsalted
+  2: Cold
+  3: Sweetened
+  4: Simmering
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 32d828bd-926f-484e-94dc-baca99bd7280
+
+Question: >
+  When cooking risotto, multiple ladles of broth are added to risotto until the rice reaches the al dente state. You
+  should add each ladle of broth when this happens.
+
+Answers:
+  1: The rice absorbs the water
+  2: The rice becomes hard
+  3: The rice absorbs the previous one
+  4: The rice becomes soft
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: d90d9409-e804-4a44-a23d-7decc71b3da2
+
+Question: >
+  When cooking risotto, once the rice is soft enough, you should add this.
+
+Answers:
+  1: A tablespoon of butter
+  2: A tablespoon of turmeric powder
+  3: A tablespoon of ground nutmeg
+  4: A tablespoon of hot pepper
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 51cb9182-cab1-4163-b2db-5e9cac0fce25
+
+Question: >
+  You can make your risotto even more delicious by stirring a quarter cup of heavy cream, which would turn your
+  Risotto into this kind.
+
+Answers:
+  1: Mantecato
+  2: A la Romana
+  3: Risotto allo Champagne
+  4: Vialone
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 3eb1c618-d766-4063-ab21-aeb185d8976d
+
+Question: >
+  Before service risotto, let it stand for three minutes so that flavours mix, then prepare the plates. To serve
+  risotto properly, you should do what with the plates?
+
+Answers:
+  1: Wet them
+  2: Wipe them out
+  3: Preheat them
+  4: Freeze them
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 02b2f899-069b-4b4e-a958-0fb678f6da30
+
+Question: >
+  The first industrial production of cheese in the world started in 1815, in which country?
+
+Answers:
+  1: Denmark
+  2: Switzerland
+  3: France
+  4: Austria
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 6c2eac35-1c32-4a61-93b9-f97ce6de2e7f
+
+Question: >
+  The traditional Czech farmhouse hard cheese, made in Karlovy Vary, is known by what name?
+
+Answers:
+  1: Abertam
+  2: Goutu
+  3: Ambert
+  4: Brie
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: daf2e0da-f110-436e-811b-286bafbbae59
+
+Question: >
+  Which of the following cheeses is a hard cheese?
+
+Answers:
+  1: Lyonnais
+  2: La Vache Qui Rit
+  3: Emmental
+  4: Formaggio di capra
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 703e9ea5-1ba4-435f-919e-fd806bd07977
+
+Question: >
+  In 1666 the first legal document to mention cheese was issued in Toulouse and it referred to what sort of cheese?
+
+Answers:
+  1: Fromage Frais
+  2: Roquefort
+  3: Gouda
+  4: Brie
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 5c99bef0-8d6c-4622-bcc1-98ee8759151d
+
+Question: >
+  In 1953, several European countries ratified this convention to protect some sorts of cheese from conterfeiting.
+
+Answers:
+  1: The Stresa Convention
+  2: The Swiss Convention
+  3: The Milan Convention
+  4: The Geneva Convention
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 4ebf6db9-0793-4c12-a60b-17287acfb064
+
+Question: >
+  The first TV commercial for cheese was aired in 1968 for which sort of French cheese?
+
+Answers:
+  1: Boursin
+  2: La Vache Qui Rit
+  3: Fromage de Montagne de Savoie
+  4: Roquefort
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: dc084b91-16ac-4b57-baef-e1892f293bbd
+
+Question: >
+  Airag is a Turkish semi-soft cheese made from what milk?
+
+Answers:
+  1: Mare milk
+  2: Goat milk
+  3: Cow milk
+  4: Yak milk
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 0be88ca9-0828-403b-9c5c-903237a092a3
+
+Question: >
+  The Juustoleipa cheese, traditionally made from reindeer milk, is typical of which region in Europe?
+
+Answers:
+  1: France and Switzerland
+  2: Finland and Lapland
+  3: Bulgaria and Macedonia
+  4: Italy and Switzerland
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 23e92927-b6a8-4bcd-99ef-9cd8f27c8008
+
+Question: >
+  In 1536 cheese-makers in Veneto, Italy, created the oldest precedent of falsification by trying to make what cheese?
+
+Answers:
+  1: Parmesan
+  2: Brie
+  3: Kashkaval
+  4: Gouda
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 41d08752-8bb7-4168-b220-7250579a53a5
+
+Question: >
+  Mascarpone is a vegetarian Italian cheese, traditionally included in the recipe for what layered dessert?
+
+Answers:
+  1: Semlor
+  2: Tiramisu
+  3: Pepparkakor
+  4: Aebleflaesk
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 9eb59a17-feaa-41d8-ac80-a73d529a961e
+
+Question: >
+  The first hotdog stand in New York was opened in 1867.
+
+Answers:
+  1: True
+  2: False
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 6ecf068b-8620-4566-a2d5-2d37f2a7c1ef
+
+Question: >
+  What year were the first frozen pizzas introduced in grocery stores?
+
+Answers:
+  1: 1957
+  2: 1956
+  3: 1950
+  4: 1951
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 5a467056-aa8a-4886-a723-a160f041fb22
+
+Question: >
+  George Crum invented potato chips.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: cf3bcf71-e8ab-4564-a255-488766250394
+
+Question: >
+  Where was the first wrapped candy bar sold?
+
+Answers:
+  1: Canada
+  2: Georgia
+  3: New York
+  4: Pennsylvania
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: b050ad3b-95d7-4891-98ff-69f4a87eb846
+
+Question: >
+  Where did popcorn originate?
+
+Answers:
+  1: Mexico
+  2: New York
+  3: Chicago
+  4: Columbia
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 9493ae17-f2ae-4cb3-8793-f8fae0bfaa71
+
+Question: >
+  Which company created the world's largest doughnut in 1998?
+
+Answers:
+  1: Dunkin Doughnuts
+  2: Granny's Doughnuts
+  3: Krispy Kreme
+  4: Winchell's House of Doughnuts
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 89576525-d85f-4144-8ef9-9a9a15bab8e2
+
+Question: >
+  Lionel Sterberger grilled the first cheeseburger in 1945.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 49b53a83-7d78-4a8a-99bb-9fa76beb9679
+
+Question: >
+  In what year did William Kolb invent the first red candy apple?
+
+Answers:
+  1: 1908
+  2: 1914
+  3: 1910
+  4: 1921
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 8942f236-c4a5-4c8b-8569-68334278ac00
+
+Question: >
+  What do you call an Austrian dessert that is a sweet almond paste dipped in chocolate?
+
+Answers:
+  1: Apfelstrudel
+  2: Heiße Schokolade
+  3: Sachertorte
+  4: Marzipan
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: e92d6375-2cdb-4693-93d0-2e185ab28c46
+
+Question: >
+  The French fries are believed to have been invented in what country?
+
+Answers:
+  1: Norway
+  2: Finland
+  3: Belgium
+  4: Denmark
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 129428a6-11a0-42a3-8b77-4a1a4d7b3499
+
+Question: >
+  Name the traditional Russian hot soup made of broth, beets, and tomato juice with various vegetables.
+
+Answers:
+  1: Rassolnik
+  2: Borscht
+  3: Shi
+  4: Lapsha
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 998e3ed2-484e-4c0e-b604-a96d19c0af91
+
+Question: >
+  What Greek cheese is made of 70% ewes and 30% goats milk?
+
+Answers:
+  1: Kasseri
+  2: Metsovone
+  3: Myzithra
+  4: Feta
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: a889f7eb-a555-4862-bae7-6b32161508e3
+
+Question: >
+  Fry up is another name for the traditional breakfast of what country?
+
+Answers:
+  1: Norway
+  2: Sweden
+  3: England
+  4: The Netherlands
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 844ceace-a884-45cb-a20d-ba715e54f6a9
+
+Question: >
+  This is a traditional dish in Austria and Germany made of a thin peace of veal meat coated with flour, egg and bread
+  crumb.
+
+Answers:
+  1: Currywurst
+  2: Stollen
+  3: Wiener Schnitzel
+  4: Spanferkel
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 75405cd2-ea9a-4f2f-9c1a-703db70e22df
+
+Question: >
+  Risotto is made with special kinds of rice and is traditionally served with fish products or cheese. What country
+  does this dish come from?
+
+Answers:
+  1: Spain
+  2: Italy
+  3: Greece
+  4: Portugal
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 69b4fd98-feeb-4bf3-8c47-95bc695fc02e
+
+Question: >
+  What are the ingredients of the cold Spanish soup Gazpacho?
+
+Answers:
+  1: Beans, onions, tomatoes, spearmint and carrots
+  2: Stale bread, garlic, olive oil, salt, tomato and vinegar
+  3: Beef, onions, red peppers, and paprika powder
+  4: Puréed leeks, onions, potatoes, cream and chicken stock
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 38389dfe-8d93-4241-ba67-6b75e29217af
+
+Question: >
+  Where did the modern-day restaurant come from?
+
+Answers:
+  1: France
+  2: England
+  3: Italy
+  4: Germany
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 929eb6a2-6afa-403b-b716-7abf60b76299
+
+Question: >
+  What is the executive chef of the kitchen called?
+
+Answers:
+  1: Sauté Chef
+  2: Chef de Cuisine
+  3: Chef de Partie
+  4: Sous Chef
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: ce42240c-4c6f-49d4-a992-a54038747ed5
+
+Question: >
+  One of the possible origins of the popular expression "rule of thumb" is believed to be connected to the process of
+  brewing beer.
+
+Answers:
+  1: True
+  2: False
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 93e0a031-3958-4514-b519-4aae725a8bb2
+
+Question: >
+  John Wagner, the first American to produce lager beer, had a brewery in which state?
+
+Answers:
+  1: New Jersey
+  2: Pennsylvania
+  3: New York
+  4: Maine
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: d5e78a18-49b3-4546-a349-782c88f35e45
+
+Question: >
+  The oldest known recipe for a beverage still in existence is a recipe for beer.
+
+Answers:
+  1: True
+  2: False
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: c3c4ebc0-6d55-4c42-bea0-f47ed64d141c
+
+Question: >
+  Samuel Adams Triple Bock, produced by the Boston Beer Company, reaches what percentage of alcohol by volume?
+
+Answers:
+  1: 12%
+  2: 9%
+  3: 23%
+  4: 17%
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 8d5412fb-3ffb-4c2d-a723-28d78455dffe
+
+Question: >
+  Which country's national epic poem includes an early ode to beer in Verse XX: Sing the songs of beer immortal!?
+
+Answers:
+  1: Finland
+  2: Denmark
+  3: Sweden
+  4: Germany
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 7c38174d-b3c7-4167-bb49-36d7be3d0219
+
+Question: >
+  During World War II, Americans increased their popcorn consumption three times, because this product was not as
+  widely available as it had been prior to the war.
+
+Answers:
+  1: Potatoes
+  2: Nuts
+  3: Nachos
+  4: Sugar
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: d69abb5d-5671-4611-ae36-7094ab9e736d
+
+Question: >
+  When was popcorn first introduced in movie theaters?
+
+Answers:
+  1: 1929
+  2: 1935
+  3: 1912
+  4: 1900
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: abaa41eb-9514-46ba-99fb-32f2b7fa4f81
+
+Question: >
+  Native American folklore told of calm spirits who lived inside each kernel of popcorn, but they got angry if their
+  homes were heated and finally burst out. In reality, what do these spirits represent?
+
+Answers:
+  1: Starch and air
+  2: Air and water
+  3: Water and starch
+  4: Air and corn
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: bba3dcb3-9734-4112-b3da-185e405f6093
+
+Question: >
+  Popcorn is flavored with salt, butter, sugar, dried spices and many other condiments. In this country they even
+  serve it with vinegar.
+
+Answers:
+  1: France
+  2: Italy
+  3: Sweden
+  4: Belgium
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 74b9dde1-95f7-48d7-833d-9fcd83db0cef
+
+Question: >
+  What is the ideal popping temperature for popcorn?
+
+Answers:
+  1: 500°-560° F(260°-293°C)
+  2: 260°-310° F(127°-154°C)
+  3: 330°-380° F (165°-193°C)
+  4: 400°-460° F(204°-238°C)
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 8f4ea385-e919-4d5d-b4cc-7bba934beff6
+
+Question: >
+  The world's first mobile popcorn machine was introduced in Chicago, Illinois in 1885 by this man.
+
+Answers:
+  1: Cloid Smith
+  2: Charles Cretors
+  3: Felix de Azara
+  4: Percy Spencer
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 859f6cf6-36ac-422d-b4b5-decb30c6934e
+
+Question: >
+  What is the industrial name for popcorn kernels that fail to pop?
+
+Answers:
+  1: Spinsters
+  2: Old maids
+  3: Barrens
+  4: Bachelors
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: d706d8b3-717a-45b8-8a75-9b02db241a33
+
+Question: >
+  What led to the incredible increase in U.S. sales of popcorn in the 1990s?
+
+Answers:
+  1: Increased sales of soda pop
+  2: Availability of microwaves
+  3: Food shortages
+  4: Lower prices
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 21658f8a-f088-424e-a1b1-0393ae919bb6
+
+Question: >
+  Which word refers to the water soluble pigments that give wine its red color?
+
+Answers:
+  1: ionons
+  2: anthocyanins
+  3: damascones
+  4: phycobilins
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 65c961cf-e24a-4064-8bba-ff707427fc3e
+
+Question: >
+  Used to measure the concentration of sugar in wine, this scale was developed by a French pharmacist.
+
+Answers:
+  1: beaufort scale
+  2: baume scale
+  3: brix scale
+  4: scoville scale
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 7a8212e0-b903-466a-aa88-67a656f74c52
+
+Question: >
+  This term denotes the process of adding sugar to the must, the juice of the freshly pressed grapes, in order to
+  increase alcohol content in wine.
+
+Answers:
+  1: crackling
+  2: maceration
+  3: fining
+  4: chaptalization
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 3b38d443-f655-4183-bdfb-0fb36de37ab0
+
+Question: >
+  This is a mixture of red and white sparkling wine, that has a high sugar content.
+
+Answers:
+  1: Barique
+  2: Bodega
+  3: Cold Duck
+  4: Claret
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 61574b23-22ec-43d4-85b3-856c4bc90126
+
+Question: >
+  What is the name of the beneficial mold that develops on grapes under moist conditions and leaves grape crops
+  partially raisined?
+
+Answers:
+  1: methuselah
+  2: noble rot
+  3: fizzante
+  4: phylloxera
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: cf7043c4-292d-4bff-a80e-e0bc547e51ab
+
+Question: >
+  What science deals with fermentation?
+
+Answers:
+  1: cytology
+  2: virology
+  3: zymology
+  4: limnology
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 805b75dd-33aa-4943-b6cb-adc0e2a49090
+
+Question: >
+  This substance is a product of volcanic activity and is used as preservative in wine making.
+
+Answers:
+  1: hydrogen sulfide
+  2: sulfurous acid
+  3: sulfur trioxide
+  4: sulfur dioxide
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 560c5a00-f030-4663-bcea-fb2183132719
+
+Question: >
+  What term is used to denote a trained and knowledgeable wine professional?
+
+Answers:
+  1: cuvee
+  2: salmanazar
+  3: negociant
+  4: sommelier
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 532d64d3-10c8-43fa-82b1-4a538403f920
+
+Question: >
+  What science studies all aspects of wine and wine making?
+
+Answers:
+  1: oology
+  2: aetology
+  3: oenology
+  4: oenophilia
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 240c1407-3593-4d2a-ba40-507ac354eebe
+
+Question: >
+  Which of these is not a term used for the building in which maple syrup is boiled?
+
+Answers:
+  1: Sugarhouse
+  2: Cabane a sucre
+  3: Sugar Barn
+  4: Sugar Shanty
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 5bc45b08-cf6c-4405-8979-9630de248557
+
+Question: >
+  Canada is by far the world's largest maple syrup producer. Approximately what part of the world's maple syrup is
+  produced in Canada?
+
+Answers:
+  1: 80%
+  2: 65%
+  3: 95%
+  4: 70%
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 69c55dcd-661d-4472-9802-4e6bf068caa3
+
+Question: >
+  Sugar on snow is a popular New England treat. It is boiled maple syrup cooled in snow and placed on sticks. Which
+  food item is not traditionally served with this candy?
+
+Answers:
+  1: Yeast risen Donuts
+  2: Coffee
+  3: Shortbread cookies
+  4: Sour Dill Pickle
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: c37012ed-c2c3-4b34-aed1-cf3683740b62
+
+Question: >
+  The production of maple syrup traditionally starts in what month?
+
+Answers:
+  1: February
+  2: July
+  3: October
+  4: September
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 6a4297b0-2e2a-4ca5-afe2-0d390f3fb4bc
+
+Question: >
+  It takes 40 litres (10 gallons) of maple sap to make 2 litres (a half gallon) of maple syrup.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: cec3891c-68e5-4ca2-8a90-d31bfbe90561
+
+Question: >
+  How old must a tree be before it can be tapped for maple syrup production?
+
+Answers:
+  1: 30 years old
+  2: 10 years old
+  3: 40 years old
+  4: 20 years old
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 122a6257-7ea4-450b-a457-56223aa83f1a
+
+Question: >
+  Which state produces the most maple syrup in New England?
+
+Answers:
+  1: Maine
+  2: Vermont
+  3: Massachusetts
+  4: New Hampshire
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 14b4ba8b-068f-4c67-98b1-0813b8afc3ec
+
+Question: >
+  India Pale Ale was originally made in India.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 1
+
+Explanation: |
+  India Pale Ale (IPA) originated in England during the 18th and 19th centuries.
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 0e1948e3-e01f-49fe-92a0-e0697236631f
+
+Question: >
+  What is the name of the oldest brewery in the USA that is still operating?
+
+Answers:
+  1: Brooklyn Brewery
+  2: Sierra Nevada Brewery
+  3: Boston Beer Company
+  4: Yuengling
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 976dc955-5d2b-404b-b394-b8b71ebb3883
+
+Question: >
+  In medieval England, what was an ale-connor?
+
+Answers:
+  1: An unscrupulous merchant who sold muddy water flavoured with hops
+  2: A wooden ale mug
+  3: Ale seller
+  4: A beer-tester
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 01721ec7-7032-4518-9a4f-2f67e2030c52
+
+Question: >
+  The world's strongest lager is named after Santa Claus.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 2
+
+Explanation: |
+  The world's strongest lager is Samichlaus, a 14% ABV doppelbock lager named after the Swiss-German dialect word for
+  Santa Claus.
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: d584208b-2e3b-4abd-8e5a-799614ba5ab3
+
+Question: >
+  Bread is one of the oldest prepared foods.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: a9002b3c-6650-4732-8eef-4a9354b70a47
+
+Question: >
+  What happened to the first prototype of the bread-slicing machine?
+
+Answers:
+  1: It was destroyed by its inventor.
+  2: It was stolen by the people of Battle Creek, Michigan.
+  3: It was destroyed in a fire.
+  4: It was destroyed by vandals.
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 977f230f-2720-4731-8945-b0cb3b7dfad9
+
+Question: >
+  The bread-slicing machine was first commercially used by the Chillicothe Baking Company of Chillicothe, Missouri.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: ac478e2e-b83b-486f-a91d-5097cc362cfc
+
+Question: >
+  When was the first loaf of sliced bread sold?
+
+Answers:
+  1: March 29, 1925
+  2: June 17, 1921
+  3: September 21, 1916
+  4: July 7, 1928
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 99c89db6-78cc-4827-b42d-a690d44c43ac
+
+Question: >
+  Gustav Papendick bought the second bread-slicer.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 09c98689-57fe-41e4-8cfa-6e7fcd11bd01
+
+Question: >
+  Who prompted the marketing of sliced bread in 1928?
+
+Answers:
+  1: Gustav Papendick
+  2: Otto Rohwedder
+  3: Herbert Dinklebrot
+  4: W.E. Long
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 802c4bd0-8d03-445e-a46e-9e130dc06bc1
+
+Question: >
+  When was Wonder Bread first marketed in the USA as pre-sliced bread?
+
+Answers:
+  1: 1934
+  2: 1926
+  3: 1925
+  4: 1930
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 6aebe1aa-0274-4bf0-9d9f-6e55a80871ec
+
+Question: >
+  America's entry into World War Two led to a ban on sliced bread starting in August 1943.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: ebcc8b20-6c83-4d2f-b239-b7bf911b6b86
+
+Question: >
+  The phrase "Greatest thing since sliced bread" derived from a Wonder Bread advertising campaign.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: hobbies
+
+SchemaVersion: 1
+---
+ID: 63b24aeb-56ba-4a10-b668-093465b35610
+
+Question: >
+  First corn is usually attacked by a parasitic fungal infestation. The kernels swell to as much as 9 times normal
+  size, and then darken. They are collected, canned, and sold to the public as a delicacy. Which one of these is NOT a
+  name for this food?
+
+Answers:
+  1: Mexican truffles
+  2: Balut
+  3: Corn shrooms
+  4: Huitlacoche
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: ea10b29b-2a8e-493e-bf58-ec42fed5d642
+
+Question: >
+  Which of these is not the equivalent of what Americans often call head cheese?
+
+Answers:
+  1: Brawn
+  2: Brabant
+  3: Sylta
+  4: Kumiss
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 21585761-2c34-4f5c-a1d2-590b15ee2543
+
+Question: >
+  This is an Italian delicacy consisting of raw beef, tuna or veal that has been pounded and cut into very thin
+  slices. It is served with a mustard sauce and is usually placed on a bed of arugula and green with an olive
+  oil/lemon juice dressing.
+
+Answers:
+  1: Retsina
+  2: Cibreo
+  3: Capi
+  4: Carpaccio
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: e2ed3e70-c74e-4a83-b70a-aab625cbb208
+
+Question: >
+  Which of these descriptions best describes the Scottish product Irn-Bru?
+
+Answers:
+  1: A lamb dish that contains raisins, barley, hops, and cherries
+  2: A very strong breakfast tea that is brewed from tea leaves, barley, and seaweed
+  3: A type of dessert that is made from an orange marmalade/barley mixture
+  4: An orange colored soft drink that contains ammonium ferric citrate and quinnine
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 6562934d-c8ec-4c16-a015-665d26238da6
+
+Question: >
+  First you catch herring, then gut them, and can them in brine. Next you leave them in a warm place for several
+  months. When you see the middle of the can swell you open the can under water and put them on a plate or bowl and
+  serve. What is this dish called?
+
+Answers:
+  1: Surstromming
+  2: Sylta
+  3: Martyred Herring
+  4: Skipsol
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 7fd21f53-5d7f-4248-8345-faa58601173e
+
+Question: >
+  This is a Japanese dish made from thinly sliced, pickled ginger which is kept in a solution of sugar and water.
+
+Answers:
+  1: Shiokara
+  2: Natto
+  3: Kapi
+  4: Gari
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: d7b6416f-98bd-4b25-a8f7-c8cc0d6dd127
+
+Question: >
+  Which of these is the name of a Danish delicacy?
+
+Answers:
+  1: Retsina
+  2: Yule Brod
+  3: Marmite
+  4: Schmaltz
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 04129361-87ec-40f7-ae38-041ab212346e
+
+Question: >
+  This food was not on the Sopranos, but is a Taiwanese dish.
+
+Answers:
+  1: FuFu
+  2: Cibreo
+  3: Ngapi-jaw
+  4: Bao Bing
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: edf2735a-b119-4639-8904-0e1a86ee2139
+
+Question: >
+  Which of these is a traditional Japanese breakfast dish?
+
+Answers:
+  1: Kapi
+  2: No Ko Bashi
+  3: Natto
+  4: Kimchee
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 9131d791-22e3-4e59-8db0-93896821b53a
+
+Question: >
+  As well as oranges, carrots come in white and pink varieties.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 370f6c61-f867-4ac8-85cd-222405463844
+
+Question: >
+  Carrot tops are poisonous to humans, even in small quantities.
+
+Answers:
+  1: True
+  2: False
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: c4cfb584-2cd0-449e-a2f7-0aeb175c4793
+
+Question: >
+  Which of the following is not a grape variety used for producing Champagne?
+
+Answers:
+  1: Pinot Meunier
+  2: White Chardonnay
+  3: Red Pinot Noir
+  4: Cabernet Franc
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 0409525c-be79-41cd-b50b-530fa2f69b72
+
+Question: >
+  Which of these remarks about Champagne was made by Sir Winston Churchill in 1918?
+
+Answers:
+  1: Gentlemen, in the little moment that remains to us between the crisis and the catastrophe, we may as well drink a glass of champagne.
+  2: Remember gentlemen, it’s not just France we are fighting for, it’s Champagne!
+  3: In victory, you deserve Champagne, in defeat, you need it.
+  4: Some people wanted Champagne and caviar when they should have had beer and hot dogs.
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: fd95e62f-33dd-4e08-9a4b-92a833d97ac7
+
+Question: >
+  Champagne is usually served in a champagne flute at what temperature?
+
+Answers:
+  1: 7 to 9 °C
+  2: 13 to 15 °C
+  3: 10 to 12 °C
+  4: 1 to 5 °C
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 0c82bf91-58ed-4ba5-8f37-e527181ea7cf
+
+Question: >
+  Which of these words is not a term referring to sparkling wine?
+
+Answers:
+  1: cava
+  2: All of these refer to sparkling wine.
+  3: spumante
+  4: sekt
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 4c50ae95-0487-408d-9ec9-ea98a9c41535
+
+Question: >
+  Which of these cocktails includes the following ingredients: Champagne, cognac, raspberry liqueur, lemon juice and
+  fresh raspberries?
+
+Answers:
+  1: Gimlet
+  2: Marilyn Monroe
+  3: Manhattan
+  4: Rose of the Ritz
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 53bffd05-94e4-46b8-bd25-69dde6c1381e
+
+Question: >
+  Which process involves rotating of champagne bottles and gradually moving them to a neck-down orientation?
+
+Answers:
+  1: none of these
+  2: riddling
+  3: secondary fermentation
+  4: disgorging
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 77cd001d-dcc9-4c9a-b825-cd2c9d5bb365
+
+Question: >
+  When was Pepsi first made?
+
+Answers:
+  1: 1780
+  2: 1870
+  3: 1890
+  4: 1980
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: ab8791d4-d815-48bd-a0f3-9634aa54ba18
+
+Question: >
+  Is it true that root beer comes in two forms: alcoholic and soft drink?
+
+Answers:
+  1: Yes
+  2: No
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 8a33c7a4-4fa5-48e2-b084-5bb02ae874c8
+
+Question: >
+  In the mid 1980s Dr. Pepper became exclusively a product of the Coca Cola Company.
+
+Answers:
+  1: True
+  2: False
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 74a5bf9c-46f8-4c8e-92c8-20c033191b9e
+
+Question: >
+  What year was Coca-Cola developed?
+
+Answers:
+  1: 1920
+  2: 1886
+  3: 1870
+  4: 1790
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: a6d14c0a-2095-4c2e-94c7-1368c0ae3956
+
+Question: >
+  Sprite was originally made in Germany.
+
+Answers:
+  1: True
+  2: False
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: c991506d-4ce3-4abf-9926-9cd761a93ef0
+
+Question: >
+  Mountain Dew was invented in Marion, Virginia and first marketed in Knoxville, Tennessee.
+
+Answers:
+  1: True
+  2: False
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 9ffb4bcb-05e2-4ac7-9fc9-7c5b95c1c05e
+
+Question: >
+  During what war was Fanta developed?
+
+Answers:
+  1: WW II
+  2: none of these
+  3: The Civil War
+  4: WW I
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 26454ef4-ccc7-452b-aa7d-8cf074a5b8bd
+
+Question: >
+  What year was 7 Up first marketed as 100% Natural?
+
+Answers:
+  1: 2006
+  2: 2003
+  3: 2005
+  4: 2004
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: aab3dc58-c6fa-49d8-ab06-5afe77c472f3
+
+Question: >
+  A&W Root Beer inspired a restaurant chain.
+
+Answers:
+  1: True
+  2: False
+
+Correct: 1
+
+Explanation: |
+  A&W Root Beer inspired the fast-food chain A&W Restaurants.
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 816dfc85-55d5-4eb4-af25-2dba57efb728
+
+Question: >
+  What was the first major North American root beer to contain caffeine?
+
+Answers:
+  1: Barqs
+  2: Triple XXX
+  3: A-Treat
+  4: Frostie Root Beer
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 40832cfe-85c0-4f3c-a05f-649c31562f98
+
+Question: >
+  German Sweet Chocolate is so named because it was created in Germany.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 1
+
+Explanation: |
+  German Sweet Chocolate is named after an American chocolate mill worker and inventor named Samuel German.
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 1831e669-c7d5-4b1b-a2c9-1740cb1827e6
+
+Question: >
+  Chocolate causes acne.
+
+Answers:
+  1: True
+  2: False
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: fb21e706-7e9a-44c8-be97-e1fc7632be11
+
+Question: >
+  The mixture of hot cream and melted chocolate is called ganache. What does the French word ganache literally mean in
+  English?
+
+Answers:
+  1: flower
+  2: chocolate
+  3: cream
+  4: fool
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 57b2802f-de32-4086-aacd-44a6f05b2192
+
+Question: >
+  This delectable chocolate dessert is named after fungi rooted out of the ground by pigs.
+
+Answers:
+  1: Nugget
+  2: Truffles
+  3: Eclairs
+  4: Mushrooms
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: bda480de-6396-4091-bc40-5e1014c01318
+
+Question: >
+  Chocolate is low in caffeine.
+
+Answers:
+  1: True
+  2: False
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 646b8cbb-a6a0-4777-a12a-6f5c2c296880
+
+Question: >
+  Chocolate syrup was used as fake blood in the famous shower scene in the 1960 movie Psycho.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: f3c4ca69-4596-4186-97ac-e635c9931d07
+
+Question: >
+  Does white chocolate contain cocoa solids?
+
+Answers:
+  1: No
+  2: Yes
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 2085ba4f-444c-4fcd-9051-622679240982
+
+Question: >
+  Absinthe was most popular in this country as it was the common beverage among artists and writers in the late 19th
+  and early 20th centuries.
+
+Answers:
+  1: Germany
+  2: Italy
+  3: England
+  4: France
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 27045953-95f9-461f-b2c1-05c89bc1a31c
+
+Question: >
+  The alcohol content is very high in absinthe. It can be as high as this %.
+
+Answers:
+  1: 85 %
+  2: 75 %
+  3: 65 %
+  4: 95 %
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 27f70abe-1123-4a5f-9dba-a2266165f49c
+
+Question: >
+  Absinthe was prohibited in this year, because it was believed to be reason for elevated crime rates.
+
+Answers:
+  1: 1915
+  2: 1919
+  3: 1961
+  4: 1906
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: d99b8380-ce69-4b9f-ba4b-c451daa26cc5
+
+Question: >
+  The word absinthe comes from ancient Greek and means this.
+
+Answers:
+  1: Magical
+  2: Hallucinogenic
+  3: Undrinkable
+  4: Tasty
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 13b8bc01-69de-42e5-8a55-d03552741bd8
+
+Question: >
+  The active ingredient of absinthe is thujone. It is chemically similar to this psychoactive substance. Scientists
+  also believe that thujone and this substance affect the same brain receptors.
+
+Answers:
+  1: Tetrahydrocannabinol
+  2: Beta-phenylethylamine
+  3: Opium
+  4: Codeine Phosphate
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: b5b8ba1b-372e-4708-a7d1-49791c6bf97b
+
+Question: >
+  As the most ardent consumers of absinthe, the French produced these amounts in 1910, just for domestic use.
+
+Answers:
+  1: 15 million liters
+  2: 11 million liters
+  3: 10 million liters
+  4: 36 million liters
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 265bc256-1db4-4997-aee6-71d0ef69d786
+
+Question: >
+  When you serve absinthe, you pour it straight over a sugar cube, then add a small portion of water to the glass
+  before tossing it down. After that, you should do this.
+
+Answers:
+  1: Light it up
+  2: Pour into another glass
+  3: Stir it
+  4: Sip it
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: c6163789-8d77-4e78-bb98-b7ce7e675247
+
+Question: >
+  This is what they call a straight shot of absinthe served over a cube of sugar.
+
+Answers:
+  1: Traditional
+  2: Short
+  3: Neat
+  4: Van Gogh Crazy
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 001edcd9-1587-4cb2-b515-5f977d4c4fc8
+
+Question: >
+  This part of the world's population is on a vegetarian diet.
+
+Answers:
+  1: 1/4
+  2: 1/20
+  3: 1/2
+  4: 1/10
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: bbf1373d-3ba2-4d29-8b9f-a1cf84ca54e7
+
+Question: >
+  Where is the world's largest brewer based in?
+
+Answers:
+  1: Germany
+  2: The Netherlands
+  3: The USA
+  4: Belgium
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: 0ccc31c0-bef1-4ecb-a0e1-35cd6b763fba
 
 Question: >
@@ -3598,6 +9429,30 @@ Answers:
   4: Softness
 
 Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 24225cdf-1b59-4571-a028-5f826b2967f1
+
+Question: >
+  Madagascar is the world's largest producer and exporter of what product?
+
+Answers:
+  1: Sugarcane
+  2: Vanilla
+  3: Tapioca
+  4: Rice
+
+Correct: 2
 
 Explanation: |
   None
