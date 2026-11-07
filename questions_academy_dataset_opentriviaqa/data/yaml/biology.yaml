@@ -289,6 +289,30 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: abcb1bf6-d325-41cd-8831-c200fdba2ad7
+
+Question: >
+  What does the term crop milk refer to?
+
+Answers:
+  1: The secretion of white liquid by some plants such as fig trees.
+  2: The secretion that some birds use to feed their young.
+  3: The first milk that the mammary glands produce after labor.
+  4: Milk produced from seeds and nuts such as almond, soy, rice, etc.
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: ad39c313-b9ca-44e1-acf0-5cf52b40cb57
 
 Question: >

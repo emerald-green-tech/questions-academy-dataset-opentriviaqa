@@ -11458,6 +11458,30 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: e05ad436-b1ba-44be-a676-33f36cdac004
+
+Question: >
+  Which of these fictional characters is known for wearing a top hat all the time?
+
+Answers:
+  1: The Mad Hatter
+  2: All of these
+  3: Willy Wonka
+  4: The Penguin
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: 82f57e6e-6c44-424e-9c35-32e992a8ea83
 
 Question: >

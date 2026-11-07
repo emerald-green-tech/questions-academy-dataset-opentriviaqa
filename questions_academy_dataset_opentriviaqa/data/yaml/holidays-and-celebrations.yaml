@@ -46,6 +46,30 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: 738a88a8-f156-4e35-bae1-0e6f3f13d3f8
+
+Question: >
+  In what country is the popular tomato festival called La Tomatina celebrated annually?
+
+Answers:
+  1: Chile
+  2: Mexico
+  3: Ecuador
+  4: Spain
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: f0576f91-f504-4d20-946c-4a10e709a34b
 
 Question: >

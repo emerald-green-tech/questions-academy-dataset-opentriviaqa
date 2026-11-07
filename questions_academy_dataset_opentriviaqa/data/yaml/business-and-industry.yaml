@@ -1753,6 +1753,150 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: b55e40e2-c7f7-4be5-9d9a-72d81e36c758
+
+Question: >
+  This is the largest mall in the world, as of 2007.
+
+Answers:
+  1: The Bejing Mall
+  2: The South China Mall
+  3: The West Edmonton Mall
+  4: The Raja Mall at Mombai
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 067520d8-369e-4300-b73c-adb5f9f4b6de
+
+Question: >
+  This is considered to have been the first mall.
+
+Answers:
+  1: The Grand Shoppes at  Kent
+  2: The Magnificante at Toledo
+  3: Isfahan Grand Bazaar
+  4: Tashkent Roayl Bazaar
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 218320bd-6277-4be4-a7b6-64a0ec377e89
+
+Question: >
+  This is the largest mall in the North American continent.
+
+Answers:
+  1: The Mall at 4
+  2: The  Bergen Mall
+  3: The Center
+  4: The West Edmonston Mall
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 3ab2189a-1c72-4952-a7de-54f5515e9cae
+
+Question: >
+  This is the largest mall in the USA.
+
+Answers:
+  1: The Center
+  2: The Bergen Mall
+  3: The Mall at 4
+  4: The King of Prussia Mall
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: bcc0d4be-65b2-4c56-af79-cc2eab45e6d5
+
+Question: >
+  This is the location of the largest mall in Europe.
+
+Answers:
+  1: Lyon, France
+  2: Istanbul, Turkey
+  3: Barcelona, Spain
+  4: Moscow, Russia
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: c82e9350-7816-4e80-84e5-438573390a05
+
+Question: >
+  Who is credited with the invention of the potato chip on August 24, 1853?
+
+Answers:
+  1: Rodger Alvarez
+  2: George Crum
+  3: Peter Queen
+  4: Abraham Smith
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: 3cab4807-38c2-4392-a2a1-7489d9a9a464
 
 Question: >

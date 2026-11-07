@@ -33477,6 +33477,78 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: b973ca51-feae-48df-8914-ef3c6407e0bb
+
+Question: >
+  What animal produces the aromatic ambergris that is used for the preparation of flavors and perfumes?
+
+Answers:
+  1: Moose
+  2: Sperm whale
+  3: Asian deer
+  4: Water buffalo
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 578ec473-bc91-4902-a8b8-bb7492666fd1
+
+Question: >
+  Which of these creatures continues to consume milk as an adult in the wild?
+
+Answers:
+  1: Bear
+  2: Primate
+  3: None of these
+  4: Platypus
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 74a3e817-2608-4868-a4ca-dddf1fc454c9
+
+Question: >
+  Which of these animals produces the milk with the highest fat content in the world
+
+Answers:
+  1: Seal
+  2: Whale
+  3: Guinea pig
+  4: All of these
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: e33f6ba3-8f08-44ef-a876-a2ec7abef4ce
 
 Question: >

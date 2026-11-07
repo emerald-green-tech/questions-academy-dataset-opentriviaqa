@@ -1233,6 +1233,30 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: b3c82a4b-6fd1-4e7a-96f7-0a13b2ecc015
+
+Question: >
+  Members of the Special Air Service of the British Army are forbidden to eat only this type of meat.
+
+Answers:
+  1: Eagle
+  2: Rat
+  3: Snake
+  4: Pigeon
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: a16241f3-7076-4f59-b546-a697d3c29c68
 
 Question: >

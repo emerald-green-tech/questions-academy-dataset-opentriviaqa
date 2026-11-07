@@ -3275,6 +3275,30 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: 418d4d6e-a9ea-4e3d-903b-420eabd84d84
+
+Question: >
+  What popular cartoon character is known for constantly wearing a Phrygian cap?
+
+Answers:
+  1: Teletubbies
+  2: George Jetson
+  3: Porky Pig
+  4: The Smurfs
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: fb422f34-dbbb-4f9a-b8f4-6541192e67bc
 
 Question: >

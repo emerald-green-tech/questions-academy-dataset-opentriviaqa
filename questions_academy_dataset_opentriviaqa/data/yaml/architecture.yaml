@@ -303,6 +303,30 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: f685372b-6445-49f3-9715-91d8a67615a1
+
+Question: >
+  He is considered the first architect whose fame was built on his mall designs.
+
+Answers:
+  1: Hiram Martyn
+  2: Victor Gruen
+  3: Robert G. Perez
+  4: James L. Perez
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: dcfe41b1-9682-47e7-a655-211b35d07e19
 
 Question: >

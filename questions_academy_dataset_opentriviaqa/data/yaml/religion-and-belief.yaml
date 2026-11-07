@@ -1943,6 +1943,54 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: d8557db4-ff4a-4a5e-9338-c72926ea1a61
+
+Question: >
+  What are the only insects that are allowed to be consumed according to Jewish dietary laws?
+
+Answers:
+  1: Crickets
+  2: Cockroaches
+  3: Locusts
+  4: Ants
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: e1cdf73b-5b8f-4f4e-9d25-f08fb194d381
+
+Question: >
+  The men of what religion wear the type of cap called taqiyah?
+
+Answers:
+  1: Hinduism
+  2: Islam
+  3: Buddhism
+  4: Shintoism
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: b7eca866-51fc-48ac-8739-7a97d02760be
 
 Question: >

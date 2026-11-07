@@ -2316,6 +2316,675 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: d7e7d8bd-8bba-4020-a9bb-f14e0013d4dd
+
+Question: >
+  All other things being equal, which 3-card meld is more likely to be increased to a 4-card meld in the game gin
+  rummy?
+
+Answers:
+  1: Jack Queen King of Hearts
+  2: Eight Nine Ten of Diamonds
+  3: Three Kings
+  4: Ace Two Three of Spades
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 2ddb3cfb-3730-4895-8b78-2f4ddbd77d35
+
+Question: >
+  In the gin rummy game which of the following is a triangle?
+
+Answers:
+  1: 7 of hearts, 8 of clubs, 7 of spades
+  2: 7 of hearts, 8 of hearts, 6 of hearts
+  3: 7 of hearts, 8 of hearts, 7 of spades
+  4: 7 of hearts, 8 of clubs, 8 of diamonds
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: a065ec1e-83d4-4c93-9537-54ba4132db86
+
+Question: >
+  In the card game gin rummy, it is sometimes necessary to break a meld in order to keep your opponent from winning
+  the hand.
+
+Answers:
+  1: True
+  2: False
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: e37fb477-412f-4063-9e14-f7fbd46c9b2a
+
+Question: >
+  The best gin rummy players remember every card played.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: be5d8b3b-baa5-4ee8-8b5e-dd50dda53cbe
+
+Question: >
+  There are several variations of gin rummy commonly played. Which of the following is INCORRECT?
+
+Answers:
+  1: In Knock Rummy, all face cards are worth 10, and all other cards are worth their face value.
+  2: In Oklahoma Gin the first up card determines the maximum knock value.
+  3: In Knock Rummy you can go out even though not all of your cards are used in melds.
+  4: In conventional Gin Rummy a Queen-King-Ace meld is worth more than a 4-5-6 meld.
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 358acdd1-6177-471a-b05e-2231e32ca610
+
+Question: >
+  In the gin rummy game you should never pick up a speculative discard. That is, you should never pick up a discard
+  without using it in a meld.
+
+Answers:
+  1: True
+  2: False
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 9492a727-2943-4f8d-a8e0-a5c496b07021
+
+Question: >
+  In knock rummy, deciding whether to knock or go for gin can be difficult. Which of the following is INCORRECT?
+
+Answers:
+  1: Sometimes it makes sense to knock even if there's a strong possibility that your opponent will undercut you.
+  2: If you wait for gin and your opponent knocks, you might be able to undercut her.
+  3: If you have reason to believe that your opponents unused cards are low cards, you should probably knock if you can.
+  4: If its early in the hand and you can knock, you probably should do so.
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 6d6acf5c-2c49-4c5b-8e07-528446643c61
+
+Question: >
+  If my opponent in gin rummy has picked up the 8 of diamonds, and I know nothing else about my opponents hand, which
+  of the following cards should I discard?
+
+Answers:
+  1: 8 of spades
+  2: 7 of spades
+  3: 9 of diamonds
+  4: 10 of diamonds
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 7d0a85b7-b6c8-45dc-9de7-1ca7560d2b1e
+
+Question: >
+  If your opponent in the game gin rummy picked up the jack of spades and discarded the queen of spades, what could
+  you conclude?
+
+Answers:
+  1: She probably is collecting jacks.
+  2: She is about to gin.
+  3: She doesn't know how to play gin.
+  4: She most certainly is collecting jacks.
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 00191798-5493-4cd7-95b4-6bb90b99de0a
+
+Question: >
+  All other things being equal, if you had a triangle, a 3-card meld and a 4-card meld, and drew a card which could
+  expand the 3-card meld into a 4-card meld, you should expand the meld and discard one card of the triangle.
+
+Answers:
+  1: True
+  2: False
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: d67ba8e9-5981-4149-bbcd-f9ff35648169
+
+Question: >
+  How many points are required to open with 1 No Trump opening bid according to the standards of the bridge bidding
+  system Acol?
+
+Answers:
+  1: 12-14 points
+  2: 13-19 points
+  3: 13-14 points
+  4: 15-17 points
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: e1f09b1e-6e52-400e-8d6e-3a9466e617f7
+
+Question: >
+  Which top bridge player from India stimulated the development of bridge during the 60s and 70s?
+
+Answers:
+  1: Ghandhi
+  2: Eric Jaggie
+  3: Zia Maywood
+  4: Ria Aymore
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 30ab2e8f-c175-4cb0-9bab-db4070068c30
+
+Question: >
+  Who invented the Stayman convention in contract bridge?
+
+Answers:
+  1: Samuel Stayman
+  2: Bill Stayman
+  3: George Rapee
+  4: George C. Stayman
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 96b39bd8-2796-4f27-89b6-b5626398ba32
+
+Question: >
+  In contract bridge, yarborough is a term referring to what type of hand?
+
+Answers:
+  1: Containing 4 jacks
+  2: Containing no points at all
+  3: Containing only one color
+  4: Containing 4 queens and 4 kings
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: e424a155-707a-4a1c-9704-77c3c34280cd
+
+Question: >
+  What is the strongest opening bid in contract bridge according to Acol standards?
+
+Answers:
+  1: 2 No Trump
+  2: 2 clubs
+  3: 3 diamonds
+  4: 2 spades
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: b90302f6-f798-4c91-bf67-5f9e60393599
+
+Question: >
+  Which of the following is an example of the so-called relay bid in the contract bridge bidding system?
+
+Answers:
+  1: A 3 clubs opening with a 7-card clubs
+  2: A 2 diamonds answer after a 2 clubs opening from partner
+  3: A 3 clubs after a 2 No Trump opening from partner
+  4: A 2 No Trump answer after a 2 clubs opening from partner
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: e78589bc-8577-4b1f-9064-c78d1b4f7886
+
+Question: >
+  In contract bridge, Jacoby transfers are a convention used by a responder following what kind of opening bid?
+
+Answers:
+  1: 3 spades
+  2: 2 clubs
+  3: Trump opening bid
+  4: Any opening bid
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 703321eb-7fd5-49ee-8fd0-27df1110ce15
+
+Question: >
+  Which bridge terms refer to two weak openings?
+
+Answers:
+  1: Jacoby and Leiden
+  2: Stayman and Amsterdam
+  3: Multi and Muiderberg
+  4: Yarborough and Utrecht
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 691095a7-14e7-4a8d-9aaf-f5e5777216d3
+
+Question: >
+  How many players typically play a hand of classic Mahjong?
+
+Answers:
+  1: 4
+  2: 8
+  3: 6
+  4: 3
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 1998d55d-2bce-49f9-a1e9-d6cb6b697a37
+
+Question: >
+  In Mahjong, a pong is a set of how many identical tiles?
+
+Answers:
+  1: 2
+  2: 6
+  3: 4
+  4: 3
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 029a40c8-cca9-43b7-8f05-10ef1b1227da
+
+Question: >
+  In Mahjong, a kong is a set of how many identical tiles?
+
+Answers:
+  1: 2
+  2: 6
+  3: 3
+  4: 4
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: b099a058-783a-4c2f-917a-19d74482ed1e
+
+Question: >
+  What is a chow in the game of Mahjong?
+
+Answers:
+  1: a meld of four suited tiles in sequence
+  2: a meld of three suited tiles in sequence
+  3: a meld of two suited tiles in sequence
+  4: a meld of six suited tiles in sequence
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 47caa9c6-4505-42df-9d50-9880e09229fc
+
+Question: >
+  In Mahjong, the dealer is East, with the other players assuming the corresponding direction. If the dealer wins the
+  round, the dealer remains East.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 448de69b-670e-4b24-846f-17e9b847fd14
+
+Question: >
+  What are the three suits of Mahjong?
+
+Answers:
+  1: bamboos, winds, characters
+  2: dragons, winds, characters
+  3: stones, bamboos, characters
+  4: dragons, stones, bamboos
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: de15faee-130c-4e9c-859a-0f3313ce1c07
+
+Question: >
+  Flower tiles are not necessary to win a hand in a classic Mahjong game.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 931f7d6d-5933-438f-b3a5-0480330ea6f0
+
+Question: >
+  In the game of Mahjong, these red, white and green tiles are considered honor tiles, and are worth more as pongs and
+  kongs than suit tile pongs and kongs.
+
+Answers:
+  1: Flowers
+  2: Dragons
+  3: Winds
+  4: Birds
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 8894e0d7-a872-4e5a-9030-ce9bb87d88f7
+
+Question: >
+  In the 13-tile variation of Mahjong, which of the following is a possible winning hand?
+
+Answers:
+  1: 4 pongs and a pair of identical tiles
+  2: 2 kongs and a pair of identical tiles
+  3: 3 pongs and a chow
+  4: 4 kongs and a chow
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: a4a4f0a8-edc8-44c0-947b-1b7b8ca60322
+
+Question: >
+  Which of these Western games is most similar to Mahjong?
+
+Answers:
+  1: Bridge
+  2: Rummy
+  3: Dominoes
+  4: Risk
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: 57e348fb-31df-4f59-994b-5afe283b70d1
 
 Question: >

@@ -1274,6 +1274,982 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: be24e9cf-d385-4093-b329-a1b8e2c1318b
+
+Question: >
+  In December 2002, Calvin Klein sold his company to which fashion corporation?
+
+Answers:
+  1: Holding di Partecipazioni
+  2: Abercrombie  Fitch
+  3: Phillips Van Heusen Corp.
+  4: Tommy Hilfiger Corp.
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 431b1886-2c56-4bfc-b5bb-588c6814b65a
+
+Question: >
+  Which one of these pairs of a model and a Calvin Klein fragrance, advertised by the model, is correct?
+
+Answers:
+  1: Kate Moss - Euphoria
+  2: Kate Moss - Obsession
+  3: Natalia Vodianova - cK one
+  4: Brooke Shields - Obsession
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: b35af142-4412-41ca-aec4-48c43e59d443
+
+Question: >
+  What did American model and singer Mark Wahlberg advertise for Calvin Klein?
+
+Answers:
+  1: The Eternity Moment fragrance
+  2: Coats
+  3: Jeans
+  4: Underwear
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 63d80a79-53ce-48f3-99bb-8ec1a5842b6f
+
+Question: >
+  Which one of these watch companies has produced luxury watches under the Calvin Klein brand?
+
+Answers:
+  1: Swatch
+  2: Rolex
+  3: Seiko
+  4: Casio
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: dbfdb8c3-d885-40a5-a31d-e41a90c27f36
+
+Question: >
+  Which of these four Calvin Klein fragrances was created first in 1985?
+
+Answers:
+  1: Truth
+  2: Obsession
+  3: Euphoria
+  4: cK be
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: e038ab77-fb2f-44b0-a31a-43c93c346488
+
+Question: >
+  What is the middle name of American fashion designer Calvin Klein?
+
+Answers:
+  1: Theodore
+  2: Richard
+  3: Abraham
+  4: William
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 6546c6f9-0075-4472-ae24-d6f20ef31dcb
+
+Question: >
+  Which sizes are for those who are 5' 2" - 5' 3" tall, with a lower bust and a shorter back?
+
+Answers:
+  1: Miss Petite
+  2: Half sizes
+  3: Junior Petite
+  4: Misses sizes
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 1a94e269-83cb-4954-bae5-80d18f60570c
+
+Question: >
+  Which sizes are for those 5' 4" - 5' 5" tall, who have a higher bust and a shorter back?
+
+Answers:
+  1: Miss Petite
+  2: Junior Petite
+  3: Junior
+  4: Young Junior
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 387d426c-2416-49a2-ac62-87ae1868ea92
+
+Question: >
+  Which dress sizes are for those 5' 2" - 5' 3" tall, with an average bust but a shorter back?
+
+Answers:
+  1: Women's sizes
+  2: Half sizes
+  3: Miss Petite sizes
+  4: Misses sizes
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 4ab2f5b5-8ade-41ea-bb99-7ddac0cb42fc
+
+Question: >
+  Which dress sizes are for those who are 5' 1" tall, with an average bust but a shorter back?
+
+Answers:
+  1: Miss Petite
+  2: Junior
+  3: Junior Petite
+  4: Young Junior
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 28f6b6c1-6853-427f-ba5d-8c08b17d4d6a
+
+Question: >
+  What does short-waisted mean?
+
+Answers:
+  1: It means your waist is shorter than your head.
+  2: It means your shorts need replacing.
+  3: It means your waist is not very high above the ground.
+  4: It means your torso is short.
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 3752c384-89f8-4930-82be-1a59c7a1d39f
+
+Question: >
+  Odd-numbered dress sizes are usually for younger women.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: f9f72331-afe0-43f9-a6b9-989bedbf10f8
+
+Question: >
+  Petite sizes are for women who are under 5' 1".
+
+Answers:
+  1: False
+  2: True
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 86179ddb-1509-4895-ab21-b322e6bb280d
+
+Question: >
+  Half-sizes are for short-waisted women.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 80d13181-6cb5-4aed-a227-ead9ac64b844
+
+Question: >
+  Misses sizes are cut more generously in the bust and hips than junior sizes.
+
+Answers:
+  1: True
+  2: False
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 64fa4c0f-49cb-461d-866b-18c07efaa61a
+
+Question: >
+  Plus sizes are for heavier women.
+
+Answers:
+  1: True
+  2: False
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 53245229-0316-4074-b31f-8f7248169d06
+
+Question: >
+  What is the other common name of the punk Mohawk hairstyle?
+
+Answers:
+  1: Pompadour
+  2: Mop-Top
+  3: Mohican
+  4: All of these
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 5777a613-bdfb-4a85-a173-56e31a05e190
+
+Question: >
+  What hairstyle combines the 1950s pompadour, the 50s flattop, and sometimes a mohawk?
+
+Answers:
+  1: Quiff
+  2: Shag
+  3: Induction cut
+  4: High and tight
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: cbf01307-cdb4-4063-b719-a52cd1198810
+
+Question: >
+  In which of these hairstyles the sides and back of the hair are kept short, while the front is kept long and combed
+  forward?
+
+Answers:
+  1: Hi-top fade
+  2: Ducktail
+  3: Devilock
+  4: Bangs
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 2d11cad8-bef4-45a0-9715-8e796b33efc4
+
+Question: >
+  What is the popular Buzz haircut commonly called in Australia?
+
+Answers:
+  1: Gl number
+  2: Skinhead
+  3: Crew cut
+  4: Semi
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: aa3dadd2-1405-4d45-9bc8-7182f78cca5f
+
+Question: >
+  The Chonmage is a man's hairstyle traditional for this country.
+
+Answers:
+  1: Japan
+  2: China
+  3: Korea
+  4: India
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 82a444ee-5dc4-4c9c-ac1d-9de2c5b6d638
+
+Question: >
+  What type of hairstyle is the so-called Fofa?
+
+Answers:
+  1: A hairdo with sideburns
+  2: A frizzy perm
+  3: A tight bun
+  4: A hairstyle for balding men
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 76d59da4-53da-470f-a736-f86cb2e23e1d
+
+Question: >
+  This female artist's signature beehive hairdo is widely spoofed and copied.
+
+Answers:
+  1: Beyonce
+  2: Amy Winehouse
+  3: Janet Jackson
+  4: Christina Aguilera
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 39387c86-ac8d-443c-b680-05669690ef47
+
+Question: >
+  What other common name is used to refer to the hairstyle known as a Croydon facelift?
+
+Answers:
+  1: Council house facelift
+  2: Essex facelift
+  3: All of these
+  4: Millie Facelift
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 295c9e45-eb64-4ec1-a57b-bfcbee178d71
+
+Question: >
+  What is the literal meaning of the Japanese word hime which refers to a popular cut?
+
+Answers:
+  1: Flower
+  2: Tail
+  3: Dragon
+  4: Princess
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 8d803c6b-5704-4d19-9895-3a70fe1bcac3
+
+Question: >
+  What is the literal meaning of the Latin phrase per fumum from which the modern word perfume originated?
+
+Answers:
+  1: Under a veil
+  2: Through smoke
+  3: Inside a haze
+  4: Through fire
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 579d4bb6-9e63-4291-94f0-8f3044f3b11c
+
+Question: >
+  In what European country did the first modern perfume originate in 1370?
+
+Answers:
+  1: Hungary
+  2: France
+  3: Poland
+  4: Italy
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 60bf627d-5212-4c88-b46a-cee088b8ff31
+
+Question: >
+  What type of fragrance by standard consists of 10-20% aromatic compounds?
+
+Answers:
+  1: Eau de Cologne
+  2: Eau de Toilette
+  3: After shave
+  4: Eau de Parfum
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: e3ad1c94-4464-4dbd-96aa-addbb2de7bf3
+
+Question: >
+  The combination of which perfume notes comprises the so-called main theme of a perfume?
+
+Answers:
+  1: Top, middle and base notes
+  2: Middle and base notes
+  3: Top and base notes
+  4: Top and middle notes
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: a5535bc3-9a95-4045-a51b-f0bce027d797
+
+Question: >
+  To what perfume category do vanilla fragrances belong according to the modern classification of scents?
+
+Answers:
+  1: Gourmand
+  2: Ozonic
+  3: Aquatic
+  4: Fruity
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 8bbd5128-9069-48aa-bc37-a9bd651cdb4b
+
+Question: >
+  This fruit does not yield the expected scent when extracted and achieving its aroma requires the use of synthetic
+  substitutes.
+
+Answers:
+  1: Strawberry
+  2: All of these
+  3: Cherry
+  4: Apple
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 077ac80c-cec6-497d-8688-8ee5031d9c61
+
+Question: >
+  What is the common name used to refer to synthetic musk used as an ingredient in perfumes and other fragrances?
+
+Answers:
+  1: Vain musk
+  2: White musk
+  3: Light musk
+  4: All of these
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: c5a4ccb2-dc05-4557-ade3-09c35896f7f3
+
+Question: >
+  What shouldn't perfumes and fragrances be exposed to in order to preserve their properties longer?
+
+Answers:
+  1: Light
+  2: All of these
+  3: Heat
+  4: Oxygen
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 19b2d2de-1bab-4600-8cc1-5da4de801eab
+
+Question: >
+  What name is sometimes used to refer to perfumers, the experts who compose perfumes?
+
+Answers:
+  1: Nez
+  2: Brez
+  3: Pez
+  4: Trez
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: e5d65e92-0a0d-4dcb-922b-bd049647da4c
+
+Question: >
+  People of what occupation wear the traditional Zucchetto cap?
+
+Answers:
+  1: Samurai
+  2: Baseball players
+  3: Clergymen
+  4: Chefs
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 6c1214c7-62d7-4055-a748-f2bad6cf2a29
+
+Question: >
+  What material is used for the making of the traditional hat from Ecuador called Panama hat?
+
+Answers:
+  1: Animal skin
+  2: Straw
+  3: Silk
+  4: Wool
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: ef3c87f1-1f56-41fe-8a86-46d82f1690f6
+
+Question: >
+  The pork pie hat is associated with the representatives of this popular music genre.
+
+Answers:
+  1: Jazz
+  2: Metal
+  3: Rock
+  4: All of these
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 26559cd0-3f1b-4773-9600-6f08f325f6c9
+
+Question: >
+  What name is commonly used for the hat worn by academics, also known as square academic cap?
+
+Answers:
+  1: Flathat
+  2: Mortarboard
+  3: Table hat
+  4: Board cap
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 4653e71e-0071-45a2-a548-fd1e9d355f9a
+
+Question: >
+  In what country did the hat called ushanka originate?
+
+Answers:
+  1: China
+  2: Poland
+  3: Russia
+  4: Canada
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 17ad2565-f946-4df9-a4ec-8d3c4eb33d4a
+
+Question: >
+  Where was the so-called Dunce hat used in 19th and 20th century?
+
+Answers:
+  1: In water sports
+  2: In schools
+  3: In military
+  4: In hospitals
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: d06d1479-661c-4a47-889f-9303b34f448e
+
+Question: >
+  What period marked the popularity of the cloche hat?
+
+Answers:
+  1: 1970s
+  2: 18th century
+  3: 15t century
+  4: 1920s
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: b1dc270b-b813-45ca-ad86-3576689144e2
 
 Question: >

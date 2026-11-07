@@ -4084,6 +4084,30 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: 63ad558b-90fc-48ff-a20a-478137848ba7
+
+Question: >
+  What popular man is also known as the king of the comb over due to his hairstyle?
+
+Answers:
+  1: Donald Trump
+  2: Bobby Charlton
+  3: Robert Robinson
+  4: Lou Henson
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: bff405c9-d46b-4b7d-a969-6c7e64edb5ae
 
 Question: >

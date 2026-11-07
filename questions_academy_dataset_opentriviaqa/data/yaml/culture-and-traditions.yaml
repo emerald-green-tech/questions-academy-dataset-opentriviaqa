@@ -684,6 +684,293 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: 8419ea4e-cdd3-4356-8cb1-8e1c6fb4d0ce
+
+Question: >
+  According to the Chinese Zodiac, the year of the cat occurred in 2000.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 4c0fc1ef-fae6-4295-a4f1-723ce6195c3c
+
+Question: >
+  According to a legend, when Confucius died, twelve animals rushed to his bedside. The order of the Chinese Horoscope
+  is the order in which they arrived. What was the first animal to arrive at Confucius bedside?
+
+Answers:
+  1: the horse
+  2: the rat
+  3: the dragon
+  4: the tiger
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 23fbdd9d-0152-4c7a-8967-6ba1dd75d6a8
+
+Question: >
+  If you were born in 1978, 1990 or 2002, what would your Chinese lunar sign be?
+
+Answers:
+  1: snake
+  2: sheep
+  3: rat
+  4: horse
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 9ee125a6-1235-4b64-87fa-26ef125aaf36
+
+Question: >
+  If you were born in 1980, 1992 or 2004, what would your Chinese lunar sign be?
+
+Answers:
+  1: ox
+  2: dog
+  3: ram
+  4: monkey
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 5d4b4b81-5f78-4c9e-996a-eca155b226aa
+
+Question: >
+  According to Chinese legend, what year is the luckiest year to be born in?
+
+Answers:
+  1: the year of the rooster
+  2: the year of the boar
+  3: the year of the dragon
+  4: the year of the dog
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: ee99e6a3-1272-4e65-86b0-866389fd030e
+
+Question: >
+  According to Chinese astrology, why is it considered to be a poor match, if your partner is six years older or
+  younger than you?
+
+Answers:
+  1: None of these
+  2: The signs are not a part of a perfect triangle creating balance.
+  3: The signs are directly opposite each other.
+  4: The years you were born in are represented by the same animal.
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: aa841047-4704-47b0-9ee7-7fee94dec632
+
+Question: >
+  According to the Chinese Zodiac, what is the last year in the twelve-year cycle?
+
+Answers:
+  1: the year of the boar
+  2: the year of the ox
+  3: the year of the snake
+  4: the year of the tiger
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 43170963-09a7-4c64-b987-a3c66b28fe5c
+
+Question: >
+  If you were born in 1981, 1993 or 2005, what would your Chinese lunar sign be?
+
+Answers:
+  1: rooster
+  2: rabbit
+  3: monkey
+  4: dragon
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 99d3260d-b094-4772-8892-a6bc2346736b
+
+Question: >
+  If you were born in 1982, 1994 or 2006, what would your Chinese lunar sign be?
+
+Answers:
+  1: dog
+  2: rabbit
+  3: snake
+  4: ram
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: b6b7266d-c9d3-41f6-a353-85705a698a10
+
+Question: >
+  If you were born in the year 1976, 1988 or 2000, what would your Chinese lunar sign be?
+
+Answers:
+  1: horse
+  2: snake
+  3: rabbit
+  4: dragon
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 238301a7-652a-486d-8200-b0660a7d5e5a
+
+Question: >
+  If you were born in 1972, with the current year being 2008, the next time your year in the Chinese Zodiac will come
+  around, is 2020.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 4bf04743-9938-4f4c-91f4-cd232c02ae22
+
+Question: >
+  What two positive adjectives best describe the snake, the 6th animal in the Chinese Zodiac?
+
+Answers:
+  1: frugal, passionate
+  2: wise, graceful
+  3: determined, vigorous
+  4: sly, powerful
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: 6e209eb2-5312-4898-b2c8-abb72172711f
 
 Question: >

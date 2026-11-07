@@ -7831,6 +7831,2171 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: 9b7fb338-9e14-4f9c-812a-e2cd7bdb4383
+
+Question: >
+  What is a cappuccino?
+
+Answers:
+  1: Coffee plus aerated milk
+  2: Coffee plus aerated milk plus chocolate
+  3: Espresso plus aerated milk
+  4: Espresso plus aerated milk plus chocolate
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 2d556545-9501-40d7-bc7f-437a9e0e66bb
+
+Question: >
+  What is Latté?
+
+Answers:
+  1: Coffee plus aerated milk
+  2: Coffee plus aerated milk plus chocolate
+  3: Espresso plus aerated milk
+  4: Espresso plus aerated milk plus chocolate
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: dae71157-3161-406a-9611-63660b2e91c4
+
+Question: >
+  If a beverage has mocha in the name, what ingredients can you be sure that it contains?
+
+Answers:
+  1: Milk, sugar and coffee
+  2: Chocolate, coffee and milk
+  3: Sugar and coffee
+  4: Milk and chocolate
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: d2e64d0e-6355-4f38-ae7e-dc90c0525221
+
+Question: >
+  In which part of the world was coffee first prepared as a beverage?
+
+Answers:
+  1: China
+  2: Peru
+  3: Colombia
+  4: Ethiopia
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 948f65a1-06c9-4b3a-b71d-3d6384e171fd
+
+Question: >
+  Which of these countries exports the most coffee per year?
+
+Answers:
+  1: Colombia
+  2: Brazil
+  3: Viet Nam
+  4: Ethiopia
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: aa68c1ae-a3b0-4b63-944f-b6c519d5c8d2
+
+Question: >
+  The consumption of coffee is forbidden by which one of the following religions?
+
+Answers:
+  1: Islam
+  2: Ethiopian Orthodox Christianity
+  3: The Sufi Branch of Islam
+  4: The Church of Jesus Christ of Latter-day Saints
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 242ca5d6-9360-4851-af5b-69b4a2928c3f
+
+Question: >
+  Most medical authorities believe that coffee consumption is harmful to the health.
+
+Answers:
+  1: True
+  2: False
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: f654bdb4-e6c1-4a85-b4ca-3731dd919eda
+
+Question: >
+  Decaffeinated coffee contains no caffeine.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: fce42ed9-2b37-4eb4-aee1-0ca7b195095d
+
+Question: >
+  A single shot (1 ounce) of espresso contains more caffeine than a 7-ounce cup of drip coffee.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 027ee224-5232-4411-9f19-6e91482f8e28
+
+Question: >
+  Abrupt cessation of coffee consumption can cause caffeine-withdrawal headaches.
+
+Answers:
+  1: True
+  2: False
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 7185f6c5-49ee-4009-8a96-86ff62832ce5
+
+Question: >
+  Which of these ingredients is not used in the preparation of the Chinese dish called Ants climbing a tree?
+
+Answers:
+  1: Garlic
+  2: Fish
+  3: Noodles
+  4: Meat
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 2a5cdaa1-89a6-4033-aecc-5ae506abc48b
+
+Question: >
+  What is the meaning of the name of the Suea Rong Hai dish that is popular in Thailand?
+
+Answers:
+  1: Crying tiger
+  2: Spiders web
+  3: Angry octopus
+  4: Mothers heart
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 0cb4ed6c-b228-416e-b77b-785964c1efdb
+
+Question: >
+  What type of meat is used in the preparation of the Indian dish called Bombay duck?
+
+Answers:
+  1: Fish
+  2: Chicken
+  3: Pork
+  4: Beef
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: dc87a6be-5381-4cce-8c4a-c49142762d70
+
+Question: >
+  What is the main ingredient in the Chinese meal called Lion's head ?
+
+Answers:
+  1: Cabbage
+  2: Lions testicles
+  3: Shrimp
+  4: Pork meatballs
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 03e2fc07-870f-4867-9af0-3f3fcde00428
+
+Question: >
+  What type of dessert is the Boston cream pie?
+
+Answers:
+  1: Ice cream
+  2: Tortellini
+  3: Biscuit
+  4: Cake
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 66846869-d0ae-495b-acf2-7139b33ae2c4
+
+Question: >
+  What kind of meat product is used for the preparation of Buffalo wings?
+
+Answers:
+  1: Pork ham
+  2: Chicken wings
+  3: Buffalo ribs
+  4: Chopped pork
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: b44db16e-589c-40dd-9797-26ff1dfe74e6
+
+Question: >
+  The recipe for the German chocolate cake did not originate in Germany, but in this country.
+
+Answers:
+  1: Canada
+  2: the USA
+  3: Spain
+  4: Switzerland
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: b1056525-576e-40dd-bf7e-389572d48e80
+
+Question: >
+  What type of meal is the Norwegian Omelette?
+
+Answers:
+  1: Drink
+  2: Dessert
+  3: Salad
+  4: Soup
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: d3a0cd47-8e4a-443c-9b61-39af4fea3590
+
+Question: >
+  The dish called American fried rice is not in fact American. Where was it created?
+
+Answers:
+  1: China
+  2: Thailand
+  3: Italy
+  4: France
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 5adef314-6953-44d2-b16b-429b7cbdbdd1
+
+Question: >
+  What type of tea is the Chinese Gunpowder tea produced in Zhejiang Province of China?
+
+Answers:
+  1: Black tea
+  2: It is actually cocoa
+  3: Green tea
+  4: It is not tea, it is coffee
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: f3b66888-8427-49c1-a9a1-8c866c1ce8c5
+
+Question: >
+  Why are cider apples used for the production of cider instead of dessert apples?
+
+Answers:
+  1: Cider apples give the cider a unique flavor.
+  2: Cider apples are sour.
+  3: All of these
+  4: Dessert apples don't have a strong enough flavor.
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 78255169-a4e1-427a-b5ed-564455ef9dba
+
+Question: >
+  In what Asian country did the Gado-gado salad originate?
+
+Answers:
+  1: India
+  2: China
+  3: Thailand
+  4: Indonesia
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: b4b36aaa-0d94-400d-8e47-5205d64d0b3e
+
+Question: >
+  Which of these in not one of the traditional ingredients used for the preparation of the Greek salad?
+
+Answers:
+  1: Cheese
+  2: Onion
+  3: Olives
+  4: Ham
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: cf08d06c-2054-41f4-a5a8-7840fb776988
+
+Question: >
+  This salad, which originated in Lebanon, is made from parsley, bulgur, mint, tomatoes, spring onions?
+
+Answers:
+  1: Curtido
+  2: Cobb salad
+  3: Urnebes
+  4: Tabbouleh
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: f41dd42d-8b7e-4489-9a61-60091a228566
+
+Question: >
+  In what country did the popular Caesar salad originate?
+
+Answers:
+  1: Greece
+  2: Spain
+  3: Italy
+  4: Mexico
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 772b9f33-40a1-4e50-b62c-6099f9d563f4
+
+Question: >
+  Why is the popular US salad Crab Louie called so?
+
+Answers:
+  1: The dressing includes crab sauce.
+  2: None of these
+  3: It was named after its creator.
+  4: It includes crab meat.
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 265211c0-6bec-4602-86f4-d7129c961a7d
+
+Question: >
+  What is the main ingredient of the Ambrosia salad?
+
+Answers:
+  1: All of these
+  2: Fruits
+  3: Seafood
+  4: Pickles
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: b68d775b-ae72-44f0-8f3d-f0f5f42f77d2
+
+Question: >
+  What type of seafood is used in the making of the Korean salad Golbaengi muchim?
+
+Answers:
+  1: Squid
+  2: Fish
+  3: All of these
+  4: Sea snails
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 5185f064-65b9-43cb-b369-ac11b6ad2640
+
+Question: >
+  What kind of cheese is one of the ingredients of the Insalata Caprese salad?
+
+Answers:
+  1: Brie
+  2: Buffalo mozzarella
+  3: Cheddar cheese
+  4: Ricotta cheese
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: a5e82bec-feab-4861-8d0b-1a7786e1bf7b
+
+Question: >
+  The Larb meat salad belongs to the cuisine of what Asian country?
+
+Answers:
+  1: Laos
+  2: Cambodia
+  3: India
+  4: China
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 703682e8-8f5e-43e4-a7f2-70f47828cac4
+
+Question: >
+  What does the name of the Chinese salad Yusheng mean?
+
+Answers:
+  1: Sweet salad
+  2: Slimy shrimp
+  3: Raw fish
+  4: Sour salad
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 6cbdf717-9ee1-488c-995c-f96b3d0ca6fb
+
+Question: >
+  This pasta's name is the Italian word for little bell. It has fluted, petal-like edges and a hollow center for
+  capturing sauce. It is usually found in a casserole or served with a thick sauce.
+
+Answers:
+  1: ditalini
+  2: campanelle
+  3: elicoidali
+  4: pennette
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 60a267c9-3c85-449f-ae3d-a4f187af038f
+
+Question: >
+  This small shell shaped pasta with slightly rolled-in edges is very popular in the Avellino province of Italy.
+
+Answers:
+  1: fregula
+  2: orzo
+  3: cavatelli
+  4: ditali
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: a898c594-83cc-4a4c-80fe-cf9da930e824
+
+Question: >
+  In Brazil, Argentina, Chile, Paraguay, Uruguay, and Venezuela, where Italian cuisine is especially popular, there is
+  a custom to eat this traditional Italian pasta on the 29th day of each month.
+
+Answers:
+  1: gnocchi
+  2: stelline
+  3: agnolotti
+  4: pastina
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 2d8f00e1-35b7-46a8-bbaf-a09ccca844f4
+
+Question: >
+  This is a variety of ring-shaped pasta, typically stuffed with a mix of meat and usually served in broth, with
+  cream, or sometimes with a ragù. It originated in the Italian region of Emilia.
+
+Answers:
+  1: cannelloni
+  2: tortellini
+  3: ravioli
+  4: gnocchi
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 49169ecb-4823-401c-9889-0c468e81deba
+
+Question: >
+  These are rectangular pasta sheets rolled with a savory stuffing and then covered with a sauce.
+
+Answers:
+  1: manicotti
+  2: pantalone
+  3: pipe
+  4: cannelloni
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: c49f206e-e38d-4a7a-adc5-ec3649b0fc52
+
+Question: >
+  This type of  flat pasta, representing medallion or coin, stamped with various patterns originated in Liguria,
+  Northern Italy during the Middle Ages. It was made by local peasants and used by aristocratic families as a display
+  of wealth and status.
+
+Answers:
+  1: corzetti
+  2: croxetti
+  3: fiori
+  4: fiorentine
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 3f0d182c-8fa5-416a-9fe6-bd597da5c7ac
+
+Question: >
+  Which of these is not a corkscrew-shaped pasta?
+
+Answers:
+  1: cavatappi
+  2: farfalle
+  3: rotini
+  4: fusilli
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 6614f922-9803-4521-bdf7-30c30cf8e4f4
+
+Question: >
+  This type of macaroni is formed in a spiral tube shape an typically has lines on the outside surface.
+
+Answers:
+  1: lumache
+  2: lumaconi
+  3: cavatelli
+  4: cavatappi
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 8ad7ca1e-e4e4-4137-ae04-fd8f88bd3d99
+
+Question: >
+  The name of this thick noodle made of egg and flour means little ribbon in Italian. It is very popular in Rome and
+  is similar to what is called tagliatelle elsewhere in Italy.
+
+Answers:
+  1: farfallone
+  2: fiorentine
+  3: fettuccine
+  4: orecchiette
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 995002c1-05ef-41b3-90db-53406de4ab9c
+
+Question: >
+  Which of this is the general name for the type of pasta shaped as swirls?
+
+Answers:
+  1: macaroni
+  2: lasagne
+  3: fusilli
+  4: spaghetti
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 1999c91d-3326-4828-a9b1-749b39730bd4
+
+Question: >
+  What continent did tomatoes originate from?
+
+Answers:
+  1: South America
+  2: Asia
+  3: North America
+  4: Europe
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 2aee6b8c-4d9d-4536-b214-0e82724e0c39
+
+Question: >
+  What country was the largest producer of tomatoes in the world in 2008?
+
+Answers:
+  1: India
+  2: United States
+  3: Turkey
+  4: China
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: b7545211-33ef-491f-821a-62afe92d83ee
+
+Question: >
+  Malt, one of the main ingredients of beer, undergoes a process in which the grain kernels are crushed and later the
+  smaller pieces are separated from the husk. What is the name of the resulting product?
+
+Answers:
+  1: zymurgy
+  2: vermiculite
+  3: grist
+  4: wort
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: bfe3f753-f9a9-4c2c-840c-7424b2cb922f
+
+Question: >
+  This kind of beer, produced from wild yeast through a process called spontaneous fermentation, has a distinctive,
+  cidery flavour with slightly sour aftertaste.
+
+Answers:
+  1: cantillon beer
+  2: boon beer
+  3: lambic beer
+  4: chapeau beer
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: b2169796-e749-4fbb-8123-977c47b58c8b
+
+Question: >
+  In 1953, this New Zealander developed the technique of continuous fermentation, which is applied in the production
+  of the famous beer brand Guinness.
+
+Answers:
+  1: Charlie Mopps
+  2: Morton W. Coutts
+  3: James Death
+  4: Daniel Wheeler
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: f6a77727-abe3-44f4-99a3-ba74ad15f913
+
+Question: >
+  This term refers to a kind of unfiltered beer, conditioned and served from the cask without additional pressure.
+
+Answers:
+  1: cask draught beer
+  2: cask lager beer
+  3: cask rye beer
+  4: cask ale beer
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: ec79e327-60d9-4c16-ad70-37ba65a4c94b
+
+Question: >
+  This type of Belgian beer contains alcohol by volume, ranging between 8 and 11 percent. A commercial example for
+  this kind of beer is Unibroue la Fin du Monde.
+
+Answers:
+  1: aetbier
+  2: uerige
+  3: dunkel
+  4: tripel
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 2c7fe54c-bf54-474f-b76d-d7793f778547
+
+Question: >
+  What is the name of a traditional German wheat beer glass?
+
+Answers:
+  1: Heifeweizenbier glass
+  2: Weizenstarkbier glass
+  3: Witbier glass
+  4: Weizenbier glass
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: d8489956-d362-4f32-ab7a-641f8e95cf96
+
+Question: >
+  This is a drinking game played with 1 oz shots of beer and cards. The player must guess the rank that was dealt to
+  another player's card. At the end, one of the players has to drink many beer shots.
+
+Answers:
+  1: Bortok
+  2: Hi-Lo
+  3: FizzBuzz
+  4: Bizu-Bizu
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: b37ef9ce-efd3-429d-93f3-b566913a3dd3
+
+Question: >
+  What is the name of an alcoholic beverage consisting of equal parts of lager beer and lemonade?
+
+Answers:
+  1: mazout
+  2: spavola
+  3: radler
+  4: russ
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 24ba6bdd-f695-472a-878f-aae2206bf976
+
+Question: >
+  Which of these is a Polish beer brand, established in 1629?
+
+Answers:
+  1: Saku
+  2: Tyskie
+  3: Kalnapilis
+  4: A. Le Coq
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 81c8da14-05e1-4d1b-8797-0649ae13d743
+
+Question: >
+  Which of the following brands of beer is not German and is manufactured in an Asian country?
+
+Answers:
+  1: Jever
+  2: Veltins
+  3: Holsten
+  4: Kirin
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: fc185bed-b0d1-4613-a920-ce2bba4a503d
+
+Question: >
+  The word broccoli comes from the Italian expression piccoli bracci. What does this mean?
+
+Answers:
+  1: Green meat
+  2: Little arms
+  3: Little trees
+  4: Green curls
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: da1ad171-4248-442f-9e52-9d36179e68bc
+
+Question: >
+  Broccoli originated in this country about 2000 years ago.
+
+Answers:
+  1: Belgium
+  2: Spain
+  3: Greece
+  4: Italy
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 08f7430b-46e2-4f45-b9d5-ec4b3c3ea629
+
+Question: >
+  Broccoli looks very similar to this vegetable and is often confused with it.
+
+Answers:
+  1: Brussels sprouts
+  2: Lettuce
+  3: Cauliflower
+  4: Cabbage
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 73d122fd-474c-4997-93a1-7de4855ad1f6
+
+Question: >
+  The most common type of broccoli is sometimes referred to with this term in the United Kingdom.
+
+Answers:
+  1: Calabrese
+  2: Romanesco broccoli
+  3: All of these
+  4: Cafiolli
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 1597dd7a-603d-4579-aecb-b87d4cc37088
+
+Question: >
+  There are several types of broccoli that are very common around the world. Which of these is one of them?
+
+Answers:
+  1: Romanesco broccoli
+  2: Sprouting broccoli
+  3: All of these
+  4: Purple cauliflower
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 57971cd5-cc05-4975-9b9c-6a66d2528a47
+
+Question: >
+  Boiling broccoli for more than ten minutes reduces its beneficial properties. Which of these cooking methods is more
+  appropriate for preserving its ingredients?
+
+Answers:
+  1: All of these
+  2: Stir-frying
+  3: Steaming
+  4: Microwaving
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 7531a3d8-ded3-4724-8bf6-1a1ef4bf67c5
+
+Question: >
+  Which of these statements about the fat content of the coconut is true?
+
+Answers:
+  1: It contains about 25% saturated fat.
+  2: 90% of its fat is saturated.
+  3: It contains high amounts of fat, but it does not contain saturated fats.
+  4: It doesn't contain any fat at all.
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 6d195f1f-2623-4472-a702-e662d35f5968
+
+Question: >
+  What kind of alcohol is traditionally used for the preparation of Piña Colada?
+
+Answers:
+  1: Tequila
+  2: Rum
+  3: Gin
+  4: Vodka
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 6acee885-15c5-4b3e-ba33-cb4e711e4965
+
+Question: >
+  Which of these popular cocktails is a variation of the pineapple cocktail Pina Colada?
+
+Answers:
+  1: Chi Chi
+  2: Lava Flow
+  3: All of these
+  4: Miami Vice
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: b1090716-b019-4f7d-b5d9-17da1bd135e2
+
+Question: >
+  What important nutrient is the pineapple fruit rich in?
+
+Answers:
+  1: Manganese
+  2: Vitamin C
+  3: All of these
+  4: Vitamin B1
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: bd445a0f-862a-4c75-b791-baf62312d7d8
+
+Question: >
+  What part of a duck or goose is used for the preparation of the French meal Foie gras?
+
+Answers:
+  1: Breast
+  2: Skin
+  3: Liver
+  4: Wings
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 1733c6a2-dbe0-4a88-a1bd-2e700641bab0
+
+Question: >
+  What animal is used for the preparation of the French delicacy Escargot?
+
+Answers:
+  1: Oyster
+  2: Shrimp
+  3: Rabbit
+  4: Snail
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: a8771f15-9e65-45d9-84f3-44228b855a0d
+
+Question: >
+  What type of food is Pate de coing, which is traditionally served at Christmas in the French region of Provence?
+
+Answers:
+  1: Quince jelly
+  2: Goose pate
+  3: Goat milk cheese
+  4: Mashed potatoes
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: f51ce650-3547-47ef-8b9f-b0f297bc02f4
+
+Question: >
+  What is the main ingredient of the popular French dessert Teurgoule?
+
+Answers:
+  1: Eggs
+  2: Potatoes
+  3: Apples
+  4: Rice
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 2ff0d2dc-9aab-4db8-a769-716fbeb4a1df
+
+Question: >
+  Crepe is the name of a thin French pancake. What is the meaning of the Latin word crispa from which the name of the
+  dish originated?
+
+Answers:
+  1: Thin
+  2: Curled
+  3: Flat
+  4: Crispy
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 1d865085-0297-4338-b8bf-b6a25f3978d1
+
+Question: >
+  What type of chicken is used for the preparation of the traditional French meal Coq au vin?
+
+Answers:
+  1: Young rooster
+  2: Hen which has just begun to lay eggs
+  3: Older rooster
+  4: Older hen
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 99d42e80-48d1-4932-8105-bc067b4e63a8
+
+Question: >
+  This vegetable is the main ingredient of the traditional French dish Cassoulet.
+
+Answers:
+  1: Beans
+  2: Carrots
+  3: Tomatoes
+  4: Potatoes
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: a981096f-7937-4799-b960-f09751d60450
+
+Question: >
+  What type of food is the French delicacy called Andouillette?
+
+Answers:
+  1: Cheese
+  2: Salted fish
+  3: Mussel soup
+  4: Sausage
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: bbf6d3dc-3f6c-44f5-bbad-fb509f2a2aee
+
+Question: >
+  Which of these is not among the traditional ingredients used for the making of the popular French dish Tartiflette?
+
+Answers:
+  1: Cheese
+  2: Bacon
+  3: Rice
+  4: Potatoes
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 04407d06-b9a5-4d9a-b0ef-454c6e384020
+
+Question: >
+  What type of meat is used for the preparation of the French dish called Pot-au-feu?
+
+Answers:
+  1: Beef
+  2: Pork
+  3: No meat is used
+  4: Duck
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: d1f7d59d-5b0d-4653-b9b3-94973d98046b
+
+Question: >
+  Which of these countries is the largest producer and consumer of cows milk in the world?
+
+Answers:
+  1: United States
+  2: South Africa
+  3: India
+  4: China
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: hobbies
+
+SchemaVersion: 1
+---
+ID: 94db27a7-01f3-4112-a286-a38000a8f14d
+
+Question: >
+  The milk of which of these mammals is used for consumption by humans?
+
+Answers:
+  1: Moose
+  2: Reindeer
+  3: All of these
+  4: Water buffalo
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: b2489949-de44-4f78-b196-b7b85a4930bc
+
+Question: >
+  Which of these vitamins is fat-soluble and is found in the milk fat?
+
+Answers:
+  1: Vitamin B5
+  2: Vitamin P
+  3: Vitamin C
+  4: Vitamin K
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 24b5c3ad-1d71-45fb-a5d0-9b4a7f0abb31
+
+Question: >
+  Which of these statements is true about the pasteurization of milk?
+
+Answers:
+  1: All of these
+  2: It extends the shelf life of milk.
+  3: It is different from sterilization.
+  4: The pasteurized milk still needs to be refrigerated.
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 2b05c5fd-6505-4ba7-8af1-1162589da7cd
+
+Question: >
+  Which of these essential nutrients is present naturally in milk?
+
+Answers:
+  1: Selenium
+  2: Riboflavin
+  3: All of these
+  4: Biotin
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 68c26080-6522-4e87-a21f-6aa5c0fa4696
+
+Question: >
+  What is the meaning of the Arabic phrase qahwat al-bunn, from which the English word coffee was derived through
+  Turkish?
+
+Answers:
+  1: Life in a bean
+  2: Black wine
+  3: Wine of the bean
+  4: Bean of the gods
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 7e3ea51d-7a9d-4e5b-b5e3-0f464f02d772
+
+Question: >
+  What chemical present in the grapefruit gives it its unique taste and flavor?
+
+Answers:
+  1: Nitrogen
+  2: Vanadium
+  3: Sulfur
+  4: Formaldehyde
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 1c735018-2736-4084-94d7-c7cc8ae9ffea
+
+Question: >
+  What common expression is used to refer to beer to point out its excellent nutritional properties?
+
+Answers:
+  1: Food in a mug
+  2: Golden elixir
+  3: Fizzy tea
+  4: Liquid bread
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: b86d0708-2613-46b7-84b8-0ef6368160b1
+
+Question: >
+  What alcoholic beverage is produced from herbs including the bitter herb commonly known as wormwood?
+
+Answers:
+  1: Whiskey
+  2: Rum
+  3: Gin
+  4: Absinthe
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: fcfedd70-a224-4f0c-b457-a623e7821d19
+
+Question: >
+  A human being can live entirely on a diet consisting only of potatoes and milk.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 2
+
+Explanation: |
+  Humans can survive for years on a diet of potatoes and milk because potatoes provide essential carbohydrates, fiber,
+  and vitamin C, while milk supplies the necessary fat, calcium, and vitamins A, D, and B12, creating a nearly
+  complete nutritional profile.
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: a3f94d29-46a8-4b3b-96bf-7e52c1ff9d29
+
+Question: >
+  In what part of the potato is most of its protein located?
+
+Answers:
+  1: It is evenly distributed.
+  2: Just under the skin
+  3: In the skin
+  4: In its center
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 2570d917-73e8-4120-827b-e5cade0429c9
+
+Question: >
+  Potatoes contain large amounts of carbohydrates. What is the approximate quantity of carbohydrates in a medium-size
+  potato (about 150 grams)?
+
+Answers:
+  1: 100 grams
+  2: 75 grams
+  3: 25 grams
+  4: 50 grams
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: f6c53305-62d9-402f-a629-2856683da5dd
+
+Question: >
+  Potatoes contain toxic chemicals that are also found in tobacco and tomatoes.
+
+Answers:
+  1: True
+  2: False
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: b5cb1f7a-475c-4fe6-b3dc-1d89968d4aa7
+
+Question: >
+  What year was declared the International Year of the Potato by the United Nations?
+
+Answers:
+  1: 2004
+  2: 2008
+  3: 2001
+  4: 2006
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: b714c957-5d02-4100-a64f-56226dea5ea5
+
+Question: >
+  Potatoes are used in millions of cooking recipes around the globe. Which of these dishes contains potatoes?
+
+Answers:
+  1: All of these
+  2: Chochoca
+  3: Milcaos
+  4: Champ
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: b3643082-7c5c-4da6-b769-3f13d69a45aa
+
+Question: >
+  Why is the popular Chinese Bird's nest soup named so?
+
+Answers:
+  1: Because one of the ingredients is bird's nest.
+  2: Because it is made with a large amount of thin noodles that look like a bird's nest when served.
+  3: Because is is made from baby swallows.
+  4: Because it is served in a bowl arranged in a way to resemble a bird's nest.
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 278ee26a-8d10-4f54-b05c-b7c7181050f1
+
+Question: >
+  What vegetable is the main ingredient of the popular Spanish soup called Gazpacho?
+
+Answers:
+  1: Tomato
+  2: Red pepper
+  3: Potato
+  4: Carrot
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: 001edcd9-1587-4cb2-b515-5f977d4c4fc8
 
 Question: >

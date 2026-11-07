@@ -1307,6 +1307,322 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: 05056efa-0b7f-4351-9cf1-ded13f080e22
+
+Question: >
+  According to some studies, lycopene, which is found in tomatoes, prevents this disease.
+
+Answers:
+  1: Diabetes
+  2: Thrombosis
+  3: Cancer
+  4: Heart attack
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: e24d15cb-06a7-4c0a-b81b-f862738a8f89
+
+Question: >
+  It is considered that the consumption of these animals transmitted a predecessor of HIV to humans.
+
+Answers:
+  1: Primates
+  2: Birds of prey
+  3: Rats
+  4: Wild animals
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: dffd5e31-d2fa-42ea-ab11-5d63e09ca87f
+
+Question: >
+  Broccoli is known for its cancer-fighting properties. Which of these compounds found in broccoli has an anti-cancer
+  effect?
+
+Answers:
+  1: Glucoraphanin
+  2: 3,3-Diindolylmethane
+  3: All of these
+  4: Selenium
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: bee000f2-e39b-4fe2-b9e4-068bba3b428f
+
+Question: >
+  Walnuts are proven to lower the bad cholesterol due to this chemical compound found in them.
+
+Answers:
+  1: Capsaicin
+  2: Omega-6 fatty acids
+  3: All of these
+  4: Omega-3 fatty acids
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 7d2c1d6c-4e06-406d-bbfb-b5db20429981
+
+Question: >
+  What kind of disturbance can pine nuts cause in about 1 to 3 days following their consumption?
+
+Answers:
+  1: Fever and vomiting
+  2: Unusual taste in the mouth
+  3: Migraine
+  4: Partial blindness
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: fe35b4fb-e884-425c-aa61-d54d4441adc8
+
+Question: >
+  The cashew nutshell liquid, a by-product of cashew processing, contains anacardic acids, which are beneficial for
+  the treatment of this medical problem.
+
+Answers:
+  1: Tooth abscesses
+  2: Rashes
+  3: Hair loss
+  4: Varicose veins
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: c05c9814-7438-4561-bca7-49a3ce1f3f49
+
+Question: >
+  People suffering from what disease should not consume raw pineapples?
+
+Answers:
+  1: All of these
+  2: Liver disease
+  3: Ehlers-Danlos syndrome
+  4: Hemophilia
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: b509119c-6252-4fa4-a0e3-592691624642
+
+Question: >
+  Conjugated linoleic acid, present in milk, is proven to cure in vitro what disease?
+
+Answers:
+  1: Breast cancer
+  2: Skin cancer
+  3: All of these
+  4: Colorectal cancer
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 2a199c92-1fba-41f0-afa5-ccf3616f310c
+
+Question: >
+  What  vitamin is found in high amounts in the bitter root of the turnip plant?
+
+Answers:
+  1: Vitamin C
+  2: Vitamin E
+  3: Vitamin B12
+  4: Vitamin A
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 64bdf968-9bac-4a16-99c9-ca8ba8fd71ef
+
+Question: >
+  A study on 2,018 women showed that the consumption of green tea and mushrooms decreases the risk of developing this
+  disease by 90%.
+
+Answers:
+  1: All of these
+  2: Breast cancer
+  3: Cervical cancer
+  4: Ovarian cancer
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 98842c4d-ba6c-4d4b-b45d-50b9d55c4ae8
+
+Question: >
+  Animal liver is very rich in this health-beneficial mineral, as well as in vitamin A.
+
+Answers:
+  1: Iron
+  2: Magnesium
+  3: Calcium
+  4: Potassium
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 29e68593-99d7-4e6f-9c1d-efc5594b007d
+
+Question: >
+  The risk of what type of cancer can be decreased by moderate wine consumption according to various studies?
+
+Answers:
+  1: Breast cancer
+  2: All of these
+  3: Prostate cancer
+  4: Lung cancer
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 754a25ee-efa7-408d-ac24-e8d06b1ed6c6
+
+Question: >
+  Bitter melon, or bitter gourd, has been traditionally used by Asians, Panamanians and Colombians in the prevention
+  and treatment of this disease.
+
+Answers:
+  1: Tuberculosis
+  2: Rabies
+  3: Malaria
+  4: Tetanus
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: 6dadcad0-e6cc-4201-933f-0f6c6b4ec208
 
 Question: >

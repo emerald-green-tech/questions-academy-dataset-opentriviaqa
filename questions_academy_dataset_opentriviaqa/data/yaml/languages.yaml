@@ -717,6 +717,54 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: d1896653-cfa6-48aa-9c64-b391a545355d
+
+Question: >
+  The Latin word for apple is malus, which is considered to be derived from the word malum. What does malum mean?
+
+Answers:
+  1: Green
+  2: Sweet
+  3: Evil
+  4: Pain
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: d8fe2e85-5361-4a7c-9fde-8ffd37b14822
+
+Question: >
+  Where does the name Adam's apple originate from?
+
+Answers:
+  1: It was believed that the forbidden fruit got stuck in Adam's throat forming a protuberance.
+  2: It was named after a medical doctor who explored the human larynx.
+  3: All of these
+  4: It denotes that only men have an Adam's apple, as Adam was the first man.
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: a4fb8b1a-29ac-49bf-a760-1282c49c48a8
 
 Question: >

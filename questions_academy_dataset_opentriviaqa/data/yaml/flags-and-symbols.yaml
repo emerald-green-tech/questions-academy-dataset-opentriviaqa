@@ -502,6 +502,30 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: 56bb9811-36e9-4fba-abf1-2a4405fd58a0
+
+Question: >
+  Tomato juice is the official beverage of this state in the USA.
+
+Answers:
+  1: Colorado
+  2: Ohio
+  3: Texas
+  4: California
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: 319bc5f4-b5aa-4f76-8006-5bedfdcfd253
 
 Question: >

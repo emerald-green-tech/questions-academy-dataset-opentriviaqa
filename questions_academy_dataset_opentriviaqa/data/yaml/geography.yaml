@@ -986,6 +986,102 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: b36a48b9-6753-4b9c-9e90-f8b78691f133
+
+Question: >
+  The Berjaya Times Square Mall has 45 restaurants, its own theme park , and hip-hop town. Where is it located?
+
+Answers:
+  1: Kuala Lumpur
+  2: Delhi
+  3: Riyadh
+  4: Bangalore
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 2161ed0c-3a57-4c1c-bf2f-6538091aa2bd
+
+Question: >
+  The mall in this city has its own 400-meter ski slope.
+
+Answers:
+  1: Denver
+  2: Oslo
+  3: Dubai
+  4: Edmonton
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 37b9c711-1f95-4bf4-92e4-3a1391c5e102
+
+Question: >
+  This is the location of the oldest mall still in use.
+
+Answers:
+  1: Istanbul
+  2: Paris
+  3: Kent
+  4: Tashkent
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: feb25b42-d304-4bf9-ae6b-fbab52635cf7
+
+Question: >
+  This is the location of the oldest mall in England.
+
+Answers:
+  1: Canterbury
+  2: Surrey
+  3: Kent
+  4: Oxford
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: ae66cbf1-649a-4b5d-94c2-bdc6240b4a1a
 
 Question: >

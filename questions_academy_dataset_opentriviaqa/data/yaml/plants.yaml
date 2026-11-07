@@ -943,6 +943,726 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: 94eb01e7-d7fb-4c05-a3d6-28578db5f7b5
+
+Question: >
+  Which of these statements is true about the apple tree?
+
+Answers:
+  1: All of these
+  2: It is evergreen.
+  3: It grows up to 60 feet (18 meters).
+  4: Its crown is broad and dense.
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 0cb0124b-69b7-45ed-97c8-d7e4025121e9
+
+Question: >
+  What is the color of the blossoms of the apple tree?
+
+Answers:
+  1: Yellow
+  2: Purple and yellow
+  3: White and pink
+  4: Blue
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 49aa49a2-7739-4852-b9ec-b03ec18b43f1
+
+Question: >
+  In which of these seasons do the fruits of the apple tree ripen?
+
+Answers:
+  1: Late summer
+  2: Early summer
+  3: Late spring
+  4: Fall
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 76476c96-3c51-44e8-bca5-e9e9bb7b8a5f
+
+Question: >
+  From which of these areas did the apple tree originate before it was cultivated all around the world?
+
+Answers:
+  1: Europe
+  2: Central America
+  3: Central Asia
+  4: South America
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 1c3bbb15-4a5d-4cbe-b78d-8dc938648ae4
+
+Question: >
+  Which of these countries is the leading producer of apples in the world?
+
+Answers:
+  1: United states
+  2: China
+  3: France
+  4: Mexico
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 2ce97e09-6ca7-4154-b01f-25338d7c2f8f
+
+Question: >
+  Which of these countries is believed to possess the largest apple cultivars collection in the world?
+
+Answers:
+  1: France
+  2: China
+  3: England
+  4: United States
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 5ca7a4e5-a45e-4ff2-95f8-c19155afaa2e
+
+Question: >
+  Most tomato cultivars produce fruit that is red when ripe, but some produce unusual colors such as this one.
+
+Answers:
+  1: Black
+  2: All of these
+  3: Striped
+  4: Multicolored
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: be40df08-6bd7-4a95-8d07-702d1a67ffd9
+
+Question: >
+  What chemical is used to trigger the ripening of tomatoes that have been picked unripe?
+
+Answers:
+  1: Vitamin A
+  2: Lycopene
+  3: Glucose
+  4: Ethylene
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 665a5fb3-1391-4c31-ac10-28f9b3ebd09f
+
+Question: >
+  In 1994 Calgene introduced this genetically modified tomato cultivar which could be vine ripened without shortening
+  the shelf life of the tomatoes.
+
+Answers:
+  1: Ruby Ruth
+  2: Oxheart
+  3: FlavrSavr
+  4: The Hardy Jerry
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: e9769fb8-4515-4640-826f-512311feb7c8
+
+Question: >
+  Tomatoes can be refrigerated and they will continue to ripen after they reach room temperature.
+
+Answers:
+  1: True
+  2: False
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 9333e05d-4aa4-4762-90e3-b61206560b3b
+
+Question: >
+  What part of the tomato plant does not contain Solanine, a poison toxic to humans and animals?
+
+Answers:
+  1: All of these
+  2: Leaves
+  3: Unripe fruit
+  4: Ripe fruit
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: b2834831-b36f-4f8c-a229-76ebe7247d6a
+
+Question: >
+  99% of the broccoli crop in U.S.A. is produced in these two states.
+
+Answers:
+  1: California and Arizona
+  2: Ohio and Maryland
+  3: Florida and Texas
+  4: Kansas and Nebraska
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 54e395a5-0b9f-49d3-b51e-bd803ce8e6ee
+
+Question: >
+  Which of these vegetables is not a type of broccoli?
+
+Answers:
+  1: Chinese broccoli
+  2: All of these
+  3: Romanesco broccoli
+  4: Purple cauliflower
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 42380ee0-0b22-40d2-b605-6011a9b82a77
+
+Question: >
+  Broccoli is very rich in vitamins and other essential nutrients. Which of these vitamins does broccoli contain?
+
+Answers:
+  1: Vitamin C
+  2: Vitamin A
+  3: Vitamin E
+  4: All of these
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 04252708-3aa2-43c8-8d2d-dc27c3c741e1
+
+Question: >
+  To which of these countries is the pistachio tree native?
+
+Answers:
+  1: All of these
+  2: Turkey
+  3: Turkmenistan
+  4: Iran
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: abb6bb31-0355-41b8-b652-2bc00711d3d8
+
+Question: >
+  What other use does the Brazil nut oil have, apart from being used for food?
+
+Answers:
+  1: In cosmetics
+  2: All of these
+  3: In clocks as lubricant
+  4: In making paint for artists
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: f71210df-caba-4f4d-aca0-4e88dd7fb557
+
+Question: >
+  Which of these statements is true about almonds?
+
+Answers:
+  1: The sweet almond contains no carbohydrates.
+  2: They lower LDL cholesterol, the bad cholesterol.
+  3: They are very rich in vitamin E.
+  4: All of these
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 89c37aa5-2ca1-4f8b-9a57-f636f007ce9d
+
+Question: >
+  Which of these names is used as an alternative name of hazelnuts?
+
+Answers:
+  1: Cherry nut
+  2: Brown pea
+  3: All of these
+  4: Cobnut
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 7758fe1a-4c0f-4bb9-bd07-79ecda8d9472
+
+Question: >
+  Which of these statements is true about the chestnut fruit, which is not actually a nut?
+
+Answers:
+  1: Their starch content is equal to that of the potato.
+  2: It is the only nut that contains vitamin C.
+  3: It contains bad cholesterol.
+  4: All of these
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: f5d2b245-75e7-4d10-961a-18066fe007eb
+
+Question: >
+  Which of these names refers to the Candlenut tree, also known as Candleberry and Kemiri?
+
+Answers:
+  1: Indian walnut
+  2: Kukui nut tree
+  3: Varnish tree
+  4: All of these
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 319206bd-886d-4a6a-a861-63cf5d78bc66
+
+Question: >
+  What geographical area is the pineapple plant native to?
+
+Answers:
+  1: Ecuador and Peru
+  2: Argentina and Uruguay
+  3: Brazil and Paraguay
+  4: Colombia and Venezuela
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: ca048ff8-fa19-49a2-80e2-d3b9f4092371
+
+Question: >
+  In reference to what was the term pineapple used before it became the name of the tropical fruit?
+
+Answers:
+  1: Wild apples
+  2: Pine cones
+  3: All of these
+  4: Hand grenades
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 70dbf846-3f20-4b58-93a0-d8766b3162b2
+
+Question: >
+  Which of these statements is true about the pineapple plant (Ananas comosus)?
+
+Answers:
+  1: It is a herbaceous plant
+  2: It grows to 1-1.5 meters (3.3 to 4.9 ft) tall
+  3: All of these
+  4: It is a perennial plant
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 11e4aa9b-2b02-497d-bebd-f4f18b318105
+
+Question: >
+  Which of these is a multiple fruit, just like the pineapple?
+
+Answers:
+  1: Mulberry
+  2: Breadfruit
+  3: Fig
+  4: All of these
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 136fbe4e-4be2-4ae9-9a34-b6e3882fecad
+
+Question: >
+  What animal is the most common natural pollinator of the pineapple plant?
+
+Answers:
+  1: Gall wasp
+  2: Bumblebee
+  3: All of these
+  4: Hummingbird
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: e251f5a8-5145-4276-935e-6879f12a36fc
+
+Question: >
+  Which of these statements is true about the enzyme bromelain that is present in pineapples?
+
+Answers:
+  1: Its content increases with the coking or canning of the fruit.
+  2: It breaks down protein.
+  3: It speeds up the action of gelatin.
+  4: All of these
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 30a56ae0-92a0-479c-ab3a-5d6496edecc1
+
+Question: >
+  The fruit of most olive species contain phenolic compounds and oleuropein which make the fruit too bitter. However,
+  the fruit of this olive cultivar can be eaten fresh.
+
+Answers:
+  1: Manzanilla
+  2: Bosana
+  3: Arbequina
+  4: Thassos Olive
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: b8720b2a-ce72-4408-a361-7e27529c671a
+
+Question: >
+  Genetic tests of all known potato species show that this country was the place they originally came from.
+
+Answers:
+  1: Colombia
+  2: Paraguay
+  3: Peru
+  4: Ecuador
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 64fdb646-4e01-4c88-b88a-2f3f66532ea3
+
+Question: >
+  Potatoes are being called various names around the globe. Which of these names refers to potatoes?
+
+Answers:
+  1: All of these
+  2: Tatoes
+  3: Praties
+  4: Taters
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 685d3a8b-d205-4e0b-bcd3-bc1c49762acb
+
+Question: >
+  What is the average height a potato plant can reach?
+
+Answers:
+  1: 40 centimeters
+  2: 20 centimeters
+  3: 80 centimeter
+  4: 60 centimeters
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: 8cbd51ec-5bb8-4a32-9bdb-07e6f36ec0dd
 
 Question: >
