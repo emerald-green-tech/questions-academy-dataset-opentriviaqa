@@ -1257,6 +1257,30 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: 234853c8-73f2-4474-b4d4-ddae94ea6ab8
+
+Question: >
+  The red rose is a symbol of this political ideology.
+
+Answers:
+  1: Monarchism
+  2: Liberalism
+  3: Socialism
+  4: Democracy
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: a16241f3-7076-4f59-b546-a697d3c29c68
 
 Question: >

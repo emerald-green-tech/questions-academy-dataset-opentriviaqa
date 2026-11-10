@@ -4108,6 +4108,245 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: 4f79dff9-8a14-4272-a584-db22cbecf5ae
+
+Question: >
+  Sylvester Stallone was born on 6 July 1946 in New York City. He is often referred as Sly- his nickname, which comes
+  from Sylvester. Do you know what his middle name is?
+
+Answers:
+  1: Alois
+  2: Gerald
+  3: Enzio
+  4: Graham
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: c7e30da3-2560-4fa9-8eab-571c95985035
+
+Question: >
+  Stallone studied drama at this University, but dropped out and returned to New York, where he made appearances in a
+  few small off-Broadway plays.
+
+Answers:
+  1: The University of Charleston
+  2: The University of Alabama
+  3: The University of Miami
+  4: The University of the Arts
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 0d741d33-7a26-4dd0-a804-9c0557e6f992
+
+Question: >
+  Sylvester Stallone doesn't like his first name (this is true). When he was a kid, he decided to name himself Mike.
+
+Answers:
+  1: True
+  2: False
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: d4f6634e-1fbd-44db-8936-a6496de86034
+
+Question: >
+  Sylvester Stallone was married to Sasha Czack (1974-1985) and to Brigitte Nielsen (1985-1987).  In 1997 he married
+  this woman.
+
+Answers:
+  1: Sophia Rose
+  2: Jennifer Flavin
+  3: Jennifer Aniston
+  4: Julia Roberts
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 81d7cf2f-8b88-4a6e-9def-fe4fa5f386f5
+
+Question: >
+  The trademarks of Stallone - sarcastic smile, lazy eyes, and slurred speech, are the result of paralysis of the
+  right side of his face.
+
+Answers:
+  1: True
+  2: False
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 86077cb1-f821-4a6f-9fc3-4f9e9ac298a1
+
+Question: >
+  Who is regarded as The first Latin lover?
+
+Answers:
+  1: Ricardo Montalban
+  2: Antonio Moreno
+  3: Miguel de Servantez
+  4: Rudolph Valentino
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: d47a9d50-d18a-4e30-a157-5c494fc75d1b
+
+Question: >
+  Actors Anthony Michael-Hall and Molly Ringwald were dating during the filming of the 1985 classic comedy movie The
+  Breakfast Club.
+
+Answers:
+  1: True
+  2: False
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 33c578e9-b1fe-47d1-a5e4-d7718ee7e08f
+
+Question: >
+  Alfred Hitchcock was born in Leytonstone, London in what year?
+
+Answers:
+  1: 1911
+  2: 1917
+  3: 1899
+  4: 1889
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: c2450cd8-fcf1-4dfe-9a2c-fd2a28734628
+
+Question: >
+  What politician did Scarlett Johansson campaign for in the 2004 US presidential election?
+
+Answers:
+  1: Barack Obama
+  2: John Kerry
+  3: Dick Cheney
+  4: George Bush
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 0d16d89d-33e4-474c-9b5e-d0f6546dccce
+
+Question: >
+  In what year did Scarlett Johansson marry Canadian actor Ryan Reynolds?
+
+Answers:
+  1: in 2005
+  2: in 2006
+  3: in 2004
+  4: in 2008
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: bff405c9-d46b-4b7d-a969-6c7e64edb5ae
 
 Question: >

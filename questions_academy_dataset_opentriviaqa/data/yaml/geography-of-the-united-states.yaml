@@ -428,6 +428,172 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: 8cb7fb56-1777-4f3c-af0b-6b2a41e0c47f
+
+Question: >
+  What city in the state of Oregon is known as The City of Roses?
+
+Answers:
+  1: Portland
+  2: Astoria
+  3: Corvallis
+  4: Salem
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: e3082bad-994e-4052-883e-56651d167271
+
+Question: >
+  This American state produces about 65% of the peaches grown for commercial production in the U.S.A.
+
+Answers:
+  1: Texas
+  2: Colorado
+  3: Florida
+  4: California
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: a2c6c5ec-b99d-4491-95dd-7b1a0bc759eb
+
+Question: >
+  Which U.S. state is the largest producer of blueberries in the world?
+
+Answers:
+  1: Maine
+  2: Montana
+  3: New York
+  4: California
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 00951f91-e408-42dc-89cd-967f91bdf4d8
+
+Question: >
+  Which U.S. state has the huckleberry for its state fruit?
+
+Answers:
+  1: Kentucky
+  2: Mississippi
+  3: Idaho
+  4: Iowa
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 897c4a6f-571a-49b9-8ee5-073802c944fd
+
+Question: >
+  Arizona became the 48th state on February 14, 1912.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 8be2312f-32cf-45bf-ae8f-58c76fffe1b5
+
+Question: >
+  Nicknamed the Ocean State, it is the smallest US state.
+
+Answers:
+  1: Hawaii
+  2: Delaware
+  3: New Hampshire
+  4: Rhode Island
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 70f28bce-4042-4e23-b005-3ba084f83a3a
+
+Question: >
+  Nicknamed after the international park located in it, this state is often called The Peace Garden State.
+
+Answers:
+  1: North Dakota
+  2: Oregon
+  3: South Dakota
+  4: Tennessee
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: b9127c65-d9d0-4973-abd2-6586f94e5b4a
 
 Question: >

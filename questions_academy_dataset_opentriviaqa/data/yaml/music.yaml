@@ -4037,6 +4037,149 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: e750bac7-6f87-48c5-8214-d0a380c5caea
+
+Question: >
+  Who sang the Popeyes trademark jingle Love that Chicken?
+
+Answers:
+  1: Nat King Cole
+  2: B.B. King
+  3: James Brown
+  4: Dr. John
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 7f0a7c21-c956-4dbe-99e8-ee4f6d986d96
+
+Question: >
+  Singer Johnny Cash was very close to his older brother Jack, who died in an accident involving what?
+
+Answers:
+  1: Shotgun
+  2: Tractor
+  3: Table Saw
+  4: Wagon
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 0fe9a728-70fa-482f-9939-5fb04bc7d489
+
+Question: >
+  What is the birth name of singer Johnny Cash, whose life is depicted in the movie Walk the Line?
+
+Answers:
+  1: Johnny Cash
+  2: J. R. Cash
+  3: John Randall Cash
+  4: John Cash Jr.
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 0c43be6b-e885-4d94-8077-32ab312a6b4b
+
+Question: >
+  While in the military, Johnny Cash is inspired by a film about a prison and its inmates and composes what famous
+  song?
+
+Answers:
+  1: Behind These Folsom Walls
+  2: Ring of Fire
+  3: Folsom Prison Blues
+  4: Folsom Blues
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: a9cb93ec-3624-4e26-8807-e65b4c14c79b
+
+Question: >
+  Before marrying June Carter, singer Johny Cash was married to whom?
+
+Answers:
+  1: Roseanne Cash
+  2: Carlene Cash
+  3: Violet Cash
+  4: Vivian Cash
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: d0013ee2-0608-40b1-a4b3-6dbd7a1b4164
+
+Question: >
+  Scarlett Johansson released her first music album in 2008.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: 85b7f69f-9e20-470b-bf46-f01e6b109ed1
 
 Question: >

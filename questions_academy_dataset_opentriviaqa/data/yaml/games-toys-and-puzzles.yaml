@@ -2985,6 +2985,388 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: 1fd6d958-9ecf-4b4c-a62c-226d76df76bd
+
+Question: >
+  Of how many pieces does the traditional Sino-European domino set consist?
+
+Answers:
+  1: 16
+  2: 32
+  3: 30
+  4: 28
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: f2f8e5c5-74f6-4e1b-8d0f-c498fb4113ea
+
+Question: >
+  Which of these is not one of the colloquial nicknames of the pieces of the domino set?
+
+Answers:
+  1: They all are
+  2: Stones
+  3: Spinners
+  4: Bones
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 0c0a7571-e478-402c-979f-ad13d80a1264
+
+Question: >
+  The largest commonly available domino set is the Double Twelve consisting of 91 tiles.
+
+Answers:
+  1: True
+  2: False
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: e3d432af-b8a7-4e3f-8f0e-476f9f40d82f
+
+Question: >
+  In the domino game Chicken Foot, which of the following is true about doubles?
+
+Answers:
+  1: Doubles cannot be used as spinners.
+  2: When used as a spinner all sides of the double must be occupied before players can play anywhere else.
+  3: Players double their score when they put a double.
+  4: Players are only allowed to add tiles to a certain branch.
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 6efb7674-f2a2-463f-a444-919e10a9f24c
+
+Question: >
+  In domino, what does the term downing mean?
+
+Answers:
+  1: Branching the line of play
+  2: Putting the last tile of the game
+  3: Blocking another player
+  4: Putting the first tile of the game
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 13d31604-5531-4db5-b23e-366142f90c38
+
+Question: >
+  In blocking domino games when does the scoring of the game happen?
+
+Answers:
+  1: At the beginning of the game
+  2: In the middle of the game
+  3: Throughout the entire game
+  4: At the end of the game
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 5552602f-4b0f-40d0-b095-1b6a3d00cbf4
+
+Question: >
+  What type of domino game is Bergen?
+
+Answers:
+  1: Both blocking and scoring domino game
+  2: Blocking domino game
+  3: Neither blocking nor scoring domino game
+  4: Scoring domino game
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 6ae73014-6283-45f2-b71c-e8c4ab843d7b
+
+Question: >
+  The domino effect, a term named after the domino game, denotes what peculiar sequence of events?
+
+Answers:
+  1: Simultaneous events caused by a small event
+  2: Consecutive events triggering one another
+  3: A series of unexpected events
+  4: One big event causing a series of simultaneous small events
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 8c10eee0-0c8f-44a2-a283-b74f5a2d385b
+
+Question: >
+  Where was a depiction of a domino tile included in 2008?
+
+Answers:
+  1: In the flag of Nicaragua
+  2: In Unicode
+  3: In the Chinese alphabet
+  4: In Microsofts logo
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 85a4bc1a-d0d7-4f71-92a6-a851d14c0d62
+
+Question: >
+  42 is a domino game popular in which part of the world?
+
+Answers:
+  1: France
+  2: Guatemala
+  3: Hawaii
+  4: Texas
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 37509b61-6351-495d-9eca-647850b72b77
+
+Question: >
+  The modern game of chess originated from this Indian game of strategy.
+
+Answers:
+  1: sankara
+  2: chaturanga
+  3: parchana
+  4: mancala
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 4a5d58e9-fa17-4a4a-9c39-df78bf01f718
+
+Question: >
+  What is the Japanese version of chess known as?
+
+Answers:
+  1: kyoki
+  2: shogi
+  3: shatranj
+  4: masala
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 70804d3e-87f8-464c-a11b-9af0b040c6d0
+
+Question: >
+  What is the Burmese variation of chess known as?
+
+Answers:
+  1: mylangin
+  2: Sittuyin
+  3: masala
+  4: kyoki
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: e593ca82-ee03-4cfc-9bcf-781f4ffdb347
+
+Question: >
+  The piece known as the noyon is found in this version of chess.
+
+Answers:
+  1: makruk
+  2: shatar
+  3: xiangqi
+  4: chaturanga
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 298248a6-db40-44b7-b2f6-583270852ae0
+
+Question: >
+  The piece known as the rukh is found in this variation of chess.
+
+Answers:
+  1: shatar
+  2: shogi
+  3: shatranj
+  4: makruk
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 1b118ace-182d-4b30-839e-a04e6daa23d9
+
+Question: >
+  The leopard, lion and the tiger appear in this variation of chess.
+
+Answers:
+  1: chaturanga
+  2: shatranj
+  3: makruk
+  4: Dou Shou Qi
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: 57e348fb-31df-4f59-994b-5afe283b70d1
 
 Question: >
@@ -2995,6 +3377,157 @@ Answers:
   2: Dou shou qi
   3: ajedrez
   4: shatranj
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: ed0a01b8-968e-4055-ad91-150f7735aba5
+
+Question: >
+  This game is originally Chinese, but there are English, Polish, Spanish, Italian, and Turkish variations played on a
+  board of black and red squares. Its origins can be traced back to 1600 BC ancient Egypt.
+
+Answers:
+  1: Checkers
+  2: Othello
+  3: Go
+  4: Chess
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: bdd00882-0515-430e-b5af-d651b5d282bb
+
+Question: >
+  This children's pursuit board game, sold by toy and game manufacturer Parker Brothers, is based on the ancient
+  Indian game, Pachisi.
+
+Answers:
+  1: Snakes and ladders
+  2: Sorry!
+  3: Candy Land
+  4: Mouse Trap
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: cedaa092-f5a4-46d5-859f-a1f5d173f2ad
+
+Question: >
+  One of the oldest games in recorded history, this strategy board game, where the moves are defined by the roll of
+  two dice, is believed to have originated in ancient Mesopotamia. Excavations and literary references indicate that
+  it was also popular in ancient Greece, Rome, Persia, and the Far East.
+
+Answers:
+  1: Go
+  2: Backgammon
+  3: Checkers
+  4: Chess
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: e858c971-78cf-4c5b-8ec8-d46b7addcadb
+
+Question: >
+  This game was independently developed by two great mathematicians of the 20th century, John Nash and Piet Hein. The
+  life and work of the former was the inspiration for the Academy Award winning film A Beautiful Mind. Name the game.
+
+Answers:
+  1: Nim
+  2: Four fours
+  3: Hex
+  4: L game
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: d189272c-9796-498b-b97a-351dc246e289
+
+Question: >
+  This game, which requires complexity of strategy and a great deal of concentration, was initially created by ancient
+  Chinese warlords and generals more than 2000 years ago to map out possible attacking positions.
+
+Answers:
+  1: Hex
+  2: Go
+  3: Othello
+  4: Chess
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: d00c707c-729e-43ee-b999-c626b6bf184c
+
+Question: >
+  Since 1977, there has been an annual world championship of this game, which requires a strategy of much planning and
+  looking further ahead in your opponent’s possible moves.  Goro Hasegawa popularized the game in Japan in 1975.
+
+Answers:
+  1: Othello
+  2: Go
+  3: Sorry!
+  4: Backgammon
 
 Correct: 1
 
@@ -3022,6 +3555,639 @@ Answers:
   4: Surrender the king.
 
 Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 9fe7d0f9-055e-432b-980b-7a17b4d2a138
+
+Question: >
+  In Scrabble, a popular family board game created by architect Alfred Mosher Butts in 1938, words are formed on a
+  15x15 game board, with each letter giving the player different number of points (the rarer the letter, the more
+  points it gives). How many points does the letter w award according to standard scrabble rules?
+
+Answers:
+  1: 7
+  2: 3
+  3: 4
+  4: 9
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 2bcfed80-0565-4670-9ebc-2b2db8034723
+
+Question: >
+  This board game, first published by the Milton Bradley Company in 1931, derived from a guessing paper and pencil
+  game, and has also a one-person puzzle version.
+
+Answers:
+  1: Liu po
+  2: Titan
+  3: Battleship
+  4: Stratego
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: b096ae38-c6f8-400f-84fe-46751cca11d3
+
+Question: >
+  In Monopoly, one of the best-selling commercial board games in the world named after the well-know economic term,
+  the course of the game is determined mainly by which two of these factors?
+
+Answers:
+  1: Logic and chance
+  2: Skill and concentration
+  3: Chance and decision-making
+  4: Decision-making and strategy
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: f6f21923-fb79-44fb-a07e-9b1c125422bb
+
+Question: >
+  What happens if you play all of your letters during the game of Scrabble? (Note:  This would not include the end of
+  the game when your rack is not full)
+
+Answers:
+  1: Your opponent(s) lose(s) a turn
+  2: You win
+  3: You are penalized 25 points
+  4: You get an extra 50 points
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 9953dc22-b8c9-48ea-bd0f-254e9492e2ee
+
+Question: >
+  In this board game, moves are determined by dice rolls. Each player attempts to move around the board, from point to
+  point, to get home.
+
+Answers:
+  1: Backgammon
+  2: Chess
+  3: Go
+  4: Cribbage
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: db27bef8-f59b-471a-8e61-80e4e9b2c253
+
+Question: >
+  In this card game, which is a predecessor to bridge, there is a trump suit, that can vary from hand to hand.
+
+Answers:
+  1: Whist
+  2: Honeymoon Bridge
+  3: Rummy
+  4: Spades
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 0fd15414-73a3-4017-a488-a02a5a7ace07
+
+Question: >
+  What is the name of the popular solitaire game, in which you alternate suits building down, and build up in the same
+  suit on the aces?
+
+Answers:
+  1: Klondike
+  2: Fish
+  3: Casino
+  4: Spider
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: ec7a276e-55c5-4b9c-8beb-6068a73c0472
+
+Question: >
+  In this game, played with 2 decks, you can make melds. Red and black threes have special significance and some cards
+  are wild.
+
+Answers:
+  1: Rummy
+  2: Russian Bank
+  3: Gin Rummy
+  4: Canasta
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 23c1388e-ff3e-4443-a8a1-503fd5f9c3dd
+
+Question: >
+  This is a betting game in which two cards are initially dealt. The player may ask for an additional card, hoping to
+  reach the ideal score of nine.
+
+Answers:
+  1: Faro
+  2: Black Jack
+  3: Chemin de Fer
+  4: Casino
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 135d0e51-3c8f-4a06-bb2f-43a2559cf2d2
+
+Question: >
+  In which of the following card games is the Queen of Spades to be avoided?
+
+Answers:
+  1: Bridge
+  2: Whist
+  3: Spades
+  4: Hearts
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: bbe98d77-7ae5-45be-b37e-4d47f9b2f358
+
+Question: >
+  In this board game, neither player can see the value of the other player's pieces.
+
+Answers:
+  1: Stratego
+  2: Bridge
+  3: Mille Bournes
+  4: Risk
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 9b9ec884-8eb5-4ded-bedb-16f7d5d7968c
+
+Question: >
+  In this game, you make melds of 3 or more cards. You can go out with 10 points or less. If your opponent undercuts
+  you, you lose the difference in your points.
+
+Answers:
+  1: Pinochle
+  2: Pitch
+  3: Gin Rummy
+  4: 42
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 0b516f9a-1a77-43a0-b864-def67afcdd9e
+
+Question: >
+  This two-player board game is a race, but sometimes you can win by getting farther behind.
+
+Answers:
+  1: Shogi
+  2: Go
+  3: Gomoku
+  4: Backgammon
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 9d953645-4f35-40e6-9280-63d6e70b90ab
+
+Question: >
+  This card game is played by four players one of which is a dummy.
+
+Answers:
+  1: Bridge
+  2: Rummy
+  3: Hearts
+  4: Spades
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: d40cec98-ea08-40bf-aa30-ce38983b4746
+
+Question: >
+  Origami is a hobby and an art of Chinese origin that uses solely what material for its creations?
+
+Answers:
+  1: Stone
+  2: Wood
+  3: Flowers
+  4: Paper
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 1a14ab93-51ff-4a3c-b129-40057739a683
+
+Question: >
+  In which of these hobbies is the hacky sack used?
+
+Answers:
+  1: Circle kicking
+  2: Network security hacking
+  3: Hiking
+  4: Tourism
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: b7ea1ab9-78f5-429b-87f6-a49a32aeed66
+
+Question: >
+  The popular number placement puzzle Sudoku was invented in 1979 in which country?
+
+Answers:
+  1: USA
+  2: Japan
+  3: China
+  4: Sweden
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: a363cff8-353e-443d-a666-4d23b70ca5fe
+
+Question: >
+  Which of the following colors is not used in the card game Magic: The Gathering?
+
+Answers:
+  1: Blue
+  2: Orange
+  3: Green
+  4: Red
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: ca1dc51f-d20f-4d99-9987-80f16e1cfe48
+
+Question: >
+  Which of the following is the most expensive card in the game Magic: The Gathering?
+
+Answers:
+  1: Wildfire
+  2: Mox Diamond
+  3: Black Lotus
+  4: Wrath of God
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 933943c5-22c1-4eb0-a1b5-6b427503f31a
+
+Question: >
+  Who created the collectible card game Magic: The Gathering?
+
+Answers:
+  1: Bennie Smith
+  2: Richard Garfield
+  3: Gary Gygax
+  4: Mike Flores
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 1685e61c-9e48-42fa-8fb8-d1db398be13e
+
+Question: >
+  A player begins a game of Magic: The Gathering with 40 life points.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 119fa094-3d37-4b1b-9beb-f36a541817a3
+
+Question: >
+  Which of the following spells in the card game Magic: The Gatheringcan destroy both creatures and enchantments?
+
+Answers:
+  1: Blaze
+  2: Wrath of God
+  3: Putrefy
+  4: Mortify
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: d09ab937-1611-40da-9296-441f9a44a7b2
+
+Question: >
+  Which of the following cards in the game Magic: the Gathering is from the Onslaught Block?
+
+Answers:
+  1: Orims Chant
+  2: Visara, the Dreadful
+  3: Hypnotic Specter
+  4: Savra, Queen of the Golgari
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: b33f0007-f8f1-4e31-b1ab-be88257a372e
+
+Question: >
+  In the card game Magic: The Gathering, if your opponent casts Rend Flesh at your Hand of Honor, which spell could
+  you use to save your creature?
+
+Answers:
+  1: Ebony Owl Netsuke.
+  2: Ghostway
+  3: Stifle
+  4: Oblivion Stone
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 556d0a8b-f83d-451a-a6df-dec5d6eab96b
+
+Question: >
+  Which of the following cards has a converted mana cost of 2 in the game Magic: The Gathering?
+
+Answers:
+  1: Ink-eyes, Servant of the Oni
+  2: Shock
+  3: Disenchant
+  4: Char
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 49dd0df2-f349-48a2-a503-660998ca12ae
+
+Question: >
+  Which of the following is not a Magic: The Gathering game format?
+
+Answers:
+  1: Two Headed Giant
+  2: Free For All
+  3: Emporer
+  4: One Eyed Cyclops
+
+Correct: 4
 
 Explanation: |
   None

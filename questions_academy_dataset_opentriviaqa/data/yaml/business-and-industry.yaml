@@ -1897,6 +1897,168 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: 2641d1f6-ae96-4ab8-99d1-3f95a518322a
+
+Question: >
+  Popeyes opened their 1000th restaurant in New Orleans, LA.
+
+Answers:
+  1: True
+  2: False
+
+Correct: 2
+
+Explanation: |
+  Popeyes actually opened its 1000th restaurant in Atlanta, Georgia, during the 1996 Summer Olympic Games.
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 1d335dd1-dfc0-4e33-9b3a-eae3739f55e7
+
+Question: >
+  In what year was the first Popeyes restaurant opened?
+
+Answers:
+  1: 1973
+  2: 1971
+  3: 1970
+  4: 1972
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 703d2be3-cc29-454e-b36a-fdc96bc7a186
+
+Question: >
+  Who are the founders of Popeyes Chicken  Biscuits?
+
+Answers:
+  1: Al Copeland and Jerome Pentsky
+  2: Al Pentsky and Jerome Copeland
+  3: John Wright and Johnny Capowski
+  4: John Capowski and Johhny Wright
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: a816e25f-7a69-4c5c-a2fe-4434816d839a
+
+Question: >
+  Popeyes franchising began in 1976.
+
+Answers:
+  1: True
+  2: False
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: e4116b56-c344-4255-9f98-fa5c3f75fde2
+
+Question: >
+  Did Popeyes merge with KFC in 1989?
+
+Answers:
+  1: Yes
+  2: No
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: f3c3b364-17a1-4dde-9a71-da2c02f8ddb9
+
+Question: >
+  In what year did Popeyes go global?
+
+Answers:
+  1: 1980
+  2: 1974
+  3: 1984
+  4: 1994
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: bb2e363a-2fa6-4cb3-a65d-6bf23e285a1f
+
+Question: >
+  How many prestigious industry awards did Popeyes Chicken Biscuits win at their 30th anniversary?
+
+Answers:
+  1: 2
+  2: 1
+  3: 0
+  4: 3
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: 3cab4807-38c2-4392-a2a1-7489d9a9a464
 
 Question: >

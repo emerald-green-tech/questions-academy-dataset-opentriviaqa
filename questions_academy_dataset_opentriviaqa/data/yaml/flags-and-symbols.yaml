@@ -526,6 +526,54 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: 2fc11293-7e83-40f1-83a3-a65c6443814d
+
+Question: >
+  The mango fruit is the national fruit of this country.
+
+Answers:
+  1: The Philippines
+  2: Pakistan
+  3: India
+  4: All of these
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 3bc39f4b-b978-48cb-ae25-c123cf28a0eb
+
+Question: >
+  Which of these countries has adopted the rose as its national flower?
+
+Answers:
+  1: England
+  2: Turkey
+  3: France
+  4: Spain
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: 319bc5f4-b5aa-4f76-8006-5bedfdcfd253
 
 Question: >

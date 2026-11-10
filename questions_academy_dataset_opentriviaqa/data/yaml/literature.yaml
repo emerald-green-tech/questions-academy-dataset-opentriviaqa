@@ -11482,6 +11482,198 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: 2324f2d4-02a6-47ff-b110-b3739f34ca5f
+
+Question: >
+  What was Gollum's real name before he became obsessed with the idea of having the One Ring?
+
+Answers:
+  1: Smealum
+  2: Smeagol
+  3: Gameagol
+  4: Gamgee
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 23e8c4e9-1c26-4a0c-9e72-ad12e441d4f3
+
+Question: >
+  Approximately how many Orcs participate in the battle of Helms Deep in the movie Lord of the Rings?
+
+Answers:
+  1: 10,000
+  2: 500,000
+  3: 50,000
+  4: 100,000
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 10c09bc6-49ed-48ee-9730-e074930d2a2d
+
+Question: >
+  In Lord of the Rings, which of these is a son of Denethor II, the twenty-sixth and last Ruling Steward of Gondor?
+
+Answers:
+  1: Aragorn
+  2: Faramir
+  3: Baramir
+  4: Theoden
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 1236a2e1-8e8b-4f72-8013-576084b898c9
+
+Question: >
+  Whose ruler's wife dies giving birth to their son Theodred in Lord of the Rings?
+
+Answers:
+  1: Theoden's
+  2: Elrond's
+  3: Haldir's
+  4: Denethor's
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: c0703abb-f30e-4e8a-8d48-cf75cac49441
+
+Question: >
+  In Lord of the Rings, what is Boromir’s younger brother’s name?
+
+Answers:
+  1: Haldir
+  2: Albert
+  3: Eomer
+  4: Faramir
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 8558cfe7-d1cc-427d-943b-afb0e9f44e48
+
+Question: >
+  How many rings were given to humans by Sauron in Lord of the Rings?
+
+Answers:
+  1: 5
+  2: 9
+  3: 7
+  4: 11
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 11e19017-36ea-48eb-93ba-e43704910b56
+
+Question: >
+  What was the race of humans that fought against the Fellowship and their Allies in Lord of the Rings?
+
+Answers:
+  1: Noldorin
+  2: Mûmakil
+  3: Easterlings
+  4: Istari
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: d6166218-c5c3-4c7f-bbb0-a8878e52f6e7
+
+Question: >
+  In Lord of the Rings, what was the name of the bread given by the Elves to the Fellowship?
+
+Answers:
+  1: Sindarin
+  2: Athelas
+  3: Lembas
+  4: Quenya
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: 82f57e6e-6c44-424e-9c35-32e992a8ea83
 
 Question: >

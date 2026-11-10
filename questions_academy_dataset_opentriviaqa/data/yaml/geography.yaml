@@ -1106,6 +1106,150 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: ec58917c-22e5-47c8-b5b4-54d977c3385d
+
+Question: >
+  The city of Stoke-on-Trent, Staffordshire, England is known as the home of what popular craft and hobby?
+
+Answers:
+  1: Stamp collecting
+  2: Pottery
+  3: Hiking
+  4: Kite flying
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: cebc9718-feb0-40a7-bffb-abd7e79c83cb
+
+Question: >
+  The Rose Valley is located near the town of Kazanlak, in what major world producer of rose oil?
+
+Answers:
+  1: Greece
+  2: France
+  3: Italy
+  4: Bulgaria
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 6e008938-2c8d-45eb-95f7-501e902dcaff
+
+Question: >
+  This country dominates the Aegian Sea and possesses an archipelago of about 2,000 islands.
+
+Answers:
+  1: Italy
+  2: Cyprus
+  3: Greece
+  4: Turkey
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 55d87486-ae48-4d4d-8a12-d87777aeb2f2
+
+Question: >
+  Located in Tanzania, it is Africa's highest mountain.
+
+Answers:
+  1: Mount Kenya
+  2: Maromokotro
+  3: Mount Kilimanjaro
+  4: Ras Dascian
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: world
+
+SchemaVersion: 1
+---
+ID: 952ade47-8dd5-42c9-8cff-d030e5e00943
+
+Question: >
+  This Indian city was founded in 1727 AD, it  is known as The Pink City and is often visited by honeymooners.
+
+Answers:
+  1: Delhi
+  2: Jaipur
+  3: Bengal
+  4: Agra
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 31e68c2b-f001-47f5-8d6c-c8eb8c9efc3f
+
+Question: >
+  This country, a victor in both World War I and World War II is the largest West European nation.
+
+Answers:
+  1: Spain
+  2: United Kingdom
+  3: France
+  4: Germany
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: e142089f-4d0c-4e9e-9cbd-e135ff02e9c5
 
 Question: >

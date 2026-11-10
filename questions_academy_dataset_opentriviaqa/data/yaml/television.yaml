@@ -3299,6 +3299,102 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: f5fe1126-e930-42c8-b6a0-28973829d485
+
+Question: >
+  What Warner Bros. cartoon character uses the name of the Native American meal succotash as a catchphrase?
+
+Answers:
+  1: Bugs Bunny
+  2: Sylvester
+  3: Daffy Duck
+  4: Tweety
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 628f3afe-bf4b-451b-839a-b352c6a3f1b9
+
+Question: >
+  Chef Jeff Smith of the Frugal Gourmet fame was removed from his TV show amid accusations of which of the following?
+
+Answers:
+  1: sexual harrassment
+  2: plagiarism
+  3: unsanitary kitchen practices
+  4: low ratings
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 3de2b564-c160-40db-8b27-5a4d95ba51c6
+
+Question: >
+  Sylvester Stallone hosted a reality TV show called The Contender. What is the show about?
+
+Answers:
+  1: Car racing
+  2: Professional wrestling
+  3: Mountain climbing
+  4: Boxing
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 1c931939-c348-44e6-8e58-30063da6e650
+
+Question: >
+  This Mexican actress appeared in an uncredited role in a Friends episode in September 1994.
+
+Answers:
+  1: Lumi Cavazos
+  2: Mia Maestro
+  3: Carmen Maura
+  4: Maribel Verdu
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: fb422f34-dbbb-4f9a-b8f4-6541192e67bc
 
 Question: >

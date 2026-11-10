@@ -838,6 +838,30 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: 816b5438-aac6-4af7-b6f5-4ef5c5bc8d11
+
+Question: >
+  What Belgian artist dedicated his life to painting roses and other flowers and plants?
+
+Answers:
+  1: Claude Monet
+  2: Paul Cezanne
+  3: Pierre-Auguste Renoir
+  4: Pierre-Joseph Redoute
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: 04da61c2-09ea-4764-9210-610dec730a4f
 
 Question: >

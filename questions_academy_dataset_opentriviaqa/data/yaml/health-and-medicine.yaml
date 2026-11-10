@@ -1623,6 +1623,776 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: ccdd2c65-2e9a-42ad-8458-75383368f27d
+
+Question: >
+  What kind of medical problems are shiitake mushrooms beneficial for according to various studies?
+
+Answers:
+  1: Tumor
+  2: All of these
+  3: Immune system deficiency
+  4: Thrombosis
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 2111fce7-bc2d-435c-999a-f5557f599ac5
+
+Question: >
+  Oyster mushrooms are used to treat what medical condition?
+
+Answers:
+  1: Liver disease
+  2: Viral infections
+  3: Measles
+  4: High cholesterol levels
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: bc9e5ee8-17f7-477e-8ef9-7434490b33e7
+
+Question: >
+  What does the traditional Chinese delicacy shark fin soup contain in high quantities which may cause sterility in
+  men?
+
+Answers:
+  1: Mercury
+  2: Tin
+  3: Sulfur
+  4: Lead
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: ccd05310-6cd8-421c-83d2-1a7ed249229f
+
+Question: >
+  For centuries, the herbs from the genus Mentha, commonly known as mint, have been used to treat this medical
+  problem.
+
+Answers:
+  1: All of these
+  2: Nasal congestion
+  3: Rashes
+  4: Stomach pain
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: ca4c16b1-5ef1-4048-8571-0ab174490120
+
+Question: >
+  People who are lactose-intolerant should not consume yogurt or milk.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: ab9ed3cd-55ed-421e-a422-2813a38256c1
+
+Question: >
+  In the treatment and prevention of what medical condition is yogurt proven to be beneficial?
+
+Answers:
+  1: Gum disease
+  2: All of these
+  3: Gastrointestinal conditions
+  4: Obesity
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: ca025ae2-46bc-40f6-8124-9b3b0e4d11c3
+
+Question: >
+  What essential nutrient is plain yogurt rich in?
+
+Answers:
+  1: All of these
+  2: Vitamin B2
+  3: Vitamin B12
+  4: Vitamin B6
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: ce6fba1e-2003-4e10-9f66-93a1cb4e3f2d
+
+Question: >
+  What is the cause of strawberry allergic reactions, such as the Oral allergy syndrome?
+
+Answers:
+  1: The presence of a toxin in the fruit
+  2: Citric acid
+  3: The seeds of the fruit
+  4: The red pigment in the fruit
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 966ef9e2-3c29-43bc-a50c-73d1ff1c0b7e
+
+Question: >
+  Cinnamon is believed to have a beneficial effect in the treatment of which of the following conditions?
+
+Answers:
+  1: All of these
+  2: Diarrhea
+  3: Diabetes
+  4: Common cold
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 7fed708a-29d2-46a4-a7d2-82f254cb6cd3
+
+Question: >
+  What physical reaction is pepper believed to stimulate?
+
+Answers:
+  1: Vomiting
+  2: Sneezing
+  3: Coughing
+  4: Crying
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: aaa80c32-9ac7-42f7-8216-f782c118d528
+
+Question: >
+  Garlic worsens which of these medical conditions?
+
+Answers:
+  1: Diabetes
+  2: Stomach ulcer
+  3: Intestinal worms
+  4: Hypertension
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: ae8d8c79-bd71-4521-90ad-9009b9db861c
+
+Question: >
+  The consumption of ginger is contraindicated in cases of this medical condition.
+
+Answers:
+  1: Diarrhea
+  2: Pregnancy
+  3: Gallstones
+  4: Kidney stones
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 53390b0f-ebab-4fc7-8f61-35079fe581ba
+
+Question: >
+  What effect does the consumption of figs produce on the human body?
+
+Answers:
+  1: It has a laxative effect.
+  2: All of these
+  3: It lowers cholesterol.
+  4: It reduces blood pressure.
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: cd63de2c-1726-45c7-b1dd-652e67c0abf0
+
+Question: >
+  The consumption of blood oranges prevents this medical problem.
+
+Answers:
+  1: High blood sugar levels
+  2: Cataract
+  3: High blood pressure
+  4: Insomnia
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: b6189dd0-bd9c-4496-b42c-20136da55846
+
+Question: >
+  What vitamin are lychee fruits rich in?
+
+Answers:
+  1: Vitamin D
+  2: Vitamin C
+  3: Vitamin A
+  4: Vitamin E
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 05c94a6b-21d7-4ea9-90a9-e617e821e801
+
+Question: >
+  In the treatment of what disease are the leaves and bark of the guava used?
+
+Answers:
+  1: Dysentery
+  2: Cancer
+  3: All of these
+  4: Diabetes
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: f3c7e759-40ac-4a2a-8356-34bcf2dfa9ea
+
+Question: >
+  The consumption of raw pineapple is contraindicated for people who suffer from this disease.
+
+Answers:
+  1: Liver disease
+  2: Heart disease
+  3: Diabetes
+  4: AIDS
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 8d41426a-46be-4ef5-8f14-ec3281ec39cf
+
+Question: >
+  What medical condition do prunes and prune juice relieve?
+
+Answers:
+  1: Constipation
+  2: Dizziness
+  3: Pain
+  4: Cramps
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: a58da63b-366d-424e-b7d6-74ef5f3fc5be
+
+Question: >
+  What essential nutrient do tangerines contain?
+
+Answers:
+  1: Vitamin C
+  2: Folate
+  3: All of these
+  4: Beta-carotene
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: c4fdc0a1-0592-4ad9-b3fb-cfe299e83ae8
+
+Question: >
+  People having this type of allergy may have allergic reaction to bananas.
+
+Answers:
+  1: All of these
+  2: Latex allergy
+  3: Dust allergy
+  4: Pollen allergy
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 72cb8dc4-37f6-400e-97f7-dbf61c7889d2
+
+Question: >
+  This is how much the risk of breast cancer increases, if a woman eats meat daily, as opposed to once a week only.
+
+Answers:
+  1: 2.8 times
+  2: 2 times
+  3: 3.8 times
+  4: 3 times
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 1442cc46-3cc6-4b7a-862d-2a09a10d2e4a
+
+Question: >
+  High consumption of meat protein deprives the body of calcium. Lack of calcium causes this disease.
+
+Answers:
+  1: Nausea
+  2: Osteoporosis
+  3: Obesity
+  4: Cholera
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: ace71194-4349-4aac-bddd-3523ce3cf9b0
+
+Question: >
+  The breast milk of a meat-eating mother can be this much more contaminated with pesticides, compared to the milk of
+  a vegetarian mother.
+
+Answers:
+  1: 25 times
+  2: 35 times
+  3: 5 times
+  4: 2 times
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: e285af5a-0393-4b18-81a3-9d02d1901682
+
+Question: >
+  This is the vitamin that vegetarians should take, as it is not found in plants.
+
+Answers:
+  1: A
+  2: C
+  3: B 12
+  4: E
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 122c62d9-2f42-459d-9990-71db0ba28466
+
+Question: >
+  This plant can be used as a herbal medicine to treat gastric and intestinal problems, migraine, asthma, anemia,
+  depression, anxiety and nervous ailments, among others.
+
+Answers:
+  1: Tobacco
+  2: Asafetida
+  3: Saint John's Wort
+  4: Cowhage
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: baafa103-d4e2-4bac-af1d-e6f7672176e1
+
+Question: >
+  Cranberries are known for preventing infections of this system in the human body.
+
+Answers:
+  1: Urinary system
+  2: Vascular system
+  3: Gastrointestinal system
+  4: Nervous system
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: b1ba1629-1266-4f29-8e37-78c65799e98f
+
+Question: >
+  What essential vitamin is supplied through the consumption of carrots?
+
+Answers:
+  1: Vitamin K
+  2: Vitamin D
+  3: Vitamin E
+  4: Vitamin A
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 99434279-15f9-4f43-86c4-23024a9bcd9a
+
+Question: >
+  What nutrient essential for the human body does spinach contain in large quantities?
+
+Answers:
+  1: Vitamin A
+  2: Iron
+  3: All of these
+  4: Vitamin K
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: b1a56a2b-443e-4e6e-b5e9-aa34fa84e4fc
+
+Question: >
+  Onions will not prove beneficial for treating which of the following conditions?
+
+Answers:
+  1: Boils
+  2: Common cold
+  3: Osteoporosis
+  4: Stomach ulcer
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 487a76d4-4cd1-4f76-9a9f-6c459c19d860
+
+Question: >
+  Why should the consumption of celery seeds and oil be avoided during pregnancy?
+
+Answers:
+  1: They may trigger uterine contractions.
+  2: They may be toxic to the fetus.
+  3: They raise blood pressure.
+  4: All of these
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 963c9d01-ca1e-4546-9b00-e9aeed4216fa
+
+Question: >
+  What important vitamin does asparagus contain?
+
+Answers:
+  1: Vitamin PP
+  2: Vitamin K
+  3: Vitamin D
+  4: Vitamin B9
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: a7862e05-e4d4-4a5a-ab12-5b597f512fc7
+
+Question: >
+  In the treatment of what medical condition are radishes used in alternative medicine?
+
+Answers:
+  1: Liver diseases
+  2: Coughs
+  3: All of these
+  4: Intestinal parasites
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: 6dadcad0-e6cc-4201-933f-0f6c6b4ec208
 
 Question: >

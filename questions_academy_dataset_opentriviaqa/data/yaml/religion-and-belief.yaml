@@ -1991,6 +1991,320 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: 1e7716ab-7a1d-425e-80d4-d637b75bffba
+
+Question: >
+  How does Islam treat the consumption of bat meat?
+
+Answers:
+  1: None of these
+  2: All bat species are allowed to be consumed.
+  3: Carnivorous bat species are forbidden.
+  4: Bats are forbidden food.
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 8cd7308f-c21c-4fe5-820e-737d63004280
+
+Question: >
+  In India, they consider this body fluid a sedative, especially if it comes from an animal like the ox. Some people
+  who study yoga will use the human form of it.
+
+Answers:
+  1: Urine
+  2: Sweat
+  3: Saliva
+  4: Blood
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: d64f619d-b5d2-40b1-a32b-745427ba006d
+
+Question: >
+  This religion encourages vegetarianism.
+
+Answers:
+  1: Islam
+  2: Shintoism
+  3: Buddhism
+  4: Christianity
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 9553e00f-b183-411e-a24b-207567022718
+
+Question: >
+  What is the general term used for the food that is forbidden by the Jewish dietary laws?
+
+Answers:
+  1: Dores
+  2: Treif
+  3: Zefek
+  4: Kosher
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: c7f0ba34-508f-4f46-9daa-4f6c9401ef5a
+
+Question: >
+  The consumption of which of these mammals is forbidden by Jewish laws?
+
+Answers:
+  1: Hare
+  2: Camel
+  3: All of these
+  4: Pig
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 1aa8c649-2fb5-4155-bddf-622ff432e44f
+
+Question: >
+  The consumption of what type of birds is forbidden by Jewish dietary laws?
+
+Answers:
+  1: Mute birds
+  2: Birds of prey
+  3: Black birds
+  4: Flightless birds
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: b3e21081-1743-4c6a-a2b2-642e5dafd3e2
+
+Question: >
+  What type of fish may be consumed according to Jewish dietary laws?
+
+Answers:
+  1: All of these
+  2: Shellfish
+  3: Marine fish
+  4: Fish with fins and scales
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 68f75782-efb9-4696-8ae3-3f4ed2ddf922
+
+Question: >
+  What types of food should not be mixed, consumed or stored together according to Jewish dietary laws?
+
+Answers:
+  1: Dairy products and vegetables
+  2: Meat and dairy products
+  3: Meat and fish
+  4: Eggs and rice
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 66a56631-b55c-4399-9c61-f1b074341320
+
+Question: >
+  What part of any animal is absolutely forbidden for consumption by Jewish laws?
+
+Answers:
+  1: Blood
+  2: Head
+  3: Heart
+  4: Internal organs
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: ca6b3e8e-1cb2-472d-894d-dc46215854eb
+
+Question: >
+  The consumption of what type of insects is allowed by Jewish dietary laws?
+
+Answers:
+  1: Locust
+  2: Beetle
+  3: Cricket
+  4: All of these
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 04e5be16-5276-4e1a-931e-1eb7628d48de
+
+Question: >
+  What type of food should be at least partly prepared by Jews to be considered suitable for consumption according to
+  Jewish laws?
+
+Answers:
+  1: Cheese
+  2: Bread
+  3: Wine
+  4: All of these
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 771df57a-cae1-4d1e-9134-66bd5451f6bd
+
+Question: >
+  The consumption of what type of bread is forbidden on the holiday of Passover according to Jewish laws?
+
+Answers:
+  1: Toasted bread
+  2: Leavened bread
+  3: All of these
+  4: Flat bread
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: dd755ad6-f39e-4271-af7a-feb7831669ec
+
+Question: >
+  In what way should an animal be slaughtered in order to be suitable for eating according to Jewish dietary laws?
+
+Answers:
+  1: All of these
+  2: In a single cutting movement
+  3: With a sharp unserrated knife
+  4: By a trained person
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: b7eca866-51fc-48ac-8739-7a97d02760be
 
 Question: >

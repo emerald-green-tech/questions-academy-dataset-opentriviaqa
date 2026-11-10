@@ -7439,6 +7439,28 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: f5f793ff-adeb-4db6-9167-cd5dbd1f1195
+
+Question: >
+  The dodo's other name was The Robert Don.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  False
+
+Notes: >
+  This question is not active on the Questions Academy website because it does not make sense.
+
+SchemaVersion: 1
+---
 ID: 8c604bbb-a886-4917-9539-ddf32215f26c
 
 Question: >
@@ -33537,6 +33559,30 @@ Answers:
   4: All of these
 
 Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 8833f6f7-5ca7-4dcb-bc1c-db49b053339d
+
+Question: >
+  Herpetoculture is a hobby related to keeping a collection of what kind of animals?
+
+Answers:
+  1: Birds
+  2: Cats
+  3: Reptiles
+  4: Fish
+
+Correct: 3
 
 Explanation: |
   None

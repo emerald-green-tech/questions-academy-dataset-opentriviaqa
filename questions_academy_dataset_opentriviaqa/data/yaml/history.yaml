@@ -9741,6 +9741,30 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: 519d5026-01a6-451f-b538-c3ef059f82e5
+
+Question: >
+  What American president was known for having an orchard garden with peach trees at his Moticello estate?
+
+Answers:
+  1: Thomas Jefferson
+  2: George Washington
+  3: Abraham Lincoln
+  4: John Adams
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: eb7c402c-bca1-4c5b-8fa1-26f671af0eaa
 
 Question: >

@@ -765,6 +765,54 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: 512c47ff-5d7f-42c2-8078-0fb7aa6f64af
+
+Question: >
+  What is the origin of the word yogurt?
+
+Answers:
+  1: Turkish
+  2: Hebrew
+  3: Latin
+  4: Greek
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 5fb5bb3f-d7ca-493d-b152-b19ae3940b76
+
+Question: >
+  What is the meaning of the Spanish word vainilla, from which the name of the spice vanilla originated?
+
+Answers:
+  1: Little pod
+  2: Sweet aroma
+  3: Small wonder
+  4: Milky flavor
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: a4fb8b1a-29ac-49bf-a760-1282c49c48a8
 
 Question: >
