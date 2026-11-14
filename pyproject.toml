@@ -1,36 +1,9 @@
 [project]
 name = "questions-academy-dataset-opentriviaqa"
-version = "0.0.0"
+version = "0.0.1"
 description = "A Creative Commons dataset of trivia questions and answers"
-dependencies = []
-
-[build-system]
-requires = ["setuptools>=78.0.0"]
-build-backend = "setuptools.build_meta"
-
-[tool.setuptools.package-data]
-questions_academy_dataset_opentriviaqa = ["data/**/*"]
-
-[dependency-groups]
-# Pip supports `dependency-groups` from version 25.1 and onwards. Example usage:
-#
-#   pip install --group test
-#   pip install --group build
-#
-test = [
-    "pytest",
-    "coverage",
-    "pytest-cov",
-]
-build = [
-    # A simple, correct Python build frontend: https://pypi.org/project/build/
-    "build",
-]
 
 [tool.pytest]
-markers = [
-    "quality",  # Only run data quality tests. These sometimes fail with false positives.
-]
 addopts = [
     "-vv",
     "--capture", "no",
@@ -43,12 +16,3 @@ addopts = [
     #                               https://docs.pytest.org/en/6.2.x/usage.html#stopping-after-the-first-or-n-failures
     "--exitfirst",
 ]
-
-[tool.coverage.run]
-source = ["."]
-omit = [
-    "tests/*",
-]
-
-[tool.coverage.report]
-show_missing = true

@@ -85,6 +85,14 @@ Note that the `--only-deps` option was added in [pip version 26.2], so you need 
 pytest
 ```
 
+You can increase the verbosity of the tests by setting the logging level to `INFO` (informational messages only) or
+`DEBUG` (additional messages):
+
+```sh
+pytest --log-cli-level INFO
+pytest --log-cli-level DEBUG
+```
+
 ## License
 
 As with the upstream [OpenTriviaQA] repository, this work is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International License][CC-BY-SA-4.0].
