@@ -1,5 +1,7 @@
 # Questions Academy Dataset: OpenTriviaQA #
 
+[![Tests](https://github.com/emerald-green-tech/questions-academy-dataset-opentriviaqa/actions/workflows/tests.yml/badge.svg)](https://github.com/emerald-green-tech/questions-academy-dataset-opentriviaqa/actions/workflows/tests.yml)
+
 This package contains a dataset of multiple choice questions and answers, originally forked from [OpenTriviaQA], and
 updated and adapted for use in the [Questions Academy]. Compared to the upstream OpenTriviaQA repository, we have fixed
 some spelling mistakes, changed the categories, and converted the format to YAML. Also, we treat the question stem as
