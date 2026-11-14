@@ -3395,6 +3395,316 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: 604a445f-eae7-45e1-b138-13fc67340672
+
+Question: >
+  Complete these lyrics from the theme song of a western that was on TV in the 1960s:
+  A soldier of fortune is a man called______________.
+  _______________  ______________ where do you roam?.
+
+Answers:
+  1: Paladin
+  2: Chester
+  3: Johnny Yuma
+  4: Sundance
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 0624c3d4-1c8e-4dad-a87c-bd3935e935e9
+
+Question: >
+  Who played trail boss Gil Favor in the long-running television western series Rawhide?
+
+Answers:
+  1: Eric Fleming
+  2: Adam West
+  3: Sheb Wooley
+  4: Jock Mahoney
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: db2a2ee8-8f24-4c24-9867-8bfa649da688
+
+Question: >
+  Which famous actor and director began his career on the western series Rawhide?
+
+Answers:
+  1: Clint Eastwood
+  2: Rory Calhoun
+  3: Earl Holliman
+  4: John Wayne
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 35d9e134-b044-49b4-becd-3c26dbb1753b
+
+Question: >
+  Rory Calhoun was the star of The Texan, a weekly western series that ran on CBS.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: f15a12d0-10fa-478d-ba16-7da04a6791f1
+
+Question: >
+  Complete the lyrics of the theme song of the TV show The Rebel:
+  ______________________Was a rebel, he roamed through the west.   He got fighting mad, this
+  rebel lad.  He was panther quick, and leather tough and he knew when hed been pushed enough.
+
+Answers:
+  1: Sundance
+  2: Pahoo Cockiewah
+  3: Johnny Yuma
+  4: Jock Mahoney
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: f70c18fd-62e2-4043-9186-d57258ce63a4
+
+Question: >
+  Earl Holliman starred in a weekly western series titled Hotel de Paree.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 33244e6a-a184-403a-8819-fad8eb789891
+
+Question: >
+  What was the name of the wagon cook in the western series Rawhide?
+
+Answers:
+  1: Pete
+  2: Rowdy
+  3: Wishbone
+  4: Charley Grub
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: bb9a1aa9-d2cf-4fcf-b8ad-01aa1061b09a
+
+Question: >
+  Kenny Rogers starred in a western series about a river boat gambler.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: a90159ce-66d4-4ff3-b5d8-91e60c1533d5
+
+Question: >
+  This weekly series was about a benevolent uncle and his niece Penny. He zoomed around in a small plane rounding up
+  the rustlers and all the bad men.
+
+Answers:
+  1: King for a Day
+  2: Mile High Ranch
+  3: Sky King
+  4: King of the Sky
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 32fe791b-997a-4f44-9b6e-d795312a51af
+
+Question: >
+  He is best known for the role of Capt. Cragen on Law and Order: SVU.
+
+Answers:
+  1: Ice-T
+  2: Richard Belzer
+  3: Dann Florek
+  4: Gavin McCloud
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: de6a9daa-e0ad-4c78-8b4c-afa0eea5b913
+
+Question: >
+  This character actor starred with Michael Landon in both Little House on the Prairie and Highway to Heaven. The
+  characters he played were Mr. Edwards and Mark Gordon.
+
+Answers:
+  1: Victor French
+  2: Sebastian Cabot
+  3: Will Geer
+  4: Jerry Reed
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 66a0032c-7e1d-4ce5-944a-63751aa4f05d
+
+Question: >
+  Ernest Borgnine portrayed Lt. Quinton McHale on The Phil Silvers Show from 1962-1966.
+
+Answers:
+  1: True
+  2: False
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 6f4345cb-c6d7-429c-bb7a-982a1c8726f3
+
+Question: >
+  From 1984-1986, Ernest Borgnine starred with Jan-Michael Vincent as an aging helicopter pilot in which program?
+
+Answers:
+  1: Boones Sky
+  2: Airwolf
+  3: Flight Zero
+  4: Johnny Guitar
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: fb422f34-dbbb-4f9a-b8f4-6541192e67bc
 
 Question: >
@@ -99338,28 +99648,6 @@ Notes: >
 
 SchemaVersion: 1
 ---
-ID: 064974f2-d99f-4f17-8956-9ed3f72c4413
-
-Question: >
-  Stephen Kings novel Firestarter was serialized in Omni magazine prior to being published in 1980.
-
-Answers:
-  1: False
-  2: True
-
-Correct: 2
-
-Explanation: |
-  None
-
-Active:
-  True
-
-Notes: >
-  OpenTriviaQA Category was: television. Pending category review.
-
-SchemaVersion: 1
----
 ID: 515f838b-224b-41f3-ba12-340e7493d42c
 
 Question: >
@@ -134371,6 +134659,358 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: 3d2207ea-2d09-49b1-a87c-813c122e7949
+
+Question: >
+  What was the first name of the animated 1980s TV hero Blackstar?
+
+Answers:
+  1: Michael
+  2: John
+  3: Robert
+  4: James
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: e5433a0d-2979-4447-b702-c8a6013f4bd6
+
+Question: >
+  How did Blackstar from the animated series of the same name get stranded in the alien world?
+
+Answers:
+  1: After an impact with an asteroid
+  2: Because of his co-pilots incompetence
+  3: After a time rift
+  4: After falling in a black hole
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 5093b747-f424-4657-8534-6bedc61f2ffe
+
+Question: >
+  In what year were the Blackstar animated series first broadcast on American television?
+
+Answers:
+  1: 1980
+  2: 1981
+  3: 1983
+  4: 1979
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 48df30c6-dc9e-4021-914d-5841e2785660
+
+Question: >
+  In the Blackstar animates series, which of these was not a name of the little people known as the Trobbits?
+
+Answers:
+  1: Burble
+  2: Carpo
+  3: Dargo
+  4: Balkar
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 10ef839b-3d70-4f2f-8783-3e5b0be52edf
+
+Question: >
+  How many episodes of the animated series Blackstar ran on American television?
+
+Answers:
+  1: 16
+  2: 13
+  3: 20
+  4: 10
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: da9ee08b-1721-4bc6-b7bc-646b1cc70de0
+
+Question: >
+  What is Zoey's last name on the TV show Zoey 101?
+
+Answers:
+  1: Brocks
+  2: Books
+  3: Brooks
+  4: Brakes
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 03c678a1-7b78-4eed-b01f-e3c966863a87
+
+Question: >
+  On the sitcom Zoey 101, Zoey's brothers name is Todd.
+
+Answers:
+  1: True
+  2: False
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 7a379223-7a70-4816-bcbc-55a280887a47
+
+Question: >
+  Did Lola pretend to be a freaky goth chick on the TV show Zoey 101?
+
+Answers:
+  1: No
+  2: Yes
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 15aaf61d-8776-41d8-932d-1c0f8f366b3f
+
+Question: >
+  Has Chase had a crush on Zoey on the sitcom Zoey 101?
+
+Answers:
+  1: No
+  2: Yes
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: f29c1682-8b9d-4960-be12-56a0fded5bf0
+
+Question: >
+  What year did the TV series Zoey 101 hit the airwaves?
+
+Answers:
+  1: 2006
+  2: 2004
+  3: 2005
+  4: 2003
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: fa4e0368-4c3a-43b8-8165-34c73ec74e16
+
+Question: >
+  Who is the principal of the high school on Zoey 101?
+
+Answers:
+  1: Mrs Rivers
+  2: Dean Matthews
+  3: Ms. Matthews
+  4: Dean Rivers
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: a8e8dc2a-6e8a-45f1-9b47-eb4a86d2cd88
+
+Question: >
+  What is the name of Zoey's high school on Zoey 101?
+
+Answers:
+  1: ACP
+  2: PAC
+  3: PCA
+  4: CAP
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 64151e74-60f6-4d79-a506-0195de650068
+
+Question: >
+  What is the name of Zoey's brainiac friend on the sitcom Zoey 101?
+
+Answers:
+  1: Quinn
+  2: Nicole
+  3: Ginger
+  4: Gretchen
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: fa72f5ce-e307-4168-a3c6-9b17622daf63
+
+Question: >
+  What happened to Nicole on the TV show Zoey 101?
+
+Answers:
+  1: She went to an all girls school.
+  2: She got expelled.
+  3: She moved away.
+  4: She went to home school.
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: ce6295e4-c943-4bfb-a32c-ce9c52429cc0
+
+Question: >
+  Logan Ryan is the spoiled rich boy on Zoey 101.
+
+Answers:
+  1: True
+  2: False
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: fc68df95-8b02-4413-8a61-92a45198b32d
 
 Question: >
@@ -134381,6 +135021,120 @@ Answers:
   2: Sam
   3: Stacey
   4: Sidney
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 6389fd65-14d6-45d8-8225-1a239f8fa6ae
+
+Question: >
+  Did Zoey start dating James when Chase went to England, in the TV show Zoey 101?
+
+Answers:
+  1: Yes
+  2: No
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 3a6bbc90-d1a8-475b-957a-11eb417b70cc
+
+Question: >
+  Has Quinn dated Marc on the show Zoey 101?
+
+Answers:
+  1: No
+  2: Yes
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 8541006c-bd5e-4982-9559-dc546d02ac99
+
+Question: >
+  When did Zoey 101 end its original run?
+
+Answers:
+  1: 2009
+  2: 2007
+  3: 2006
+  4: 2008
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 0653792e-c49d-4bf5-b578-5fd1c758dee6
+
+Question: >
+  Jamie Lynn Spears plays Zoey on Zoey 101.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 55d675b6-f15c-47f2-8276-62d7e946cba6
+
+Question: >
+  What year did the animated series The Adventures of Jimmy Neutron: Boy Genius 1st air?
+
+Answers:
+  1: 2001
+  2: 2000
+  3: 2002
+  4: 2003
 
 Correct: 3
 
@@ -134419,6 +135173,54 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: 539cf057-71de-4f42-83fd-8db485b80dea
+
+Question: >
+  What are Libby's and Cindy's last names on the animated show The Adventures of Jimmy Neutron: Boy Genius?
+
+Answers:
+  1: Johnson and Vortex
+  2: Folfax and Vortex
+  3: Weed and Anderson
+  4: Williams and Washington
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 4a27dd28-1bfc-464f-aade-f29c4733daaa
+
+Question: >
+  In what episode of The Adventures of Jimmy Neutron: Boy Genius are Jimmy and friends diagnosed with superpowers?
+
+Answers:
+  1: Super  Justice League
+  2: The Tomorrow Boys
+  3: The N-Men
+  4: Fundemonium
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: b9f26dd6-28b7-4705-8485-b5c0b8850045
 
 Question: >
@@ -134431,6 +135233,124 @@ Answers:
   4: Super Man
 
 Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: d798da4d-3ada-47f9-8f80-3a10c0b6e7ff
+
+Question: >
+  What city do Jimmy and his friends live in on the show The Adventures of Jimmy Neutron: Boy Genius?
+
+Answers:
+  1: Oak Town
+  2: Retro Park
+  3: Retroland
+  4: Retroville
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 9c3014f6-5ccd-4f51-b18f-d161c2af139b
+
+Question: >
+  In the series The Adventures of Jimmy Neutron: Boy Genius, Jimmy has a crush on Cindy.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 50b899cd-02b5-4037-aafa-529a21a817b5
+
+Question: >
+  What is Jimmy's dad's name on The Adventures of Jimmy Neutron: Boy Genius?
+
+Answers:
+  1: Robert
+  2: James
+  3: Joseph
+  4: Hugh
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: fe36c289-44f4-4a53-8b6b-23e2920770dd
+
+Question: >
+  What is Jimmy's dad's favorite food on The Adventures of Jimmy Neutron: Boy Genius?
+
+Answers:
+  1: pie
+  2: cookies
+  3: pizza
+  4: cake
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 35ab4c35-9355-4af5-aa30-97a820a11df2
+
+Question: >
+  Who is the teacher of fictional character Jimmy Neutron?
+
+Answers:
+  1: Ms. Fowl
+  2: Mrs. Poultry
+  3: Ms. Turkey
+  4: Ms. Chicken
+
+Correct: 1
 
 Explanation: |
   None

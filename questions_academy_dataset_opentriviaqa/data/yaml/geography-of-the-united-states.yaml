@@ -546,6 +546,30 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: 9b3d2297-4bbf-4892-92ab-14e678c8e698
+
+Question: >
+  Francis Drake was 66 years old at his inauguration and the oldest governor of this state.
+
+Answers:
+  1: Nevada
+  2: Ohio
+  3: Minnesota
+  4: Iowa
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: 8be2312f-32cf-45bf-ae8f-58c76fffe1b5
 
 Question: >
@@ -5242,6 +5266,30 @@ Answers:
   2: True
 
 Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: d9e39cec-28f3-40be-a870-497777fd47fe
+
+Question: >
+  What is the largest county in the US?
+
+Answers:
+  1: Bernalillo, NM
+  2: Maricopa, AZ
+  3: Dade, FL
+  4: San Bernadino, CA
+
+Correct: 4
 
 Explanation: |
   None

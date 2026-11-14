@@ -35792,6 +35792,222 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: f6219890-e6c9-45ef-bdea-a976e8c9cc73
+
+Question: >
+  What creature is responsible for the most human deaths?
+
+Answers:
+  1: The brown recluse spider
+  2: The hippo
+  3: The great white shark
+  4: The mosquito
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 6b415660-ee53-450a-96f7-0560d12e7aa3
+
+Question: >
+  This is a gun dog breed which is subdivided into Springer, Cocker, Cavalier King Charles, etc.
+
+Answers:
+  1: Collie
+  2: Spaniel
+  3: Labrador
+  4: Alsatian
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 62ed4301-220e-4fe3-9d27-678c62ad98c9
+
+Question: >
+  What family of animals has species called Oryx, Duiker, Dik-dik and Impala?
+
+Answers:
+  1: Llamas
+  2: Antelope
+  3: Deer
+  4: Buffalo
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 7a1c4f81-2833-4454-8fa4-8ad8423867a5
+
+Question: >
+  What is the only venomous snake native to the British Isles?
+
+Answers:
+  1: Fox Snake
+  2: Bog Viper
+  3: Pembrokeshire Whip-snake
+  4: Adder
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 46138a10-84b8-4484-b567-e19a681872b6
+
+Question: >
+  This animal, also known as Suricata, is a member of the mongoose family. It has a long, thin tail which is used for
+  balance when standing on hind legs. It lives underground in colonies of up to 30 individuals that operate an early
+  warning system where sentries stand guard beside the burrow entrances and warn of approaching danger from predators.
+
+Answers:
+  1: Meerkat
+  2: Marmoset
+  3: Aye-aye
+  4: Jackrabbit
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 29a38ebe-d9ff-479e-b77b-275c43372083
+
+Question: >
+  This majestic bird can be golden, bald and tawny. One of the species is a symbol of the United States of America.
+
+Answers:
+  1: Cuckoo
+  2: Eagle
+  3: Vulture
+  4: Owl
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 884a339d-87a1-41b6-9ee4-1a14fbde7a15
+
+Question: >
+  If your dog is licking him/herself, he/she is actually doing this.
+
+Answers:
+  1: Scratching him/herself
+  2: Trying to get attention
+  3: Playing around
+  4: Taking a bath
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: af39b755-02ef-4a34-bea5-f32bec9dad1c
+
+Question: >
+  Kittens use the litter box as a place to what?
+
+Answers:
+  1: Play in
+  2: Sleep in
+  3: Use the bathroom in
+  4: Eat in
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: a745b98e-ab7c-400a-a4e2-0bff2be1fb5d
+
+Question: >
+  When dogs lick you, to them it is the same as kissing you.
+
+Answers:
+  1: Yes
+  2: No
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: 2d5fb073-56d6-4110-9a31-6c7e7a3d6c0d
 
 Question: >

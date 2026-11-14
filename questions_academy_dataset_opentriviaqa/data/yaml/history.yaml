@@ -53824,6 +53824,30 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: a62f3710-7665-4897-b1a0-9ab323b84aa9
+
+Question: >
+  How long did the Hundred years war last?
+
+Answers:
+  1: 110 years
+  2: 98 years
+  3: 116 years
+  4: 100 years
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: bd8a460c-5ae0-456c-80d9-9877e5217270
 
 Question: >

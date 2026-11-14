@@ -4016,3 +4016,25 @@ Notes: >
   None
 
 SchemaVersion: 1
+---
+ID: 870fff3b-637b-4346-b6bf-b85edd1fcb14
+
+Question: >
+  Is it possible to test positive on a breathalyzer after drinking only a glass of milk?
+
+Answers:
+  1: Yes
+  2: No
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1

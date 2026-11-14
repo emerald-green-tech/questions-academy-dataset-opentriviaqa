@@ -1154,6 +1154,30 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: cd2ad4d4-5a5e-4a5d-b586-d8947be8fd5d
+
+Question: >
+  This country shares common boundaries with every South American country except Chile and Ecuador.
+
+Answers:
+  1: Colombia
+  2: Argentina
+  3: Bolivia
+  4: Brazil
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: 6e008938-2c8d-45eb-95f7-501e902dcaff
 
 Question: >
@@ -1166,6 +1190,30 @@ Answers:
   4: Turkey
 
 Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 87b432bb-f88a-4060-add2-651eee3ca810
+
+Question: >
+  This city is the only one located on two continents.
+
+Answers:
+  1: Kadis
+  2: Istanbul
+  3: Tanjer
+  4: Athens
+
+Correct: 2
 
 Explanation: |
   None

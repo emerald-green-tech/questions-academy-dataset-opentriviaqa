@@ -11674,6 +11674,28 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: 064974f2-d99f-4f17-8956-9ed3f72c4413
+
+Question: >
+  Stephen King's novel Firestarter was serialized in Omni magazine prior to being published in 1980.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: 82f57e6e-6c44-424e-9c35-32e992a8ea83
 
 Question: >
@@ -14815,7 +14837,7 @@ SchemaVersion: 1
 ID: dfb79178-52dd-478b-9c5c-0ab6256065a3
 
 Question: >
-  In Stephen Kings novel Bag of Bones, what is the location of the Noonans summer home?
+  In Stephen King's novel Bag of Bones, what is the location of the Noonan's summer home?
 
 Answers:
   1: Sarah Laughs
@@ -14832,7 +14854,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: literature. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -14887,7 +14909,7 @@ SchemaVersion: 1
 ID: cfa635df-c4da-436b-8513-1a242980c197
 
 Question: >
-  What is Stephen Kings first published novel?
+  What is Stephen King's first published novel?
 
 Answers:
   1: Salems Lot
@@ -14904,7 +14926,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: literature. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -22223,7 +22245,7 @@ SchemaVersion: 1
 ID: 73ce9d91-097a-44cd-999e-c4b7b7530a49
 
 Question: >
-  Stephen Kings novel The Gunslinger was written in five parts and published individually in which of the following?
+  Stephen King's novel The Gunslinger was written in five parts and published individually in which of the following?
 
 Answers:
   1: Weird Tales
@@ -22240,7 +22262,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: literature. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -22295,7 +22317,7 @@ SchemaVersion: 1
 ID: 3cd6a6a6-b3db-48db-8e51-f0725a610f29
 
 Question: >
-  In a saloon, the gunslinger from Stephen Kings self-titled novel hears a crowd singing what tune that is well known
+  In a saloon, the gunslinger from Stephen King's self-titled novel hears a crowd singing what tune that is well known
   in our world?
 
 Answers:
@@ -22313,7 +22335,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: literature. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -30628,7 +30650,7 @@ SchemaVersion: 1
 ID: 73ef5e8a-eda1-49b6-8526-1d3607cc0a67
 
 Question: >
-  In Stephen Kings novel The Dark Tower, Mordred has the ability to transform himself into what type of creature?
+  In Stephen King's novel The Dark Tower, Mordred has the ability to transform himself into what type of creature?
 
 Answers:
   1: Spider
@@ -30645,7 +30667,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: literature. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -37988,7 +38010,7 @@ SchemaVersion: 1
 ID: 0bafbf64-c6c4-4b39-86ae-515bb7c84781
 
 Question: >
-  In Stephen Kings novel The Girl Who Loved Tom Gordon, what position did Tom Gordon play for the Boston Red Sox?
+  In Stephen King's novel The Girl Who Loved Tom Gordon, what position did Tom Gordon play for the Boston Red Sox?
 
 Answers:
   1: relief picher
@@ -38005,7 +38027,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: literature. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -45598,8 +45620,8 @@ SchemaVersion: 1
 ID: a5e45ad7-ed6b-4c13-b94a-1c319f34b19d
 
 Question: >
-  This novel is considered to be a deviation from Stephen Kings horror fiction, because this book is a work of classic
-  fantasy.
+  This novel is considered to be a deviation from Stephen King's horror fiction, because this book is a work of
+  classic fantasy.
 
 Answers:
   1: The Dark Half
@@ -46475,6 +46497,1070 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: f85918ae-e7f9-47ac-bd95-3071ef2eabf7
+
+Question: >
+  What kind of bird is the character from Oscar Wilde's fairy tale The Happy Prince?
+
+Answers:
+  1: Nightingale
+  2: Sparrow
+  3: Hummingbird
+  4: Swallow
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 66fb6975-5713-4b36-8621-58bc80698bc4
+
+Question: >
+  How does the nightingale from Oscar Wilde's story The Nightingale and the Rose find a red rose for the poor student?
+
+Answers:
+  1: It steals one
+  2: It paints a white rose with its blood
+  3: It travels through many countries and dies from exhaustion
+  4: It prays to God and He sends one
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 560941e0-c69f-417e-b1e5-16f573a8c6f9
+
+Question: >
+  What happens to the beautiful garden of the giant when he builds a wall to keep children off in Oscar Wilde's fairy
+  tale The Selfish Giant?
+
+Answers:
+  1: There is no more sunshine in the garden, only darkness
+  2: The small pond dries up and the fish dies
+  3: All the flowers wither and the birds die
+  4: Eternal winter sets in the garden
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 8d7eb87e-e9ed-4b23-a8d4-32c7c16972be
+
+Question: >
+  What does Hans from Oscar Wilde's fairy tale The Devoted Friend do for a living?
+
+Answers:
+  1: He is a musician
+  2: He is a miller
+  3: He's a gardener
+  4: He's a doctor
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 0f183ce7-9089-4f4f-99a3-2bcb49350da3
+
+Question: >
+  Why does the rocket from Oscar Wilde's story The Remarkable Rocket fail to ignite?
+
+Answers:
+  1: It is too lofty
+  2: It dies
+  3: It is faulty
+  4: It gets wet
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 15deaf96-064d-4d25-888b-a481c75dc204
+
+Question: >
+  Why does the shepherd from Oscar Wilde's fairy tale The Young King refuse to wear the royal raiment?
+
+Answers:
+  1: He doesn't want to be a king
+  2: He has nightmares of where it came from
+  3: All of these
+  4: He finds it ugly
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: b2055772-053e-4a90-b89c-6150149dede8
+
+Question: >
+  What is the last line of the Infanta from Oscar Wilde's story The Birthday of the Infanta?
+
+Answers:
+  1: Its a shame I've forgotten who I was, so let the people decide my fate.
+  2: For the future, let those who come to play with me have no hearts.
+  3: Little people will never know what its like being a princess.
+  4: Justice shall reign one day when I sit on the throne.
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: eaecf660-8f29-4cac-af17-5a445a29fd93
+
+Question: >
+  What does the Soul want from the fisherman in Oscar Wilde's fairy tale The Fisherman and his Soul?
+
+Answers:
+  1: His only child
+  2: His hope
+  3: His most valuable possession
+  4: His heart
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: a2fc1931-72e4-4b5e-bafc-da476939a2dc
+
+Question: >
+  Who is the mother of the Star-Child from Oscar Wilde's fairy tale The Star-Child?
+
+Answers:
+  1: A beggar
+  2: An angel
+  3: A witch
+  4: A star
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: ec1b02cd-a8a4-4fd1-b52a-2ecbb3833c04
+
+Question: >
+  What is the beautiful Star-Child transformed into in Oscar Wilde's fairy tale The Star-Child?
+
+Answers:
+  1: A cross between a snake and a toad
+  2: A flower
+  3: Vapor
+  4: A black dove
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 13a1c3c8-b285-4b13-a06e-d60d9fa00bc0
+
+Question: >
+  Harry Potter, Voldemort, and Dumbledore have connected wands.
+
+Answers:
+  1: True
+  2: False
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 2d91a291-cba8-467f-8c91-c6d5267b058c
+
+Question: >
+  Which of these fictional characters is the leader of the Death Eaters?
+
+Answers:
+  1: Voldemort
+  2: Rookwood
+  3: Bellatrix
+  4: Igor Karkaroff
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: e11536f4-2eab-40d6-8e89-c5c1d5d2f34c
+
+Question: >
+  The Wind in the Willows was published in 1908 without much notice. What famous author and playwright, best known for
+  Winnie the Pooh, adapted part of the book for the stage in 1929, thus making the book famous?
+
+Answers:
+  1: William Horwood
+  2: E. H. Shepard
+  3: Kenneth Grahame
+  4: A. A. Milne
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 5acd0539-39fa-4f00-b76e-1873787c71b8
+
+Question: >
+  At the beginning of the book The Wind in the Willows, what is Mole doing when he gets angry and goes above ground to
+  the river?
+
+Answers:
+  1: trying to sleep
+  2: listening to Mr. Toad
+  3: spring cleaning
+  4: looking for food
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 21fb0983-5e11-4b0a-bee8-e258e5b68391
+
+Question: >
+  What character from The Wind in the Willows becomes easily obsessed with items, only to forget about them soon after
+  acquiring them?
+
+Answers:
+  1: Mole
+  2: Mr. Toad
+  3: Weasel
+  4: Pan
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 41b4b680-74f7-4e4c-be5e-7adc2977a8a9
+
+Question: >
+  The Wind in the Willows was first published in 1908. What Scottish-born writer and author of the story The Reluctant
+  Dragon wrote this book?
+
+Answers:
+  1: E. H. Shepard
+  2: A. A. Milne
+  3: Kenneth Grahame
+  4: James Blish
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 805d4978-c4eb-4047-bb53-a89529a866ae
+
+Question: >
+  What character from The Wind in the Willows gets lost in Wild Wood while looking for Badgers house?
+
+Answers:
+  1: Otter
+  2: Mr. Toad
+  3: Mole
+  4: Weasel
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 1cdb56cb-f0e9-433f-89ee-74ede0c74b1a
+
+Question: >
+  In the novel The Wind in the Willows, Toad has crashed 6 cars, been put in the hospital for injuries 3 times, and
+  has spent a great deal of money on fines. Toads friends decide to do this to save Toad since he has no sense when it
+  comes to his obsessions.
+
+Answers:
+  1: Put him under house arrest
+  2: Have him thrown in jail
+  3: Burn his cars
+  4: Make him live underground with Mole
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 920d96c1-a193-472d-85d0-7d462c48cdf5
+
+Question: >
+  In the novel The Wind in the Willows, while Mr. Toad is in jail, this person becomes fond of him and helps him
+  escape.
+
+Answers:
+  1: Toads cellmate
+  2: The jailer
+  3: Toads attorney
+  4: The jailers daughter
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: a9e8cf4f-6165-49a4-9473-82157b56b494
+
+Question: >
+  In order to escape, Toad from The Wind in the Willows is dressed in disguise. What is he disguised as?
+
+Answers:
+  1: A police officer
+  2: An attractive female
+  3: The jailer
+  4: A washerwoman
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: fe115b64-277a-401e-bbba-9826174cc015
+
+Question: >
+  In the book The Wind in the Willows, shortly after his escape and still in disguise, Mr. Toad meets a bargewoman and
+  tricks her into giving him a job. The bargewoman discovers Toads trick and throws him overboard. He steals her horse
+  and sells it to a Gypsy for what?
+
+Answers:
+  1: Money and stew
+  2: A ride back to Toad Hall
+  3: Another disguise
+  4: A place to spend the night
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: c6ce0118-e78b-4712-87f0-7c4fd319a8c8
+
+Question: >
+  In The Wind in the Willows, Mr. Toad tries to hitchhike back to the River Bank community. What is the significance
+  of the car and driver that give Toad a ride?
+
+Answers:
+  1: It is Toads car, and Badger is the driver
+  2: It is Rats car, and Badger is the driver
+  3: It is the same car that Toad stole earlier
+  4: It is an undercover police car
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 348ed2da-0f7f-4719-9b5f-558d16170fcc
+
+Question: >
+  After his jail escape, The Wind in the Willows character, Toad, learns from Ratty that Toad Hall has been taken over
+  by these Wild Wood animals.
+
+Answers:
+  1: the weasels, stoats and ferrets
+  2: the rabbits and otters
+  3: the birds
+  4: the squirrels and chipmunks
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: f4ea8712-3042-482b-b89f-73aefe2aae74
+
+Question: >
+  In 1949 Disney released their animated versions of The Wind in the Willows and this short story.
+
+Answers:
+  1: Chicken Little
+  2: Rip Van Winkle
+  3: The Legend of Sleepy Hollow
+  4: Mickey and the Beanstalk
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 2cc5a115-c175-4fa7-b1bc-39ff1b996251
+
+Question: >
+  In 1967 this British rock band released their first album. It was titled after Chapter 7 of The Wind in the Willows:
+  The Piper at the Gates of Dawn.
+
+Answers:
+  1: The Doors
+  2: Jethro Tull
+  3: The Beatles
+  4: Pink Floyd
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 6014b8d5-cf12-4db9-9bec-03fd14df6650
+
+Question: >
+  Based on Mr. Toad's car driving in The Wind in the Willows, Mr. Toad's Wild Ride was established in 1955. What is
+  it?
+
+Answers:
+  1: a ride at Disneyland
+  2: a brand of tennis shoes
+  3: a Wyoming state police manual
+  4: a board game
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: a9840b17-8ada-48bb-b5af-c60dd981dcf1
+
+Question: >
+  Where does Peter live in the children's novel Peter and the Shadow Thieves?
+
+Answers:
+  1: Fairy Hollow
+  2: London
+  3: Never Land
+  4: Mollusk Island
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 65580142-f274-4976-ac66-2223e846d5cb
+
+Question: >
+  In Peter and the Shadow Thieves, what is the name of Fighting Prawns oldest daughter?
+
+Answers:
+  1: Raven
+  2: Dana
+  3: Brilliant Ruby
+  4: Shining Pearl
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 4ffc29a3-a105-4dcf-910d-b32b7f966ded
+
+Question: >
+  Does Peter, the main character in Peter and the Shadow Thieves, wear shoes?
+
+Answers:
+  1: Yes
+  2: No
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 8d6fca04-0f4f-4e56-a609-c2b9f0384695
+
+Question: >
+  What is the name of the mermaid that flirts with Peter in the book Peter and the Shadow Thieves?
+
+Answers:
+  1: Singer
+  2: Beauty
+  3: Teacher
+  4: Swimmer
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 79fc79b1-acbf-4bb5-b83b-a8ffd1369231
+
+Question: >
+  Who does Peter have to warn about Ombra in the children's novel Peter and the Shadow Thieves?
+
+Answers:
+  1: Louise
+  2: Tina
+  3: Molly
+  4: Julie
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: adbaba3e-98d8-441d-ae9b-efad6a1d5282
+
+Question: >
+  In the novel Peter and the Shadow Thieves, Slank is one of the Aster guards.
+
+Answers:
+  1: True
+  2: False
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 939871a3-2415-4bc2-bd3b-2230abdf8520
+
+Question: >
+  How does Peter get to London in the book Peter and the Shadow Thieves?
+
+Answers:
+  1: He takes a taxi.
+  2: He goes by boat.
+  3: He flies.
+  4: He swims.
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 3a51708b-1fb7-4545-ae0e-93c8d3237fb9
+
+Question: >
+  In the book Peter and the Shadow Thieves, the starstuff was in what tower?
+
+Answers:
+  1: Bloody Tower
+  2: White Tower
+  3: Prison Tower
+  4: Golden Tower
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 961baf3c-6f91-45dd-90a3-88ced82103ce
+
+Question: >
+  In the children's novel Peter and the Shadow Thieves, James and Thomas are the two fastest Lost boys.
+
+Answers:
+  1: True
+  2: False
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: b34f4930-3072-401e-a202-68d86d1a3de3
+
+Question: >
+  Which fairy is Peter's guardian in the book Peter and the Shadow Thieves?
+
+Answers:
+  1: Rosy Tone
+  2: Hornblower
+  3: Tinker Bell
+  4: Violet Vinger
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 2b730f70-8fe4-471c-a127-ec80b855787a
+
+Question: >
+  In Harry Potter and the Half-Blood Prince, when Harry is visiting Weasley's Wizard Wheezes, what is the last product
+  mentioned before he followed Draco Malfoy into Knockturn Alley?
+
+Answers:
+  1: Decoy Detonator
+  2: Pygmy Puff
+  3: Fever Fudge
+  4: Nose Bleed Nougat
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: ba8b6369-ec43-4a70-8d51-d8b0ea6cb599
+
+Question: >
+  What kind of tree does Harry Potter sit under after Dumbledore's funeral?
+
+Answers:
+  1: Beech
+  2: Whomping Willow
+  3: Spruce
+  4: Oak
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 8201c7eb-7a44-4b81-a2a3-62237756d404
+
+Question: >
+  The first time Harry Potter encounters a little girl outside the room of requirement, she drops a bottle of what?
+
+Answers:
+  1: Water
+  2: Dittany
+  3: Draught of Living Death
+  4: Toadspawn
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: e4a4f0d2-8d92-4395-af32-97e39a051009
+
+Question: >
+  What is Bellatrix Lestrange's wand made of?
+
+Answers:
+  1: Pine
+  2: Walnut
+  3: Oak
+  4: Chestnut
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 4de78038-be4a-47d7-a9dd-07cdc2e3362c
+
+Question: >
+  What is the 150th to last word in Harry Potter and the Deathly Hallows?
+
+Answers:
+  1: Ginny
+  2: Both
+  3: Harry
+  4: Said
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: b826be66-5e5d-490c-8192-84725eb541e8
+
+Question: >
+  In Harry Potter and the Deathly Hallows, there is a chapter called The Bribe. What is the 138th word in this
+  chapter?
+
+Answers:
+  1: They
+  2: Aberforth
+  3: Came
+  4: Hallows
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 964b71de-ff99-465d-b2d8-8ad20e9a9568
+
+Question: >
+  This word is the 367th word of Hermione's Secret in Harry Potter and the Prisoner of Azkaban.
+
+Answers:
+  1: It
+  2: The
+  3: By
+  4: Hermione
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 8ff8997b-e353-4893-9429-27484af777b0
+
+Question: >
+  What is the 120th word in Grim Defeat, a chapter of Harry Potter and the Prisoner of Azkaban.
+
+Answers:
+  1: Sirius
+  2: Grim
+  3: Send
+  4: Letter
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: a3b7cd07-19af-4c5b-b1c5-3966ed11e39b
 
 Question: >
@@ -46511,6 +47597,388 @@ Answers:
   4: Everyone
 
 Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 6f734c68-9a32-4351-b78a-9ae9d90d463f
+
+Question: >
+  Harry Potter and the Chamber of Secrets has a chapter called The Chamber of Secrets. What is the 83rd to last word
+  in this chapter?
+
+Answers:
+  1: Riddle
+  2: Rocks
+  3: Lockhart
+  4: Serpents
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 08f89a34-1676-4f4a-9bae-4acf7f44d1e2
+
+Question: >
+  In the Dueling Club, a chapter in Harry Potter and the Chamber of Secrets, what is the 251st to last word?
+
+Answers:
+  1: Wand
+  2: Malfoy
+  3: Ron
+  4: Tongue
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 29e972a2-2f26-46ff-b2d7-e0c2bf1428da
+
+Question: >
+  This is word number 230 in the chapter Elf Tails in Harry Potter and the Half-Blood Prince.
+
+Answers:
+  1: Anyone
+  2: Throat
+  3: Elf
+  4: Harry
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 64a2b5ca-ea2f-474c-9ae7-6e3e26738600
+
+Question: >
+  Which of these is a rational fear according to the book the The Wide Window by Lemony Snicket?
+
+Answers:
+  1: Fear of monsters under your bed
+  2: Fear of lemon meringue pie
+  3: Fear of heights
+  4: Fear of realtors
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 882430f9-53b7-4488-b81b-5c6a2e548012
+
+Question: >
+  In the book The Austere Academy, when Carmelita Spats called the Baudelaire's cakesniffers, Mr. Poe said that was
+  very rude of her.
+
+Answers:
+  1: True
+  2: False
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: b855ad1f-d4af-4c2d-9b5c-9c63e31c90e0
+
+Question: >
+  In which book by Lemony Snicket does the phrase, It takes a village to raise a child, affect the Baudelaires?
+
+Answers:
+  1: The Penultimate Peril
+  2: The Wide Window
+  3: The Vile Village
+  4: The Bad Beginning
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 973613c4-ddca-42e1-9337-982e4cfd0440
+
+Question: >
+  Which statement is true about some of the pages of the book The Ersatz Elevator?
+
+Answers:
+  1: They are just rectangles of black.
+  2: They look like someone spilled tea on them.
+  3: They can only be read if you hold the book up to a mirror.
+  4: They are deliberately placed out of order.
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 1f9d2ee1-7434-4f68-a1a9-d5dd8e0ad6a5
+
+Question: >
+  In which book of A Series of Unfortunate Events are there two pages that are almost identical?
+
+Answers:
+  1: The Carnivorous Carnival
+  2: The Reptile Room
+  3: The Grim Grotto
+  4: The Vile Village
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: a70963ae-db4a-4462-9949-6f57f11518bb
+
+Question: >
+  Every book of A Series of Unfortunate Events is dedicated to Beatrice, followed by a short message. Which of the
+  following sentences was never written on the dedication page?
+
+Answers:
+  1: To Beatrice, when I first saw you, I was breathless. Now, you are.
+  2: To Beatrice, summer without you is as cold as winter. Winter without you is even colder.
+  3: To Beatrice, I always used to sleep late on weekends. Alas, now you do, also.
+  4: To Beatrice, you will always be in my mind, in my heart, and in your grave.
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 1dd9faff-0789-4e4b-b6ab-55cb0aac0d9e
+
+Question: >
+  Who is the Beatrice that writer Lemony Snicket always dedicates his books to?
+
+Answers:
+  1: A metaphor for V. F. D.
+  2: Beatrice Quagmire
+  3: Beatrice Baudelaire
+  4: Aunt Josephines sister
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: f2964e8a-d2c2-4228-bcc6-eae001f47454
+
+Question: >
+  The 13th book of A Series of Unfortunate Events ends with the Baudelaires doing what?
+
+Answers:
+  1: Settling on an island
+  2: Crying
+  3: Sailing on a boat
+  4: Dying
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 5b89fe40-5307-4a9e-b1fd-a1e4d19e50a6
+
+Question: >
+  The final 13th book of A Series of Unfortunate Events has 13 chapters and ends with an About the author... section.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 4a24f910-87b9-490c-8396-a3337c6a6f07
+
+Question: >
+  Which set of characters from A Series of Unfortunate Events contains only people who lived through the entire
+  series?
+
+Answers:
+  1: Count Olaf, Mr. Baudelaire, Carmelita Spats
+  2: Violet Baudelaire, Jerome Squalor, Aunt Josephine
+  3: Violet Baudelaire, Klaus Baudelaire, Beatrice Snicket
+  4: Klaus Baudelaire, Sunny Baudelaire, Duncan Quagmire
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 74f35b45-395b-4f27-b349-c394104d81cc
+
+Question: >
+  Esme Squalors evilness was due to her boyfriend, Count Olaf.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: ee89be1f-a290-40c4-a644-741fa9e30632
+
+Question: >
+  In A Series of Unfortunate Events, what type of game did Fiona's brother invent?
+
+Answers:
+  1: Ball game
+  2: Card game
+  3: Board game
+  4: Word game
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 2b1ae50d-0c52-4d0b-9f81-cf5c679cc28e
+
+Question: >
+  Which three names can J.S. stand for in the books of A Series of Unfortunate Events?
+
+Answers:
+  1: Jaques Snicket, Joseph Spat, Judy Spree
+  2: Jaques Snicket, Judy Spree, Justice Strauss
+  3: Jaques Snicket, Jerome Squalor, Justice Strauss
+  4: Joseph Spat, Jerome Squalor, Justice Strauss
+
+Correct: 3
 
 Explanation: |
   None

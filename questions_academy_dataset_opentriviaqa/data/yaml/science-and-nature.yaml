@@ -3198,6 +3198,76 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: 72133a26-0f6e-41e7-bd04-8ffbe0bd343a
+
+Question: >
+  What X-word means a colourless, flammable liquid ingredient used to make synthetic resins, dyes and insecticides?
+
+Answers:
+  1: Xylose
+  2: Xylem
+  3: Xylene
+  4: Xenon
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: a689f887-2a78-407a-8da0-e94c949342b3
+
+Question: >
+  Which word refers to a colourless, odourless gaseous element that occurs in trace amounts in air?
+
+Answers:
+  1: Xylose
+  2: Xenon
+  3: Xanthene
+  4: Xylene
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 254712bb-0b94-47ea-93b8-d6f8c4296b7b
+
+Question: >
+  Were X-rays at one time proposed to be called Röntgen rays?
+
+Answers:
+  1: Yes
+  2: No
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: b4c381ab-f250-4ade-b36e-7f45689b21bc
 
 Question: >

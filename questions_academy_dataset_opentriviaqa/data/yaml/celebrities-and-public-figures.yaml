@@ -4299,6 +4299,260 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: 6fb36a58-0275-4946-a9c3-7e83c22abbae
+
+Question: >
+  When and where was comedian and actor Ron White born?
+
+Answers:
+  1: November 20, 1960 in Oklahoma City, Oklahoma
+  2: December 18, 1956 in Fritch, Texas
+  3: September 4, 1958 in Kansas City, Kansas
+  4: October 18, 1955 in Amarillo, Texas
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 62bd7b4e-4b3a-40d4-ab92-3904f4786dff
+
+Question: >
+  In Ron White's life, who is Sluggo?
+
+Answers:
+  1: his bulldog
+  2: his best friend from grade school
+  3: his shop teacher from high school
+  4: his grandmothers neighbor
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 8e136108-3ea9-4f55-b942-fa68db289e59
+
+Question: >
+  How many children does Ron White have from his first wife?
+
+Answers:
+  1: 3
+  2: 0
+  3: 1
+  4: 2
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 58e2740e-8cef-4eda-ac6a-df5cd351a05e
+
+Question: >
+  Complete the name of Ron White's first solo one-hour comedy special: They Call Me _____ _____.
+
+Answers:
+  1: Tater Salad
+  2: Your Excellency
+  3: Mr. White
+  4: Johnnie Walker
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 58a5041c-1c1e-4b78-a5b6-f7ae6cb233c5
+
+Question: >
+  How many times has Ernest Borgnine been married?
+
+Answers:
+  1: 2
+  2: 3
+  3: 4
+  4: 5
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: ad547535-e8d0-4081-8600-f743048c0e6d
+
+Question: >
+  Actor Ernest Borgnine is a mason.
+
+Answers:
+  1: True
+  2: False
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 72b42962-f93d-4511-9778-fe7ba6a5e2f0
+
+Question: >
+  Denzel Washington was banned from watching movies as a child.
+
+Answers:
+  1: True
+  2: False
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 6b712c7a-773f-4a07-b82c-0267226c12dd
+
+Question: >
+  Denzel Washington's parents divorced when he was five years old.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 28d48357-1ded-4a62-a30e-359057b83966
+
+Question: >
+  When was Denzel Washington born?
+
+Answers:
+  1: December 28, 1954
+  2: September 24, 1952
+  3: December 15, 1956
+  4: March 7, 1958
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 7c2807c3-92f6-435e-80a4-e2fe4220551e
+
+Question: >
+  Denzel Washington is named after his father who was in turn named after the doctor who had delivered him.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: dcaac1d0-7762-4f09-b14a-750c35cef850
+
+Question: >
+  Denzel Washington has a son who signed to play with the New Orleans Saints.
+
+Answers:
+  1: True
+  2: False
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: c2450cd8-fcf1-4dfe-9a2c-fd2a28734628
 
 Question: >
@@ -79804,6 +80058,30 @@ Active:
 
 Notes: >
   OpenTriviaQA Category was: celebrities. Pending category review.
+
+SchemaVersion: 1
+---
+ID: 928c0163-9a87-4db7-be8b-73e122407e97
+
+Question: >
+  Which of these cast members of the 2009 movie Harry Potter and the Half-Blood Prince was born in Paris, France?
+
+Answers:
+  1: Helena Bonham Carter
+  2: Jessie Cave
+  3: Bonnie Wright
+  4: Emma Watson
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
 
 SchemaVersion: 1
 ---

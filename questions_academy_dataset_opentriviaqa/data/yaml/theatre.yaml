@@ -496,6 +496,30 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: 07605c96-fcd5-416f-9c34-22b323badb4a
+
+Question: >
+  Ernest Borgnine debuted on Broadway playing a male nurse in what production?
+
+Answers:
+  1: White Breath
+  2: Harvey
+  3: Annie Get Your Gun
+  4: Road to Hope
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: 110bd4ac-c251-4fab-a97b-4cbceb5e4fd7
 
 Question: >

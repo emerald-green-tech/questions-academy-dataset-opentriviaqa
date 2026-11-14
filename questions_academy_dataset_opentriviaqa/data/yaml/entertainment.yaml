@@ -1151,3 +1151,28 @@ Notes: >
   None
 
 SchemaVersion: 1
+---
+ID: 17978f1c-db92-4858-b398-344571408f84
+
+Question: >
+  What is the name of a character that has appeared in Brian Herbert's Legends of Dune universe, Disney's Aladdin and
+  the video game System Shock 2?
+
+Answers:
+  1: Xebec
+  2: Xeric
+  3: Xerxes
+  4: Xhosa
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1

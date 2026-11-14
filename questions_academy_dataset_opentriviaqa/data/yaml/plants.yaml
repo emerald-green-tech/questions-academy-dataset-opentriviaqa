@@ -3385,6 +3385,79 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: 1463d752-0cd8-4bfd-82bf-2ce107faa9a8
+
+Question: >
+  The vegetable rhubarb is delicious but its leaves are poisonous. What did rhubarb originally mean?
+
+Answers:
+  1: edible poison
+  2: beware
+  3: root of the barbarian
+  4: poisoned ruby
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: f2265155-508b-46a1-bc1c-408d3380f132
+
+Question: >
+  What is the name of the white crystalline sugar found in wood and straw?
+
+Answers:
+  1: Xylene
+  2: Xylem
+  3: Xylose
+  4: Xenon
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 060e8068-b4ef-4b86-87a3-f7b73fd57716
+
+Question: >
+  What plant tissue conducts water and mineral salts from its roots to other parts of the plant and also provides
+  mechanical support?
+
+Answers:
+  1: Xylose
+  2: Xylene
+  3: Xebec
+  4: Xylem
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: ba4de9f6-c0a6-418d-a9d4-dea117a3bff2
 
 Question: >

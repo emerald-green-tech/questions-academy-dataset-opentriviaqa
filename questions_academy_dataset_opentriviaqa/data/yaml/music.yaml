@@ -138100,6 +138100,62 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: fe311d2d-a132-4199-8436-14bc8aebcb8a
+
+Question: >
+  What's the last line of the nursery rhyme Little Bo Peep:
+  Little Bo Peep has lost her sheep
+  And can't tell where to find them.
+  Leave them alone, And they'll come home,
+  ..................................?
+
+Answers:
+  1: Wishing they never left
+  2: Sooner then you think
+  3: Waiting for their mommy
+  4: Wagging their tails behind them
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 80e240bd-8aa7-45d1-ad77-d77a68960346
+
+Question: >
+  Fill in the missing words in the nursery rhyme Hush, Little Baby:
+  Hush, little baby, don't say a word
+  Mama's gonna buy you a mockingbird
+  If that mockingbird don't sing
+  Mamas gonna buy you ...
+
+Answers:
+  1: A diamond ring
+  2: A cart and bull
+  3: A billy goat
+  4: A looking glass
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: 2742d72d-3c25-4c7f-a8fc-43b4ce20c2e2
 
 Question: >

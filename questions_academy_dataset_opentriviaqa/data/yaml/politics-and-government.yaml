@@ -1475,6 +1475,54 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: 351cc2df-df3f-41a2-8bf8-ee72a8b30551
+
+Question: >
+  In what country can your spouse be jailed along with you if you are caught drinking and driving?
+
+Answers:
+  1: Pakistan
+  2: Germany
+  3: India
+  4: Malaysia
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 09c0df05-4d7d-43b8-9f75-772b9f455f05
+
+Question: >
+  Approximately how much money does the taxpayer spend on a prisoner serving a life sentence in California?
+
+Answers:
+  1: 750,000
+  2: 500,000
+  3: 100,000
+  4: 1,550,000
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: fd65a96f-e7f6-4e56-8128-f5f7576fb9cd
 
 Question: >

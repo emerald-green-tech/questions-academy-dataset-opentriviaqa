@@ -17154,6 +17154,55 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: 0e437137-0717-4e14-b4b6-637609bb9b1a
+
+Question: >
+  What food can be Chinese, Jerusalem and Globe?
+
+Answers:
+  1: Curry
+  2: Cracker
+  3: Artichoke
+  4: Pork
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: f92e4566-0c34-4aa0-96f7-4156dfa216b2
+
+Question: >
+  This food is one of the most versatile and convenient. You can boil it, fry it, poach it, scramble it, use it in
+  baking. What is it?
+
+Answers:
+  1: Sugar
+  2: Fish
+  3: Wheat
+  4: Egg
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: 24225cdf-1b59-4571-a028-5f826b2967f1
 
 Question: >

@@ -35156,7 +35156,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -35181,7 +35181,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -35205,15 +35205,15 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
 ID: dea386de-1e3d-4cf8-8f57-8b1173dfe76f
 
 Question: >
-  Steven Spielberg was so confident in the success of this film that he left post production to George Lucas so that
-  he could make a different film.
+  Steven Spielberg was so confident in the success of Jurassic Park that he left post production to George Lucas so
+  that he could make a different film.
 
 Answers:
   1: False
@@ -35228,7 +35228,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -35252,7 +35252,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -35276,7 +35276,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -35298,7 +35298,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -35322,7 +35322,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -35331,7 +35331,7 @@ ID: d1fe20f3-6783-4547-9066-f3ae2eb79f84
 Question: >
   In the movie Cocktail, Brian had a friend and boss named Doug Coughlin. Doug had many wise sayings that he would
   tell Brian from time to time such as, Bury the dead, they stink up the place. These words of wisdom were known as
-  Coughlins Rule.
+  Coughlin's Rule.
 
 Answers:
   1: False
@@ -35346,7 +35346,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -35368,7 +35368,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -35392,14 +35392,14 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
 ID: bc9b4d06-87fc-4b18-8b44-d35c35d2dd10
 
 Question: >
-  In the movie Cocktail, Jordans family was extremely wealthy.
+  In the movie Cocktail, Jordan's family was extremely wealthy.
 
 Answers:
   1: False
@@ -35414,7 +35414,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -35439,14 +35439,14 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
 ID: 166f2706-89de-433a-9128-0ea1d7d10ed3
 
 Question: >
-  This 1927 movie featured a world where civilization was divided between the workers and the thinkers.  Its a silent
+  This 1927 movie featured a world where civilization was divided between the workers and the thinkers.  It's a silent
   sci-fi movie produced in Germany by Fritz Lang, and most of the original is permanently lost.
 
 Answers:
@@ -35464,16 +35464,15 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
 ID: f0d46dd8-eb76-4bf4-a1a8-227e09cca038
 
 Question: >
-  Which film has the following plot?
-  Lester Burnham is having a midlife crisis and decides to re-evaluate his life, after becoming infatuated with one of
-  his daughters friends.
+  Which film has the following plot? Lester Burnham is having a midlife crisis and decides to re-evaluate his life,
+  after becoming infatuated with one of his daughters friends.
 
 Answers:
   1: Dead Poets Society
@@ -35490,7 +35489,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -35512,7 +35511,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -35537,7 +35536,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -35562,7 +35561,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -35586,14 +35585,14 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
 ID: dda0e8a2-d710-4fde-a259-e664524e5c34
 
 Question: >
-  She's one of the FBIs most promising rookies and she is very good at solving anagrams.  But she can be vulnerable.
+  She's one of the FBI's most promising rookies and she is very good at solving anagrams.  But she can be vulnerable.
   Who is the character that says the following,  I didn't have any food, any water and it was very.... very cold.  I
   thought if I could save just one....he was so very heavy.
 
@@ -35612,7 +35611,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -35638,7 +35637,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -35663,7 +35662,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -35688,7 +35687,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -35712,7 +35711,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -35736,7 +35735,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -35758,7 +35757,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -35782,7 +35781,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -35806,7 +35805,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -35830,14 +35829,14 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
 ID: 886b471f-4425-44d8-8a8b-49f2471e3056
 
 Question: >
-  In the movie Starsky  Hutch, Ben Stiller was behind the wheel of what model and make car?
+  In the movie Starsky & Hutch, Ben Stiller was behind the wheel of what model and make car?
 
 Answers:
   1: Ford Grand Torino
@@ -35854,7 +35853,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -35878,7 +35877,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -35902,7 +35901,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -35926,7 +35925,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -35951,7 +35950,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -35976,7 +35975,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -36001,7 +36000,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -36026,7 +36025,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -36050,7 +36049,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -36076,7 +36075,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -36102,7 +36101,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -36127,7 +36126,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -36152,7 +36151,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -36177,7 +36176,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -36202,7 +36201,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -36227,7 +36226,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -36252,15 +36251,15 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
 ID: eaeb71cf-ccf3-4c5a-a591-d5eae71c621e
 
 Question: >
-  In The Hunt for Red October Borodin is killed by a KGB agent on board disguised as a cooks assistant. What was the
-  KGB/cooks assistants name?
+  In The Hunt for Red October Borodin is killed by a KGB agent on board disguised as a cook's assistant. What was the
+  KGB/cook's assistant's name?
 
 Answers:
   1: Kamarov
@@ -36277,7 +36276,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -36301,7 +36300,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -36326,7 +36325,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -36350,7 +36349,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -36374,7 +36373,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -36398,7 +36397,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -36423,14 +36422,14 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
 ID: 3d562d4d-eae0-46ab-a308-ed8494709ec6
 
 Question: >
-  In this horror movie Drew Barrymores character must answers horror based trivia questions.
+  In this horror movie Drew Barrymore's character must answer horror based trivia questions.
 
 Answers:
   1: Are You Afraid of the Dark
@@ -36447,7 +36446,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -36472,7 +36471,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -36497,7 +36496,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -36522,7 +36521,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -36547,7 +36546,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -36572,7 +36571,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -36598,7 +36597,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -36622,7 +36621,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -36644,7 +36643,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -36668,7 +36667,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -36692,7 +36691,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -36702,7 +36701,7 @@ Question: >
   Which of the following is not regarded as one of the errors in the Back to the Future movies?
 
 Answers:
-  1: Martys pocket flap in Georges yard
+  1: Marty's pocket flap in George's yard
   2: The last line of the letter to Doc warning him of his murder
   3: Pronunciation of gigawatts
   4: The clock in the McFly livingroom
@@ -36716,7 +36715,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -36738,7 +36737,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -36762,7 +36761,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -36786,7 +36785,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -36810,7 +36809,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -36834,103 +36833,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
-
-SchemaVersion: 1
----
-ID: 6fb36a58-0275-4946-a9c3-7e83c22abbae
-
-Question: >
-  When and where was Ron White born?
-
-Answers:
-  1: November 20, 1960 in Oklahoma City, Oklahoma
-  2: December 18, 1956 in Fritch, Texas
-  3: September 4, 1958 in Kansas City, Kansas
-  4: October 18, 1955 in Amarillo, Texas
-
-Correct: 2
-
-Explanation: |
   None
-
-Active:
-  True
-
-Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
-
-SchemaVersion: 1
----
-ID: 62bd7b4e-4b3a-40d4-ab92-3904f4786dff
-
-Question: >
-  In Ron Whites life, who is Sluggo?
-
-Answers:
-  1: his bulldog
-  2: his best friend from grade school
-  3: his shop teacher from high school
-  4: his grandmothers neighbor
-
-Correct: 1
-
-Explanation: |
-  None
-
-Active:
-  True
-
-Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
-
-SchemaVersion: 1
----
-ID: 8e136108-3ea9-4f55-b942-fa68db289e59
-
-Question: >
-  How many children does Ron White have from his first wife?
-
-Answers:
-  1: 3
-  2: 0
-  3: 1
-  4: 2
-
-Correct: 3
-
-Explanation: |
-  None
-
-Active:
-  True
-
-Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
-
-SchemaVersion: 1
----
-ID: 58e2740e-8cef-4eda-ac6a-df5cd351a05e
-
-Question: >
-  Complete the name of Ron Whites first solo one-hour comedy special: They Call Me _____ _____.
-
-Answers:
-  1: Tater Salad
-  2: Your Excellency
-  3: Mr. White
-  4: Johnnie Walker
-
-Correct: 1
-
-Explanation: |
-  None
-
-Active:
-  True
-
-Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
 
 SchemaVersion: 1
 ---
@@ -36954,7 +36857,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -36976,7 +36879,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -36990,7 +36893,7 @@ Answers:
   1: Numbers
   2: Seven
   3: Shaft
-  4: Shafts Big Score
+  4: Shaft's Big Score
 
 Correct: 3
 
@@ -37001,7 +36904,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -37025,7 +36928,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -37049,14 +36952,14 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
 ID: 2f6f5fa9-3eb0-42d6-9e16-34b98a4f3d78
 
 Question: >
-  Name the 2006 movie that starred these actors voices: Paul Newman, Owen Wilson and Bonnie Hunt.
+  Name the 2006 animated movie that starred the voices of Paul Newman, Owen Wilson and Bonnie Hunt.
 
 Answers:
   1: Lion King
@@ -37073,7 +36976,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -37095,7 +36998,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -37119,7 +37022,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -37143,7 +37046,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -37167,7 +37070,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -37191,7 +37094,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -37215,14 +37118,14 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
 ID: 6aa0723c-f253-49a4-ab93-4bb791109062
 
 Question: >
-  This character, portrayed by Grant Mitchell, is Elaines father in Arsenic and Old Lace.
+  This character, portrayed by Grant Mitchell, is Elaine's father in Arsenic and Old Lace.
 
 Answers:
   1: Teddy Brewster
@@ -37239,7 +37142,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -37263,7 +37166,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -37288,7 +37191,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -37313,7 +37216,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -37338,7 +37241,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -37362,7 +37265,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -37386,7 +37289,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -37410,7 +37313,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -37434,7 +37337,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -37459,7 +37362,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -37483,7 +37386,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -37507,7 +37410,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -37531,7 +37434,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -37555,7 +37458,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -37579,7 +37482,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -37603,7 +37506,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -37627,7 +37530,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -37651,7 +37554,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -37675,7 +37578,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -37699,14 +37602,14 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
 ID: 7cc6594d-86ea-4daf-8a9c-65f7112fd379
 
 Question: >
-  How many times was the phrase "It’s good to be the king said in the movie History of the World, Part I?
+  How many times was the phrase "It’s good to be the king" said in the movie History of the World, Part I?
 
 Answers:
   1: 3
@@ -37723,7 +37626,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -37747,7 +37650,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -37772,14 +37675,14 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
 ID: 485449fc-5d0b-4220-a3ab-3ecde9fd467a
 
 Question: >
-  Which actor said the line Lets do it for Johnny!?
+  Which actor said the line Let's do it for Johnny!?
 
 Answers:
   1: Ed Harris in Radio
@@ -37796,7 +37699,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -37820,7 +37723,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -37844,7 +37747,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -37868,7 +37771,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -37892,7 +37795,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -37916,7 +37819,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -37940,7 +37843,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -37964,7 +37867,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -37988,14 +37891,14 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
 ID: c2af4f2f-4472-45b6-a037-13b4e9764cd2
 
 Question: >
-  In the film Clueless, what country was the Horowitzs maid Lucy from?
+  In the film Clueless, what country was the Horowitz's maid Lucy from?
 
 Answers:
   1: El Salvador
@@ -38012,7 +37915,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -38036,7 +37939,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -38058,7 +37961,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -38082,7 +37985,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -38105,7 +38008,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -38113,7 +38016,7 @@ ID: 6dfb00f9-059e-4b58-aca2-e5d453efe623
 
 Question: >
   After getting Ron fired in the movie Anchorman, Veronica calls to check on him but can't bring herself to say
-  anything.  Ron thinks it may be his lost dog, Baxter, and asks him to bark twice if he is in this U.S. city.
+  anything. Ron thinks it may be his lost dog, Baxter, and asks him to bark twice if he is in this U.S. city.
 
 Answers:
   1: Minneapolis
@@ -38130,14 +38033,14 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
 ID: 036a76c1-909c-42e6-9973-9d62444e510e
 
 Question: >
-  While out with Veronica, Ron is asked to perform for the crowd at Tinos Night Club.  What instrument does he play in
+  While out with Veronica, Ron is asked to perform for the crowd at Tinos Night Club. What instrument does he play in
   the comedy movie Anchorman?
 
 Answers:
@@ -38155,14 +38058,14 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
 ID: e3e38999-c102-42f3-913a-f71cfa06562a
 
 Question: >
-  In the movie Anchorman, Brian Fantana attempts to hit on Veronica.  What special cologne does he apply for this
+  In the movie Anchorman, Brian Fantana attempts to hit on Veronica. What special cologne does he apply for this
   occasion?
 
 Answers:
@@ -38180,7 +38083,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -38205,7 +38108,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -38213,8 +38116,8 @@ ID: 97e124cf-17c5-47e8-98d2-353a14c7e703
 
 Question: >
   In the comedy movie Anchorman, Ron and the news team get lost in a back alley after taking Bricks shortcut to the
-  suit store.  They are soon surrounded by rival news teams looking for a fight.  Which of the following actors does
-  not play a rival news anchor in this scene?
+  suit store. They are soon surrounded by rival news teams looking for a fight. Which of the following actors does not
+  play a rival news anchor in this scene?
 
 Answers:
   1: Ben Stiller
@@ -38231,7 +38134,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -38239,7 +38142,7 @@ ID: 9ab39424-bd36-4599-8bc8-cfb1553c88bf
 
 Question: >
   After Ron hits rock bottom in the comedy hit Anchorman, he is seen walking the streets on a hot day with a full
-  beard and carrying a beverage he regrets choosing.  What is he drinking?
+  beard and carrying a beverage he regrets choosing. What is he drinking?
 
 Answers:
   1: Soda
@@ -38256,20 +38159,20 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
 ID: 0d9be265-bb82-4278-b221-c2a0f58379d1
 
 Question: >
-  News woman Veronica Corningstone from the movie Anchorman was played by actress Christina Applegate.  In what
+  News woman Veronica Corningstone from the movie Anchorman was played by actress Christina Applegate. In what
   groundbreaking Fox TV sitcom did she make her starring debut?
 
 Answers:
   1: In Living Color
-  2: Married...With Children
-  3: Hermans Head
+  2: Married... With Children
+  3: Herman's Head
   4: The Tracy Ullman Show
 
 Correct: 2
@@ -38281,14 +38184,14 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
 ID: ee00f2fa-5b47-444c-9843-7ede5df09698
 
 Question: >
-  Veteran actor Danny Trejo made a cameo appearance  as the bartender in Anchorman. Trejo owes much of his success as
+  Veteran actor Danny Trejo made a cameo appearance as the bartender in Anchorman. Trejo owes much of his success as
   an actor to this Mexican Desperado director since Trejo has appeared in several of his films.
 
 Answers:
@@ -38306,15 +38209,15 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
 ID: 1848c947-6337-4635-b1a0-2feeb817bd51
 
 Question: >
-  At the monthly pancake breakfast, Ron explains the meaning of love to the news team by singing the 70s hit Afternoon
-  Delight in the smash comedy hit Anchorman.
+  At the monthly pancake breakfast, Ron explains the meaning of love to the news team by singing the '70s hit
+  Afternoon Delight in the smash comedy hit Anchorman.
 
 Answers:
   1: True
@@ -38329,14 +38232,14 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
 ID: 85eab13a-8308-40ba-900a-03fd24ef83eb
 
 Question: >
-  She played Bea Arthurs mother on Golden Girls.
+  Who played Bea Arthur's mother on Golden Girls?
 
 Answers:
   1: Betty White
@@ -38353,15 +38256,15 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
 ID: e22e5c0f-b1b0-471c-8ef8-4465031af2f0
 
 Question: >
-  Tom Hanks, who starred in The DaVinci Code," stars in another movie based on a Dan Brown novel. In Angels and
-  Demons, he plays the same character as in "The Da Vinci Code. What is this character?
+  Tom Hanks, who starred in The DaVinci Code, stars in another movie based on a Dan Brown novel. In Angels and Demons,
+  he plays the same character as in The Da Vinci Code. What is this character?
 
 Answers:
   1: Robert Langdon
@@ -38378,7 +38281,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -38403,7 +38306,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -38411,7 +38314,7 @@ ID: 9e5f901b-89a9-4a15-ab49-1c17621e0b82
 
 Question: >
   Corruption scandals and false allegations affect a New York City policeman and his family in Pride and Glory. It
-  stars Edward Norton, Colin Farrell and this great actor from Seinfeld."
+  stars Edward Norton, Colin Farrell and this great actor from Seinfeld.
 
 Answers:
   1: Reni Santoni
@@ -38428,15 +38331,15 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
 ID: 358f344b-fa6f-4acf-9816-4ea2287bfe43
 
 Question: >
-  The 2008s Get Smart movie stars Steve Carell, not Don Adams, it does reunite Carell with this co-star of Little Miss
-  Sunshine.
+  The 2008's Get Smart movie stars Steve Carell, not Don Adams, it does reunite Carell with this co-star of Little
+  Miss Sunshine.
 
 Answers:
   1: Toni Collette
@@ -38453,15 +38356,15 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
 ID: c49e9585-7784-4a78-8337-88eafdf2dd47
 
 Question: >
-  The Mike Myers and Graham Gordy  2008 movie The Love Guru" stars Myers, Jessica Alba,  Justin Timberlake, Ben
-  Kingsley and this diminutive former Mike Myers co-star.
+  The Mike Myers and Graham Gordy 2008 movie The Love Guru stars Myers, Jessica Alba,  Justin Timberlake, Ben Kingsley
+  and this diminutive former Mike Myers co-star.
 
 Answers:
   1: Verne Troyer
@@ -38478,14 +38381,14 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
 ID: 4e2ad55c-d6d5-4441-8a76-408f0e1d500a
 
 Question: >
-  This duo had a critical success in 2002’s Unfaithful. In 2008 they sparkle in "Nights in Rodanthe.
+  This duo had a critical success in 2002’s Unfaithful. In 2008 they sparkle in Nights in Rodanthe.
 
 Answers:
   1: Diane Lane and Richard Gere
@@ -38502,7 +38405,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -38527,15 +38430,15 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
 ID: 8bf99d09-6927-41a9-8000-e2b28a232172
 
 Question: >
-  After their success with "Titanic ," Leonardo DiCaprio and Kate Winslet co-star for a second time in Revolutionary
-  Road along with this very fine actor/actress from Misery, P.S. I Love You, and Little Black Book.
+  After their success with Titanic, Leonardo DiCaprio and Kate Winslet co-star for a second time in Revolutionary Road
+  along with this very fine actor/actress from Misery, P.S. I Love You, and Little Black Book.
 
 Answers:
   1: James Caan
@@ -38552,7 +38455,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -38576,7 +38479,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -38600,7 +38503,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -38622,7 +38525,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -38646,7 +38549,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -38668,7 +38571,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -38690,7 +38593,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -38712,7 +38615,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -38734,7 +38637,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -38756,7 +38659,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -38780,7 +38683,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -38802,14 +38705,14 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
 ID: b3e107b7-fb05-49db-ac18-e443ce8e997f
 
 Question: >
-  What is the paperboys name in the 2006 movie The Benchwarmers?
+  What is the paperboy's name in the 2006 movie The Benchwarmers?
 
 Answers:
   1: It wasn't mentioned
@@ -38826,7 +38729,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -38848,7 +38751,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -38872,7 +38775,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -38896,7 +38799,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -38920,7 +38823,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -38944,14 +38847,14 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
 ID: 4849b557-ba16-4091-8f7c-3d88bb1f856c
 
 Question: >
-  What is the name of Ritchies brother in the movie The Benchwarmers?
+  What is the name of Ritchie's brother in the movie The Benchwarmers?
 
 Answers:
   1: Howie
@@ -38968,7 +38871,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -38992,7 +38895,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -39019,7 +38922,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -39045,7 +38948,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -39071,7 +38974,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -39098,7 +39001,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -39124,7 +39027,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -39150,7 +39053,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -39175,7 +39078,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -39183,7 +39086,7 @@ ID: df6883b5-3896-446a-8b7b-14e1a28beef2
 
 Question: >
   In the horror movie Dawn of the Dead, the goal of the lead characters is to destroy the undead before the disease
-  spreads any further
+  spreads.
 
 Answers:
   1: True
@@ -39198,7 +39101,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -39223,7 +39126,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -39249,14 +39152,14 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
 ID: 350ce5c8-7437-48b5-b392-353e187f811c
 
 Question: >
-  What is Freddy Kruegers middle name?
+  What is Freddy Krueger's middle name?
 
 Answers:
   1: Robert
@@ -39273,14 +39176,14 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
 ID: 92be6a70-e983-4195-a306-64aa2982b81b
 
 Question: >
-  Part of the idea for the character of Freddy Krueger came from a 1970s song.
+  Part of the idea for the character of Freddy Krueger came from a 1970's song.
 
 Answers:
   1: True
@@ -39295,7 +39198,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -39319,14 +39222,14 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
 ID: 903bb4e6-18f4-4baa-b855-672093766f03
 
 Question: >
-  Freddy Kruegers mother was a nun.
+  Freddy Krueger's mother was a nun.
 
 Answers:
   1: True
@@ -39341,14 +39244,14 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
 ID: 33f4d9c2-8705-41b4-aca3-aee8cc0e0133
 
 Question: >
-  What was Freddys daughters first name?
+  What was Freddy Krueger's daughter's first name?
 
 Answers:
   1: Krystal
@@ -39365,7 +39268,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -39387,7 +39290,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -39411,14 +39314,14 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
 ID: 97ebd95b-ccb3-48a8-b426-0e3432aa50cd
 
 Question: >
-  John Travolta played Vincent Vega in Pulp Fiction, but Tarantino wanted to cast another actor in the role.  This
+  John Travolta played Vincent Vega in Pulp Fiction, but Tarantino wanted to cast another actor in the role. This
   actor turned down the part in order to appear in Wyatt Earp. Who is the actor?
 
 Answers:
@@ -39436,7 +39339,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -39462,7 +39365,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -39487,15 +39390,15 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
 ID: 31b51642-0e2f-49ef-b62c-35f9eb78b21e
 
 Question: >
-  Talia Shire is probably best known for playing Adrian Pennino in the awesome Rocky movies. What was her characters
-  name in the Godfather movies?
+  Talia Shire is probably best known for playing Adrian Pennino in the Rocky movies. What was her character's name in
+  the Godfather movies?
 
 Answers:
   1: Theresa Hagen
@@ -39512,7 +39415,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -39537,7 +39440,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -39562,14 +39465,14 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
 ID: b76c817b-68f1-4397-b574-09a1f3cb8563
 
 Question: >
-  This American-born actors father was a French diplomat with the United Nations, so he grew up in Geneva,
+  This American-born actor's father was a French diplomat with the United Nations, so he grew up in Geneva,
   Switzerland, then moved to France at 16. He is most famous for his role as Connor MacLeod.
 
 Answers:
@@ -39587,14 +39490,14 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
 ID: 7f888e60-d5aa-43df-86a9-179c64c7f9c9
 
 Question: >
-  The 1979 movie sequel, written and directed by Sylvester Stallone, grossed $200,000,000 USD.
+  What 1979 movie sequel, written and directed by Sylvester Stallone, grossed $200,000,000 USD?
 
 Answers:
   1: The Exorcist III
@@ -39611,7 +39514,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -39635,7 +39538,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -39660,7 +39563,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -39684,14 +39587,14 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
 ID: a995513d-069b-464e-8341-d9d5a8075284
 
 Question: >
-  In the comedy classic Napoleon Dynamite, what was the name of Napoleons high school?
+  In the comedy classic Napoleon Dynamite, what was the name of Napoleon's high school?
 
 Answers:
   1: Preston High
@@ -39708,17 +39611,17 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
 ID: 67bc1bfc-64de-417f-99f3-9e64730c9869
 
 Question: >
-  What is Napoleons favorite animal to draw from the comedy hit Napoleon Dynamite?
+  What is Napoleon's favorite animal to draw from the comedy hit Napoleon Dynamite?
 
 Answers:
-  1: a liger (a lion and tiger mix )
+  1: a liger (a lion and tiger mix)
   2: a unicorn
   3: a T-Rex
   4: a dragon
@@ -39732,7 +39635,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -39757,7 +39660,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -39781,7 +39684,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -39805,7 +39708,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -39816,9 +39719,9 @@ Question: >
 
 Answers:
   1: They walk the whole 5 miles.
-  2: Pedros cousins drive them in their low-rider.
+  2: Pedro's cousins drive them in their low-rider.
   3: They rent a limo.
-  4: Trishas mom take them there in their van.
+  4: Trisha's mom take them there in their van.
 
 Correct: 2
 
@@ -39829,7 +39732,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -39853,7 +39756,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -39877,7 +39780,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -39901,20 +39804,20 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
 ID: 2b208ced-fcde-4cf8-87c3-7f08ad319d91
 
 Question: >
-  From whose novel was the motion picture Journey to the Center of the Earth adapted?
+  Who wrote the novel that was adapted to the motion picture Journey to the Center of the Earth?
 
 Answers:
-  1: Jules Vernes
+  1: Jules Verne
   2: Herbert George Wells
-  3: Arthur Conan Doyles
-  4: Selma Lagerlof s
+  3: Arthur Conan Doyle
+  4: Selma Lagerlof
 
 Correct: 1
 
@@ -39925,14 +39828,14 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
 ID: b9427d08-4e69-4b7f-92a2-35689838da0d
 
 Question: >
-  In the movie Journey to the Center of the Earth, who leads the daring quest to the Earths core?
+  In the movie Journey to the Center of the Earth, who leads the daring quest to the Earth's core?
 
 Answers:
   1: Oliver S.  Lindenbrook
@@ -39949,14 +39852,15 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
 ID: 42b8a676-02fd-42b7-987d-277fe8c817b0
 
 Question: >
-  In Journey to the Center of the Earth, the person who leads the expedition to the Earths core is honoured with what?
+  In Journey to the Center of the Earth, the person who leads the expedition to the Earth's core is honoured with
+  what?
 
 Answers:
   1: Honorary degree
@@ -39973,7 +39877,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -39998,7 +39902,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -40022,7 +39926,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -40046,7 +39950,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -40070,7 +39974,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -40095,7 +39999,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -40119,7 +40023,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -40143,14 +40047,15 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
 ID: 5f585622-bff1-4629-b82f-6383f383ce39
 
 Question: >
-  At the movies end, who falls off the altar stone of the Lost City of Atlantis into a tree?
+  At the end of Journey to the Center of the Earth, who falls off the altar stone of the Lost City of Atlantis into a
+  tree?
 
 Answers:
   1: Carla Goetaborg
@@ -40167,7 +40072,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -40191,7 +40096,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -40215,7 +40120,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -40239,7 +40144,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -40263,7 +40168,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -40287,14 +40192,14 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
 ID: 19f82d2f-366d-4b29-85e1-f4b371760ce9
 
 Question: >
-  Who is the terrorists technology expert in Die Hard?
+  Who is the terrorists' technology expert in Die Hard?
 
 Answers:
   1: Jeff
@@ -40311,14 +40216,14 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
 ID: d31a499c-d487-49e1-9ccc-19cd7ce8da44
 
 Question: >
-  In the movie Die Hard, throughout his ordeal in the building, McClane stays in radio contact with which LAPD Sgt.?
+  In the movie Die Hard, throughout his ordeal in the building, McClane stays in radio contact with LAPD Sgt...
 
 Answers:
   1: Kevin Hames
@@ -40335,14 +40240,14 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
 ID: c63a0ac0-0a23-47e9-af06-1892c79058c9
 
 Question: >
-  How does McClane, the protagonist of Die Hard, kill the terrorist, named Karl?
+  How does McClane, the protagonist of Die Hard, kill the terrorist named Karl?
 
 Answers:
   1: Hangs him
@@ -40359,7 +40264,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -40371,7 +40276,7 @@ Question: >
 
 Answers:
   1: Sgt. Powell
-  2: McLanes wife
+  2: McLane's wife
   3: McClane
   4: An FBI agent
 
@@ -40384,7 +40289,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -40408,7 +40313,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -40432,7 +40337,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -40456,14 +40361,14 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
 ID: cd638565-2aef-46ab-af2c-70ef793a7ddb
 
 Question: >
-  Who is the villains henchwoman in A View to a Kill, who dies after switching sides?
+  Who is the villain's henchwoman in A View to a Kill, who dies after switching sides?
 
 Answers:
   1: Waldina  Zell
@@ -40480,14 +40385,14 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
 ID: cbb6cc5a-2e83-46e7-94ad-9ab77128aed5
 
 Question: >
-  What is the alias James Bond uses in A View to a Kill, when he is at the villains French chateau in Chantilly?
+  What is the alias James Bond uses in A View to a Kill, when he is at the villain's French chateau in Chantilly?
 
 Answers:
   1: Trumbull
@@ -40504,14 +40409,14 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
 ID: 9deb1e33-d8c6-488c-960f-658a94dd99da
 
 Question: >
-  Who is James Bonds female ally, in A View to a Kill, who helps him discover the villain’s real purpose?
+  Who is James Bond's female ally, in A View to a Kill, who helps him discover the villain’s real purpose?
 
 Answers:
   1: Stacey Sutton
@@ -40528,7 +40433,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -40552,14 +40457,14 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
 ID: 6b1f0933-00c5-46a4-adc9-118503252bf2
 
 Question: >
-  In what car does James Bond chase the villains henchwoman in A View to a Kill?
+  In what car does James Bond chase the villain's henchwoman in A View to a Kill?
 
 Answers:
   1: Volvo
@@ -40576,7 +40481,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -40600,7 +40505,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -40624,7 +40529,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -40648,7 +40553,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -40673,7 +40578,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -40698,7 +40603,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -40723,7 +40628,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -40747,7 +40652,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -40769,7 +40674,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -40793,7 +40698,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -40817,222 +40722,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
-
-SchemaVersion: 1
----
-ID: 604a445f-eae7-45e1-b138-13fc67340672
-
-Question: >
-  Complete these lyrics from the theme song of a western that was on TV in the 1960s:
-  A soldier of fortune is a man called______________.
-  _______________  ______________ where do you roam?.
-
-Answers:
-  1: Paladin
-  2: Chester
-  3: Johnny Yuma
-  4: Sundance
-
-Correct: 1
-
-Explanation: |
   None
-
-Active:
-  True
-
-Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
-
-SchemaVersion: 1
----
-ID: 0624c3d4-1c8e-4dad-a87c-bd3935e935e9
-
-Question: >
-  Who played trail boss Gil Favor in the long-running television western series Rawhide?
-
-Answers:
-  1: Eric Fleming
-  2: Adam West
-  3: Sheb Wooley
-  4: Jock Mahoney
-
-Correct: 1
-
-Explanation: |
-  None
-
-Active:
-  True
-
-Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
-
-SchemaVersion: 1
----
-ID: db2a2ee8-8f24-4c24-9867-8bfa649da688
-
-Question: >
-  Which famous actor and director began his career on the western series Rawhide?
-
-Answers:
-  1: Clint Eastwood
-  2: Rory Calhoun
-  3: Earl Holliman
-  4: John Wayne
-
-Correct: 1
-
-Explanation: |
-  None
-
-Active:
-  True
-
-Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
-
-SchemaVersion: 1
----
-ID: 35d9e134-b044-49b4-becd-3c26dbb1753b
-
-Question: >
-  Rory Calhoun was the star of The Texan, a weekly western series that ran on CBS.
-
-Answers:
-  1: False
-  2: True
-
-Correct: 2
-
-Explanation: |
-  None
-
-Active:
-  True
-
-Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
-
-SchemaVersion: 1
----
-ID: f15a12d0-10fa-478d-ba16-7da04a6791f1
-
-Question: >
-  Complete the lyrics of the theme song of the TV show The Rebel:
-  ______________________Was a rebel, he roamed through the west.   He got fighting mad, this
-  rebel lad.  He was panther quick, and leather tough and he knew when hed been pushed enough.
-
-Answers:
-  1: Sundance
-  2: Pahoo Cockiewah
-  3: Johnny Yuma
-  4: Jock Mahoney
-
-Correct: 3
-
-Explanation: |
-  None
-
-Active:
-  True
-
-Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
-
-SchemaVersion: 1
----
-ID: f70c18fd-62e2-4043-9186-d57258ce63a4
-
-Question: >
-  Earl Holliman starred in a weekly western series titled Hotel de Paree.
-
-Answers:
-  1: False
-  2: True
-
-Correct: 2
-
-Explanation: |
-  None
-
-Active:
-  True
-
-Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
-
-SchemaVersion: 1
----
-ID: 33244e6a-a184-403a-8819-fad8eb789891
-
-Question: >
-  What was the name of the wagon cook in the western series Rawhide?
-
-Answers:
-  1: Pete
-  2: Rowdy
-  3: Wishbone
-  4: Charley Grub
-
-Correct: 3
-
-Explanation: |
-  None
-
-Active:
-  True
-
-Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
-
-SchemaVersion: 1
----
-ID: bb9a1aa9-d2cf-4fcf-b8ad-01aa1061b09a
-
-Question: >
-  Kenny Rogers starred in a western series about a river boat gambler.
-
-Answers:
-  1: False
-  2: True
-
-Correct: 1
-
-Explanation: |
-  None
-
-Active:
-  True
-
-Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
-
-SchemaVersion: 1
----
-ID: a90159ce-66d4-4ff3-b5d8-91e60c1533d5
-
-Question: >
-  This weekly series was about a benevolent uncle and his niece Penny. He zoomed around in a small plane rounding up
-  the rustlers and all the bad men.
-
-Answers:
-  1: King for a Day
-  2: Mile High Ranch
-  3: Sky King
-  4: King of the Sky
-
-Correct: 3
-
-Explanation: |
-  None
-
-Active:
-  True
-
-Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
 
 SchemaVersion: 1
 ---
@@ -41056,7 +40746,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -41080,7 +40770,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -41104,14 +40794,14 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
 ID: 499b18cc-1568-4e2f-a0e6-d531249dd3ed
 
 Question: >
-  Which former ER star played Chris Gardners wife, Linda in The Pursuit of Happyness?
+  Which former ER star played Chris Gardner's wife, Linda in The Pursuit of Happyness?
 
 Answers:
   1: Thandie Moore
@@ -41128,7 +40818,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -41153,7 +40843,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -41177,7 +40867,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -41201,7 +40891,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -41225,7 +40915,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -41249,7 +40939,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -41273,7 +40963,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -41295,7 +40985,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -41319,7 +41009,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -41343,14 +41033,14 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
 ID: 5789ef6f-aa27-4ac7-80f4-a170340ca5c8
 
 Question: >
-  In 1921 George Melfords The Sheik debuted and established this star as the cinemas best known lover.
+  In 1921 George Melford's The Sheik debuted and established this star as the cinema's best known lover.
 
 Answers:
   1: Rudolph Valentino
@@ -41367,7 +41057,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -41415,7 +41105,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -41439,7 +41129,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -41464,7 +41154,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -41488,7 +41178,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -41512,14 +41202,14 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
 ID: 6b025565-2622-40c5-978b-f79da141dd16
 
 Question: >
-  The only silent film to win an Oscar for Best Picture was Paramounts Wings (1927).
+  The only silent film to win an Oscar for Best Picture was Paramount's Wings (1927).
 
 Answers:
   1: True
@@ -41534,7 +41224,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -41559,7 +41249,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -41583,7 +41273,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -41607,7 +41297,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -41631,7 +41321,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -41655,7 +41345,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -41679,7 +41369,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -41703,7 +41393,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -41725,7 +41415,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -41749,7 +41439,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -41773,7 +41463,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -41797,7 +41487,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -41821,7 +41511,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -41843,7 +41533,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -41865,7 +41555,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -41889,7 +41579,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -41913,7 +41603,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -41938,7 +41628,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -41960,14 +41650,14 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
 ID: 5a312576-bc61-4b33-9f1e-33716f2167e5
 
 Question: >
-  What is Supermans secret identity, and where does he work?
+  What is Superman's secret identity, and where does he work?
 
 Answers:
   1: Mark Kennedy, Daily Planet
@@ -41984,7 +41674,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -42008,7 +41698,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -42032,14 +41722,14 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
 ID: d8497ce3-fca7-49a4-9783-566acfe73a99
 
 Question: >
-  What is the name of Lex Luthors girlfriend in the film Superman Returns?
+  What is the name of Lex Luthor's girlfriend in the film Superman Returns?
 
 Answers:
   1: Cookie
@@ -42056,7 +41746,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -42078,7 +41768,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -42105,7 +41795,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -42133,7 +41823,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -42159,7 +41849,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -42186,7 +41876,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -42213,7 +41903,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -42239,7 +41929,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -42270,7 +41960,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -42294,7 +41984,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -42319,7 +42009,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -42341,15 +42031,15 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
 ID: ec530d16-9b55-4c49-aee6-e765dde4432a
 
 Question: >
-  This tag belongs to what 1973 movie?
-  Where robot men and women are programmed to serve you for... Romance... Violence... Anything.
+  This tag belongs to what 1973 movie? Where robot men and women are programmed to serve you for... Romance...
+  Violence... Anything.
 
 Answers:
   1: Blade Runner
@@ -42366,15 +42056,14 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
 ID: 8b973c3d-a063-433e-996e-9e90e5e4de0b
 
 Question: >
-  This quote is from what 1978 cult favorite?
-  Fat, drunk and stupid is no way to go through life son.
+  This quote is from what 1978 cult favorite? Fat, drunk and stupid is no way to go through life son.
 
 Answers:
   1: Revenge of the Nerds
@@ -42391,21 +42080,21 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
 ID: c9bb1cd2-48de-466c-b7a3-c9c784b62a6d
 
 Question: >
-  In this 1993 drama, based on Richard Speights book Desperate Justice, a girl is beaten and raped by the janitor of
+  In this 1993 drama, based on Richard Speight's book Desperate Justice, a girl is beaten and raped by the janitor of
   her school, but he doesn't go to prison because there is no proof that he had committed the crime.
 
 Answers:
-  1: A Mothers Fight for Justice
-  2: A Mothers Prayer
+  1: A Mother's Fight for Justice
+  2: A Mother's Prayer
   3: Justice
-  4: A Mothers Revenge
+  4: A Mother's Revenge
 
 Correct: 4
 
@@ -42416,7 +42105,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -42441,14 +42130,14 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
 ID: 9b7e3e7a-aa9c-42de-9608-ca3b837f1dd1
 
 Question: >
-  In this 1998 movie, based on a true story,  young Tina Spangler, portrayed by Kirsten Dunst, discovers she is
+  In this 1998 movie, based on a true story, young Tina Spangler, portrayed by Kirsten Dunst, discovers she is
   pregnant. Although being pregnant tears her world apart, it also helps her find a true purpose in life.
 
 Answers:
@@ -42466,7 +42155,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -42474,7 +42163,7 @@ ID: c40d2bbb-518e-4aaf-80c0-c08916573d71
 
 Question: >
   This 1997 drama, directed by Jack Bender, focuses on the problems of Suzanne Boxer, an unstable young girl who
-  befriends Heather, as she dreams of having Heathers life.
+  befriends Heather, as she dreams of having Heather's life.
 
 Answers:
   1: Friends Til the End
@@ -42491,7 +42180,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -42516,7 +42205,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -42540,7 +42229,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -42564,7 +42253,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -42588,7 +42277,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -42612,14 +42301,14 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
 ID: ed37474d-ac7b-475b-9a0f-e162a647f76f
 
 Question: >
-  In Shrek the Third Queen Lillian was voiced by Dame Judy Dench.
+  In Shrek the Third, Queen Lillian was voiced by Dame Judy Dench.
 
 Answers:
   1: False
@@ -42634,7 +42323,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -42642,7 +42331,7 @@ ID: b424a825-aec9-48c9-ad8f-4be30ff844c2
 
 Question: >
   He played a tough judge in the Clint Eastwood flick Hangem High in 1968. He was also the businessman with the store
-  of weapons in Stephen Kings Maximum Overdrive.
+  of weapons in Stephen King's Maximum Overdrive.
 
 Answers:
   1: Wally Cox
@@ -42659,31 +42348,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
-
-SchemaVersion: 1
----
-ID: 32fe791b-997a-4f44-9b6e-d795312a51af
-
-Question: >
-  He is best known for the role of Capt. Cragen on Law and Order: SVU.
-
-Answers:
-  1: Ice-T
-  2: Richard Belzer
-  3: Dann Florek
-  4: Gavin McCloud
-
-Correct: 3
-
-Explanation: |
   None
-
-Active:
-  True
-
-Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
 
 SchemaVersion: 1
 ---
@@ -42709,39 +42374,14 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
-
-SchemaVersion: 1
----
-ID: de6a9daa-e0ad-4c78-8b4c-afa0eea5b913
-
-Question: >
-  This character actor starred with Michael Landon in both Little House on the Prairie and Highway to Heaven. The
-  characters he played were Mr. Edwards and Mark Gordon.
-
-Answers:
-  1: Victor French
-  2: Sebastian Cabot
-  3: Will Geer
-  4: Jerry Reed
-
-Correct: 1
-
-Explanation: |
   None
-
-Active:
-  True
-
-Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
 
 SchemaVersion: 1
 ---
 ID: 5bd1e9fc-272f-47cd-9afe-425d8cc28a02
 
 Question: >
-  He played Dudley Frank in the 2007 movie, Wild Hogs and Tick Tock in the movie Seabiscuit.
+  He played Dudley Frank in the 2007 movie Wild Hogs and Tick Tock in the movie Seabiscuit.
 
 Answers:
   1: William H. Macy
@@ -42758,7 +42398,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -42766,7 +42406,7 @@ ID: 35b8d400-78e3-4560-bed3-4b2b5798cee8
 
 Question: >
   He starred with Gary Cooper in Sgt. York as a sympathetic preacher. He played Nash Crawford in a couple of the Over
-  the Hill Gang films in the early 70s. Movie critics have listed him as one of the finest actors in motion picture
+  the Hill Gang films in the early '70s. Movie critics have listed him as one of the finest actors in motion picture
   history.
 
 Answers:
@@ -42784,7 +42424,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -42808,7 +42448,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -42832,7 +42472,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -42857,7 +42497,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -42882,7 +42522,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -42906,14 +42546,14 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
 ID: b549fcfc-1d73-4cd0-ba71-225e6c2f3205
 
 Question: >
-  In the movie The Phantom of the Opera, Christines dad called her by what name?
+  In the movie The Phantom of the Opera, Christine's dad called her by what name?
 
 Answers:
   1: Angel of Music
@@ -42930,7 +42570,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -42954,7 +42594,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -42976,7 +42616,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -43000,7 +42640,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -43022,7 +42662,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -43046,7 +42686,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -43068,7 +42708,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -43093,7 +42733,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -43117,14 +42757,14 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
 ID: cd91b9f0-ebf4-44d5-875a-053d56d445e8
 
 Question: >
-  What  Dirty Dancing character delivered the line, Go back to your playpen...Baby.?
+  What Dirty Dancing character delivered the line, Go back to your playpen...Baby.?
 
 Answers:
   1: Neil
@@ -43141,14 +42781,14 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
 ID: bcc159d5-dfa6-4122-bd51-287e85d90a8b
 
 Question: >
-  What is Babys real name in the movie Dirty Dancing?
+  What is Baby's real name in the movie Dirty Dancing?
 
 Answers:
   1: Jessica
@@ -43165,7 +42805,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -43189,7 +42829,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -43213,7 +42853,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -43237,7 +42877,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -43261,7 +42901,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -43289,7 +42929,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -43297,7 +42937,7 @@ ID: fc7bedca-2de9-4c90-abb2-776a0c0e0d8d
 
 Question: >
   What 1985 film can the following be heard in?
-  Were all pretty bizarre. Some of us are just better at hiding it, that's all.
+  We're all pretty bizarre. Some of us are just better at hiding it, that's all.
 
 Answers:
   1: Cocoon
@@ -43314,14 +42954,14 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
 ID: 44afb1a3-2ee5-4e5b-bc98-8042e0dadd37
 
 Question: >
-  This movie is a bout Patrick Bateman, a wealthy investment banker who is trying desperately to hide his psychopathic
+  This movie is about Patrick Bateman, a wealthy investment banker who is trying desperately to hide his psychopathic
   alter ego from everyone.
 
 Answers:
@@ -43339,7 +42979,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -43362,7 +43002,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -43386,14 +43026,14 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
 ID: 2ea3b909-9c46-4deb-a0d4-bea4da414e33
 
 Question: >
-  This 1989 movie is about  Bob and Diane, drug-driven Bonnie and Clyde, who rob drugstores to finance their habit.
+  This 1989 movie is about Bob and Diane, drug-driven Bonnie and Clyde, who rob drugstores to finance their habit.
 
 Answers:
   1: The Little Mermaid
@@ -43410,7 +43050,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -43432,7 +43072,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -43456,7 +43096,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -43480,7 +43120,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -43505,7 +43145,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -43530,7 +43170,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -43554,7 +43194,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -43578,7 +43218,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -43603,7 +43243,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -43627,7 +43267,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -43651,7 +43291,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -43676,7 +43316,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -43698,7 +43338,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -43723,7 +43363,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -43748,7 +43388,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -43773,7 +43413,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -43797,7 +43437,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -43821,7 +43461,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -43846,7 +43486,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -43870,7 +43510,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -43895,7 +43535,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -43920,7 +43560,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -43944,7 +43584,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -43992,7 +43632,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -44016,7 +43656,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -44040,7 +43680,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -44064,7 +43704,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -44088,7 +43728,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -44112,7 +43752,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -44134,31 +43774,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
-
-SchemaVersion: 1
----
-ID: 07605c96-fcd5-416f-9c34-22b323badb4a
-
-Question: >
-  Ernest Borgnine debuted on Broadway playing a male nurse in what production?
-
-Answers:
-  1: White Breath
-  2: Harvey
-  3: Annie Get Your Gun
-  4: Road to Hope
-
-Correct: 2
-
-Explanation: |
   None
-
-Active:
-  True
-
-Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
 
 SchemaVersion: 1
 ---
@@ -44180,7 +43796,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -44204,99 +43820,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
-
-SchemaVersion: 1
----
-ID: 58a5041c-1c1e-4b78-a5b6-f7ae6cb233c5
-
-Question: >
-  How many times has Ernest Borgnine been married?
-
-Answers:
-  1: 2
-  2: 3
-  3: 4
-  4: 5
-
-Correct: 4
-
-Explanation: |
   None
-
-Active:
-  True
-
-Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
-
-SchemaVersion: 1
----
-ID: 66a0032c-7e1d-4ce5-944a-63751aa4f05d
-
-Question: >
-  Ernest Borgnine portrayed Lt. Quinton McHale on The Phil Silvers Show from 1962-1966.
-
-Answers:
-  1: True
-  2: False
-
-Correct: 2
-
-Explanation: |
-  None
-
-Active:
-  True
-
-Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
-
-SchemaVersion: 1
----
-ID: 6f4345cb-c6d7-429c-bb7a-982a1c8726f3
-
-Question: >
-  From 1984-1986, Ernest Borgnine starred with Jan-Michael Vincent as an aging helicopter pilot in which program?
-
-Answers:
-  1: Boones Sky
-  2: Airwolf
-  3: Flight Zero
-  4: Johnny Guitar
-
-Correct: 2
-
-Explanation: |
-  None
-
-Active:
-  True
-
-Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
-
-SchemaVersion: 1
----
-ID: ad547535-e8d0-4081-8600-f743048c0e6d
-
-Question: >
-  Actor Ernest Borgnine is a mason.
-
-Answers:
-  1: True
-  2: False
-
-Correct: 1
-
-Explanation: |
-  None
-
-Active:
-  True
-
-Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
 
 SchemaVersion: 1
 ---
@@ -44304,8 +43828,8 @@ ID: f30f1fd5-f990-47f9-b93a-e36c4d61503f
 
 Question: >
   This is one of the first times that the Scarlet Letter was put on film. This silent version released in 1926 brings
-  all the heart-wrenching drama of Hawthornes story, and is perhaps even more poignant without sound. Name the 2 stars
-  who play Hester and Reverend Dimmesdale..
+  all the heart-wrenching drama of Hawthorne's story, and is perhaps even more poignant without sound. Name the 2
+  stars who play Hester and Reverend Dimmesdale.
 
 Answers:
   1: Douglas Fairbanks Sr and Mary Pickford
@@ -44322,7 +43846,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -44346,7 +43870,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -44370,14 +43894,14 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
 ID: 646af5ce-9d0f-4efa-b634-6459ab19df97
 
 Question: >
-  What is Sydneys mothers name in the movie Scream?
+  What is Sydney's mothers name in the movie Scream?
 
 Answers:
   1: Riley
@@ -44394,7 +43918,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -44418,7 +43942,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -44440,7 +43964,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -44464,7 +43988,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -44486,14 +44010,14 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
 ID: bd093f75-d6fb-4051-89c5-4721b81adfc9
 
 Question: >
-  This actor played partner/ sidekick and fellow escaped convict to John Goodmans character, in the 1987 Coen brothers
+  This actor played partner/sidekick and fellow escaped convict to John Goodman's character, in the 1987 Coen brothers
   movie Raising Arizona.
 
 Answers:
@@ -44511,15 +44035,15 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
 ID: e7d70cb7-3a06-4a86-8e55-ee56621dbbd3
 
 Question: >
-  In Woody Allens movie Sleeper, a small pyramid statue is used by several party-goers as a sort of inebriator or mind
-  altering device.
+  In Woody Allen's movie Sleeper, a small pyramid statue is used by several party-goers as a sort of inebriator or
+  mind altering device.
 
 Answers:
   1: True
@@ -44534,14 +44058,14 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
 ID: a4b58934-741e-438c-9888-623ff234d4a0
 
 Question: >
-  Which of the following actors has not appeared in an adaptation of Akira Kurosawas film Yojimbo?
+  Which of the following actors has not appeared in an adaptation of Akira Kurosawa's film Yojimbo?
 
 Answers:
   1: Clint Eastwood
@@ -44558,7 +44082,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -44583,7 +44107,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -44605,14 +44129,14 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
 ID: 1dcb0ec4-58ae-499c-bd56-2165feaa201b
 
 Question: >
-  This actor, famous for starring in the Matrix series, plays Tres father in the 1991 film Boyz N the Hood.
+  This actor, famous for starring in the Matrix series, plays Tre's father in the 1991 film Boyz N the Hood.
 
 Answers:
   1: Yaphet Kotto
@@ -44629,7 +44153,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -44654,7 +44178,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -44676,7 +44200,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -44700,7 +44224,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -44722,7 +44246,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -44746,7 +44270,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -44770,7 +44294,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -44794,7 +44318,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -44818,7 +44342,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -44843,7 +44367,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -44867,7 +44391,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -44891,14 +44415,14 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
 ID: 92716ad5-f46a-47fc-8a8d-868d4dcf8db9
 
 Question: >
-  What actor portrayed Paris in the 2004 movie Troy, based on Homers Iliad?
+  What actor portrayed Paris in the 2004 movie Troy, based on Homer's Iliad?
 
 Answers:
   1: Brad Pitt
@@ -44915,7 +44439,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -44939,7 +44463,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -44963,7 +44487,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -44987,14 +44511,14 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
 ID: 13390b82-47ac-421e-9df9-5e8466184c2b
 
 Question: >
-  In what type of plant does Rockys buddy, Paulie, work in the 1976 movie Rocky?
+  In what type of plant does Rocky's buddy, Paulie, work in the 1976 movie Rocky?
 
 Answers:
   1: Diapers plant
@@ -45011,7 +44535,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -45035,14 +44559,14 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
 ID: 6666bd31-bd39-4911-b6e5-7abc845dc717
 
 Question: >
-  In what country was the 2000 Academy Award winning movie Gladiator filed?
+  In what country was the 2000 Academy Award winning movie Gladiator filmed?
 
 Answers:
   1: England
@@ -45059,7 +44583,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -45083,51 +44607,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
-
-SchemaVersion: 1
----
-ID: 72b42962-f93d-4511-9778-fe7ba6a5e2f0
-
-Question: >
-  Denzel Washington was banned from watching movies as a child.
-
-Answers:
-  1: True
-  2: False
-
-Correct: 1
-
-Explanation: |
   None
-
-Active:
-  True
-
-Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
-
-SchemaVersion: 1
----
-ID: 6b712c7a-773f-4a07-b82c-0267226c12dd
-
-Question: >
-  Denzel Washingtons parents divorced when he was five years old.
-
-Answers:
-  1: False
-  2: True
-
-Correct: 1
-
-Explanation: |
-  None
-
-Active:
-  True
-
-Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
 
 SchemaVersion: 1
 ---
@@ -45151,31 +44631,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
-
-SchemaVersion: 1
----
-ID: 28d48357-1ded-4a62-a30e-359057b83966
-
-Question: >
-  When was Denzel Washington born?
-
-Answers:
-  1: December 28, 1954
-  2: September 24, 1952
-  3: December 15, 1956
-  4: March 7, 1958
-
-Correct: 1
-
-Explanation: |
   None
-
-Active:
-  True
-
-Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
 
 SchemaVersion: 1
 ---
@@ -45197,51 +44653,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
-
-SchemaVersion: 1
----
-ID: 7c2807c3-92f6-435e-80a4-e2fe4220551e
-
-Question: >
-  Denzel Washington is named after his father who was in turn named after the doctor who had delivered him.
-
-Answers:
-  1: False
-  2: True
-
-Correct: 2
-
-Explanation: |
   None
-
-Active:
-  True
-
-Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
-
-SchemaVersion: 1
----
-ID: dcaac1d0-7762-4f09-b14a-750c35cef850
-
-Question: >
-  Denzel Washington has a son who signed to play with the New Orleans Saints.
-
-Answers:
-  1: True
-  2: False
-
-Correct: 2
-
-Explanation: |
-  None
-
-Active:
-  True
-
-Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
 
 SchemaVersion: 1
 ---
@@ -45265,7 +44677,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -45289,7 +44701,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -45312,14 +44724,14 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
 ID: ee8e7fdb-7d29-40c9-b987-038773f9fbe3
 
 Question: >
-  In the original Disney script  Bambi was supposed to be shot by the hunters instead of the mother.
+  In the original Disney script, Bambi was supposed to be shot by the hunters instead of the mother.
 
 Answers:
   1: False
@@ -45334,14 +44746,14 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
 ID: 21cbdc20-b9e0-4e68-b240-b62f9546dacf
 
 Question: >
-  What season is it when Bambis mother is shot by the poachers in the movie Bambi?
+  What season is it when Bambi's mother is shot by the poachers in the movie Bambi?
 
 Answers:
   1: spring
@@ -45358,15 +44770,15 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
 ID: bffd7832-3c72-4900-a16e-2250bb509f11
 
 Question: >
-  In the Disney animated feature Bambi, after the mother is shot, Bambis father leads him away into the thicker parts
-  of the woods. What is  the name of Bambis father?
+  In the Disney animated feature Bambi, after the mother is shot, Bambi's father leads him away into the thicker parts
+  of the woods. What is  the name of Bambi's father?
 
 Answers:
   1: The Prince of the Woods
@@ -45383,14 +44795,14 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
 ID: a23abe7f-1584-4874-b82a-9a74ce0e11ef
 
 Question: >
-  Happiness is fleeting in the story of Bambi as another stag fights him for this mate. What is this deers name?
+  Happiness is fleeting in the story of Bambi as another stag fights him for this mate. What is this deer's name?
 
 Answers:
   1: The Stag
@@ -45407,7 +44819,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -45431,7 +44843,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -45453,7 +44865,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -45469,13 +44881,13 @@ Answers:
 Correct: 2
 
 Explanation: |
-  None
+  Asteroid 15845 Bambi was discovered on October 17, 1995, and named after the movie character.
 
 Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -45499,7 +44911,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -45523,7 +44935,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -45547,7 +44959,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -45571,7 +44983,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -45596,7 +45008,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -45621,7 +45033,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -45645,7 +45057,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -45670,14 +45082,14 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
 ID: cf27bf16-15d1-4175-a9a8-f759ccc85569
 
 Question: >
-  At the end of this great movie Jack gives Jonathan something to remember their adventure together. What does he give
+  At the end of Midnight Run, Jack gives Jonathan something to remember their adventure together. What does he give
   Jonathan at the end of the movie?
 
 Answers:
@@ -45695,7 +45107,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -45720,7 +45132,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -45744,14 +45156,14 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
 ID: 80c82fea-01b1-45f8-88ed-c12d263f0944
 
 Question: >
-  Who was Batmans love interest in the first Batman movie?
+  Who was Batman's love interest in the first Batman movie?
 
 Answers:
   1: Selina Kyle
@@ -45768,14 +45180,14 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
 ID: 67c645cb-4125-473a-a2f7-bc5879f6d6dc
 
 Question: >
-  What were the names of the two models killed by The Jokers Smile-X poison in the 1989 movie Batman?
+  What were the names of the two models killed by The Joker's Smile-X poison in the 1989 movie Batman?
 
 Answers:
   1: Amy Walden and Samantha Keller
@@ -45792,7 +45204,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -45816,14 +45228,14 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
 ID: fdf93ae9-ac4d-4ed8-afc5-e9d6bba50ed9
 
 Question: >
-  What is the name of Jack Napier/The Jokers right-hand man throughout the movie Batman?
+  What is the name of Jack Napier, The Joker's right-hand man throughout the movie Batman?
 
 Answers:
   1: John
@@ -45840,14 +45252,14 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
 ID: 06d059c6-3214-400e-9b9b-8805ba5f3f75
 
 Question: >
-  What is the name of Gothams main newspaper in the movie Batman?
+  What is the name of Gotham's main newspaper in the movie Batman?
 
 Answers:
   1: The Gotham Herald
@@ -45864,14 +45276,14 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
 ID: 3efc86e6-6d99-4b87-901f-92f0b0fb9701
 
 Question: >
-  How does The Joker, Batmans archenemy, entice the people of Gotham to attend the parade?
+  How does The Joker, Batman's archenemy, entice the people of Gotham to attend the parade?
 
 Answers:
   1: He promises to donate money to fight crime.
@@ -45888,14 +45300,14 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
 ID: 1fe1ef8c-36f6-4a2e-9ceb-c50b6aa143a4
 
 Question: >
-  What kind of float did The Joker ride on for Gothams parade in the movie Batman?
+  What kind of float did The Joker ride on for Gotham's parade in the movie Batman?
 
 Answers:
   1: a horse
@@ -45912,14 +45324,14 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
 ID: b4cd1d7e-c592-4710-bf1d-fbf73a0a8e6d
 
 Question: >
-  In the film Napoleon Dynamite, Pedro is Napoleon’s best friend. What was Pedros last name?
+  In the film Napoleon Dynamite, Pedro is Napoleon's best friend. What was Pedro's last name?
 
 Answers:
   1: Sanchez
@@ -45936,7 +45348,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -45960,7 +45372,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -45986,14 +45398,14 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
 ID: f06ceeaa-7f3b-41c1-a488-e7270970f6e8
 
 Question: >
-  In the movie Napoleon Dynamite, Napoleon’s brother Kip tells Napoleon that he is training to be what?
+  In the movie Napoleon Dynamite, Napoleon's brother Kip tells Napoleon that he is training to be what?
 
 Answers:
   1: Cage fighter
@@ -46010,14 +45422,14 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
 ID: cf42ab61-9c33-4c2b-b442-d9fdf48ade43
 
 Question: >
-  What is Napoleon’s friend Deb selling door to door in the filmNapoleon Dynamite?
+  What is Napoleon's friend Deb selling door to door in the film Napoleon Dynamite?
 
 Answers:
   1: Candy bars
@@ -46034,7 +45446,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -46059,7 +45471,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -46084,7 +45496,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -46108,7 +45520,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -46132,7 +45544,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -46156,7 +45568,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -46181,7 +45593,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -46206,20 +45618,20 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
 ID: 89726f5a-21a5-4fbd-9781-48c2e63218bb
 
 Question: >
-  What is the name of  Team Americas computer, featured in the movie Team America: World Police?
+  What is the name of  Team America's computer, featured in the movie Team America: World Police?
 
 Answers:
   1: It has no name
   2: Dell
   3: Super Computer
-  4: I.N.T.E.L.L. I.G.E.N.C.E.
+  4: I.N.T.E.L.L.I.G.E.N.C.E.
 
 Correct: 4
 
@@ -46230,7 +45642,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -46252,7 +45664,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -46276,14 +45688,14 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
 ID: 32af6a6a-f1c2-4258-867c-8f8de0146682
 
 Question: >
-  In the movie Team America: World Police, who visits Kim Jong Ils mansion in search of weapons of mass destruction?
+  In the movie Team America: World Police, who visits Kim Jong Il's mansion in search of weapons of mass destruction?
 
 Answers:
   1: Dick Cheney
@@ -46300,7 +45712,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -46324,7 +45736,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -46348,7 +45760,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -46372,7 +45784,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -46397,7 +45809,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -46422,14 +45834,14 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
 ID: 613744b9-0040-43f8-9fb9-b4cc8ec9faf3
 
 Question: >
-  You Only Live Twice, Ian Flemings twelfth novel, was adapted as the fifth entry in the James Bond movie series by
+  You Only Live Twice, Ian Fleming's twelfth novel, was adapted as the fifth entry in the James Bond movie series by
   what screenplay writer, famous for his children's books?
 
 Answers:
@@ -46447,7 +45859,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -46472,15 +45884,15 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
 ID: 686d6868-817a-4a80-9e78-3d75c88ff817
 
 Question: >
-  What British James Bond ally, portrayed by actor Charles Gray, confirms Bonds suspicions about the involvement of an
-  unknown organization, in the 1967 movie, You Only Live Twice?
+  What British James Bond ally, portrayed by actor Charles Gray, confirms Bond's suspicions about the involvement of
+  an unknown organization, in the 1967 movie, You Only Live Twice?
 
 Answers:
   1: Blackwell
@@ -46497,14 +45909,14 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
 ID: 834608d4-7f00-4f86-8291-d4a53e09f1a8
 
 Question: >
-  What is the name of the Japanese ship, involved in S.P.E.C.T.R.E.s evil scheme in the James Bond You Only Live
+  What is the name of the Japanese ship, involved in S.P.E.C.T.R.E.'s evil scheme in the James Bond You Only Live
   Twice?
 
 Answers:
@@ -46522,14 +45934,14 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
 ID: fbe228e6-1dc5-4b9f-9b53-1deaacec5269
 
 Question: >
-  James Bond is first to discover that which of these is Biofelds goal in the 1967 movie, You Only Live Twice?
+  James Bond is first to discover that which of these is Biofeld's goal in the 1967 movie, You Only Live Twice?
 
 Answers:
   1: Cause a US - Soviet war
@@ -46546,7 +45958,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -46570,7 +45982,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -46594,7 +46006,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -46618,7 +46030,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -46641,7 +46053,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -46665,7 +46077,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -46687,7 +46099,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -46711,7 +46123,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -46736,7 +46148,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -46760,7 +46172,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: movies. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
@@ -117407,6 +116819,30 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: 1ba48236-ec18-4546-a61c-1559dea23c0f
+
+Question: >
+  What does Ralphie's dad win in A Christmas Story?
+
+Answers:
+  1: Woman's Leg Trophy
+  2: Woman's Leg Lamp
+  3: Woman's Leg Can Opener
+  4: Woman's Leg Statue
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: 1608c45b-0692-4f38-b2b4-1a6bdbfb033a
 
 Question: >
@@ -120030,6 +119466,30 @@ Active:
 
 Notes: >
   None
+
+SchemaVersion: 1
+---
+ID: 27e2f3a0-cacd-407c-8483-268bb1dd2636
+
+Question: >
+  From what Disney movie is the song you can hear in the audio file?
+
+Answers:
+  1: Snow White and the Seven Dwarfs
+  2: Sleeping Beauty
+  3: Cinderella
+  4: Fantasia
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  False
+
+Notes: >
+  This question is not active on the Questions Academy website because it depends on an audio file.
 
 SchemaVersion: 1
 ---
@@ -134657,6 +134117,249 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: 17ecbca4-0a93-4807-befb-00e37ad9c644
+
+Question: >
+  What is the gift of the third fairy in the Disney movie Sleeping Beauty?
+
+Answers:
+  1: She makes Aurora able to live for 500 years.
+  2: She weakens the curse so Aurora will only fall into a deep sleep.
+  3: She curses Maleficent with death.
+  4: She makes a valiant prince fall in love with Aurora.
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 8c9b2caa-7ef3-4bb2-99ff-2f0fbe3842c2
+
+Question: >
+  The three fairies in the animated film Sleeping Beauty decide to conceal Aurora in a cabin in the woods until her
+  16th birthday passes, but before the fairies take Aurora to the woods, what does the King do to stop the curse?
+
+Answers:
+  1: locks Aurora in a tower
+  2: tries to have another witch remove the curse
+  3: commands all spinning wheels be destroyed
+  4: kills Maleficent
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 55728e25-cb56-40af-8a4f-d01e132210d7
+
+Question: >
+  What do the fairies rename Aurora in the Disney movie Sleeping Beauty?
+
+Answers:
+  1: Dahlia
+  2: Topaz
+  3: Briar Rose
+  4: Jasmine
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 63e989cc-512b-4e3d-8dd9-05bff527ff56
+
+Question: >
+  In the animated movie Sleeping Beauty, just prior to Aurora's 16th birthday, Maleficent is furious that she and her
+  evil henchmen still cannot find Aurora. What does Maleficent do?
+
+Answers:
+  1: She consults her crystal ball for Aurora.
+  2: She sends out her raven Diablo to find Aurora.
+  3: She disguises herself as a peasant and searches for Aurora.
+  4: She puts the prince under a spell and sends him to search for Aurora.
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 0c23af91-e0b5-4d2a-90b1-d075994b7547
+
+Question: >
+  In the movie Sleeping Beauty, on Aurora's 16th birthday, the fairies decide to make two presents, but their attempts
+  fail and they use their wands, thus giving away their location. What two items were the fairies making for Aurora?
+
+Answers:
+  1: A gown and a cape
+  2: A cake and a gown
+  3: A cake and a quilt
+  4: A pie and a gown
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: a56202d0-4e76-4151-b85c-7e1f3dda57fd
+
+Question: >
+  In the Disney movie Sleeping Beauty, when Aurora returns to the cabin, the fairies tell her who she really is and
+  take her to the castle to see her parents.
+
+Answers:
+  1: True
+  2: False
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: bbcd2402-10a9-468f-9deb-322019e08170
+
+Question: >
+  In the movie Sleeping Beauty, back at home in the castle, Aurora finds a spinning wheel in the castles tower, pricks
+  her finger on the spindle and falls into a deep sleep. Who finds Aurora?
+
+Answers:
+  1: The queen
+  2: The king
+  3: The fairies
+  4: The prince
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: c1b34f06-1529-4975-9cb5-081fbe4efb27
+
+Question: >
+  In the Disney movie Sleeping Beauty, once Aurora falls into her deep sleep, the fairies freeze time until the spell
+  is broken.
+
+Answers:
+  1: False
+  2: True
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: df590360-322b-467b-aa07-cfaaeaecc4b3
+
+Question: >
+  In the animated movie Sleeping Beauty, the fairies enter Maleficent's castle and free the prince and give him these
+  two magical objects.
+
+Answers:
+  1: A robe and sword
+  2: A watch and a book
+  3: A sword and a shield
+  4: A rose and a robe
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 5343bd08-9106-42aa-966e-3a780cf71c2f
+
+Question: >
+  After Maleficent dies in the film Sleeping Beauty, Prince Phillip rushes to Aurora and removes the curse with a
+  kiss. The two enter the palaces ballroom and see Aurora's parents. Is this the first time Aurora has seen her
+  parents since she was an infant?
+
+Answers:
+  1: No
+  2: Yes
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: 8227b6d4-cdf3-4c7b-b712-3ec53dbc6c22
 
 Question: >
@@ -134671,6 +134374,253 @@ Answers:
   4: Green
 
 Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: d6326285-d84c-46a8-8d45-83844dcedd9e
+
+Question: >
+  Sleeping Beauty was re-released theatrically in 1970, 1971, 1986, 1993, 1995, and 2008. How much did it gross in
+  theatres in the period 1959-2009, when adjusted for ticket price inflation?
+
+Answers:
+  1: $102.49 million
+  2: $478.22 million
+  3: $668.39 million
+  4: $309.2 million
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: a9cd2de3-e33a-4b15-b275-b2fca1d5273e
+
+Question: >
+  Why did actress Emma Watson, who plays Hermione in the Harry Potter series, keep her role in the sixth movie, Harry
+  Potter and the Half-Blood Prince 2009, after initially deciding to quit?
+
+Answers:
+  1: She joked that she stayed because she was in love with Rupert Grint.
+  2: Her parents talked her into staying.
+  3: She did it for the fans.
+  4: She couldn't bear to see anyone else play Hermione.
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 856bdbec-c9db-4dd7-bc82-c544dd3e5643
+
+Question: >
+  How did actor Jim Broadbent describe his character, Horace Slughorn, from the sixth Harry Potter movie, Harry Potter
+  and the Half-Blood Prince 2009?
+
+Answers:
+  1: Comic character
+  2: Unique character
+  3: Tragic character
+  4: Ambiguous character
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 49ed5cdf-962b-44e9-83e0-eb5490507733
+
+Question: >
+  This actress reportedly accepted the role of Narcissa Malfoy for the 2009 movie Harry Potter and the Half-Blood
+  Prince, but her agent stated that the rumors were not true.
+
+Answers:
+  1: Kate Winslet
+  2: Meg Ryan
+  3: Naomi Watts
+  4: Melanie Griffith
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 2da5f0c9-432e-411b-be9b-af11756de0d3
+
+Question: >
+  Who turns out to be the Half-Blood Prince in the sixth Harry Potter movie Harry Potter and the Half-Blood Prince?
+
+Answers:
+  1: Draco Malfoy
+  2: Albus Dumbledore
+  3: Severus Snape
+  4: Sirius Black
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 89a999d4-873e-43da-9c04-34c2c5ad0d9d
+
+Question: >
+  What is the nickname of Sirius Black, whose younger brother Regulus Black appears in a photograph owned by Horace
+  Slughorn in the movie Harry Potter and the Half-Blood Prince 2009?
+
+Answers:
+  1: Bagger
+  2: Padfoot
+  3: Mole
+  4: Dazzler
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: d444ffcf-b4e3-449a-816b-8a7e22fc9e67
+
+Question: >
+  With whom does Harry Potter form a relationship in the 2009 movie Harry Potter and the Half-Blood Prince?
+
+Answers:
+  1: Fleur Delacour
+  2: Lavender Brown
+  3: All of these
+  4: Ginny Weasley
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: b12778bd-0f65-4dd6-8a9a-5e8440744e6e
+
+Question: >
+  What are the differences between the original plot of the book and the script of 2009 movie Harry Potter and the
+  Half-Blood Prince?
+
+Answers:
+  1: Dumbledore's funeral was not in the script.
+  2: Both the battle in the castle and Dumbledore's funeral were not in the script.
+  3: The climactic battle in the castle was not in the script.
+  4: No changes were made.
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 8166bd9b-8fbc-4daf-879d-ce84b4b54187
+
+Question: >
+  What popular personality did actor Daniel Radcliffe portray in his debut movie?
+
+Answers:
+  1: David Copperfield
+  2: Peter Pan
+  3: Adolf Hitler
+  4: Harry Potter
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 450fbae0-2b7f-4c8c-9606-3a3853512e87
+
+Question: >
+  What kind of character did actor Rupert Grint from the 2009 Harry Potter and the Half-Blood Prince depict in a play
+  based on the story of Noah's Ark when he was little?
+
+Answers:
+  1: One of Noahs sons
+  2: A lion
+  3: Noah
+  4: A fish
+
+Correct: 4
 
 Explanation: |
   None
