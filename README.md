@@ -63,7 +63,7 @@ The tests are in separate Git repository [questions-academy-dataset-tests]. If y
 repository including its submodules:
 
 ```sh
-git clone git@github.com:emerald-green-tech/questions-academy-dataset-questions-academy.git --recurse-submodules
+git clone git@github.com:emerald-green-tech/questions-academy-dataset-opentriviaqa.git --recurse-submodules
 ```
 
 Or, if you have already cloned the dataset without submodules, then only fetch the submodules:
