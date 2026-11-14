@@ -1,0 +1,75 @@
+ID: 79da3e53-3264-48d9-8900-94d3381ca35c
+
+Question: >
+  What philosopher said "Men are born ignorant, not stupid. They are made stupid by education."?
+
+Answers:
+  1: >
+    Henry David Thoreau
+  2: >
+    Bertrand Russell
+  3: >
+    John Stuart Mill
+  4: >
+    Noam Chomsky
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 2497fe6f-c87c-4a2d-8f4b-4547c19c453b
+
+Question: >
+  Free Trade can refer to goods, services, labour and capital.
+
+Answers:
+  1: >
+    False
+  2: >
+    True
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: cda4a5dc-7fed-47af-b917-17670cdb7150
+
+Question: >
+  The United Kingdom is both in the top ten for GDP and child poverty.
+
+Answers:
+  1: >
+    False
+  2: >
+    True
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1

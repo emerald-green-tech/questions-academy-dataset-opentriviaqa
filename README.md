@@ -1,25 +1,55 @@
 # Questions Academy Dataset: OpenTriviaQA #
 
-This package contains a dataset of multiple choice questions and answers, originally forked from
-[OpenTriviaQA], and updated and adapted for use in the [Questions Academy]. It also contains Python utilities to help
-with using the dataset.
+This package contains a dataset of multiple choice questions and answers, originally forked from [OpenTriviaQA], and
+updated and adapted for use in the [Questions Academy]. Compared to the upstream OpenTriviaQA repository, we have fixed
+some spelling mistakes, changed the categories, and converted the format to YAML. Also, we treat the question stem as
+Markdown.
 
-## Usage ##
+## Question Schema ##
 
-Get the entire dataset:
+Here's an example question:
 
-```python
-from questions_academy_dataset_opentriviaqa.parser import parse_dataset
+```yaml
+ID: 83f51ca5-4672-48ae-8e8a-70fe15312922
 
-dataset = parse_dataset()
+Question: >
+  Three of these animals hibernate. Which one does not?
 
-for category in dataset.categories:
-    print(f"Category: {category} - Number of Questions: {len(category.questions)}")
+Answers:
+  1: >
+    Mouse
+  2: >
+    Sloth
+  3: >
+    Frog
+  4: >
+    Snake
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
 ```
 
-Each Category in the dataset has an attribute called `category.questions` that contains a list of Questions. Each
-Question has an attribute called `question.answers` that contains a list of Answers. Each Answer has an attribute called
-`answer.correct` that tells you if that answer is correct for that question.
+Fields:
+
+*   **ID**: A unique ID for the question.
+*   **Question**: The question stem.
+*   **Answers**: A mapping of index number and answer text.
+*   **Correct**: The index number of the correct answer.
+*   **Explanation**: An infrequently used, optional field that explains the answer.
+*   **Active**: Whether the question is active on the [Questions Academy] website. Some questions are not displayed on
+    the website, in which case they will have `Active` set to `False`.
+*   **Notes**: Question related notes, not displayed on the [Questions Academy] website.
+*   **SchemaVersion**: A version of the YAML schema. Only version 1 is available.
 
 ## Contributions ##
 
@@ -28,15 +58,40 @@ port it here.
 
 ## Testing ##
 
-To run the unit tests included with this package, simply run `pytest`. Note that there are data quality tests which
-are not very robust; they often fail with false positive findings. These quality tests are excluded by default when you
-run `pytest`. To run the quality tests, run `pytest -m quality`.
+There are unit tests that validate the YAML schema and the question syntax, and spell check the questions and answers.
+The tests are in separate Git repository [questions-academy-dataset-tests]. If you want to run the tests, clone this
+repository including its submodules:
+
+```sh
+git clone git@github.com:emerald-green-tech/questions-academy-dataset-questions-academy.git --recurse-submodules
+```
+
+Or, if you have already cloned the dataset without submodules, then only fetch the submodules:
+
+```sh
+git submodule update --init --recursive
+```
+
+Then install the test dependencies:
+
+```sh
+pip install --only-deps tests/
+```
+
+Note that the `--only-deps` option was added in [pip version 26.2], so you need a recent version of `pip`. Finally, run
+`pytest`:
+
+```sh
+pytest
+```
 
 ## License
 
-This work is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International License][CC-BY-SA-4.0].
+As with the upstream [OpenTriviaQA] repository, this work is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International License][CC-BY-SA-4.0].
 
 <!-- Links -->
 [OpenTriviaQA]: https://github.com/uberspot/OpenTriviaQA
 [Questions Academy]: https://questions.academy/
 [CC-BY-SA-4.0]: https://creativecommons.org/licenses/by-sa/4.0/
+[questions-academy-dataset-tests]: https://github.com/emerald-green-tech/questions-academy-dataset-tests
+[pip version 26.2]: https://pip.pypa.io/en/stable/user_guide/#installing-only-dependencies

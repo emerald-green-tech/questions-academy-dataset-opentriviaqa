@@ -1,0 +1,358 @@
+ID: 8553e0c4-a8c3-47f0-93a0-c11a0abf2a89
+
+Question: >
+  Mixed hot gases, during firefighting operations, can result in an explosive ignition. What is this ignition called?
+
+Answers:
+  1: >
+    None of these
+  2: >
+    Backdraft
+  3: >
+    Flashover
+  4: >
+    Reheat
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: ebd1ec98-3870-45ac-b140-9a17c1250765
+
+Question: >
+  Fires involving electrical energized equipment such as computers, household appliances and etc. are what class of
+  fire?
+
+Answers:
+  1: >
+    D
+  2: >
+    C
+  3: >
+    A
+  4: >
+    B
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: e02e4da8-20a8-4a39-a6f4-cfc576bb1df5
+
+Question: >
+  Which of the following equipment is used by firefighters to protects the face and lungs?
+
+Answers:
+  1: >
+    Helmet
+  2: >
+    NFPA
+  3: >
+    None of these
+  4: >
+    SCPA
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: f9ded925-523b-4564-99c5-c0e6f08044eb
+
+Question: >
+  What type of self-contained breathing apparatus is used in fire service?
+
+Answers:
+  1: >
+    None of these
+  2: >
+    Open – Closed circuit
+  3: >
+    Synchronized circuit
+  4: >
+    Regulated circuit
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: a3bdd3a5-c9a4-47f5-b5e5-947200ad4176
+
+Question: >
+  How often must steel and aluminum air cylinders for self-contained breathing apparatus be tested according to
+  requirements of the United States Department of Transportation?
+
+Answers:
+  1: >
+    every month
+  2: >
+    every 5 years
+  3: >
+    every 3 years
+  4: >
+    None of these
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: fab4d0da-47d1-4051-b543-0f28b1e33c41
+
+Question: >
+  How often must composite air cylinders for self-contained breathing apparatus be tested to meet the requirements of
+  the United States Department of Transportation?
+
+Answers:
+  1: >
+    Twice a year
+  2: >
+    5 years
+  3: >
+    6 years
+  4: >
+    3 years
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: ebaa72db-007a-4490-a37b-47784a9d9530
+
+Question: >
+  A class 1-A extinguisher will extinguish twice as much fuel as 2-A extinguisher.
+
+Answers:
+  1: >
+    True
+  2: >
+    False
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: bdd53ae5-ea9a-4dbe-be16-4d41d3dc3312
+
+Question: >
+  What type of rope is used in life safety situations?
+
+Answers:
+  1: >
+    Solid braided nylon rope
+  2: >
+    None of these
+  3: >
+    Cotton rope
+  4: >
+    Dynamic or static rope
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 73e6c9c7-e7d7-427e-89b4-4e89bc7f7f3c
+
+Question: >
+  A dynamic high-stretch rope is designed for rising and lowering heavy loads.
+
+Answers:
+  1: >
+    True
+  2: >
+    False
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: c77a115f-eb91-424a-a818-9ad6f4b053b8
+
+Question: >
+  What is one of the objective of a building search during a fire?
+
+Answers:
+  1: >
+    None of these
+  2: >
+    Finding extinguisher
+  3: >
+    Finding victims
+  4: >
+    Finding self-contained breathing apparatus
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 4b443a63-7f0a-4ccc-9860-3f04fec718b4
+
+Question: >
+  During a fire, what are the most critical areas in a multistorey building?
+
+Answers:
+  1: >
+    Floor directly below the fire
+  2: >
+    Bottommost floor
+  3: >
+    Fire/topmost floor, floor directly above the fire
+  4: >
+    None of these
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: f42e4081-c616-4a3c-8e03-3b1473b6e341
+
+Question: >
+  During the searching operation within a building on fire, what should the rescue personnel do?
+
+Answers:
+  1: >
+    Feel doors for excessive heat before opening them
+  2: >
+    None of these
+  3: >
+    Open doors as soon as you can
+  4: >
+    Never feel doors for excessive heat before opening them
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 7e745644-53a3-4268-8661-6e25b9615336
+
+Question: >
+  Most fire engines and fire trucks are this color.
+
+Answers:
+  1: >
+    red
+  2: >
+    green
+  3: >
+    white
+  4: >
+    blue
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
