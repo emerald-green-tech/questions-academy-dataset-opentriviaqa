@@ -1,6 +1,6 @@
 ID: 1197d9d0-843b-48c3-b7af-4204c04ad367
 
-Question: >
+Question: |
   How much armor does a rank 6 Colossus have in the strategy game Battle Nations?
 
 Answers:
@@ -28,7 +28,7 @@ SchemaVersion: 1
 ---
 ID: 599015cb-e426-410e-be6a-6d78e189592d
 
-Question: >
+Question: |
   Which unit was NOT a limited time offer in the game Battle Nations?
 
 Answers:
@@ -56,7 +56,7 @@ SchemaVersion: 1
 ---
 ID: a54826a0-0704-4f9a-982c-8ed0ea1bdcf5
 
-Question: >
+Question: |
   In the strategy game Battle Nations, the Wimp has the highest possible attack off any unit.
 
 Answers:
@@ -80,7 +80,7 @@ SchemaVersion: 1
 ---
 ID: 051fc79f-f7a6-4259-9542-7abaa810a1aa
 
-Question: >
+Question: |
   Which unit was not in the 2.6 update of the game Battle Nations?
 
 Answers:
@@ -108,7 +108,7 @@ SchemaVersion: 1
 ---
 ID: f3e6c617-40fa-48ad-b812-0df3d5d7610f
 
-Question: >
+Question: |
   How much nanopods does the Meerkat cost in the video game Battle Nations?
 
 Answers:
@@ -136,7 +136,7 @@ SchemaVersion: 1
 ---
 ID: 4ee9dd30-c275-489d-ace7-c926e4449f7c
 
-Question: >
+Question: |
   Which two units can give enemies the Frozen status in the game Battle Nations?
 
 Answers:
@@ -164,7 +164,7 @@ SchemaVersion: 1
 ---
 ID: 416f9758-98c0-4e58-ae43-d5d36f289a2a
 
-Question: >
+Question: |
   Which Battle Nations unit has the highest dodge capabilities?
 
 Answers:
@@ -192,7 +192,7 @@ SchemaVersion: 1
 ---
 ID: 5cb27986-0a85-40a0-9088-8181a4ab331c
 
-Question: >
+Question: |
   Which Silver Wolf unit is not trainable in the game Battle Nations?
 
 Answers:
@@ -220,7 +220,7 @@ SchemaVersion: 1
 ---
 ID: 9eefc457-38a8-42eb-974c-c2bb63ef3c5f
 
-Question: >
+Question: |
   Which building trains Allied Raider Mammoths in the strategy game Battle Nations?
 
 Answers:
@@ -248,7 +248,7 @@ SchemaVersion: 1
 ---
 ID: 689b1b3d-59fa-4715-b8e8-7695d61c58b6
 
-Question: >
+Question: |
   How many tiers of The Infected are there in the game Battle Nations?
 
 Answers:
@@ -276,9 +276,8 @@ SchemaVersion: 1
 ---
 ID: d38d0a58-3c10-4d22-8a7e-f92191666af1
 
-Question: >
-  Besides being labelled zombies the creatures featured in the game Killing Floor are referred to as which of the
-  following?
+Question: |
+  Besides being labelled zombies the creatures featured in the game Killing Floor are referred to as which of the following?
 
 Answers:
   1: >
@@ -305,7 +304,7 @@ SchemaVersion: 1
 ---
 ID: 8f4fa0e6-d0b2-4aa7-be0d-2c5542b73e3b
 
-Question: >
+Question: |
   What is the name of the company that developed the Killing Floor game?
 
 Answers:
@@ -333,9 +332,8 @@ SchemaVersion: 1
 ---
 ID: d6b5e957-f16a-4abf-a1f9-0b2957f50e73
 
-Question: >
-  If you want to quit the Killing Floor game and play later you can always save your game and continue from where you
-  left off.
+Question: |
+  If you want to quit the Killing Floor game and play later you can always save your game and continue from where you left off.
 
 Answers:
   1: >
@@ -358,7 +356,7 @@ SchemaVersion: 1
 ---
 ID: 799b484f-c1d5-40b9-9cdc-fe9b9548fbbd
 
-Question: >
+Question: |
   Although widely advertised as a multiplayer co-op game Killing Floor can also be played in single player mode.
 
 Answers:
@@ -382,7 +380,7 @@ SchemaVersion: 1
 ---
 ID: 4e55f401-78db-4257-8414-3389c5de3507
 
-Question: >
+Question: |
   When playing Killing Floor online you cannot play the same character if someone else is already playing him.
 
 Answers:
@@ -406,7 +404,7 @@ SchemaVersion: 1
 ---
 ID: 5ca11373-8d69-4c44-b4db-9f59bfb14465
 
-Question: >
+Question: |
   What statement is true about the whitelisted map in Killing Floor?
 
 Answers:
@@ -434,7 +432,7 @@ SchemaVersion: 1
 ---
 ID: 19e531a6-9f1d-40f8-bd0e-9df4029948ca
 
-Question: >
+Question: |
   What is the perk associated with the use of melee weapons in Killing Floor?
 
 Answers:
@@ -462,7 +460,7 @@ SchemaVersion: 1
 ---
 ID: 416fa5aa-6392-4649-b89e-cddc29f1994f
 
-Question: >
+Question: |
   In Killing Floor, what is the perk in which one can do the most damage with the flame thrower?
 
 Answers:
@@ -490,7 +488,7 @@ SchemaVersion: 1
 ---
 ID: 136b74e3-d691-4f3b-a4a5-3456bbb7516a
 
-Question: >
+Question: |
   In Killing Floor, you can weld doors shut in order to prevent the specimens from reaching you.
 
 Answers:
@@ -514,7 +512,7 @@ SchemaVersion: 1
 ---
 ID: 75987ecf-8b65-4458-a390-7d74cd68b4be
 
-Question: >
+Question: |
   In the video game Killing Floor, only the medic can heal others.
 
 Answers:
@@ -538,7 +536,7 @@ SchemaVersion: 1
 ---
 ID: 5f29711b-2253-4211-be39-9a7dbc3a63ec
 
-Question: >
+Question: |
   Killing Floor started out as a mod for this popular PC game.
 
 Answers:
@@ -566,7 +564,7 @@ SchemaVersion: 1
 ---
 ID: f796c2d0-69b3-441f-9fd0-827b0fc22881
 
-Question: >
+Question: |
   In the Killing Floor video game, you can only obtain your weapons at the trader's shop.
 
 Answers:
@@ -590,7 +588,7 @@ SchemaVersion: 1
 ---
 ID: f5303c3b-838a-43fd-b22c-7f9f50caadaf
 
-Question: >
+Question: |
   What do you have to accomplish in order to get to the trader's shop in the game Killing Floor?
 
 Answers:
@@ -618,7 +616,7 @@ SchemaVersion: 1
 ---
 ID: 33efce69-15d8-4fb6-9dbb-705418b96fbd
 
-Question: >
+Question: |
   In Killing Floor, you can cause the bloat to fight with the other specimens.
 
 Answers:
@@ -642,7 +640,7 @@ SchemaVersion: 1
 ---
 ID: 25912fc3-2de4-4917-89e3-755046ac4a2d
 
-Question: >
+Question: |
   The Philanthropist achievement is obtained by the player in the Killing Floor game by which of the following?
 
 Answers:
@@ -670,7 +668,7 @@ SchemaVersion: 1
 ---
 ID: a06cba06-7cb1-4333-9b85-33352369959b
 
-Question: >
+Question: |
   Which of the original Pac-Man ghosts is red?
 
 Answers:
@@ -698,7 +696,7 @@ SchemaVersion: 1
 ---
 ID: 4a2979d2-896b-4491-9793-90e20c11bba0
 
-Question: >
+Question: |
   How many red coins did Mario have to collect in Super Mario 64 in order to gain a star?
 
 Answers:
@@ -726,7 +724,7 @@ SchemaVersion: 1
 ---
 ID: 64f56286-72f5-4157-9b16-239c0050fb62
 
-Question: >
+Question: |
   In the Webkinz Kinzstyle outlet, what is PJ's real name?
 
 Answers:
@@ -754,7 +752,7 @@ SchemaVersion: 1
 ---
 ID: 8f457bc5-1893-4dbf-b77e-28f78da939f7
 
-Question: >
+Question: |
   What Kinztunes track starts out: Life on the farm is a life for me. I'm a happy piggy with a piggly family...?
 
 Answers:
@@ -782,7 +780,7 @@ SchemaVersion: 1
 ---
 ID: 1b096216-567c-4bf4-9dd7-5df891ac896c
 
-Question: >
+Question: |
   Kinzcash is the measurement of money in Webkinz World.
 
 Answers:
@@ -806,7 +804,7 @@ SchemaVersion: 1
 ---
 ID: 6d067d7b-2da7-4940-bd0a-f94ba48418ca
 
-Question: >
+Question: |
   Webkinz World came up with a new room theme for which event?
 
 Answers:
@@ -834,7 +832,7 @@ SchemaVersion: 1
 ---
 ID: e740ee33-cbfb-4b20-bab6-43890e99d94c
 
-Question: >
+Question: |
   What is the name of the newspaper in Webkinz World?
 
 Answers:
@@ -862,7 +860,7 @@ SchemaVersion: 1
 ---
 ID: 4963f7a7-b390-40ae-b66e-1a5dc02a8579
 
-Question: >
+Question: |
   There's no recess at Kinzville Academy in Webkinz World.
 
 Answers:
@@ -886,7 +884,7 @@ SchemaVersion: 1
 ---
 ID: e0adcfa0-43fe-4dd6-9757-11019936bdaa
 
-Question: >
+Question: |
   The Webkinz signature raccoon comes with what item along with the big city window?
 
 Answers:
@@ -914,7 +912,7 @@ SchemaVersion: 1
 ---
 ID: 222005f3-e6f4-4d87-a7ad-92e998bdfc5a
 
-Question: >
+Question: |
   In Webkinz World, what is the Red Squirrels favorite food?
 
 Answers:
@@ -942,7 +940,7 @@ SchemaVersion: 1
 ---
 ID: a3669057-bb77-442b-ab86-1e1933913006
 
-Question: >
+Question: |
   Who is the cheerful brown dog at Webkinz Stadium?
 
 Answers:
@@ -970,7 +968,7 @@ SchemaVersion: 1
 ---
 ID: 3c7293b1-7ec9-4f59-9e54-b20d24caa2b8
 
-Question: >
+Question: |
   Which animal is pictured on the front of all Webkinz adoption tags?
 
 Answers:
@@ -998,7 +996,7 @@ SchemaVersion: 1
 ---
 ID: fa4e516c-fc22-40d8-bc9c-d45ece8c18be
 
-Question: >
+Question: |
   Pong, the first commercially successful video game, is a video screen adaptation of what classic game?
 
 Answers:
@@ -1026,7 +1024,7 @@ SchemaVersion: 1
 ---
 ID: 4a076be9-62c8-4a89-bcda-a08566ce10a0
 
-Question: >
+Question: |
   Left for Dead 2 was banned in Australia.
 
 Answers:
@@ -1050,10 +1048,8 @@ SchemaVersion: 1
 ---
 ID: a763af32-4576-41c8-a2fa-8053fd749d9d
 
-Question: >
-  In 1981, Nintendo developed a video arcade game which featured a giant ape as the villain. The ape would try to stop
-  Mario, the games hero, from reaching and rescuing the damsel in distress by rolling wooden barrels at him. What was
-  the name of this arcade game?
+Question: |
+  In 1981, Nintendo developed a video arcade game which featured a giant ape as the villain. The ape would try to stop Mario, the games hero, from reaching and rescuing the damsel in distress by rolling wooden barrels at him. What was the name of this arcade game?
 
 Answers:
   1: >
@@ -1080,7 +1076,7 @@ SchemaVersion: 1
 ---
 ID: e8891a56-67bd-4405-acc8-8d15d1a2eea6
 
-Question: >
+Question: |
   What was the original name of Mario, the protagonist of the Super Mario Bros. video game?
 
 Answers:
@@ -1108,7 +1104,7 @@ SchemaVersion: 1
 ---
 ID: dbc5dabe-5ffd-4d56-acab-544bdf413a69
 
-Question: >
+Question: |
   Which one of the following is not a Nintendo handheld device?
 
 Answers:
@@ -1136,9 +1132,8 @@ SchemaVersion: 1
 ---
 ID: b6a340cd-74a9-402c-8b07-893afd1e7f85
 
-Question: >
-  In 1952, A.S. Douglas developed the first graphical game to run on a computer. It ran on the EDSAC. What was the
-  name of this game?
+Question: |
+  In 1952, A.S. Douglas developed the first graphical game to run on a computer. It ran on the EDSAC. What was the name of this game?
 
 Answers:
   1: >
@@ -1165,10 +1160,8 @@ SchemaVersion: 1
 ---
 ID: 3b50ab48-82ab-402e-b66a-5ce0337a0121
 
-Question: >
-  Nolan Bushnell is considered to be the father of the video arcade industry. In 1972 he founded his own game company
-  and together with Ted Dabney and Al Alcorn released the first arcade video game with major success- Pong. What was
-  the name of his company?
+Question: |
+  Nolan Bushnell is considered to be the father of the video arcade industry. In 1972 he founded his own game company and together with Ted Dabney and Al Alcorn released the first arcade video game with major success- Pong. What was the name of his company?
 
 Answers:
   1: >
@@ -1195,7 +1188,7 @@ SchemaVersion: 1
 ---
 ID: 914a8ceb-d91f-4a79-bb82-efac7bb1825e
 
-Question: >
+Question: |
   Pong was first installed at a high school.
 
 Answers:
@@ -1219,7 +1212,7 @@ SchemaVersion: 1
 ---
 ID: ae7a19e1-b01b-4296-b854-83e71e0060b3
 
-Question: >
+Question: |
   In 1972 a company named Waco released the first handheld electronic game. What was its name?
 
 Answers:
@@ -1247,9 +1240,8 @@ SchemaVersion: 1
 ---
 ID: a2be4a9a-699b-4d33-9ac3-dca10d13b910
 
-Question: >
-  In 1978 Taito released one of the most influential arcade video games. It was called Space Invaders and marked the
-  beginning of the Golden Age of arcade games. What was the thing that the player controlled in Space Invaders?
+Question: |
+  In 1978 Taito released one of the most influential arcade video games. It was called Space Invaders and marked the beginning of the Golden Age of arcade games. What was the thing that the player controlled in Space Invaders?
 
 Answers:
   1: >
@@ -1276,9 +1268,8 @@ SchemaVersion: 1
 ---
 ID: c5b1e452-f6a5-4bd9-8dbe-4e9d94c05859
 
-Question: >
-  Mario, probably the best-known video game character, first appeared in Donkey Kong in 1981. His brother Luigi first
-  appeared in Mario Bros.
+Question: |
+  Mario, probably the best-known video game character, first appeared in Donkey Kong in 1981. His brother Luigi first appeared in Mario Bros.
 
 Answers:
   1: >
@@ -1301,10 +1292,8 @@ SchemaVersion: 1
 ---
 ID: 0dbac473-1da3-4b22-a2ed-6558733c741c
 
-Question: >
-  Nintendo is undoubtedly one of the most successful and best known console manufacturers. Nintendo has created
-  several TV consoles and many handheld portables, such as the Game Boy and the Game  Watch. When was the company
-  originally founded?
+Question: |
+  Nintendo is undoubtedly one of the most successful and best known console manufacturers. Nintendo has created several TV consoles and many handheld portables, such as the Game Boy and the Game  Watch. When was the company originally founded?
 
 Answers:
   1: >
@@ -1331,10 +1320,8 @@ SchemaVersion: 1
 ---
 ID: bb0f663d-8a4c-405d-9256-9bc1d4db3e8a
 
-Question: >
-  With the introduction of cheap and relatively powerful processors such as Intel 386, Intel 486 and Motorola 68000
-  3D-graphics became fashionable. It was used in FPS games like the legendary Wolfenstein 3D and Doom. Do you know
-  what FPS stands for in this context?
+Question: |
+  With the introduction of cheap and relatively powerful processors such as Intel 386, Intel 486 and Motorola 68000 3D-graphics became fashionable. It was used in FPS games like the legendary Wolfenstein 3D and Doom. Do you know what FPS stands for in this context?
 
 Answers:
   1: >
@@ -1361,7 +1348,7 @@ SchemaVersion: 1
 ---
 ID: 974fce87-7265-495a-96ad-48c4e7bf4ad0
 
-Question: >
+Question: |
   Sonic the Hedgehog is a mascot of Sony Playstation.
 
 Answers:
@@ -1385,9 +1372,8 @@ SchemaVersion: 1
 ---
 ID: 26f5f647-bf3f-40f3-a12b-095c6839910c
 
-Question: >
-  When in 1996 3dfx released the Voodoo chipset, it made high-resolution and more-detailed 3D games possible. One of
-  the first games to take advantage of this was Quake. Do you know which company released this marvelous game?
+Question: |
+  When in 1996 3dfx released the Voodoo chipset, it made high-resolution and more-detailed 3D games possible. One of the first games to take advantage of this was Quake. Do you know which company released this marvelous game?
 
 Answers:
   1: >
@@ -1414,7 +1400,7 @@ SchemaVersion: 1
 ---
 ID: d5149c24-a385-43bc-81c7-0b5a2cf3538e
 
-Question: >
+Question: |
   October 2006 saw the release of which Mortal Kombat game?
 
 Answers:
@@ -1442,7 +1428,7 @@ SchemaVersion: 1
 ---
 ID: d35f3585-6429-4442-b708-9eed30cfb2ba
 
-Question: >
+Question: |
   In the Mortal Kombat storyline, Liu Kang was brutally murdered by which character?
 
 Answers:
@@ -1470,7 +1456,7 @@ SchemaVersion: 1
 ---
 ID: 430451c4-4205-4ebe-b586-15a2e3ad8303
 
-Question: >
+Question: |
   What feature makes Kenshi different from all other Mortal Kombat characters?
 
 Answers:
@@ -1498,7 +1484,7 @@ SchemaVersion: 1
 ---
 ID: ed208519-fa00-45fd-b855-afc0f2323cb8
 
-Question: >
+Question: |
   In the music video game Guitar Hero 3, what is the encore song you play in the first set of songs?
 
 Answers:
@@ -1526,7 +1512,7 @@ SchemaVersion: 1
 ---
 ID: 66aa9105-9724-4033-82d3-e95ffc78174c
 
-Question: >
+Question: |
   There are five unlockable characters in the music video game Guitar Hero 3.
 
 Answers:
@@ -1550,7 +1536,7 @@ SchemaVersion: 1
 ---
 ID: 08e205ef-e163-4464-9a34-a7d604f8edf9
 
-Question: >
+Question: |
   How many songs excluding the encores are there in Guitar Hero 3?
 
 Answers:
@@ -1578,9 +1564,8 @@ SchemaVersion: 1
 ---
 ID: 8dac028a-d975-4fe6-b3ab-14d51a27fd85
 
-Question: >
-  Slash, a character in the Guitar Hero 3 music video game, is also a real life musician that became popular with
-  which of these bands?
+Question: |
+  Slash, a character in the Guitar Hero 3 music video game, is also a real life musician that became popular with which of these bands?
 
 Answers:
   1: >
@@ -1607,7 +1592,7 @@ SchemaVersion: 1
 ---
 ID: 7d278b70-824c-46b1-9ce6-f977cd38a6e3
 
-Question: >
+Question: |
   Music video game Guitar Hero 3 is rated T for teen.
 
 Answers:
@@ -1631,7 +1616,7 @@ SchemaVersion: 1
 ---
 ID: 9b7d5807-ba03-4c62-a57e-e4457843e99d
 
-Question: >
+Question: |
   Choose the missing words in the following lyrics to get the name of a song from Guitar Hero 3:
   ___________ _____, if you know what I mean
   ___________ _____, she taught me everything
@@ -1665,7 +1650,7 @@ SchemaVersion: 1
 ---
 ID: 716524cf-8901-471e-a684-ca179162a1db
 
-Question: >
+Question: |
   In Guitar Hero 3, Bulls on Parade by Rage Against the Machine is the third encore song.
 
 Answers:
@@ -1689,7 +1674,7 @@ SchemaVersion: 1
 ---
 ID: bc1eae79-cdeb-4205-bc75-003771a894ee
 
-Question: >
+Question: |
   Who is the last boss in the music video game Guitar Hero 3?
 
 Answers:
@@ -1717,7 +1702,7 @@ SchemaVersion: 1
 ---
 ID: 76767b6a-678d-4e42-986e-5b26dd1a7a1d
 
-Question: >
+Question: |
   In World of Warcraft, how many health points does the Mountain Giant unit have?
 
 Answers:
@@ -1745,7 +1730,7 @@ SchemaVersion: 1
 ---
 ID: b912519e-023f-4035-8999-ea32ee94a632
 
-Question: >
+Question: |
   What hero does the phrase Moonlight shines upon the guilty and the innocent alike belong to?
 
 Answers:
@@ -1773,7 +1758,7 @@ SchemaVersion: 1
 ---
 ID: 54fe26af-6c61-4ad1-845f-5ea4c824e6ab
 
-Question: >
+Question: |
   Who is the leader of the Burning Legion?
 
 Answers:
@@ -1801,7 +1786,7 @@ SchemaVersion: 1
 ---
 ID: 0a961bd2-c79b-4b2b-81f6-f94711d47188
 
-Question: >
+Question: |
   What is the name of the well from which Night Elfs originally obtained their magical powers?
 
 Answers:
@@ -1829,7 +1814,7 @@ SchemaVersion: 1
 ---
 ID: 6f8c2a1a-90dc-4f08-8fe3-01180bad9052
 
-Question: >
+Question: |
   What World of Warcraft hero or unit does the this phrase belong to?
 
 Answers:
@@ -1857,7 +1842,7 @@ SchemaVersion: 1
 ---
 ID: 2762b13f-5ae6-4dde-bd50-8751654eb5ca
 
-Question: >
+Question: |
   Who is Tyrande Whisperwind in love with?
 
 Answers:
@@ -1885,7 +1870,7 @@ SchemaVersion: 1
 ---
 ID: d2829589-b40c-4816-b6de-1db6bc90c31f
 
-Question: >
+Question: |
   In Warcraft III:The Frozen Throne, Illidan Stormrage works for?
 
 Answers:
@@ -1913,7 +1898,7 @@ SchemaVersion: 1
 ---
 ID: 72c48dcf-b994-4529-a007-ab3f8254b42e
 
-Question: >
+Question: |
   Which video game are the following quotes from?
   A: Come on, comrades! Up to the rooftop! Go!
   B: Get that flag up! Berlin is ours!
@@ -1943,7 +1928,7 @@ SchemaVersion: 1
 ---
 ID: b3b6a08b-5d12-4b98-a6e5-a4f11aa9090c
 
-Question: >
+Question: |
   In what fictional city is the TV show Futurama set?
 
 Answers:
@@ -1971,7 +1956,7 @@ SchemaVersion: 1
 ---
 ID: 7465b93f-7543-4cf4-ae7e-8a8e17dad9ec
 
-Question: >
+Question: |
   What is the lowest ranking species in the Covenant hierarchy in the Halo video game series?
 
 Answers:
@@ -1999,7 +1984,7 @@ SchemaVersion: 1
 ---
 ID: 1675dbef-1128-461c-8cf2-17231a4e4b59
 
-Question: >
+Question: |
   Who controls the Flood in the Halo series?
 
 Answers:
@@ -2027,7 +2012,7 @@ SchemaVersion: 1
 ---
 ID: 7446cc97-4612-41e4-8f8d-8356890c2501
 
-Question: >
+Question: |
   What is a SPARTAN in the Halo series?
 
 Answers:
@@ -2055,7 +2040,7 @@ SchemaVersion: 1
 ---
 ID: 95c6cf8f-e644-4a1c-952d-7acf993c4c8a
 
-Question: >
+Question: |
   What species is the Didact in the Halo series?
 
 Answers:
@@ -2083,7 +2068,7 @@ SchemaVersion: 1
 ---
 ID: 1b81bb0d-1298-4e9e-9735-ffb07ec2c087
 
-Question: >
+Question: |
   In the Halo series, Zealots use Energy Swords.
 
 Answers:
@@ -2107,7 +2092,7 @@ SchemaVersion: 1
 ---
 ID: e5d30694-3409-4ff5-84d3-5cab531c74b7
 
-Question: >
+Question: |
   Which of the following does the UNSC use to transport troops in the halo series?
 
 Answers:
@@ -2135,7 +2120,7 @@ SchemaVersion: 1
 ---
 ID: 55f4c975-8827-47ba-90d7-50e89c025a87
 
-Question: >
+Question: |
   What does UNSC stand for in the Halo series?
 
 Answers:
@@ -2163,7 +2148,7 @@ SchemaVersion: 1
 ---
 ID: 964ff2f7-d213-4073-a2f7-912610d9763e
 
-Question: >
+Question: |
   What is the largest UNSC ship in the Halo series?
 
 Answers:
@@ -2191,7 +2176,7 @@ SchemaVersion: 1
 ---
 ID: 6743ed59-195f-465d-9703-2c06c1a5194b
 
-Question: >
+Question: |
   What city does Halo 3 ODST take place in?
 
 Answers:
@@ -2219,7 +2204,7 @@ SchemaVersion: 1
 ---
 ID: e3fcc31e-84c1-4d34-a595-1361b7e6cab0
 
-Question: >
+Question: |
   What is the largest species of the Covenant in the Halo series?
 
 Answers:
@@ -2247,7 +2232,7 @@ SchemaVersion: 1
 ---
 ID: 15645176-cf53-4b6a-b56a-62b6cf0546c1
 
-Question: >
+Question: |
   Who made the fictional Mother Brain and for what purpose?
 
 Answers:
@@ -2275,7 +2260,7 @@ SchemaVersion: 1
 ---
 ID: f1f47546-945a-4921-8a57-fefa989387ea
 
-Question: >
+Question: |
   How did the Alimbics become extinct in the Metroid series?
 
 Answers:
@@ -2303,7 +2288,7 @@ SchemaVersion: 1
 ---
 ID: d95cf6fe-ce4c-4c61-b579-5fa5877a484f
 
-Question: >
+Question: |
   What creature passes on the X Parasite to Samus in the Metroid series?
 
 Answers:
@@ -2331,7 +2316,7 @@ SchemaVersion: 1
 ---
 ID: 39a7ac21-c326-4fd7-8841-a7aeb2dd59e6
 
-Question: >
+Question: |
   Who is the Deleter in the Metroid series?
 
 Answers:
@@ -2359,7 +2344,7 @@ SchemaVersion: 1
 ---
 ID: 5c0ba674-6143-4026-8b2e-6c2914ba28b1
 
-Question: >
+Question: |
   Kraid is the only one of his species encountered in the Metroid game.
 
 Answers:
@@ -2383,7 +2368,7 @@ SchemaVersion: 1
 ---
 ID: 0b4d8f51-cb79-4331-94e5-e691111dc6ef
 
-Question: >
+Question: |
   What do Steamlords keep as pets in the Metroid series of games?
 
 Answers:
@@ -2411,9 +2396,8 @@ SchemaVersion: 1
 ---
 ID: dc01272c-f4d1-437e-bec9-6a3ab7a07f20
 
-Question: >
-  An ancient Chozo prophecy predicts the coming of Phazon and the Metroid Prime. In this prophecy the Metroid Prime is
-  referred to as which of the following?
+Question: |
+  An ancient Chozo prophecy predicts the coming of Phazon and the Metroid Prime. In this prophecy the Metroid Prime is referred to as which of the following?
 
 Answers:
   1: >
@@ -2440,7 +2424,7 @@ SchemaVersion: 1
 ---
 ID: 25acbaeb-dcec-4507-bbe3-6868e41de834
 
-Question: >
+Question: |
   King Worm can be fought after Mother Brainin Metroid Zero Mission.
 
 Answers:
@@ -2464,7 +2448,7 @@ SchemaVersion: 1
 ---
 ID: 9ac373b7-55e7-4fb0-a937-d323d47fabbf
 
-Question: >
+Question: |
   What planet are Kihunters from in the Metroid games?
 
 Answers:
@@ -2492,7 +2476,7 @@ SchemaVersion: 1
 ---
 ID: 4a1a0f71-5e5a-4d85-8f05-1539f768f920
 
-Question: >
+Question: |
   What planet is Samus from  in the Metorid games?
 
 Answers:
@@ -2520,7 +2504,7 @@ SchemaVersion: 1
 ---
 ID: 7658fa79-d05d-4182-81b6-ccdf39ae976e
 
-Question: >
+Question: |
   What is the name of the enemy faction in the first N.O.V.A?
 
 Answers:
@@ -2548,7 +2532,7 @@ SchemaVersion: 1
 ---
 ID: 8e0a3ff1-3ec1-4462-8708-3b3f6c58548c
 
-Question: >
+Question: |
   The N.O.V.A 3 Shotgun is both semi and fully automatic.
 
 Answers:
@@ -2572,7 +2556,7 @@ SchemaVersion: 1
 ---
 ID: 58657920-0e38-4f68-914e-bc725aec5488
 
-Question: >
+Question: |
   On which planet does the first two missions in N.O.V.A 2 take place?
 
 Answers:
@@ -2600,7 +2584,7 @@ SchemaVersion: 1
 ---
 ID: 3c2e6b71-aef5-4a8c-ac55-39c9c19610b5
 
-Question: >
+Question: |
   Who helps Kal Wardin find the Judger artifact aboard Therrius in N.O.V.A?
 
 Answers:
@@ -2628,7 +2612,7 @@ SchemaVersion: 1
 ---
 ID: 0b273a6e-3f17-4307-baae-ab164483018f
 
-Question: >
+Question: |
   In N.O.V.A, Kal Wardin is rewarded for finding out what happened aboard the Colonial Pride by almost being killed.
 
 Answers:
@@ -2652,7 +2636,7 @@ SchemaVersion: 1
 ---
 ID: ad870ae3-3bae-410b-beb9-5dfcca2d2e5a
 
-Question: >
+Question: |
   Who is the leader of the Volterites in N.O.V.A?
 
 Answers:
@@ -2680,7 +2664,7 @@ SchemaVersion: 1
 ---
 ID: 6b17153f-b5bd-4fe7-989c-8e6b01764ee1
 
-Question: >
+Question: |
   Which Xeno is capable of teleporting in N.O.V.A?
 
 Answers:
@@ -2708,7 +2692,7 @@ SchemaVersion: 1
 ---
 ID: e94b97e4-99d4-4f79-9488-048090ea20c5
 
-Question: >
+Question: |
   In N.O.V.A, President Folson is unarmed.
 
 Answers:
@@ -2732,7 +2716,7 @@ SchemaVersion: 1
 ---
 ID: 45ab3871-3f0f-4fa4-a737-35238899f9f6
 
-Question: >
+Question: |
   Boreas is the only desert planet in the N.O.V.A series.
 
 Answers:
@@ -2756,7 +2740,7 @@ SchemaVersion: 1
 ---
 ID: acc07639-5d33-401c-aae8-9543da19a0e1
 
-Question: >
+Question: |
   What is the name of the damsel you have to save in the classic arcade game Donkey Kong?
 
 Answers:
@@ -2784,7 +2768,7 @@ SchemaVersion: 1
 ---
 ID: 7251c91a-63b4-47b3-a50a-03782ecf2fd6
 
-Question: >
+Question: |
   Which of these was a name that game character, Mario, was once called?
 
 Answers:
@@ -2812,7 +2796,7 @@ SchemaVersion: 1
 ---
 ID: dbacb0c4-10dc-46fc-abf6-102ed44371b8
 
-Question: >
+Question: |
   Who or what turned Warios treasure into monsters in the game, Wario World?
 
 Answers:
@@ -2840,7 +2824,7 @@ SchemaVersion: 1
 ---
 ID: 33b2d8f6-275c-41de-82d6-a4706a68766c
 
-Question: >
+Question: |
   In the Mario games, what animal is a paratroopa?
 
 Answers:
@@ -2868,7 +2852,7 @@ SchemaVersion: 1
 ---
 ID: 7d1159e8-acf7-459e-90d5-a3ff56e1af8b
 
-Question: >
+Question: |
   When first created, Mario game character, Birdo, was what?
 
 Answers:
@@ -2896,7 +2880,7 @@ SchemaVersion: 1
 ---
 ID: 444ae046-3b81-4aab-969c-bc9652659986
 
-Question: >
+Question: |
   In the video games of Mario, is Luigi Marios cousin?
 
 Answers:
@@ -2920,7 +2904,7 @@ SchemaVersion: 1
 ---
 ID: fd0f1c70-3dfb-44e0-8eab-6157535a3503
 
-Question: >
+Question: |
   In the Mario video games, Bowser is the king of what?
 
 Answers:
@@ -2948,7 +2932,7 @@ SchemaVersion: 1
 ---
 ID: 46e849e0-f267-4ba5-87b6-64882c986102
 
-Question: >
+Question: |
   Who is the last boss in video game Paper Mario 2?
 
 Answers:
@@ -2976,7 +2960,7 @@ SchemaVersion: 1
 ---
 ID: 701b313b-8055-4292-9909-f589947ff4dc
 
-Question: >
+Question: |
   Which movie is this Warcraft 3 quote from?
   Bandit: -What we have here is a failure to communicate.
 
@@ -3005,7 +2989,7 @@ SchemaVersion: 1
 ---
 ID: a0e264cd-0a7e-40f3-b70d-09837b0d75ce
 
-Question: >
+Question: |
   Where does the popular video game character Mario live?
 
 Answers:
@@ -3033,7 +3017,7 @@ SchemaVersion: 1
 ---
 ID: d6cd4910-8a54-4bdd-b10a-b63636bdbd23
 
-Question: >
+Question: |
   What is Marios nationality according to Nintendo video games?
 
 Answers:
@@ -3061,7 +3045,7 @@ SchemaVersion: 1
 ---
 ID: 7623870c-f4c0-4bae-a861-98f97bb71736
 
-Question: >
+Question: |
   Has the video game character Mario ever been in a TV show?
 
 Answers:
@@ -3085,7 +3069,7 @@ SchemaVersion: 1
 ---
 ID: ce6e1e93-2a27-4b4d-b8d4-f0a217d65e69
 
-Question: >
+Question: |
   What was the first video game in which Mario appeared?
 
 Answers:
@@ -3113,7 +3097,7 @@ SchemaVersion: 1
 ---
 ID: 23c308eb-d5c4-478f-af30-3550570315cc
 
-Question: >
+Question: |
   Why does Mario wear a red cap in the Mario series of games?
 
 Answers:
@@ -3141,7 +3125,7 @@ SchemaVersion: 1
 ---
 ID: e2fedef7-1a3e-4fff-87d7-9a590e8c39f7
 
-Question: >
+Question: |
   Has Nintendo character Mario ever been a bad guy?
 
 Answers:
@@ -3165,7 +3149,7 @@ SchemaVersion: 1
 ---
 ID: 4bde7d99-afd3-4767-bf0d-91c218cea890
 
-Question: >
+Question: |
   What does the Fire Flower do to Mario in the Mario video games?
 
 Answers:
@@ -3193,7 +3177,7 @@ SchemaVersion: 1
 ---
 ID: 02d73de2-ab46-44a0-8680-fbecd0818fd5
 
-Question: >
+Question: |
   What effect does the Super Mushroom have on Mario in the popular series of video games?
 
 Answers:
@@ -3221,7 +3205,7 @@ SchemaVersion: 1
 ---
 ID: 3fb0095c-b4f0-4a95-898d-f6617911b1dc
 
-Question: >
+Question: |
   In the Mario series of video games, Mario never uses any weapons.
 
 Answers:
@@ -3245,7 +3229,7 @@ SchemaVersion: 1
 ---
 ID: 2f8ce7af-0f7d-4451-bf8e-69e19badb51d
 
-Question: >
+Question: |
   What is Marios occupation in the Mario series of games?
 
 Answers:
@@ -3273,7 +3257,7 @@ SchemaVersion: 1
 ---
 ID: db4ea674-32b5-4256-a224-f05fddf5f702
 
-Question: >
+Question: |
   What is the name of the land where most of the Legend of Zelda games take place?
 
 Answers:
@@ -3301,7 +3285,7 @@ SchemaVersion: 1
 ---
 ID: 3e177b81-f444-4e2c-8e35-c4d76779020d
 
-Question: >
+Question: |
   Which monster made its first appearance in the game The Legend of Zelda: Majoras Mask?
 
 Answers:
@@ -3329,7 +3313,7 @@ SchemaVersion: 1
 ---
 ID: 6624a351-e8e1-4c4f-b77c-6d677f739f9a
 
-Question: >
+Question: |
   Which one of the Legend of Zelda games does not feature the same Link as the others?
 
 Answers:
@@ -3357,7 +3341,7 @@ SchemaVersion: 1
 ---
 ID: b80e0c80-a509-4c91-a4e2-a95a94c597a4
 
-Question: >
+Question: |
   Which of the following is not an item that Link uses in the Legend of Zelda series of games?
 
 Answers:
@@ -3385,7 +3369,7 @@ SchemaVersion: 1
 ---
 ID: 5f847c3d-9d70-456d-a69d-610ccd1d0c21
 
-Question: >
+Question: |
   In the Legend of Zelda series of games Link has not worn a tunic in what colour?
 
 Answers:
@@ -3413,9 +3397,8 @@ SchemaVersion: 1
 ---
 ID: f13674bc-7dee-454b-bf56-888d5bb67a76
 
-Question: >
-  Which games were included in the 2003 Legend of Zelda Collectors edition that became available on the Nintendo
-  GameCube?
+Question: |
+  Which games were included in the 2003 Legend of Zelda Collectors edition that became available on the Nintendo GameCube?
 
 Answers:
   1: >
@@ -3442,7 +3425,7 @@ SchemaVersion: 1
 ---
 ID: 497ab6b8-a0b8-49cf-90c3-9d6942489c67
 
-Question: >
+Question: |
   Which Final Fantasy 3 character is known for blitzes such as Bum Rush, Pummel, and Suplex?
 
 Answers:
@@ -3470,7 +3453,7 @@ SchemaVersion: 1
 ---
 ID: 5124d49f-5ddc-46b7-9da1-5f94bbc92d47
 
-Question: >
+Question: |
   What character from the Final Fantasy series used a weapon called the Buster Sword?
 
 Answers:
@@ -3498,7 +3481,7 @@ SchemaVersion: 1
 ---
 ID: 086c0395-59a1-40ba-be77-d783063d0388
 
-Question: >
+Question: |
   What was the name of the summoned creatures that aided the characters in the Final Fantasy 8 game?
 
 Answers:
@@ -3526,7 +3509,7 @@ SchemaVersion: 1
 ---
 ID: 37e4ced1-d2a8-490e-989d-85389dab1070
 
-Question: >
+Question: |
   Which character was the main villain in the American Final Fantasy 3 game?
 
 Answers:
@@ -3554,7 +3537,7 @@ SchemaVersion: 1
 ---
 ID: a7b5b6a0-ddc5-46e8-9eff-96b98d712825
 
-Question: >
+Question: |
   Which Final Fantasy game was released in North America on 7 September 1999?
 
 Answers:
@@ -3582,7 +3565,7 @@ SchemaVersion: 1
 ---
 ID: 3e548896-9757-4d52-9142-274805e87077
 
-Question: >
+Question: |
   Which one of these Final Fantasy characters didn't own an airship?
 
 Answers:
@@ -3610,7 +3593,7 @@ SchemaVersion: 1
 ---
 ID: b995d112-3253-4874-8234-9b899f6e138b
 
-Question: >
+Question: |
   What year was the first Final Fantasy game released in Japan?
 
 Answers:
@@ -3638,9 +3621,8 @@ SchemaVersion: 1
 ---
 ID: 1724022d-7ee0-40d2-930e-f7fa86e118d9
 
-Question: >
-  This character, who has appeared in nearly every Final Fantasy game, usually provides transportation to the main
-  characters.
+Question: |
+  This character, who has appeared in nearly every Final Fantasy game, usually provides transportation to the main characters.
 
 Answers:
   1: >
@@ -3667,7 +3649,7 @@ SchemaVersion: 1
 ---
 ID: 9a6ae0a1-d9db-4fa1-ae65-b72b1e947bf4
 
-Question: >
+Question: |
   In this Final Fantasy spin-off every new recruit starts out as a Squire or a Chemist.
 
 Answers:
@@ -3695,7 +3677,7 @@ SchemaVersion: 1
 ---
 ID: e0d001f2-75fd-4c93-8799-318a9507fcc6
 
-Question: >
+Question: |
   Final Fantasy X featured which mini-game?
 
 Answers:
@@ -3723,7 +3705,7 @@ SchemaVersion: 1
 ---
 ID: cbf88313-995f-4e2d-aa9d-89b9f89c4836
 
-Question: >
+Question: |
   Which video game is the following quote from?
   I've got muscles in places you've never even heard of.
 
@@ -3752,7 +3734,7 @@ SchemaVersion: 1
 ---
 ID: 516cd1e7-12d8-4cfb-8abc-8dfa3d6c0bac
 
-Question: >
+Question: |
   What is the cheat for getting 50 000 simoleans in the computer game The Sims 2?
 
 Answers:
@@ -3780,7 +3762,7 @@ SchemaVersion: 1
 ---
 ID: 859a1c20-aeeb-479d-ab4e-57b25b5b62e9
 
-Question: >
+Question: |
   What are the expansion packs available for The Sims 2 game?
 
 Answers:
@@ -3808,9 +3790,8 @@ SchemaVersion: 1
 ---
 ID: 11857266-19fc-4648-a05c-27fd2c7fe29b
 
-Question: >
-  In the computer game The Sims 2, in order for a Sim to have a baby, you must select the woohoo option on a different
-  Sim.
+Question: |
+  In the computer game The Sims 2, in order for a Sim to have a baby, you must select the woohoo option on a different Sim.
 
 Answers:
   1: >
@@ -3833,9 +3814,8 @@ SchemaVersion: 1
 ---
 ID: 5f0a1bbc-b8e4-4387-badc-95c55886d4ea
 
-Question: >
-  On the cover of the Sims 2 University expansion pack there is a picture of two Sims, one male and one female. What
-  is the male Sim wearing?
+Question: |
+  On the cover of the Sims 2 University expansion pack there is a picture of two Sims, one male and one female. What is the male Sim wearing?
 
 Answers:
   1: >
@@ -3862,7 +3842,7 @@ SchemaVersion: 1
 ---
 ID: a276709a-04dd-4460-a65e-44dc25491cb2
 
-Question: >
+Question: |
   Bella Goth is absent from the family when The Sims 2 begins.
 
 Answers:
@@ -3886,7 +3866,7 @@ SchemaVersion: 1
 ---
 ID: 9cd4db5b-e29e-47cb-b520-3973a256fa0b
 
-Question: >
+Question: |
   In Open for Business, the third expansion pack for The Sims 2, Sims may earn 25 business perks.
 
 Answers:
@@ -3910,7 +3890,7 @@ SchemaVersion: 1
 ---
 ID: abff2df0-8d9a-4103-8c6c-f26eea68c33b
 
-Question: >
+Question: |
   Was the computer game The Sims 2 made solely by EA games?
 
 Answers:
@@ -3934,7 +3914,7 @@ SchemaVersion: 1
 ---
 ID: 33c22605-2fcb-4b24-a1e2-4c95d3fc7c8c
 
-Question: >
+Question: |
   The Sims 2 game is rated E (Everyone).
 
 Answers:
@@ -3958,7 +3938,7 @@ SchemaVersion: 1
 ---
 ID: 0cacf5c1-aa39-47b9-a115-eb231e99b48a
 
-Question: >
+Question: |
   What is the name of the robot in The Sims 2, that fetches take-away food?
 
 Answers:
@@ -3986,7 +3966,7 @@ SchemaVersion: 1
 ---
 ID: 5904c890-6c70-4b34-b1cb-2b3a33b0f57e
 
-Question: >
+Question: |
   In Nightlife, the second expansion pack for The Sims 2, Sims can have their own cars.
 
 Answers:
@@ -4010,7 +3990,7 @@ SchemaVersion: 1
 ---
 ID: ceb9b18a-5255-41b4-bcdc-dc972875a199
 
-Question: >
+Question: |
   Which is not an actual die?
 
 Answers:
@@ -4038,7 +4018,7 @@ SchemaVersion: 1
 ---
 ID: 80169b8b-22ee-48a4-abe9-423dc422041e
 
-Question: >
+Question: |
   This class has the ability to smite evil.
 
 Answers:
@@ -4066,7 +4046,7 @@ SchemaVersion: 1
 ---
 ID: aadc6269-9fb2-403c-8a5a-e618e78cca1c
 
-Question: >
+Question: |
   This race doesn't sleep, they meditate instead.
 
 Answers:
@@ -4094,7 +4074,7 @@ SchemaVersion: 1
 ---
 ID: 9b2c3986-6150-495b-8efe-5026aa21836b
 
-Question: >
+Question: |
   Which of these is not a feat?
 
 Answers:
@@ -4122,7 +4102,7 @@ SchemaVersion: 1
 ---
 ID: 3e0f9129-7222-4340-be6c-c0074aab85ce
 
-Question: >
+Question: |
   You roll a d20 for attack rolls (to see if you hit your opponent).
 
 Answers:
@@ -4146,7 +4126,7 @@ SchemaVersion: 1
 ---
 ID: afdb50c6-daa0-45f7-9dbc-6db52e4def65
 
-Question: >
+Question: |
   Which item costs the most according to the Players Handbook?
 
 Answers:
@@ -4174,7 +4154,7 @@ SchemaVersion: 1
 ---
 ID: 670e7d31-3d1a-497a-b9bb-a3baa7df3c77
 
-Question: >
+Question: |
   How far can a medium sized, unencumbered creature walk in one round?
 
 Answers:
@@ -4202,7 +4182,7 @@ SchemaVersion: 1
 ---
 ID: a79f2610-b118-420a-8252-5043a28e08bd
 
-Question: >
+Question: |
   Which class casts arcane magic innately?
 
 Answers:
@@ -4230,9 +4210,8 @@ SchemaVersion: 1
 ---
 ID: 7cf5f079-d59d-4b8e-a80c-7c90ec4f02db
 
-Question: >
-  This 9th level wizard spell is sought after by many characters as a reward.  Many wizards also strive to learn this
-  spell.
+Question: |
+  This 9th level wizard spell is sought after by many characters as a reward.  Many wizards also strive to learn this spell.
 
 Answers:
   1: >
@@ -4259,7 +4238,7 @@ SchemaVersion: 1
 ---
 ID: d6b385ec-34b8-44d6-80c3-7ed433b897e7
 
-Question: >
+Question: |
   This class must choose 2 weapon fighting or archery as their weapon style at 2nd level.
 
 Answers:
@@ -4287,7 +4266,7 @@ SchemaVersion: 1
 ---
 ID: 695544b7-77b9-4295-9df4-1ed218e9d4b4
 
-Question: >
+Question: |
   Where is the first warp whistle located in the game Super Mario 3?
 
 Answers:
@@ -4315,7 +4294,7 @@ SchemaVersion: 1
 ---
 ID: c4f437ec-49c0-4a49-9004-135d8b4af98c
 
-Question: >
+Question: |
   In Mario Kart: Double Dash, what is the last thing you unlock by getting gold in the all cup tour in mirror mode?
 
 Answers:
@@ -4343,7 +4322,7 @@ SchemaVersion: 1
 ---
 ID: a58b296e-83e4-4f5a-8b09-af4e089a68ba
 
-Question: >
+Question: |
   Which of the following characters can bounce off walls in the game Super Smash Brothers Melee?
 
 Answers:
@@ -4371,7 +4350,7 @@ SchemaVersion: 1
 ---
 ID: 9598622c-99a5-4589-8f05-c32cbd6d07f7
 
-Question: >
+Question: |
   In the game Luigis Mansion, which of these in not one of Marios lost items?
 
 Answers:
@@ -4399,7 +4378,7 @@ SchemaVersion: 1
 ---
 ID: 11d08410-2719-435d-ab19-bf78f47b84aa
 
-Question: >
+Question: |
   Who is the boss at the end of world 5 in the game Super Mario 2?
 
 Answers:
@@ -4427,7 +4406,7 @@ SchemaVersion: 1
 ---
 ID: f1183d98-6abc-4609-97c4-4d44cbd452de
 
-Question: >
+Question: |
   In the game Super Mario 1, which level in world 7 is a water level?
 
 Answers:
@@ -4455,7 +4434,7 @@ SchemaVersion: 1
 ---
 ID: bf5f83eb-a6a0-41bb-9d0d-fa47b67df772
 
-Question: >
+Question: |
   In Super Mario World, you start the game on which island?
 
 Answers:
@@ -4483,7 +4462,7 @@ SchemaVersion: 1
 ---
 ID: 90b30db7-4526-4249-9726-056286a34360
 
-Question: >
+Question: |
   Which of these is not a playable character in the video game Mario Party 4?
 
 Answers:
@@ -4511,7 +4490,7 @@ SchemaVersion: 1
 ---
 ID: 4763c7cf-3ce2-49b1-b7e7-431b163a018a
 
-Question: >
+Question: |
   In the game Super Mario Sunshine, where is Bowser when you fight him at the end?
 
 Answers:
@@ -4539,7 +4518,7 @@ SchemaVersion: 1
 ---
 ID: 86bed071-ed57-4d14-9db7-c72de3b900f4
 
-Question: >
+Question: |
   What does Mario use for his power shot in the game Mario Power Tennis?
 
 Answers:
@@ -4567,7 +4546,7 @@ SchemaVersion: 1
 ---
 ID: c0f0be16-a32d-41ec-8dc2-03bed479fe53
 
-Question: >
+Question: |
   What is the God Pokemon called in Pokemon Pearl and Diamond?
 
 Answers:
@@ -4595,7 +4574,7 @@ SchemaVersion: 1
 ---
 ID: 17ac6570-a8f4-494a-be60-0be70da488e3
 
-Question: >
+Question: |
   The Pokemon creature Snorunt can evolve in which of the following?
 
 Answers:
@@ -4623,7 +4602,7 @@ SchemaVersion: 1
 ---
 ID: 259edfb3-bd3f-4b65-9862-b0e2f30e4772
 
-Question: >
+Question: |
   In what Pokemon version can Palkia be obtained?
 
 Answers:
@@ -4651,7 +4630,7 @@ SchemaVersion: 1
 ---
 ID: 41630f34-474a-464a-95bb-91040682cc1d
 
-Question: >
+Question: |
   What was the first ever ghost Pokemon to appear in a Pokemon episiode?
 
 Answers:
@@ -4679,7 +4658,7 @@ SchemaVersion: 1
 ---
 ID: 7eb77b7e-be09-4595-ab6f-4445a2543337
 
-Question: >
+Question: |
   What Pokemon abducted Professor Spencer Haled in the movie Pokemon 3?
 
 Answers:
@@ -4707,7 +4686,7 @@ SchemaVersion: 1
 ---
 ID: d956daef-9c81-458a-820c-8f1970d14914
 
-Question: >
+Question: |
   How many heroes are alive at the end of Startcraft: Brood War?
 
 Answers:
@@ -4735,7 +4714,7 @@ SchemaVersion: 1
 ---
 ID: cfe2b061-ec7c-497a-8d5a-5303eae723b1
 
-Question: >
+Question: |
   Edmund Duke leads which group of elite fighters?
 
 Answers:
@@ -4763,7 +4742,7 @@ SchemaVersion: 1
 ---
 ID: 3300d81b-b0b8-4d9a-97ad-71b7d01cd961
 
-Question: >
+Question: |
   What type of unit is Zeratul?
 
 Answers:
@@ -4791,7 +4770,7 @@ SchemaVersion: 1
 ---
 ID: 5fa60399-248a-4e48-a466-11fb38731edb
 
-Question: >
+Question: |
   What are characteristics of the Archon unit?
 
 Answers:
@@ -4819,7 +4798,7 @@ SchemaVersion: 1
 ---
 ID: d7bea65d-d87a-494c-9c9b-da9a3540fa42
 
-Question: >
+Question: |
   What unit says that in the game?
 
 Answers:
@@ -4847,7 +4826,7 @@ SchemaVersion: 1
 ---
 ID: 7209b40b-f6f7-488e-bf98-2f6d7b1cbf77
 
-Question: >
+Question: |
   What is Alexei Stukovs rank?
 
 Answers:
@@ -4875,7 +4854,7 @@ SchemaVersion: 1
 ---
 ID: 91c3c703-9680-41c0-ba17-9e6efb88245b
 
-Question: >
+Question: |
   During which mission do Edmund Duke and Fenix die?
 
 Answers:
@@ -4903,7 +4882,7 @@ SchemaVersion: 1
 ---
 ID: 6026484f-cab0-4a1c-9a23-f1ef298540de
 
-Question: >
+Question: |
   Who leads the UED (United Earth Directorate forces)?
 
 Answers:
@@ -4931,7 +4910,7 @@ SchemaVersion: 1
 ---
 ID: 2fd0c07d-8c7f-4414-82e6-24577a7d1c6d
 
-Question: >
+Question: |
   Who is Kerrigan talking to?
 
 Answers:
@@ -4959,7 +4938,7 @@ SchemaVersion: 1
 ---
 ID: dac599c8-c5b6-457e-a2c8-ad82be3502c2
 
-Question: >
+Question: |
   What is the name of the Italian plumber, that's also the mascot of Nintendo?
 
 Answers:
@@ -4987,7 +4966,7 @@ SchemaVersion: 1
 ---
 ID: 82fbc914-20a5-48f5-bd0c-a41812a204a1
 
-Question: >
+Question: |
   What does KOTOR stand for?
 
 Answers:
@@ -5015,7 +4994,7 @@ SchemaVersion: 1
 ---
 ID: 99a65282-0899-4572-beeb-8fde047134b6
 
-Question: >
+Question: |
   In the video game Rock Band you can play multiple instruments in the band.
 
 Answers:
@@ -5039,7 +5018,7 @@ SchemaVersion: 1
 ---
 ID: 021d1ac9-ac8d-4681-9e3f-290cf514e812
 
-Question: >
+Question: |
   Which Age of Empires game expansion pack allows you to play as Native Americans?
 
 Answers:
@@ -5067,7 +5046,7 @@ SchemaVersion: 1
 ---
 ID: abba55c2-9c09-4ef0-8d79-4398930f854d
 
-Question: >
+Question: |
   What is the name of Donkey Kongs tiny sidekick?
 
 Answers:
@@ -5095,7 +5074,7 @@ SchemaVersion: 1
 ---
 ID: b6f0e6aa-d7e3-4cb8-95fc-7c4030cc1927
 
-Question: >
+Question: |
   Which GTA game features Tommy Vercetti?
 
 Answers:
@@ -5123,7 +5102,7 @@ SchemaVersion: 1
 ---
 ID: 4966837e-347c-4b52-a137-af97153918c3
 
-Question: >
+Question: |
   Which game is Luis Sera featured in?
 
 Answers:
@@ -5151,7 +5130,7 @@ SchemaVersion: 1
 ---
 ID: 6c1e0e08-2a36-4927-a3c1-678b58af29fc
 
-Question: >
+Question: |
   Which of these games is not based on a comic book?
 
 Answers:
@@ -5179,7 +5158,7 @@ SchemaVersion: 1
 ---
 ID: b9c3b0ae-0234-4227-8d3e-4942031880fc
 
-Question: >
+Question: |
   Which of these songs is not in Guitar Hero 2?
 
 Answers:
@@ -5207,7 +5186,7 @@ SchemaVersion: 1
 ---
 ID: e7d6a358-80d4-4e8f-8c61-2f32bfaaf857
 
-Question: >
+Question: |
   In 2007, this game was named by IGN the 3rd best GameCube game of all time.
 
 Answers:
@@ -5235,7 +5214,7 @@ SchemaVersion: 1
 ---
 ID: 91ca78c8-b167-428a-8ad4-ba1c0fd8e30b
 
-Question: >
+Question: |
   In the Legend of Zelda: Twilight Princess, what is the name of the first sword you get?
 
 Answers:
@@ -5263,7 +5242,7 @@ SchemaVersion: 1
 ---
 ID: 86824cc0-169b-4434-bbc8-7edf2b27a2d7
 
-Question: >
+Question: |
   In The Legend of Zelda: Majoras Mask, how many days do you have until the moon crashes down on Temina?
 
 Answers:
@@ -5291,9 +5270,8 @@ SchemaVersion: 1
 ---
 ID: 1fcdb402-6add-4d1e-b9fb-c038d90481cc
 
-Question: >
-  There is at least one game of the Zelda series of games, released from 1986 to 2006, in which Zelda and Link get
-  married.
+Question: |
+  There is at least one game of the Zelda series of games, released from 1986 to 2006, in which Zelda and Link get married.
 
 Answers:
   1: >
@@ -5316,7 +5294,7 @@ SchemaVersion: 1
 ---
 ID: f63b5a2d-97b4-419a-8d03-ad6755592f57
 
-Question: >
+Question: |
   What is the name of the owner of lon-lon ranch in the Zelda series of games?
 
 Answers:
@@ -5344,9 +5322,8 @@ SchemaVersion: 1
 ---
 ID: 7517450f-0279-4476-a88c-13d497705397
 
-Question: >
-  In The Legend of Zelda: Twilight Princess, what was the name of the villain that had been fired from a joker at
-  Hyrule Castle?
+Question: |
+  In The Legend of Zelda: Twilight Princess, what was the name of the villain that had been fired from a joker at Hyrule Castle?
 
 Answers:
   1: >
@@ -5373,7 +5350,7 @@ SchemaVersion: 1
 ---
 ID: 5aff5cfd-99e2-43ae-aabe-2ce59f67bafd
 
-Question: >
+Question: |
   In the Zelda series of games, what is the name of the tribe Gannondorf comes from?
 
 Answers:
@@ -5401,7 +5378,7 @@ SchemaVersion: 1
 ---
 ID: f701472c-689e-48fa-9e85-72d31279152c
 
-Question: >
+Question: |
   Link, one of the main characters in the Zelda series of games, is a member of what race?
 
 Answers:
@@ -5429,7 +5406,7 @@ SchemaVersion: 1
 ---
 ID: 5c98dbf3-1d95-45a4-a5fa-2a97180e10be
 
-Question: >
+Question: |
   What is Links fathers name according to the Zelda series of games?
 
 Answers:
@@ -5457,7 +5434,7 @@ SchemaVersion: 1
 ---
 ID: e8c81649-c9fe-418b-a85e-cfff61ef6099
 
-Question: >
+Question: |
   In which Zelda game does Link turn into a bunny when he goes into the dark world without a pearl?
 
 Answers:
@@ -5485,7 +5462,7 @@ SchemaVersion: 1
 ---
 ID: 2504a37d-408c-4a32-b6d4-aa4f982fe7d3
 
-Question: >
+Question: |
   Which computer game is this soundtrack from?
 
 Answers:
@@ -5513,7 +5490,7 @@ SchemaVersion: 1
 ---
 ID: d2c48887-b347-475e-b955-39e652189750
 
-Question: >
+Question: |
   What island do you start on in the online role-playing game RuneScape?
 
 Answers:
@@ -5541,7 +5518,7 @@ SchemaVersion: 1
 ---
 ID: 38f871e7-fbe7-41ea-8d95-8ffeedb8e3a5
 
-Question: >
+Question: |
   What icon is used to start a low detail RuneScape game?
 
 Answers:
@@ -5569,9 +5546,8 @@ SchemaVersion: 1
 ---
 ID: eae412d4-1f74-48f6-91f9-664c7e65316a
 
-Question: >
-  What is the name of the sword used to defeat the demon in the demon slayer quest of the online role-playing game
-  RuneScape?
+Question: |
+  What is the name of the sword used to defeat the demon in the demon slayer quest of the online role-playing game RuneScape?
 
 Answers:
   1: >
@@ -5598,7 +5574,7 @@ SchemaVersion: 1
 ---
 ID: 84b0ac70-b22f-479c-a5d7-49b125db08ea
 
-Question: >
+Question: |
   In the online role-playing game RuneScape, what kind of fruit is grown in Karajama?
 
 Answers:
@@ -5626,7 +5602,7 @@ SchemaVersion: 1
 ---
 ID: d8ac68c4-6347-4afb-94d8-55c61e8074ae
 
-Question: >
+Question: |
   Priest robes raise your mage level in the mass online game RuneScape.
 
 Answers:
@@ -5650,7 +5626,7 @@ SchemaVersion: 1
 ---
 ID: aa97e98f-ab48-4999-80db-ccfc14f282a5
 
-Question: >
+Question: |
   What is the highest weapon type available to nonmembers in the online role-playing game RuneScape?
 
 Answers:
@@ -5678,7 +5654,7 @@ SchemaVersion: 1
 ---
 ID: c7329648-533f-4f4d-938d-6cfb3dcab77e
 
-Question: >
+Question: |
   What is the name of the fantasy realm in which the RuneScape game is set?
 
 Answers:
@@ -5706,7 +5682,7 @@ SchemaVersion: 1
 ---
 ID: 67e10185-9233-48e1-8a4a-d95424f6da52
 
-Question: >
+Question: |
   What does Traiborn call you in the online role-playing game RuneScape?
 
 Answers:
@@ -5734,7 +5710,7 @@ SchemaVersion: 1
 ---
 ID: f64e08c7-ea3c-42f2-bca7-6b51b825c678
 
-Question: >
+Question: |
   The action in the survival horror game Resident Evil 4 takes place in what country?
 
 Answers:
@@ -5762,7 +5738,7 @@ SchemaVersion: 1
 ---
 ID: 9a1af427-28ad-4b92-ae9c-527d07d629a1
 
-Question: >
+Question: |
   Which of the guns listed is available before you beat the Resident Evil 4 game?
 
 Answers:
@@ -5790,7 +5766,7 @@ SchemaVersion: 1
 ---
 ID: 3c2396e3-d4ee-4e92-aea6-11b4737f6f5b
 
-Question: >
+Question: |
   What is the merchants real name in the video game Resident Evil 4?
 
 Answers:
@@ -5818,9 +5794,8 @@ SchemaVersion: 1
 ---
 ID: a5f9e2b5-8dc2-40a0-a9fe-01336cf9f81d
 
-Question: >
-  This creature from the game Resident Evil 4 was created by splicing genes from reptiles, insects and a human into
-  one organism.
+Question: |
+  This creature from the game Resident Evil 4 was created by splicing genes from reptiles, insects and a human into one organism.
 
 Answers:
   1: >
@@ -5847,9 +5822,8 @@ SchemaVersion: 1
 ---
 ID: 4204154f-0009-47e4-b34e-1c7edfe40381
 
-Question: >
-  In the survival video game Resident Evil 4, the handcannon with its exclusive upgrade does 99.9 damage and has
-  infinite ammo.
+Question: |
+  In the survival video game Resident Evil 4, the handcannon with its exclusive upgrade does 99.9 damage and has infinite ammo.
 
 Answers:
   1: >
@@ -5872,9 +5846,8 @@ SchemaVersion: 1
 ---
 ID: 3aa70942-3c3a-4653-95b1-5258b0d4e09e
 
-Question: >
-  Not including the rocket launcher, what is the second most powerful weapon in Resident Evil 4, according to its
-  damage per shot?
+Question: |
+  Not including the rocket launcher, what is the second most powerful weapon in Resident Evil 4, according to its damage per shot?
 
 Answers:
   1: >
@@ -5901,7 +5874,7 @@ SchemaVersion: 1
 ---
 ID: 19b4d2d4-07cd-4671-9783-96d66313042d
 
-Question: >
+Question: |
   Whose final speech ends in We shall win through no matter the cost!
 
 Answers:
@@ -5929,7 +5902,7 @@ SchemaVersion: 1
 ---
 ID: 150b8aa0-00c4-4e24-993e-5cf4917fb33a
 
-Question: >
+Question: |
   Who kills the Matriarch?
 
 Answers:
@@ -5957,7 +5930,7 @@ SchemaVersion: 1
 ---
 ID: d5411a64-ffad-4023-b717-07cdebba5f84
 
-Question: >
+Question: |
   The words Doom to all who threaten the homeworld belong to which unit?
 
 Answers:
@@ -5985,7 +5958,7 @@ SchemaVersion: 1
 ---
 ID: ec3de7ac-68e3-449d-ae1b-2ca42b706d60
 
-Question: >
+Question: |
   What were the words of Sarah Kerrigan to Jim Raynor when they first met?
 
 Answers:
@@ -6013,7 +5986,7 @@ SchemaVersion: 1
 ---
 ID: 4cd04bc8-bdeb-4dfd-b613-b0ee8315113c
 
-Question: >
+Question: |
   How many hit points does the Arclite Siege Tank have?
 
 Answers:
@@ -6041,7 +6014,7 @@ SchemaVersion: 1
 ---
 ID: f975a39d-82a6-4eaf-b7c1-1c67c3db5a3a
 
-Question: >
+Question: |
   Listen to the dialogue and determine what name is missing at the end
 
 Answers:
@@ -6069,7 +6042,7 @@ SchemaVersion: 1
 ---
 ID: bd272b22-dc82-4474-bc18-fa9b0206beee
 
-Question: >
+Question: |
   What video game hero do these words belong to: I fear no death, I fear no enemy, our strength is eternal?
 
 Answers:
@@ -6097,7 +6070,7 @@ SchemaVersion: 1
 ---
 ID: b663ca36-2339-431f-9739-de454097e2db
 
-Question: >
+Question: |
   What is the official version for the death of Alexei Stukov?
 
 Answers:
@@ -6125,7 +6098,7 @@ SchemaVersion: 1
 ---
 ID: a22f99ff-5913-4054-9508-d242d5b5499d
 
-Question: >
+Question: |
   Which unit says You called down the Thunder, now reap the Whirlwind.
 
 Answers:
@@ -6153,7 +6126,7 @@ SchemaVersion: 1
 ---
 ID: d2c63f55-af97-4f7b-aa7d-ae5a5a4bf40d
 
-Question: >
+Question: |
   This sound clip is from what classic Nintendo game?
 
 Answers:
@@ -6181,7 +6154,7 @@ SchemaVersion: 1
 ---
 ID: a680dbe3-2814-4ae1-b3c4-af75efac8ed8
 
-Question: >
+Question: |
   This sound clip is from what NES game featuring a creature that could eat anything?
 
 Answers:
@@ -6209,7 +6182,7 @@ SchemaVersion: 1
 ---
 ID: 879e8cd5-7630-49a5-b46f-45a75bade9b4
 
-Question: >
+Question: |
   This is the theme to what Xbox video game?
 
 Answers:
@@ -6237,9 +6210,8 @@ SchemaVersion: 1
 ---
 ID: 4dac3e04-4b63-45b9-96b0-4f77ab43b921
 
-Question: >
-  This is the overworld theme to this NES game that introduced the save function because the game took so long to
-  complete.
+Question: |
+  This is the overworld theme to this NES game that introduced the save function because the game took so long to complete.
 
 Answers:
   1: >
@@ -6266,7 +6238,7 @@ SchemaVersion: 1
 ---
 ID: c19e336e-8153-4304-925b-452d7242b634
 
-Question: >
+Question: |
   This is the victory theme to what popular video game series?
 
 Answers:
@@ -6294,7 +6266,7 @@ SchemaVersion: 1
 ---
 ID: fc2a5150-326c-4acd-b4b7-36280b038a64
 
-Question: >
+Question: |
   From which fighting game is this sound clip?
 
 Answers:
@@ -6322,7 +6294,7 @@ SchemaVersion: 1
 ---
 ID: d1b2dd39-a170-411f-a4d6-ac46161f1d72
 
-Question: >
+Question: |
   This sound clip is from what Game Boy game that spawned an anime TV show and a collectible card game?
 
 Answers:
@@ -6350,7 +6322,7 @@ SchemaVersion: 1
 ---
 ID: af505fa7-e59f-4b66-9c60-9f629b78f3e1
 
-Question: >
+Question: |
   This sound clip is from what PC RTS game?
 
 Answers:
@@ -6378,7 +6350,7 @@ SchemaVersion: 1
 ---
 ID: adf5e726-adc8-4e5c-b46e-c0cea1ca8c4d
 
-Question: >
+Question: |
   This sound clip is a theme in which of the following Legend of Zelda games?
 
 Answers:
@@ -6406,7 +6378,7 @@ SchemaVersion: 1
 ---
 ID: f6cd93e1-4f7b-4289-b522-8ec744e09020
 
-Question: >
+Question: |
   This sound clip is from what video game series?
 
 Answers:
@@ -6434,7 +6406,7 @@ SchemaVersion: 1
 ---
 ID: 6d14b889-337d-4168-8cd1-84e4090960ac
 
-Question: >
+Question: |
   Which of these levels is on both Star Wars: Battlefront 1 and 2?
 
 Answers:
@@ -6462,7 +6434,7 @@ SchemaVersion: 1
 ---
 ID: d2c44faf-9474-49d4-9ff4-b88bd36fcb54
 
-Question: >
+Question: |
   You can control Jedi on both Star Wars: Battlefront 1 and 2.
 
 Answers:
@@ -6486,7 +6458,7 @@ SchemaVersion: 1
 ---
 ID: 07d92acb-26f3-4fbd-96f7-3b57a2f4d617
 
-Question: >
+Question: |
   What is the default number of points to destroy a ship in a space battle on Star Wars: Battlefront  2?
 
 Answers:
@@ -6514,7 +6486,7 @@ SchemaVersion: 1
 ---
 ID: d0e98831-f33d-48ba-b9a8-3446b996f761
 
-Question: >
+Question: |
   Choose the correct order for player points bonuses in Star Wars: Battlefront from least to greatest.
 
 Answers:
@@ -6542,7 +6514,7 @@ SchemaVersion: 1
 ---
 ID: 0c613bd0-2d03-4b58-9359-e273df7e1fd9
 
-Question: >
+Question: |
   The two levels on Kashyyyk on Star Wars: Battlefront 1 are Islands and Docks.
 
 Answers:
@@ -6566,7 +6538,7 @@ SchemaVersion: 1
 ---
 ID: e0e762b1-a96f-48d6-bc92-f416777e96d4
 
-Question: >
+Question: |
   On the Star Wars: Battlefront game, which of these is among the non-player characters of the game?
 
 Answers:
@@ -6594,7 +6566,7 @@ SchemaVersion: 1
 ---
 ID: 37fbb777-014f-44c6-8fcb-d0a2ba3e1592
 
-Question: >
+Question: |
   Who controls the AT-ATs on Hoth in Star Wars: Battlefront?
 
 Answers:
@@ -6622,7 +6594,7 @@ SchemaVersion: 1
 ---
 ID: abcbe812-1fd9-4a9a-87b3-d1195061c7ca
 
-Question: >
+Question: |
   Warchief Thrall is the leader of which clan?
 
 Answers:
@@ -6650,7 +6622,7 @@ SchemaVersion: 1
 ---
 ID: a66d0e8e-c0d2-48c7-aa1a-ca217d98a992
 
-Question: >
+Question: |
   What type of creature is the DeathWing?
 
 Answers:
@@ -6678,7 +6650,7 @@ SchemaVersion: 1
 ---
 ID: 973b36ad-85c8-451c-af02-a3f6300b893f
 
-Question: >
+Question: |
   What unit or hero does the phrase Speak up fool belong to?
 
 Answers:
@@ -6706,7 +6678,7 @@ SchemaVersion: 1
 ---
 ID: c4aceaac-bd58-4784-92d6-32e31eb3c406
 
-Question: >
+Question: |
   Who kills Mannoroth?
 
 Answers:
@@ -6734,7 +6706,7 @@ SchemaVersion: 1
 ---
 ID: 93e5ceab-c78c-4394-8787-564926bb4ab8
 
-Question: >
+Question: |
   What unit or hero does this phrase belong to?
 
 Answers:
@@ -6762,7 +6734,7 @@ SchemaVersion: 1
 ---
 ID: 74c90a2c-0e2e-4d33-b623-8f8cc79b9e6e
 
-Question: >
+Question: |
   Which building makes the Druid of the Claw unit?
 
 Answers:
@@ -6790,7 +6762,7 @@ SchemaVersion: 1
 ---
 ID: f4684249-0937-4cf4-a609-9e9e831690b2
 
-Question: >
+Question: |
   In World of Warcraft, who rides Nightsabre Panthers?
 
 Answers:
@@ -6818,7 +6790,7 @@ SchemaVersion: 1
 ---
 ID: 21e84168-cef7-45bc-a1a5-cd6b76b7567f
 
-Question: >
+Question: |
   In World of Warcraft, what unit or hero does the phrase "I can see clearly, now the rain has gone" belong to?
 
 Answers:
@@ -6846,7 +6818,7 @@ SchemaVersion: 1
 ---
 ID: 9c5c3b03-e042-475d-9af8-873a0657a57a
 
-Question: >
+Question: |
   In the Pokemon TV series, Ash saw a Gyarados in the first episode.
 
 Answers:
@@ -6870,7 +6842,7 @@ SchemaVersion: 1
 ---
 ID: e186ca65-b686-48d0-8f89-067c9454b597
 
-Question: >
+Question: |
   On what other character is Ash Ketchum loosely based in the Pokemon video games?
 
 Answers:
@@ -6898,7 +6870,7 @@ SchemaVersion: 1
 ---
 ID: 5e85fdfd-38c2-4174-b8a3-a6b78145432b
 
-Question: >
+Question: |
   Is the Pokemon character Raikou included in any of the first ten Pokemon movies?
 
 Answers:
@@ -6922,7 +6894,7 @@ SchemaVersion: 1
 ---
 ID: 914e0398-77bb-433e-a196-135a50da877a
 
-Question: >
+Question: |
   What is the first season of Johto called in Pokemon series?
 
 Answers:
@@ -6950,7 +6922,7 @@ SchemaVersion: 1
 ---
 ID: 8fd9a1a6-6120-4bb3-a16e-db716bcf90a7
 
-Question: >
+Question: |
   Was the tenth Pokemon movie released simultaneously in Japan and the USA?
 
 Answers:
@@ -6974,7 +6946,7 @@ SchemaVersion: 1
 ---
 ID: 6d1efdd1-f665-4fbd-9bf7-bdeaa9d1717c
 
-Question: >
+Question: |
   Where can you find the gym leader Blaine in the video games Pokemon Gold and Silver and Pokemon Crystal?
 
 Answers:
@@ -7002,7 +6974,7 @@ SchemaVersion: 1
 ---
 ID: 41776891-6c05-4f89-b198-14e1b974740c
 
-Question: >
+Question: |
   What is the very first car you drive in the Need for Speed: Most Wanted game?
 
 Answers:
@@ -7030,7 +7002,7 @@ SchemaVersion: 1
 ---
 ID: f0e8d3c9-4f7f-45d4-925b-55194e0dff65
 
-Question: >
+Question: |
   There are a total of 20 blacklist drivers in the game Need for Speed: Most Wanted.
 
 Answers:
@@ -7054,7 +7026,7 @@ SchemaVersion: 1
 ---
 ID: 6752c0db-c789-4c76-8f52-f049d3993a5c
 
-Question: >
+Question: |
   In the racing game Need for Speed: Most Wanted, what are the street names of  Blacklist numbers 1, 4, 7, and 15?
 
 Answers:
@@ -7082,7 +7054,7 @@ SchemaVersion: 1
 ---
 ID: 69a699da-56ad-4bce-b305-f8726fc3185c
 
-Question: >
+Question: |
   How many maximum infractions can you get in a single pursuit in the game Need for Speed: Most Wanted?
 
 Answers:
@@ -7110,7 +7082,7 @@ SchemaVersion: 1
 ---
 ID: dd7510de-dd8a-4d30-a719-dbbb5e9ed2f3
 
-Question: >
+Question: |
   Do you have a rap sheet in the game Need for Speed: Most Wanted?
 
 Answers:
@@ -7134,9 +7106,8 @@ SchemaVersion: 1
 ---
 ID: 4d1813dd-74de-4587-a351-d18ddc544129
 
-Question: >
-  Which of the following refers to the ability to win a Blacklist opponent's car in the game Need for Speed: Most
-  Wanted?
+Question: |
+  Which of the following refers to the ability to win a Blacklist opponent's car in the game Need for Speed: Most Wanted?
 
 Answers:
   1: >
@@ -7163,7 +7134,7 @@ SchemaVersion: 1
 ---
 ID: f010686b-472d-4c0f-bb4f-34bdfe326731
 
-Question: >
+Question: |
   In the racing game Need for Speed: Most Wanted, where is is Blacklist number one located?
 
 Answers:
@@ -7191,7 +7162,7 @@ SchemaVersion: 1
 ---
 ID: 94ea667e-f247-4d98-a5ab-50d817280342
 
-Question: >
+Question: |
   Who created the theme song of the Super Mario Brothers game?
 
 Answers:
@@ -7219,7 +7190,7 @@ SchemaVersion: 1
 ---
 ID: 63f64c10-f964-4edc-8043-bc8e5dfafba2
 
-Question: >
+Question: |
   Shigeru Miyamoto constructed the arcade game Donkey Kongs music himself, using an Electronic Keyboard.
 
 Answers:
@@ -7243,9 +7214,8 @@ SchemaVersion: 1
 ---
 ID: 81d93e48-53a3-4f1e-9e8b-bf1caf1fbad7
 
-Question: >
-  The core of this gaming console, released in 1977, was combined with a display and sound chip known as the TIA, for
-  Television Interface Adaptor.  The console was capable of producing 2 channel mono sound.
+Question: |
+  The core of this gaming console, released in 1977, was combined with a display and sound chip known as the TIA, for Television Interface Adaptor.  The console was capable of producing 2 channel mono sound.
 
 Answers:
   1: >
@@ -7272,10 +7242,8 @@ SchemaVersion: 1
 ---
 ID: 435b4fb2-801e-4b9a-879d-a7115deab2b8
 
-Question: >
-  The sound chip of the Commodore 64 home computer, released in 1982, was very advanced for its time.  It had three
-  channels with several different waveforms, which could reach 8 different octaves each (approximately 16 - 4000 Hz).
-  Name the chip.
+Question: |
+  The sound chip of the Commodore 64 home computer, released in 1982, was very advanced for its time.  It had three channels with several different waveforms, which could reach 8 different octaves each (approximately 16 - 4000 Hz).  Name the chip.
 
 Answers:
   1: >
@@ -7302,9 +7270,8 @@ SchemaVersion: 1
 ---
 ID: 4eff852d-2a69-4c23-9e3b-42b8e8b67526
 
-Question: >
-  My rogue in the game Dungeons and Dragons wants to use a wand of Greater Invisibility. In order to do this he must
-  make a Use Magic Device check at what Difficulty Class?
+Question: |
+  My rogue in the game Dungeons and Dragons wants to use a wand of Greater Invisibility. In order to do this he must make a Use Magic Device check at what Difficulty Class?
 
 Answers:
   1: >
@@ -7331,7 +7298,7 @@ SchemaVersion: 1
 ---
 ID: 5062f3eb-2c90-4c4e-a223-ca05bbc703ff
 
-Question: >
+Question: |
   Which of the listed bonuses in the game Dungeons and Dragons stacks?
 
 Answers:
@@ -7359,9 +7326,8 @@ SchemaVersion: 1
 ---
 ID: f1aba406-d966-4fa7-b4eb-c0fd6c6e5655
 
-Question: >
-  Which of these feats does not prevent attacks of opportunity in one form or another in the role-playing game
-  Dungeons and Dragons?
+Question: |
+  Which of these feats does not prevent attacks of opportunity in one form or another in the role-playing game Dungeons and Dragons?
 
 Answers:
   1: >
@@ -7388,7 +7354,7 @@ SchemaVersion: 1
 ---
 ID: 1f81eafa-4f6f-439e-9ce4-17ccfe6ee459
 
-Question: >
+Question: |
   Which Knowledge Skill would allow you to determine the type of Giant you are facing in Dungeons and Dragons?
 
 Answers:
@@ -7416,9 +7382,8 @@ SchemaVersion: 1
 ---
 ID: 0c8175f5-745c-4b41-b1ff-680f7586bb3e
 
-Question: >
-  In the game Dungeons and Dragons, a character with 5 ranks in Bluff gains a +2 synergy bonus to all these skills but
-  one. Which is the odd one?
+Question: |
+  In the game Dungeons and Dragons, a character with 5 ranks in Bluff gains a +2 synergy bonus to all these skills but one. Which is the odd one?
 
 Answers:
   1: >
@@ -7445,7 +7410,7 @@ SchemaVersion: 1
 ---
 ID: 8cdc4cec-4bb9-4576-b1fb-e4aa79b90674
 
-Question: >
+Question: |
   Which of these is not a correct entrance requirement to join the Assassin Prestige Class in Dungeons and Dragons?
 
 Answers:
@@ -7473,7 +7438,7 @@ SchemaVersion: 1
 ---
 ID: 2f99f02b-fe9b-49d2-a73f-ed32ca1eae02
 
-Question: >
+Question: |
   In the game Dungeons and Dragons, Aamonks Ki Strike ability evolves in what order?
 
 Answers:
@@ -7501,9 +7466,8 @@ SchemaVersion: 1
 ---
 ID: a60a9487-8776-4ae7-9b8e-1b744155051e
 
-Question: >
-  In Dungeons and Dragons, the Tumble Difficulty Class needed to kip up, according the Complete Adventurer book, is
-  what?
+Question: |
+  In Dungeons and Dragons, the Tumble Difficulty Class needed to kip up, according the Complete Adventurer book, is what?
 
 Answers:
   1: >
@@ -7530,7 +7494,7 @@ SchemaVersion: 1
 ---
 ID: a58d89d7-9356-4266-b1c2-dee670fa268a
 
-Question: >
+Question: |
   Which class in Dungeons and Dragons does not get evasion?
 
 Answers:
@@ -7558,7 +7522,7 @@ SchemaVersion: 1
 ---
 ID: 64822a0f-b123-41da-bfb5-5b7fae4decf6
 
-Question: >
+Question: |
   Of the choices for a Rangers favored enemy in Dungeons and Dragons, which number is immune to sneak attacks?
 
 Answers:
@@ -7586,7 +7550,7 @@ SchemaVersion: 1
 ---
 ID: d33d750e-d97a-4b8e-a8ce-dd2fa823474e
 
-Question: >
+Question: |
   How many golden skulltulas could you get as child Link out of the whole game The Legend of Zelda: Ocarina of Time?
 
 Answers:
@@ -7614,7 +7578,7 @@ SchemaVersion: 1
 ---
 ID: 6274760e-3ecd-40f2-bed8-477b7696cca7
 
-Question: >
+Question: |
   How many heart pieces can you get as adult Link in the game The Legend of Zelda: Ocarina of Time?
 
 Answers:
@@ -7642,7 +7606,7 @@ SchemaVersion: 1
 ---
 ID: 8fcda844-5d5e-4cc4-ad38-d742a934e568
 
-Question: >
+Question: |
   In the video game The Legend of Zelda: Ocarina of Time, what are the two places where you can get the hylian shield?
 
 Answers:
@@ -7670,7 +7634,7 @@ SchemaVersion: 1
 ---
 ID: d86adfd2-1086-4c59-884f-c407a0ee153d
 
-Question: >
+Question: |
   In The Legend of Zelda: Ocarina of Time, how many items do you get that are improved later in the game?
 
 Answers:
@@ -7698,7 +7662,7 @@ SchemaVersion: 1
 ---
 ID: 6faaa0ad-aba2-464a-a285-04b593ac685c
 
-Question: >
+Question: |
   In The Legend of Zelda: Ocarina of Time, how many items do you trade to get the Biggorons sword?
 
 Answers:
@@ -7726,9 +7690,8 @@ SchemaVersion: 1
 ---
 ID: faaeb5fe-8660-4618-a0d9-db7b2aae7df6
 
-Question: >
-  In the video game The Legend of Zelda: Ocarina of Time, Link wore tunics in three colors. They were green, red and
-  yellow.
+Question: |
+  In the video game The Legend of Zelda: Ocarina of Time, Link wore tunics in three colors. They were green, red and yellow.
 
 Answers:
   1: >
@@ -7751,9 +7714,8 @@ SchemaVersion: 1
 ---
 ID: 07cd6c46-4661-49bd-88e2-072f50379daa
 
-Question: >
-  How many hidden fairy fountains are there in the game The Legend of Zelda: Ocarina of Time, not counting the great
-  fairies?
+Question: |
+  How many hidden fairy fountains are there in the game The Legend of Zelda: Ocarina of Time, not counting the great fairies?
 
 Answers:
   1: >
@@ -7780,7 +7742,7 @@ SchemaVersion: 1
 ---
 ID: 082f7b58-c268-44f0-ae6e-a97760d13eaa
 
-Question: >
+Question: |
   Which of the following is NOT a character class in World of Warcraft?
 
 Answers:
@@ -7808,7 +7770,7 @@ SchemaVersion: 1
 ---
 ID: 978beeb5-bc44-4345-b961-7c3caee75bb3
 
-Question: >
+Question: |
   Which of the following races cannot play a Hunter in World of Warcraft?
 
 Answers:
@@ -7836,7 +7798,7 @@ SchemaVersion: 1
 ---
 ID: deba1182-177d-487d-bc87-2a5711977258
 
-Question: >
+Question: |
   The Horde and the Alliance are the two playable factions in World of Warcraft.
 
 Answers:
@@ -7860,7 +7822,7 @@ SchemaVersion: 1
 ---
 ID: fb82969b-1f50-4624-98c1-14861e41978b
 
-Question: >
+Question: |
   In World of Warcraft, it is possible to fly from Theramore to Stormwind.
 
 Answers:
@@ -7884,7 +7846,7 @@ SchemaVersion: 1
 ---
 ID: 92ffe23c-ec2a-486f-af6a-c0aa8e683242
 
-Question: >
+Question: |
   In World of Warcraft, it is sometimes necessary to fight other groups of players inside an instance.
 
 Answers:
@@ -7908,7 +7870,7 @@ SchemaVersion: 1
 ---
 ID: 1de030ae-13bb-4f32-9298-1ea9b7572206
 
-Question: >
+Question: |
   Which of the following is not a realm type in World of Warcraft?
 
 Answers:
@@ -7936,7 +7898,7 @@ SchemaVersion: 1
 ---
 ID: 7212d794-77b8-4d37-ac46-a2af146c6c3d
 
-Question: >
+Question: |
   What is the Iron Maiden song performed in Guitar Hero 3?
 
 Answers:
@@ -7964,7 +7926,7 @@ SchemaVersion: 1
 ---
 ID: ddc31686-19bb-461f-b9ee-3395aa2d1397
 
-Question: >
+Question: |
   Who sings Slow Ride, one of the songs included in Guitar Hero 3?
 
 Answers:
@@ -7992,7 +7954,7 @@ SchemaVersion: 1
 ---
 ID: f5307fe5-d282-46db-b785-17906e62d4db
 
-Question: >
+Question: |
   What song by Tenacious D appeared in the video game Guitar Hero 3?
 
 Answers:
@@ -8020,7 +7982,7 @@ SchemaVersion: 1
 ---
 ID: d65838a0-daba-4fbd-aec9-863fa6331572
 
-Question: >
+Question: |
   Tom Morello is a member of the band Sonic Youth.
 
 Answers:
@@ -8044,7 +8006,7 @@ SchemaVersion: 1
 ---
 ID: 16184275-b07f-44ae-913f-e3d8fe92d9a9
 
-Question: >
+Question: |
   What is the first place you get a gig at on Guitar Hero 3?
 
 Answers:
@@ -8072,7 +8034,7 @@ SchemaVersion: 1
 ---
 ID: a5a925a9-49f4-498e-a32c-eae547a6509c
 
-Question: >
+Question: |
   What is the way to evolve the pokemon Tangela to tangrowth in the Diamond and Pearl Pokemon series?
 
 Answers:
@@ -8100,7 +8062,7 @@ SchemaVersion: 1
 ---
 ID: d52f21ba-ae59-49ac-a3a5-b07729540d88
 
-Question: >
+Question: |
   How do you evolve Rhydon into Rhyperior in the Diamond and Pearl Pokemon series?
 
 Answers:
@@ -8128,7 +8090,7 @@ SchemaVersion: 1
 ---
 ID: b94100cf-85c9-4c14-9ac8-5471b7a34bc8
 
-Question: >
+Question: |
   In what way can you evolve the pokemon Gilgar into Gliscor in the Diamond and Pearl Pokemon series for Nintendo DS?
 
 Answers:
@@ -8156,7 +8118,7 @@ SchemaVersion: 1
 ---
 ID: bed9014b-ec2b-40b2-a424-9f9ee58c567e
 
-Question: >
+Question: |
   How do you evolve an Electabuzz into an Electrivire in the Diamond and Pearl Pokemon series?
 
 Answers:
@@ -8184,7 +8146,7 @@ SchemaVersion: 1
 ---
 ID: 84772439-6aa2-4b10-9180-e367799eeddc
 
-Question: >
+Question: |
   In Pokemon Diamond and Pearl, in what way do you evolve a Porygon2 into a Porygon-Z?
 
 Answers:
@@ -8212,7 +8174,7 @@ SchemaVersion: 1
 ---
 ID: 4d2f1681-9d8f-438b-ba02-3a15497cf9c0
 
-Question: >
+Question: |
   What is the way to evolve a Yanma into a Yanmega in the Diamond and Pearl Pokemon series for Nintendo DS?
 
 Answers:
@@ -8240,7 +8202,7 @@ SchemaVersion: 1
 ---
 ID: 6f4e9890-2534-4702-b4c5-ed66fb163a92
 
-Question: >
+Question: |
   Which of these is the correct way to evolve a Kirlia into a Gallade in Pokemon Diamond and Pearl?
 
 Answers:
@@ -8268,9 +8230,8 @@ SchemaVersion: 1
 ---
 ID: 461d0fb6-675c-485f-aee5-c041bdbc9a1d
 
-Question: >
-  In what way can you evolve the pokemon Snorunt into a Frosslass in the Diamond and Pearl Pokemon series for Nintendo
-  DS?
+Question: |
+  In what way can you evolve the pokemon Snorunt into a Frosslass in the Diamond and Pearl Pokemon series for Nintendo DS?
 
 Answers:
   1: >
@@ -8297,7 +8258,7 @@ SchemaVersion: 1
 ---
 ID: d3e3e1a5-ee40-46b6-8adb-5dacc481ba5d
 
-Question: >
+Question: |
   How do you evolve a Dusclops into a Duskinoir in Pokemon Diamond and Pearl?
 
 Answers:
@@ -8325,7 +8286,7 @@ SchemaVersion: 1
 ---
 ID: 114e1cce-cbc6-461e-89bc-38f4b53e048d
 
-Question: >
+Question: |
   At what location does the PS2 role-playing game Final Fantasy X start?
 
 Answers:
@@ -8353,7 +8314,7 @@ SchemaVersion: 1
 ---
 ID: 88f30bc8-bdc1-48c8-828e-fc6ee8bf59af
 
-Question: >
+Question: |
   Which other team member do you meet first in the PS2 game Final Fantasy X?
 
 Answers:
@@ -8381,7 +8342,7 @@ SchemaVersion: 1
 ---
 ID: 6bc0a5ef-cddf-45f3-9f6b-1a30cb7d95e7
 
-Question: >
+Question: |
   In Final Fantasy X, where does Yuna perform her first Sending?
 
 Answers:
@@ -8409,9 +8370,8 @@ SchemaVersion: 1
 ---
 ID: 7221d17a-1d9e-426f-b3c0-a5d6d81272e2
 
-Question: >
-  In Final Fantasy X, when you enter the Farplane in Guadosalam to talk to Yunas father, Auron stays behind because he
-  is scared of confronting Jecht.
+Question: |
+  In Final Fantasy X, when you enter the Farplane in Guadosalam to talk to Yunas father, Auron stays behind because he is scared of confronting Jecht.
 
 Answers:
   1: >
@@ -8434,7 +8394,7 @@ SchemaVersion: 1
 ---
 ID: 26879264-5ef7-4127-a8a9-ed832d31740a
 
-Question: >
+Question: |
   Which of these is not a blitzball team from the PS2 game Final Fantasy X?
 
 Answers:
@@ -8462,9 +8422,8 @@ SchemaVersion: 1
 ---
 ID: 5ae61617-11a0-4b86-8423-080b5ae4f0e6
 
-Question: >
-  In Final Fantasy X, where do you get each of the following aeons respectively: Ifrit, Shiva, Yojimbo, Valefor, Magus
-  Sisters, Ixion?
+Question: |
+  In Final Fantasy X, where do you get each of the following aeons respectively: Ifrit, Shiva, Yojimbo, Valefor, Magus Sisters, Ixion?
 
 Answers:
   1: >
@@ -8491,7 +8450,7 @@ SchemaVersion: 1
 ---
 ID: 94ac6c94-c82d-47db-abcc-28ed06990d35
 
-Question: >
+Question: |
   Where is Maester Seymour the final time you have to fight him in the PS2 role-playing game Final Fantasy X?
 
 Answers:
@@ -8519,9 +8478,8 @@ SchemaVersion: 1
 ---
 ID: 917fbeec-4e55-4723-8cdf-f4d7d36d9ed7
 
-Question: >
-  According to Final Fantasy X, what does this sentence in the Al Bhed language translate to: Xna ehi ayo degurk e
-  wouj?
+Question: |
+  According to Final Fantasy X, what does this sentence in the Al Bhed language translate to: Xna ehi ayo degurk e wouj?
 
 Answers:
   1: >
@@ -8548,7 +8506,7 @@ SchemaVersion: 1
 ---
 ID: 858be546-bae7-41d9-95f3-f1b0c7d09ef2
 
-Question: >
+Question: |
   In Yunas speech at the end of Final Fantasy X, what phrase is an almost direct reference to Tidus?
 
 Answers:
@@ -8576,7 +8534,7 @@ SchemaVersion: 1
 ---
 ID: b711a063-6423-4c25-9595-6c734c2acd06
 
-Question: >
+Question: |
   What does Sarias Song do in Legend of Zelda Ocarina of Time?
 
 Answers:
@@ -8604,7 +8562,7 @@ SchemaVersion: 1
 ---
 ID: 7dd001ee-7356-471a-893e-22d257dba446
 
-Question: >
+Question: |
   In Legend of Zelda Majoras Mask you are transformed into a Zora by Ganondorf.
 
 Answers:
@@ -8628,9 +8586,8 @@ SchemaVersion: 1
 ---
 ID: 15bd7782-75ed-4db1-9382-24d3adcba5f8
 
-Question: >
-  Is it true that in Legend of Zelda Twilight Princess, after you get the Master Sword you can transform into a wolf
-  any time you like?
+Question: |
+  Is it true that in Legend of Zelda Twilight Princess, after you get the Master Sword you can transform into a wolf any time you like?
 
 Answers:
   1: >
@@ -8653,9 +8610,8 @@ SchemaVersion: 1
 ---
 ID: 908bdf7b-6363-4617-a10a-6c1a6404d58b
 
-Question: >
-  Is it true that in Legend of Zelda and the Wind Waker, after you beat the game you can make a new file and not get
-  Links green clothing?
+Question: |
+  Is it true that in Legend of Zelda and the Wind Waker, after you beat the game you can make a new file and not get Links green clothing?
 
 Answers:
   1: >
@@ -8678,7 +8634,7 @@ SchemaVersion: 1
 ---
 ID: 476feb5f-49b5-4033-b48b-3c502d3ab524
 
-Question: >
+Question: |
   In Legend of Zelda Ocarina of Time, once you pull out the Master Sword you will become older.
 
 Answers:
@@ -8702,7 +8658,7 @@ SchemaVersion: 1
 ---
 ID: dd7fac7c-efb6-4915-86cc-e4ca1ab7495b
 
-Question: >
+Question: |
   Is it true that in the whole Legend of Zelda series, the currency is rupees?
 
 Answers:
@@ -8726,7 +8682,7 @@ SchemaVersion: 1
 ---
 ID: cfa8236f-9302-44ea-ba09-d6fc3d9d282b
 
-Question: >
+Question: |
   Where can you find the Spiritual Gem of Water in Legend of Zelda and the Ocarina of Time?
 
 Answers:
@@ -8754,7 +8710,7 @@ SchemaVersion: 1
 ---
 ID: e7b6e2cc-6c4f-4cbe-8bf8-97ac53829c2e
 
-Question: >
+Question: |
   What game console is the strategy video game Thrillville available on?
 
 Answers:
@@ -8782,7 +8738,7 @@ SchemaVersion: 1
 ---
 ID: ec03fa9a-25c7-4c6f-b821-ae0fd7f54a51
 
-Question: >
+Question: |
   In the strategy video game Thrillville, there are 4 categories in the park menu.
 
 Answers:
@@ -8806,7 +8762,7 @@ SchemaVersion: 1
 ---
 ID: eaaaf870-059d-417e-b4e6-122f055243e9
 
-Question: >
+Question: |
   Can you take control of your staff members in the Thrillville video game strategy?
 
 Answers:
@@ -8830,7 +8786,7 @@ SchemaVersion: 1
 ---
 ID: a0db8dcc-a5cd-46c2-98b6-4ea7cb63f780
 
-Question: >
+Question: |
   In the simulation and strategy Thrillville, what is the best way to increase your attraction meter?
 
 Answers:
@@ -8858,7 +8814,7 @@ SchemaVersion: 1
 ---
 ID: d441d234-dbb4-4ca4-82bb-1aaf6c7162d5
 
-Question: >
+Question: |
   The video game Thrillville is rated T by the Entertainment Software Rating Board (ESRB).
 
 Answers:
@@ -8882,7 +8838,7 @@ SchemaVersion: 1
 ---
 ID: 40929a64-cabe-4b1c-9eca-0361b470e6f1
 
-Question: >
+Question: |
   In the Thrillville strategy video game you can't make money off of mini-games.
 
 Answers:
@@ -8906,7 +8862,7 @@ SchemaVersion: 1
 ---
 ID: c1b02a5c-851e-45d1-8923-7531aa108ed3
 
-Question: >
+Question: |
   In the Thrillville video game, can you make money off of playing mini-golf?
 
 Answers:
@@ -8930,7 +8886,7 @@ SchemaVersion: 1
 ---
 ID: 5c4eec57-63de-469b-bd26-de3b2af62bc3
 
-Question: >
+Question: |
   You suck up trash by using a vacuum gun in the Thrillville video game.
 
 Answers:
@@ -8954,7 +8910,7 @@ SchemaVersion: 1
 ---
 ID: cb9faace-79c9-434c-85e1-be9906ad5e3b
 
-Question: >
+Question: |
   Who are the people that save the gang from Tabuu in Super Smash Bros. Brawl?
 
 Answers:
@@ -8982,7 +8938,7 @@ SchemaVersion: 1
 ---
 ID: ce7cdefc-8a37-40c3-a70d-f1b2f54548d3
 
-Question: >
+Question: |
   How many rooms are there in the Great Maze in Super Smash Bros. Brawl?
 
 Answers:
@@ -9010,7 +8966,7 @@ SchemaVersion: 1
 ---
 ID: f6a9445b-53b7-4bb7-a53f-0497b03310bc
 
-Question: >
+Question: |
   What character from Super Smash Bros. Brawl was not in Super Smash Bros. Melee?
 
 Answers:
@@ -9038,7 +8994,7 @@ SchemaVersion: 1
 ---
 ID: 61eb8e1a-9f3c-46a1-be56-1f3bdb9f2a2e
 
-Question: >
+Question: |
   Including the Melee Pokemon Stadium, how many stadiums in Super Smash Bros. Brawl are related to Pokemon?
 
 Answers:
@@ -9066,7 +9022,7 @@ SchemaVersion: 1
 ---
 ID: 5472623f-51ff-452a-9866-da9b35cca0a3
 
-Question: >
+Question: |
   What is the function of the the Astral Amulet in the computer game Chrono Cross?
 
 Answers:
@@ -9094,7 +9050,7 @@ SchemaVersion: 1
 ---
 ID: 2aba5ff4-0052-4a0a-a188-877e90e6e9c6
 
-Question: >
+Question: |
   In the computer game Chrono Cross, the water dragon gives you what ability?
 
 Answers:
@@ -9122,9 +9078,8 @@ SchemaVersion: 1
 ---
 ID: 448a3875-0926-4611-9f0f-a10d3c2a9bf0
 
-Question: >
-  Who made the following statement in the game Chrono Cross: I love you so much... That is why I sometimes desire to
-  smash you to bits!!!?
+Question: |
+  Who made the following statement in the game Chrono Cross: I love you so much... That is why I sometimes desire to smash you to bits!!!?
 
 Answers:
   1: >
@@ -9151,7 +9106,7 @@ SchemaVersion: 1
 ---
 ID: e5ad0c11-9cfc-4d2a-b840-828511c7da87
 
-Question: >
+Question: |
   Which of these songs from the Chrono Cross soundtrack is on the sound clip?
 
 Answers:
@@ -9179,9 +9134,8 @@ SchemaVersion: 1
 ---
 ID: 4037c72f-9901-422e-81af-77490a840ee4
 
-Question: >
-  Which Chrono Cross character delivered the following words: In your eyes, I perceive both the look of a beauty  and
-  the look of a beast.?
+Question: |
+  Which Chrono Cross character delivered the following words: In your eyes, I perceive both the look of a beauty  and the look of a beast.?
 
 Answers:
   1: >
@@ -9208,7 +9162,7 @@ SchemaVersion: 1
 ---
 ID: ed103b7a-5dcb-4ae0-93d0-60dc5afc25bf
 
-Question: >
+Question: |
   Listen to the sound clip and name the song from the Chrono Cross soundtrack.
 
 Answers:
@@ -9236,7 +9190,7 @@ SchemaVersion: 1
 ---
 ID: 8f2aec8b-944b-4ddb-8e58-101ec1b743c0
 
-Question: >
+Question: |
   Is Gyarados a water and flying type of Pokemon?
 
 Answers:
@@ -9260,7 +9214,7 @@ SchemaVersion: 1
 ---
 ID: 83ee95d8-9101-4e92-acb0-356d442964fc
 
-Question: >
+Question: |
   What type of Pokemon is Sableye?
 
 Answers:
@@ -9288,7 +9242,7 @@ SchemaVersion: 1
 ---
 ID: 8c3322d4-fbfe-4a1b-86d1-82c41b2530a5
 
-Question: >
+Question: |
   What type of Pokemon is Tyranitar?
 
 Answers:
@@ -9316,7 +9270,7 @@ SchemaVersion: 1
 ---
 ID: 1661a437-d743-4f8a-bb1d-81652bbfa90c
 
-Question: >
+Question: |
   Gengar is a ghost dark type of Pokemon.
 
 Answers:
@@ -9340,7 +9294,7 @@ SchemaVersion: 1
 ---
 ID: 2c06de4a-c4f6-44e2-990a-009649ee653d
 
-Question: >
+Question: |
   Is the Pokemon Togekiss flying and normal type of Pokemon?
 
 Answers:
@@ -9364,7 +9318,7 @@ SchemaVersion: 1
 ---
 ID: 24ed2092-10a2-488c-9a00-28cc89a94a58
 
-Question: >
+Question: |
   Does the Pokemon Empolean belong only to the water type of Pokemon?
 
 Answers:
@@ -9388,7 +9342,7 @@ SchemaVersion: 1
 ---
 ID: 8e320845-9c30-4d70-8f31-58d923f8c64f
 
-Question: >
+Question: |
   Is Typlosion only a fire type of Pokemon?
 
 Answers:
@@ -9412,7 +9366,7 @@ SchemaVersion: 1
 ---
 ID: ed55a9bf-866e-4adf-aebf-1613afbdf542
 
-Question: >
+Question: |
   In the online game RuneScape, you can wear rune platebody without doing the quest Dragonslayer.
 
 Answers:
@@ -9436,7 +9390,7 @@ SchemaVersion: 1
 ---
 ID: f1ff99a0-6bac-45b2-b244-096add9f744c
 
-Question: >
+Question: |
   In the game RuneScape, big bones get your prayer level up higher than dragon bones.
 
 Answers:
@@ -9460,7 +9414,7 @@ SchemaVersion: 1
 ---
 ID: e861b9ba-bc33-4130-804c-6a44c79fde19
 
-Question: >
+Question: |
   Name the RuneScape character who is the duke of Lumberidge.
 
 Answers:
@@ -9488,7 +9442,7 @@ SchemaVersion: 1
 ---
 ID: caccd172-bd91-4634-81a2-3035c4b83dc7
 
-Question: >
+Question: |
   In the RuneScape game, you have to be level 85 to mine rune.
 
 Answers:
@@ -9512,7 +9466,7 @@ SchemaVersion: 1
 ---
 ID: 2af95e9f-1004-4f85-a973-9aa29afc5f25
 
-Question: >
+Question: |
   In RuneScape, green dragonhide is better than black dragonhide.
 
 Answers:
@@ -9536,7 +9490,7 @@ SchemaVersion: 1
 ---
 ID: 2ccb5cae-2e33-42b1-ae35-8ccd93a97ca8
 
-Question: >
+Question: |
   In the game RuneScape, wearing Zamorack armour requires this level.
 
 Answers:
@@ -9564,7 +9518,7 @@ SchemaVersion: 1
 ---
 ID: 7d7442bd-656b-43f9-b274-4e21d6022b31
 
-Question: >
+Question: |
   At the start of the RPG game Final Fantasy VIII, which characters are shown in the opening movie?
 
 Answers:
@@ -9592,9 +9546,8 @@ SchemaVersion: 1
 ---
 ID: 8d269c41-d28a-42bf-81cf-abadce042716
 
-Question: >
-  What is inside the lamp given to you by Headmaster Cid before your first official SEED mission in the role-playing
-  game Final Fantasy VIII?
+Question: |
+  What is inside the lamp given to you by Headmaster Cid before your first official SEED mission in the role-playing game Final Fantasy VIII?
 
 Answers:
   1: >
@@ -9621,7 +9574,7 @@ SchemaVersion: 1
 ---
 ID: 0f8904d2-07e8-4a23-9d49-b48595232ddf
 
-Question: >
+Question: |
   In Final Fantasy VIII, what is Seifers romantic dream?
 
 Answers:
@@ -9649,7 +9602,7 @@ SchemaVersion: 1
 ---
 ID: 73caa13f-a571-4fb7-9bc4-3922be2f1be5
 
-Question: >
+Question: |
   Did Quistis Trepe from Final Fantasy VIII have a group of admirers called the Trepies?
 
 Answers:
@@ -9673,7 +9626,7 @@ SchemaVersion: 1
 ---
 ID: b436af16-c565-4406-aaec-7d143b399d57
 
-Question: >
+Question: |
   What did Squall say to the torturer in D-District Prison about SEED in Final Fantasy VIII?
 
 Answers:
@@ -9701,7 +9654,7 @@ SchemaVersion: 1
 ---
 ID: e06fe61b-1433-46ee-aff3-361490294238
 
-Question: >
+Question: |
   Which two characters played Rock, Paper, Scissors in the role-playing game Final Fantasy VIII?
 
 Answers:
@@ -9729,7 +9682,7 @@ SchemaVersion: 1
 ---
 ID: 1661d5f0-4c8e-4f74-9596-60b13e0847f9
 
-Question: >
+Question: |
   In the last fight of the role-playing game Final Fantasy VIII, who does Ultimecia summon?
 
 Answers:
@@ -9757,7 +9710,7 @@ SchemaVersion: 1
 ---
 ID: fd3d098d-73d7-4357-a0d4-95b1d0efc0b3
 
-Question: >
+Question: |
   In the game Animal Crossing, the players must work part-time for the character who gives them their first house.
 
 Answers:
@@ -9781,7 +9734,7 @@ SchemaVersion: 1
 ---
 ID: cedff3d9-d391-4c06-8944-44d93ec09b4a
 
-Question: >
+Question: |
   In the video game Animal Crossing the player can dig up fossils.
 
 Answers:
@@ -9805,7 +9758,7 @@ SchemaVersion: 1
 ---
 ID: 34c1cda2-3d1c-4209-b2ae-6351a15db294
 
-Question: >
+Question: |
   Which of these is not included in the game Animal Crossing?
 
 Answers:
@@ -9833,7 +9786,7 @@ SchemaVersion: 1
 ---
 ID: f8638c46-5ae0-41c0-be17-e4f32abf4551
 
-Question: >
+Question: |
   In the game Animal Crossing your character may have horns.
 
 Answers:
@@ -9857,7 +9810,7 @@ SchemaVersion: 1
 ---
 ID: d6d5d12e-1385-4667-a54a-ea965177879b
 
-Question: >
+Question: |
   Can you have pets in the game Animal Crossing?
 
 Answers:
@@ -9881,7 +9834,7 @@ SchemaVersion: 1
 ---
 ID: 1f4bb8da-9afc-4abd-b1a8-f92b761cd616
 
-Question: >
+Question: |
   Can you have two houses in the Nintendo game Animal Crossing?
 
 Answers:
@@ -9905,7 +9858,7 @@ SchemaVersion: 1
 ---
 ID: 0f226c63-697f-4125-a5cc-c142b85e1484
 
-Question: >
+Question: |
   What can you have in your house in the game Animal Crossing?
 
 Answers:
@@ -9933,7 +9886,7 @@ SchemaVersion: 1
 ---
 ID: bd532126-5b2a-487f-a290-2965ee388737
 
-Question: >
+Question: |
   Can you own a shop in the game Animal Crossing?
 
 Answers:
@@ -9957,7 +9910,7 @@ SchemaVersion: 1
 ---
 ID: e1e45102-9891-4197-a6c1-7790ee52f800
 
-Question: >
+Question: |
   The seasons in the game Animal Crossing change as the seasons actually change in real life.
 
 Answers:
@@ -9981,7 +9934,7 @@ SchemaVersion: 1
 ---
 ID: 932d10ed-fbce-4a35-8a60-8247e3bc8ce7
 
-Question: >
+Question: |
   In Runescape, what creature lives in the basement of Draynor Manor?
 
 Answers:
@@ -10009,7 +9962,7 @@ SchemaVersion: 1
 ---
 ID: c7050727-9ace-4296-a6e6-a713ac0eeb1f
 
-Question: >
+Question: |
   What is the highest level your character can go up to in the Runescape game for non-members?
 
 Answers:
@@ -10037,7 +9990,7 @@ SchemaVersion: 1
 ---
 ID: faeb5a60-aeed-483a-ac60-ada573448897
 
-Question: >
+Question: |
   In Runescape, you must have level 40 defence to wear adamant armor.
 
 Answers:
@@ -10061,7 +10014,7 @@ SchemaVersion: 1
 ---
 ID: 19e96502-0049-4eb5-8523-72c3bbfcc0c5
 
-Question: >
+Question: |
   What fruit grows on Karmaja in the Runescape video game?
 
 Answers:
@@ -10089,7 +10042,7 @@ SchemaVersion: 1
 ---
 ID: 745b5451-96ff-4330-868f-9c05ac3fc844
 
-Question: >
+Question: |
   What item do you obtain from the 2006 Runescape Christmas Special?
 
 Answers:
@@ -10117,7 +10070,7 @@ SchemaVersion: 1
 ---
 ID: 094c2ce7-d6e2-4104-be37-9fbd07677ebd
 
-Question: >
+Question: |
   Can you kill demons in a non-members world of Runescape?
 
 Answers:
@@ -10141,7 +10094,7 @@ SchemaVersion: 1
 ---
 ID: 2aad364d-ad0e-4f8a-a33a-ebab80ffd3d2
 
-Question: >
+Question: |
   Can you wear goblin mail in Runescape?
 
 Answers:
@@ -10165,7 +10118,7 @@ SchemaVersion: 1
 ---
 ID: 0ec66806-e65c-40a0-8bb1-f8b0b40cdda7
 
-Question: >
+Question: |
   In Runescape, you must have a level of 99 on any skill to get a Skill Cape.
 
 Answers:
@@ -10189,7 +10142,7 @@ SchemaVersion: 1
 ---
 ID: 29870612-ab50-40ab-9c00-8e1d11f62b44
 
-Question: >
+Question: |
   Sasuke, one of the main characters in the anime series Naruto, is branded with a cursed seal.
 
 Answers:
@@ -10213,7 +10166,7 @@ SchemaVersion: 1
 ---
 ID: 061328a5-e8aa-4bb4-8f71-c1fab9fc44e5
 
-Question: >
+Question: |
   Which of these anime characters can use the technique, known as Rasengan?
 
 Answers:
@@ -10241,7 +10194,7 @@ SchemaVersion: 1
 ---
 ID: fc658981-6aef-4332-a695-3e8e466b387e
 
-Question: >
+Question: |
   What did anime character Sasuke say when he received the cursed seal?
 
 Answers:
@@ -10269,7 +10222,7 @@ SchemaVersion: 1
 ---
 ID: 5b2b3be8-c02b-4a29-8b8e-6d79c3f04b8b
 
-Question: >
+Question: |
   Fictional character Naruto killed Gaara.
 
 Answers:
@@ -10293,7 +10246,7 @@ SchemaVersion: 1
 ---
 ID: 44e737df-b19a-4869-b5f4-1198747b7370
 
-Question: >
+Question: |
   What is Naruto's favorite food?
 
 Answers:
@@ -10321,7 +10274,7 @@ SchemaVersion: 1
 ---
 ID: 965c2d16-bf90-4a0a-bed2-49493a734434
 
-Question: >
+Question: |
   Who taught Sasuke the Chidori technique in the Naruto series?
 
 Answers:
@@ -10349,7 +10302,7 @@ SchemaVersion: 1
 ---
 ID: cb7ffa60-0c7a-4670-a988-167a8bd883a9
 
-Question: >
+Question: |
   What technique in the Naruto series was created by Kakashi?
 
 Answers:
@@ -10377,7 +10330,7 @@ SchemaVersion: 1
 ---
 ID: d222fdc4-4fe0-4cf2-809b-253eb4706511
 
-Question: >
+Question: |
   What does Naruto dream of being in the self-titled anime series?
 
 Answers:
@@ -10405,7 +10358,7 @@ SchemaVersion: 1
 ---
 ID: b1e400e2-25f5-41df-a369-f8f792a15e53
 
-Question: >
+Question: |
   What Naruto character was initially infatuated with Sasuke?
 
 Answers:
@@ -10433,7 +10386,7 @@ SchemaVersion: 1
 ---
 ID: c705e4b3-af66-4195-b350-49fa76140f6c
 
-Question: >
+Question: |
   You get the P90 weapon at what level in Call of Duty 4?
 
 Answers:
@@ -10461,7 +10414,7 @@ SchemaVersion: 1
 ---
 ID: 9422e0e7-b96c-4b32-a29d-b3ae8871a20d
 
-Question: >
+Question: |
   How many different weapons are there in Call of Duty 4?
 
 Answers:
@@ -10489,7 +10442,7 @@ SchemaVersion: 1
 ---
 ID: 20a2eb3e-6d3d-43ae-a993-34922a3cdb7f
 
-Question: >
+Question: |
   You can go into 15 Prestiges on XBox Livve.
 
 Answers:
@@ -10513,7 +10466,7 @@ SchemaVersion: 1
 ---
 ID: c65ee492-da0e-4e55-9e38-b23e5c1c14c7
 
-Question: >
+Question: |
   In Call of Duty 4 you can run around with your knife and kill as many people as you want with it.
 
 Answers:
@@ -10537,7 +10490,7 @@ SchemaVersion: 1
 ---
 ID: 7a2bf8ed-bc64-4ba1-8889-6f10c38dc246
 
-Question: >
+Question: |
   The Barret .50 Caliber is the most powerful sniper rifle in the game Call of Duty 4.
 
 Answers:
@@ -10561,7 +10514,7 @@ SchemaVersion: 1
 ---
 ID: 32c10c1d-7d9c-4c36-a0fa-173fdb02992d
 
-Question: >
+Question: |
   How many skins for the weapons are there in Call of Duty 4?
 
 Answers:
@@ -10589,7 +10542,7 @@ SchemaVersion: 1
 ---
 ID: 28e3b8c6-ede6-4f47-8a41-f6f598300ce9
 
-Question: >
+Question: |
   If you shoot a person in the head in the game Call of Duty 4, they can survive.
 
 Answers:
@@ -10613,7 +10566,7 @@ SchemaVersion: 1
 ---
 ID: 0e5ac1be-bb8e-4153-930b-21c2e3afdc8c
 
-Question: >
+Question: |
   Which of these is not a stage in the first game of Banjo and Kazooie for Nintendo 64?
 
 Answers:
@@ -10641,7 +10594,7 @@ SchemaVersion: 1
 ---
 ID: d46843db-9be5-4d21-86fa-cc8edcdefdf3
 
-Question: >
+Question: |
   In the adventure video game Banjo-Kazooie, how many turtles are in Tiptups choir?
 
 Answers:
@@ -10669,9 +10622,8 @@ SchemaVersion: 1
 ---
 ID: e115f2e0-4e70-4c32-915c-7e15cda3925b
 
-Question: >
-  In Gobis Valley from the Banjo-Kazooie adventure video game, how many notes are there in front of the door that you
-  ride the magic carpet to?
+Question: |
+  In Gobis Valley from the Banjo-Kazooie adventure video game, how many notes are there in front of the door that you ride the magic carpet to?
 
 Answers:
   1: >
@@ -10698,7 +10650,7 @@ SchemaVersion: 1
 ---
 ID: c4f9957a-dabb-4484-a601-28aa89980315
 
-Question: >
+Question: |
   In Mad Monster Mansion from the Banjo-Kazooie video game, what is the time shown on the clock above the church?
 
 Answers:
@@ -10726,9 +10678,8 @@ SchemaVersion: 1
 ---
 ID: cf4bed22-bc5c-4b6d-89b0-9f3babeb4697
 
-Question: >
-  In the quiz stage of the adventure video game Banjo-Kazooie, failing a question on a Grunty Space will cause the
-  characters to fall into the lava pit.
+Question: |
+  In the quiz stage of the adventure video game Banjo-Kazooie, failing a question on a Grunty Space will cause the characters to fall into the lava pit.
 
 Answers:
   1: >
@@ -10751,7 +10702,7 @@ SchemaVersion: 1
 ---
 ID: 0d6e0cdc-723f-4a36-b75e-443301c5ed06
 
-Question: >
+Question: |
   Gobi is the name of the camel in Gobis Valley in the Banjo and Kazooie video game.
 
 Answers:
@@ -10775,9 +10726,8 @@ SchemaVersion: 1
 ---
 ID: 084e28a5-0f43-486a-891e-509306ec2123
 
-Question: >
-  Do you need to talk to somebody in Kurast Docks in order to activate the first quest in Act III of the computer game
-  Diablo II?
+Question: |
+  Do you need to talk to somebody in Kurast Docks in order to activate the first quest in Act III of the computer game Diablo II?
 
 Answers:
   1: >
@@ -10800,7 +10750,7 @@ SchemaVersion: 1
 ---
 ID: 035ccf94-7e03-468a-a76c-fc0f1ba700cb
 
-Question: >
+Question: |
   Complete the title of the 2nd quest in Act III of the computer game Diablo II:  Blade of the _____ Religion.
 
 Answers:
@@ -10828,7 +10778,7 @@ SchemaVersion: 1
 ---
 ID: 9d1b561a-9b34-4d96-af3d-90f9a067ab27
 
-Question: >
+Question: |
   In the third quest of Act III in Diablo II, how many items must be retrieved?
 
 Answers:
@@ -10856,7 +10806,7 @@ SchemaVersion: 1
 ---
 ID: 0208eab2-a839-4ebf-9aa8-f3d354c1ccb7
 
-Question: >
+Question: |
   Who must you talk to, in order to activate the Lam Esens Tome quest in the computer game Diablo II?
 
 Answers:
@@ -10884,7 +10834,7 @@ SchemaVersion: 1
 ---
 ID: 30af4db8-fcb5-48a7-af9c-d754abe04775
 
-Question: >
+Question: |
   The 5th quest in Act III of Diablo II is activated by Ormus, only if you are able to find this place.
 
 Answers:
@@ -10912,7 +10862,7 @@ SchemaVersion: 1
 ---
 ID: 17731899-c826-4a54-b013-461633f50150
 
-Question: >
+Question: |
   What boss must be fought in the last quest in Act III of the computer game Diablo II?
 
 Answers:
@@ -10940,7 +10890,7 @@ SchemaVersion: 1
 ---
 ID: 559c1fd0-ebae-472c-9720-b30e71ac408f
 
-Question: >
+Question: |
   What reward will you receive upon completing the first quest in Act IV of the game Diablo II?
 
 Answers:
@@ -10968,7 +10918,7 @@ SchemaVersion: 1
 ---
 ID: ec821b2c-ecdd-4694-a4cb-e1aa99b35dcd
 
-Question: >
+Question: |
   You must talk to this person in order to activate your 2nd quest in Act IV of the computer game Diablo II.
 
 Answers:
@@ -10996,7 +10946,7 @@ SchemaVersion: 1
 ---
 ID: 5b412d49-6e52-4e5d-a32b-4e298cd366dd
 
-Question: >
+Question: |
   What is the title of the last quest in Act IV of the computer game Diablo II?
 
 Answers:
@@ -11024,7 +10974,7 @@ SchemaVersion: 1
 ---
 ID: 92701d70-da7d-457f-98ce-5c2da4fd5687
 
-Question: >
+Question: |
   Which one of these songs is NOT in the final section of Guitar Hero III, Lous Inferno?
 
 Answers:
@@ -11052,7 +11002,7 @@ SchemaVersion: 1
 ---
 ID: 889a6dd7-24d9-4899-a0c9-07830c4d63a9
 
-Question: >
+Question: |
   You must beat Guitar Hero III on Expert to be able to play Through the Fire and Flames.
 
 Answers:
@@ -11076,7 +11026,7 @@ SchemaVersion: 1
 ---
 ID: 82425a7e-9a81-41b0-92fb-da12c9597fc1
 
-Question: >
+Question: |
   What song is unlocked after beating Tom Morello in a guitar battle in the video game Guitar Hero III?
 
 Answers:
@@ -11104,7 +11054,7 @@ SchemaVersion: 1
 ---
 ID: f2b8ab31-565c-49f2-8f9f-11cdf041ab68
 
-Question: >
+Question: |
   After you beat Guitar Hero III on Expert, you are informed that you can really test your skill by doing this.
 
 Answers:
@@ -11132,7 +11082,7 @@ SchemaVersion: 1
 ---
 ID: 473301a5-323d-4ac3-a978-91ac2daa894c
 
-Question: >
+Question: |
   On what date was the release of Call of Duty 4: Modern Warfare announced?
 
 Answers:
@@ -11160,7 +11110,7 @@ SchemaVersion: 1
 ---
 ID: 60b09488-1963-4470-ab05-a5b879e48dc4
 
-Question: >
+Question: |
   How many times can a player trade in their levels at prestige mode in the first-person shooter Call of Duty 4?
 
 Answers:
@@ -11188,7 +11138,7 @@ SchemaVersion: 1
 ---
 ID: a1e02a6f-20eb-436f-ae7f-518aa917f472
 
-Question: >
+Question: |
   In the Xbox 360 version of Call of Duty 4, the achievement war pig is given for killing Khaled Al-Asad.
 
 Answers:
@@ -11212,7 +11162,7 @@ SchemaVersion: 1
 ---
 ID: 54ccfca1-60c2-47dc-94ed-5d17659e35f2
 
-Question: >
+Question: |
   The AC-140 gunship has 3 different weapons and uses thermal vision in Call of Duty 4.
 
 Answers:
@@ -11236,7 +11186,7 @@ SchemaVersion: 1
 ---
 ID: bd38deaf-04ef-4ec9-bb7b-77c75a7d0346
 
-Question: >
+Question: |
   Billy Murray lends his voice to Captain Price from Call of Duty 4: Modern Warfare.
 
 Answers:
@@ -11260,7 +11210,7 @@ SchemaVersion: 1
 ---
 ID: b8c02c49-4678-4b87-b1d0-64c6ea6b14d5
 
-Question: >
+Question: |
   Who do you have to talk in order to receive your first quest after creating a character in the game Diablo II?
 
 Answers:
@@ -11288,7 +11238,7 @@ SchemaVersion: 1
 ---
 ID: de28bc59-8072-4096-95c4-aa16d362dc8a
 
-Question: >
+Question: |
   What is the 2nd quest in the first chapter of the computer game Diablo II?
 
 Answers:
@@ -11316,7 +11266,7 @@ SchemaVersion: 1
 ---
 ID: ecb0ee6f-f904-4b02-ad2e-49e967a14bc2
 
-Question: >
+Question: |
   Who must be rescued in the third quest of the game Diablo II?
 
 Answers:
@@ -11344,7 +11294,7 @@ SchemaVersion: 1
 ---
 ID: 8c51f721-cad8-4130-bcea-03687fc8cee3
 
-Question: >
+Question: |
   What must be retrieved in the fifth quest of the first act of the computer game Diablo II?
 
 Answers:
@@ -11372,7 +11322,7 @@ SchemaVersion: 1
 ---
 ID: d467213d-db19-41c0-8475-9a0c20fc47a8
 
-Question: >
+Question: |
   What is the last quest in Chapter I of the computer game Diablo II?
 
 Answers:
@@ -11400,7 +11350,7 @@ SchemaVersion: 1
 ---
 ID: b179074b-96f4-4920-9da6-f77fd54ecabb
 
-Question: >
+Question: |
   Who must be defeated in the first quest of the second chapter of the computer game Diablo II?
 
 Answers:
@@ -11428,7 +11378,7 @@ SchemaVersion: 1
 ---
 ID: a7577f99-0f12-4295-9036-f93da159d06a
 
-Question: >
+Question: |
   Which item must be formed, to succeed in the second quest of Chapter II of the computer game Diablo II?
 
 Answers:
@@ -11456,7 +11406,7 @@ SchemaVersion: 1
 ---
 ID: 7fa4c444-e6ab-4560-a33d-4bed5361c372
 
-Question: >
+Question: |
   What is your objective of the 4th quest of Chapter II in the game Diablo II?
 
 Answers:
@@ -11484,7 +11434,7 @@ SchemaVersion: 1
 ---
 ID: 122e6399-c8ad-46b7-b2a7-3af326683881
 
-Question: >
+Question: |
   Who must be killed in the 5th quest in Chapter II of  Diablo II?
 
 Answers:
@@ -11512,7 +11462,7 @@ SchemaVersion: 1
 ---
 ID: 45ffb4a0-c123-42cb-995e-a315fad43b32
 
-Question: >
+Question: |
   Who must be saved in the last quest in Chapter II (The Seven Tombs) of the computer game Diablo II?
 
 Answers:
@@ -11540,7 +11490,7 @@ SchemaVersion: 1
 ---
 ID: 7ceba8d8-590e-47ae-a896-e942533211da
 
-Question: >
+Question: |
   Name Master Chiefs partners in the video game Halo 1.
 
 Answers:
@@ -11568,7 +11518,7 @@ SchemaVersion: 1
 ---
 ID: 089daf46-d0e6-412c-9443-2d8fa6b15983
 
-Question: >
+Question: |
   Name the aliens with the shields in the game Halo 1.
 
 Answers:
@@ -11596,7 +11546,7 @@ SchemaVersion: 1
 ---
 ID: 4cca6052-6f8a-4126-8a11-013c92b08820
 
-Question: >
+Question: |
   You start out with a weapon in the first level of Halo 1.
 
 Answers:
@@ -11620,7 +11570,7 @@ SchemaVersion: 1
 ---
 ID: 2304ef5a-1649-453f-b5c8-18fa26de0d50
 
-Question: >
+Question: |
   What is the name of the Halo 1 aliens with plasma cannons?
 
 Answers:
@@ -11648,7 +11598,7 @@ SchemaVersion: 1
 ---
 ID: 68c6bef0-273b-4223-94ca-368aa14cb75e
 
-Question: >
+Question: |
   What are the smallest aliens you face in the video game Halo 1?
 
 Answers:
@@ -11676,7 +11626,7 @@ SchemaVersion: 1
 ---
 ID: 28ac6bbe-dcc7-4e4c-b20f-90159a7f8c01
 
-Question: >
+Question: |
   These aliens are the protectors of halo in the video game Halo 1.
 
 Answers:
@@ -11704,7 +11654,7 @@ SchemaVersion: 1
 ---
 ID: b242e132-e3b2-4d77-bc6d-a7527cb535bf
 
-Question: >
+Question: |
   Master Chief is the protagonist of the Halo video game.
 
 Answers:
@@ -11728,7 +11678,7 @@ SchemaVersion: 1
 ---
 ID: 42d41995-e76e-4dec-accb-9121e6ef096a
 
-Question: >
+Question: |
   What is the name of Samus enemies common to nearly every Metroid video game
 
 Answers:
@@ -11756,7 +11706,7 @@ SchemaVersion: 1
 ---
 ID: 4978aeb4-309c-4283-a9f3-e0c30f23d9ee
 
-Question: >
+Question: |
   What is the name of the suit Samus starts out with in almost every Metroid video game?
 
 Answers:
@@ -11784,9 +11734,8 @@ SchemaVersion: 1
 ---
 ID: 7fc67004-c4ab-42a3-a08f-1e3ad9aa9169
 
-Question: >
-  What word is always attached to the names of the shots that come from Samus arm-mounted gun in the Metroid video
-  game?
+Question: |
+  What word is always attached to the names of the shots that come from Samus arm-mounted gun in the Metroid video game?
 
 Answers:
   1: >
@@ -11813,7 +11762,7 @@ SchemaVersion: 1
 ---
 ID: feda275a-7b4c-403b-be14-39c01de8913c
 
-Question: >
+Question: |
   What type of character is Samus from the Metroid video game?
 
 Answers:
@@ -11841,7 +11790,7 @@ SchemaVersion: 1
 ---
 ID: c35635a3-7dc2-481f-bd94-297391e62723
 
-Question: >
+Question: |
   In the Metroid video game, what is Samus profession?
 
 Answers:
@@ -11869,7 +11818,7 @@ SchemaVersion: 1
 ---
 ID: be71d259-60a5-4559-8791-d14b13e0efab
 
-Question: >
+Question: |
   What special abilities are unique to Metroids in the video game series Metroid?
 
 Answers:
@@ -11897,7 +11846,7 @@ SchemaVersion: 1
 ---
 ID: e24f3b80-bf47-4328-80c2-18454f684a39
 
-Question: >
+Question: |
   Which of these is not an upgrade Samus receives in the Metroid game series?
 
 Answers:
@@ -11925,7 +11874,7 @@ SchemaVersion: 1
 ---
 ID: 2f342996-6377-4add-b682-4ee7a751cd97
 
-Question: >
+Question: |
   In the Metroid video game series, what species created the suit and most of the upgrades available to Samus?
 
 Answers:
@@ -11953,7 +11902,7 @@ SchemaVersion: 1
 ---
 ID: f07fa06f-2486-4ba6-ae3a-429278d78f51
 
-Question: >
+Question: |
   Which of these is not an ability available to Samus while in Morph Ball Mode of the Metroid video game?
 
 Answers:
@@ -11981,7 +11930,7 @@ SchemaVersion: 1
 ---
 ID: 7b6989c9-fd53-4d91-9e1b-4decd2bc5e20
 
-Question: >
+Question: |
   Naruto was first published in 1999, in this magazine.
 
 Answers:
@@ -12009,7 +11958,7 @@ SchemaVersion: 1
 ---
 ID: a2a1f37e-f1c5-414d-8d4b-97e8a1ff5a5d
 
-Question: >
+Question: |
   Who is the only female Akatsuki member in the Naruto manga series?
 
 Answers:
@@ -12037,7 +11986,7 @@ SchemaVersion: 1
 ---
 ID: bc77c21b-e22d-4455-9f2a-270d69ed037d
 
-Question: >
+Question: |
   Who is the first ninja recruited for the fictional team Hawk?
 
 Answers:
@@ -12065,7 +12014,7 @@ SchemaVersion: 1
 ---
 ID: bca20ba0-1ec2-4456-8172-93ea980d6df0
 
-Question: >
+Question: |
   Namikaze Sateraito is the opening song for the first 22 episodes of which Naruto season?
 
 Answers:
@@ -12093,7 +12042,7 @@ SchemaVersion: 1
 ---
 ID: 17d1cce9-9e3e-4760-a118-fc8becf1fb7d
 
-Question: >
+Question: |
   Orochimarus Curse is the title of which volume of the Naruto manga?
 
 Answers:
@@ -12121,7 +12070,7 @@ SchemaVersion: 1
 ---
 ID: af36f07c-9120-4956-833c-6ea0c9be7271
 
-Question: >
+Question: |
   Masatoshi Kazikuga is the author of two novelizations of Naruto, published in Japan and America.
 
 Answers:
@@ -12145,7 +12094,7 @@ SchemaVersion: 1
 ---
 ID: 28ef26f0-c87a-4e0f-9273-2e283c757e19
 
-Question: >
+Question: |
   What can you wield after the Monkey Madness Quest in RuneScape?
 
 Answers:
@@ -12173,7 +12122,7 @@ SchemaVersion: 1
 ---
 ID: 335bf141-7be4-4855-a1ca-3603b7297692
 
-Question: >
+Question: |
   The RuneScape game was created by Christopher Grower.
 
 Answers:
@@ -12197,7 +12146,7 @@ SchemaVersion: 1
 ---
 ID: 70d47665-7a63-48e6-84db-1eeefe6101db
 
-Question: >
+Question: |
   Which of the following RuneScape defence armors is the best?
 
 Answers:
@@ -12225,7 +12174,7 @@ SchemaVersion: 1
 ---
 ID: fc4aa6a8-fb26-4b51-86ad-a1003602f82b
 
-Question: >
+Question: |
   When was the first version of RuneScape released to the public?
 
 Answers:
@@ -12253,7 +12202,7 @@ SchemaVersion: 1
 ---
 ID: f3e14cf4-f3b4-4f1f-9783-048035131117
 
-Question: >
+Question: |
   RuneScape is set in the fantasy-themed realm of Gielinor.
 
 Answers:
@@ -12277,7 +12226,7 @@ SchemaVersion: 1
 ---
 ID: 45afe467-275d-4e8f-8cc5-74fc8a01cfa0
 
-Question: >
+Question: |
   The creator of RuneScape was helped by his cousin, Joel, in developing the game.
 
 Answers:
@@ -12301,7 +12250,7 @@ SchemaVersion: 1
 ---
 ID: 412bb879-2448-466f-a1ca-fd87d7c6158f
 
-Question: >
+Question: |
   What was RuneScape originally named?
 
 Answers:
@@ -12329,7 +12278,7 @@ SchemaVersion: 1
 ---
 ID: 564f26ce-e646-45c0-a594-4e703ea6a5ce
 
-Question: >
+Question: |
   What is the name of the evil god in RunesSape whose rival is Saradomin?
 
 Answers:
@@ -12357,7 +12306,7 @@ SchemaVersion: 1
 ---
 ID: 689d2c4d-6313-40fb-95e0-9380d742f946
 
-Question: >
+Question: |
   Are there members-only servers for RuneScape Classic?
 
 Answers:
@@ -12381,7 +12330,7 @@ SchemaVersion: 1
 ---
 ID: 2eaee7b1-7f0d-43ba-a289-019db6d7adfa
 
-Question: >
+Question: |
   What weapon do you wield after the Regicide Quest in RuneScape?
 
 Answers:
@@ -12409,7 +12358,7 @@ SchemaVersion: 1
 ---
 ID: ad68e803-8215-405d-847c-b72e56171c31
 
-Question: >
+Question: |
   Ash Ketchum, the main protagonist in the Pokémon anime, is loosely based on what other character?
 
 Answers:
@@ -12437,7 +12386,7 @@ SchemaVersion: 1
 ---
 ID: 98b92ac2-f423-45df-b7f1-b8f51521ebf1
 
-Question: >
+Question: |
   In what way can you evolve the Pokemon Gilgar into Gliscor in the Diamond and Pearl Pokemon series for Nintendo DS?
 
 Answers:
@@ -12465,7 +12414,7 @@ SchemaVersion: 1
 ---
 ID: 4d0f4c35-b49e-4817-98eb-bf75a0f1f722
 
-Question: >
+Question: |
   Celebi is a grass type Pokemon that you can find in the sinnow region.
 
 Answers:
@@ -12489,7 +12438,7 @@ SchemaVersion: 1
 ---
 ID: acd79cf9-f234-4aac-8ce8-ad314e99a0f7
 
-Question: >
+Question: |
   Which of the following is not a game in The Last Half of Darkness series?
 
 Answers:
@@ -12517,7 +12466,7 @@ SchemaVersion: 1
 ---
 ID: 0a1122ab-590b-4bd8-9f0d-67964be068ba
 
-Question: >
+Question: |
   Which of these is not the title of an actual PC game?
 
 Answers:
@@ -12545,7 +12494,7 @@ SchemaVersion: 1
 ---
 ID: 36c5c7fb-abbd-43f4-9dd1-6b4283ddfc0f
 
-Question: >
+Question: |
   Which of the following is part of the game Archon Ultra?
 
 Answers:
@@ -12573,7 +12522,7 @@ SchemaVersion: 1
 ---
 ID: 5100972c-b57e-40b8-837e-fc82d46aeb50
 
-Question: >
+Question: |
   In the Last Half of Darkness series, there is a Last Half of Darkness III VGA.
 
 Answers:
@@ -12597,7 +12546,7 @@ SchemaVersion: 1
 ---
 ID: d8ac10f8-4fdb-4f72-af9c-9f86013d33a7
 
-Question: >
+Question: |
   Which of these horror movie based games isn't a PC game?
 
 Answers:
@@ -12625,7 +12574,7 @@ SchemaVersion: 1
 ---
 ID: c07840c0-db57-4d64-aab7-e71159448654
 
-Question: >
+Question: |
   Which of these games was not developed by New World Computing?
 
 Answers:
@@ -12653,7 +12602,7 @@ SchemaVersion: 1
 ---
 ID: de65c43b-b3d7-4553-b36e-704472b61479
 
-Question: >
+Question: |
   Which of the following is not an adventure game?
 
 Answers:
@@ -12681,7 +12630,7 @@ SchemaVersion: 1
 ---
 ID: 28e5d985-bc58-4187-8651-d4f3ac429aeb
 
-Question: >
+Question: |
   What type of game is Power Rangers Time Force?
 
 Answers:
@@ -12709,7 +12658,7 @@ SchemaVersion: 1
 ---
 ID: a426d09c-4335-4242-8a8a-0cf134d10914
 
-Question: >
+Question: |
   Who created the game Last Half of Darkness?
 
 Answers:
@@ -12737,7 +12686,7 @@ SchemaVersion: 1
 ---
 ID: 38729a79-4227-4765-93fa-ac73d03ac6dc
 
-Question: >
+Question: |
   Which of the following is not a real role-playing game?
 
 Answers:
@@ -12765,7 +12714,7 @@ SchemaVersion: 1
 ---
 ID: a85d7e80-af51-437d-8efd-7b5697848739
 
-Question: >
+Question: |
   What is the name of the evil dragon in RuneScape that players have to kill in the Dragon Slayer quest?
 
 Answers:
@@ -12793,9 +12742,8 @@ SchemaVersion: 1
 ---
 ID: ace91594-8e57-46f3-875c-b3a61c798a25
 
-Question: >
-  In the RuneScape game, on the Construction Skillcape emote, the character performing the emote does which of the
-  following?
+Question: |
+  In the RuneScape game, on the Construction Skillcape emote, the character performing the emote does which of the following?
 
 Answers:
   1: >
@@ -12822,7 +12770,7 @@ SchemaVersion: 1
 ---
 ID: fca36e34-816e-4a0e-a839-cab416384619
 
-Question: >
+Question: |
   To equip Barrows armour and weapons in RuneScape, you must have an attack and defence level 70.
 
 Answers:
@@ -12846,7 +12794,7 @@ SchemaVersion: 1
 ---
 ID: 84ca3663-c337-4885-bd38-bda74e726e09
 
-Question: >
+Question: |
   Is it true that in the RuneScape game, goblins can be found only in Goblin Village and Goblin Cave?
 
 Answers:
@@ -12870,7 +12818,7 @@ SchemaVersion: 1
 ---
 ID: 88bb1866-93fc-4ea3-a646-abf6ceac9cbd
 
-Question: >
+Question: |
   In the RuneScape game, you need to have 80 defence to use Guthix armor.
 
 Answers:
@@ -12894,7 +12842,7 @@ SchemaVersion: 1
 ---
 ID: 9def96da-4d80-4221-8220-68b5e8c9f681
 
-Question: >
+Question: |
   What was the reward in RuneScapes 2008 Easter Seasonal Event?
 
 Answers:
@@ -12922,7 +12870,7 @@ SchemaVersion: 1
 ---
 ID: 884d2cce-eece-4afc-9a16-38504841305b
 
-Question: >
+Question: |
   In the mime random event in RuneScape, the object is to identify all the mime emotes and get a reward afterwards.
 
 Answers:
@@ -12946,7 +12894,7 @@ SchemaVersion: 1
 ---
 ID: f3d82762-e62b-4e24-85cc-2b2b8b1a6c27
 
-Question: >
+Question: |
   To start the Demon Slayer Quest in RuneScape, you must talk to which one of these?
 
 Answers:
@@ -12974,7 +12922,7 @@ SchemaVersion: 1
 ---
 ID: 6d7de63e-5757-43af-a8c8-ca729b6f173a
 
-Question: >
+Question: |
   In what RuneScape quest do you have to use a friend from the opposite gang?
 
 Answers:
@@ -13002,7 +12950,7 @@ SchemaVersion: 1
 ---
 ID: 3682ae65-29e9-4f0c-b900-12c216bdd7b6
 
-Question: >
+Question: |
   In the game Super Mario Kart, how many coins do you receive for placing 1st in a single race?
 
 Answers:
@@ -13030,7 +12978,7 @@ SchemaVersion: 1
 ---
 ID: 1fb21779-fc96-43ee-8746-835b067bf8e9
 
-Question: >
+Question: |
   Do players have lives in the racing game Super Mario Kart?
 
 Answers:
@@ -13054,7 +13002,7 @@ SchemaVersion: 1
 ---
 ID: 9befdf78-7048-4454-b328-ffce0f756e29
 
-Question: >
+Question: |
   In the game Super Mario Kart, what does the mushroom item do to the racer?
 
 Answers:
@@ -13082,7 +13030,7 @@ SchemaVersion: 1
 ---
 ID: 8208081c-9941-4c24-bb50-2810fb299665
 
-Question: >
+Question: |
   All of the following cups are in the game Super Mario Kart, except which one of these?
 
 Answers:
@@ -13110,7 +13058,7 @@ SchemaVersion: 1
 ---
 ID: 94f08547-4356-4833-9f0d-db6819cc7cbd
 
-Question: >
+Question: |
   The feather item in the game Super Mario Kart helps the racer by jumping.
 
 Answers:
@@ -13134,7 +13082,7 @@ SchemaVersion: 1
 ---
 ID: e1dcc055-ae48-4a76-82c7-dfb3029ae759
 
-Question: >
+Question: |
   In the Flower cup, in the game Super Mario Kart, on which track do you start?
 
 Answers:
@@ -13162,7 +13110,7 @@ SchemaVersion: 1
 ---
 ID: bc6c492c-5f90-4f7c-9c9a-c584db9d9e7c
 
-Question: >
+Question: |
   In Super Mario Kart, the green shell is a heat-seeking missile.
 
 Answers:
@@ -13186,7 +13134,7 @@ SchemaVersion: 1
 ---
 ID: 6fb77fe2-8d93-496b-8367-37e510f5b8d6
 
-Question: >
+Question: |
   In the game Super Mario Kart, for the Super Nintendo, it is possible to fall off the track.
 
 Answers:
@@ -13210,9 +13158,8 @@ SchemaVersion: 1
 ---
 ID: 481cb840-1fc0-4844-b124-d6c5c6e9a307
 
-Question: >
-  All of the following are items used in the game Super Mario Kart, for the Super NES, except which one of the
-  following?
+Question: |
+  All of the following are items used in the game Super Mario Kart, for the Super NES, except which one of the following?
 
 Answers:
   1: >
@@ -13239,9 +13186,8 @@ SchemaVersion: 1
 ---
 ID: 2b99c6ac-10a1-43aa-b25e-7e39fcb67806
 
-Question: >
-  On the Nintendo 64 version of Mario Kart, Wario replaced which of the following playable characters from the Super
-  NES version?
+Question: |
+  On the Nintendo 64 version of Mario Kart, Wario replaced which of the following playable characters from the Super NES version?
 
 Answers:
   1: >
@@ -13268,7 +13214,7 @@ SchemaVersion: 1
 ---
 ID: f6e093e8-a982-4a9a-b919-d8021ca020ac
 
-Question: >
+Question: |
   There is a PC port in the first three Timesplitters games.
 
 Answers:
@@ -13292,9 +13238,8 @@ SchemaVersion: 1
 ---
 ID: 209ef66b-ba79-4bd2-8348-e8cc3ab1981d
 
-Question: >
-  How many of the following Power Rangers games are for PC: Power Rangers; Power Rangers: Lightspeed Rescue; Power
-  Rangers: Super Legends; Power Rangers Zeo Versus the Machine Empire; Power Rangers: Ninja Storm Double Pack?
+Question: |
+  How many of the following Power Rangers games are for PC: Power Rangers; Power Rangers: Lightspeed Rescue; Power Rangers: Super Legends; Power Rangers Zeo Versus the Machine Empire; Power Rangers: Ninja Storm Double Pack?
 
 Answers:
   1: >
@@ -13321,7 +13266,7 @@ SchemaVersion: 1
 ---
 ID: 005a9411-1df7-408a-8d68-94db04d76e4a
 
-Question: >
+Question: |
   Excluding collections, how many Might and Magic games were released from 1986 to 2002?
 
 Answers:
@@ -13349,7 +13294,7 @@ SchemaVersion: 1
 ---
 ID: d4750f4a-cc0e-4b7e-bf24-d63db6861793
 
-Question: >
+Question: |
   In Might and Magic 8, which of these classes are unselectable for the main character?
 
 Answers:
@@ -13377,7 +13322,7 @@ SchemaVersion: 1
 ---
 ID: 6ff7f3cb-4e10-4834-b2ab-a844f0c380b3
 
-Question: >
+Question: |
   Joe Satriani was given a special thanks in B.A.T. II.
 
 Answers:
@@ -13401,7 +13346,7 @@ SchemaVersion: 1
 ---
 ID: d557f2aa-6b3c-4e8b-b99f-56e8527b9f39
 
-Question: >
+Question: |
   In which of these games does the player take the role of Kirt?
 
 Answers:
@@ -13429,7 +13374,7 @@ SchemaVersion: 1
 ---
 ID: 88f3f808-3c19-4edd-acf3-9f05a8e5ab46
 
-Question: >
+Question: |
   Which of these games is rogue-like?
 
 Answers:
@@ -13457,7 +13402,7 @@ SchemaVersion: 1
 ---
 ID: 7db2e8f8-866b-40f9-8770-38b93335ba4e
 
-Question: >
+Question: |
   How many races are there in Star Wars: Galactic Battlegrounds? (With expansion)
 
 Answers:
@@ -13485,7 +13430,7 @@ SchemaVersion: 1
 ---
 ID: bc03c6f5-6622-4778-a478-91d55d658553
 
-Question: >
+Question: |
   What do you transform into in stage 4 of Altered Beast?
 
 Answers:
@@ -13513,7 +13458,7 @@ SchemaVersion: 1
 ---
 ID: d3e7e855-164d-4220-86d8-d756636968d8
 
-Question: >
+Question: |
   Which of these games isn't an action/adventure hybrid?
 
 Answers:
@@ -13541,7 +13486,7 @@ SchemaVersion: 1
 ---
 ID: 6848c4eb-1423-4a5e-858d-184e2071d953
 
-Question: >
+Question: |
   Who is the protagonist of the PC game Blood?
 
 Answers:
@@ -13569,7 +13514,7 @@ SchemaVersion: 1
 ---
 ID: f26eb844-0f71-42f4-b273-2e42756f5dd8
 
-Question: >
+Question: |
   Which of these isn't a game from the Hugo series?
 
 Answers:
@@ -13597,7 +13542,7 @@ SchemaVersion: 1
 ---
 ID: abd44dbe-1d88-4980-ba68-aead4f4f3e1f
 
-Question: >
+Question: |
   Name the odd game.
 
 Answers:
@@ -13625,7 +13570,7 @@ SchemaVersion: 1
 ---
 ID: 4f8b9431-c4e3-46a8-b496-c3b275ae966b
 
-Question: >
+Question: |
   Which of these games was not developed by Blizzard?
 
 Answers:
@@ -13653,7 +13598,7 @@ SchemaVersion: 1
 ---
 ID: 42fde6e5-4b16-4bb0-a0d8-4608add32562
 
-Question: >
+Question: |
   Which of these games was developed by New World Computing?
 
 Answers:
@@ -13681,7 +13626,7 @@ SchemaVersion: 1
 ---
 ID: 3ae5c07d-42da-4345-95c9-af3b8f1a8522
 
-Question: >
+Question: |
   Which of these isn't a Sega collection for PC?
 
 Answers:
@@ -13709,9 +13654,8 @@ SchemaVersion: 1
 ---
 ID: 9612c848-0740-4f0f-80e3-79f912230f1c
 
-Question: >
-  In the Nancy Drew conputer games, Nancy Drews trusty sidekicks are cousins George Fayne and this slightly plump
-  blonde.
+Question: |
+  In the Nancy Drew conputer games, Nancy Drews trusty sidekicks are cousins George Fayne and this slightly plump blonde.
 
 Answers:
   1: >
@@ -13738,7 +13682,7 @@ SchemaVersion: 1
 ---
 ID: add9cffb-b6ef-408b-879d-17c9cd1ca22f
 
-Question: >
+Question: |
   These two detective brothers appear several times in the Nancy Drew computer games to help Nancy solve mysteries.
 
 Answers:
@@ -13766,7 +13710,7 @@ SchemaVersion: 1
 ---
 ID: 3f1a144e-5079-485e-a66d-a8bd1de46a25
 
-Question: >
+Question: |
   What was the very first Nancy Drew computer game?
 
 Answers:
@@ -13794,7 +13738,7 @@ SchemaVersion: 1
 ---
 ID: 2c2d3b0e-db4e-443c-b2e7-568cf27e1d5e
 
-Question: >
+Question: |
   What did Nancy Drew find along with a message in the computer game Message in a Haunted Mansion?
 
 Answers:
@@ -13822,7 +13766,7 @@ SchemaVersion: 1
 ---
 ID: 9f21b489-1cad-4d6d-a692-bf3f918a0ab6
 
-Question: >
+Question: |
   In which of these computer games did Nancy Drew wake up in the middle of the night because of a nightmare?
 
 Answers:
@@ -13850,7 +13794,7 @@ SchemaVersion: 1
 ---
 ID: 306454ef-3dd2-4614-829f-ad79aa29013a
 
-Question: >
+Question: |
   Which of these characters appears in the Nancy Drew computer game Lights, Camera, Curses!?
 
 Answers:
@@ -13878,7 +13822,7 @@ SchemaVersion: 1
 ---
 ID: 52e538a5-0ab1-4282-ad51-c0532acbd5bd
 
-Question: >
+Question: |
   In the computer game Warnings at Waverly Academy, what was pictured on Nancy Drews cabin door?
 
 Answers:
@@ -13906,9 +13850,8 @@ SchemaVersion: 1
 ---
 ID: e6d4b12c-cec0-4fdc-9eb7-aac1f9eedb35
 
-Question: >
-  Rick Arlen is known as an arrogant television star from Stay Tuned for Danger, but his picture appears in what place
-  in another Nancy Drew game?
+Question: |
+  Rick Arlen is known as an arrogant television star from Stay Tuned for Danger, but his picture appears in what place in another Nancy Drew game?
 
 Answers:
   1: >
@@ -13935,7 +13878,7 @@ SchemaVersion: 1
 ---
 ID: 63ca4eaf-ee76-427e-a4cb-d583cf275ded
 
-Question: >
+Question: |
   The wolf in the computer game White Wolf of Icicle Creek was named Isis.
 
 Answers:
@@ -13959,7 +13902,7 @@ SchemaVersion: 1
 ---
 ID: a9f30353-7101-4738-bb4e-dc58e562ed31
 
-Question: >
+Question: |
   In the computer game The Final Scene, a flashing ring gave Nancy Drew the opportunity to save a friend.
 
 Answers:
@@ -13983,7 +13926,7 @@ SchemaVersion: 1
 ---
 ID: 3c861ac4-cb1b-4e70-a3a0-3c17171907f6
 
-Question: >
+Question: |
   In the Nancy Drew computer game Ghost Dogs of Moon Lake, what is the rangers last name?
 
 Answers:
@@ -14011,7 +13954,7 @@ SchemaVersion: 1
 ---
 ID: 4bf2a493-aff4-4b1a-87ce-0afe79c0cd14
 
-Question: >
+Question: |
   When you first start Wonderland Online, where do you find yourself?
 
 Answers:
@@ -14039,7 +13982,7 @@ SchemaVersion: 1
 ---
 ID: 3b2531fa-51e1-4612-b77b-f59e2ef03786
 
-Question: >
+Question: |
   When your raft gets washed up, what is the place it lands (for the first time) in the game Wonderland Online?
 
 Answers:
@@ -14067,7 +14010,7 @@ SchemaVersion: 1
 ---
 ID: 77b7ad26-2574-4766-9026-7b9bc41f9218
 
-Question: >
+Question: |
   Which one of these is not a jelly monster you can find on North Island in the game Wonderland Online?
 
 Answers:
@@ -14095,7 +14038,7 @@ SchemaVersion: 1
 ---
 ID: 3a481830-32fb-4b96-9302-1ee96d2a7e01
 
-Question: >
+Question: |
   In Wonderland Online, which of these makes your level go up?
 
 Answers:
@@ -14123,7 +14066,7 @@ SchemaVersion: 1
 ---
 ID: 716dbab9-15b5-4e23-af95-d6b77c010f7e
 
-Question: >
+Question: |
   You can ride beasts that you capture in the game Wonderland Online.
 
 Answers:
@@ -14147,7 +14090,7 @@ SchemaVersion: 1
 ---
 ID: 37859d0c-879e-4ba9-a13c-50ef2ad177a1
 
-Question: >
+Question: |
   In Wonderland Online it is possible to have a dinosaur as a pet.
 
 Answers:
@@ -14171,7 +14114,7 @@ SchemaVersion: 1
 ---
 ID: 9267352f-1839-4eb7-937d-e2c84e285cac
 
-Question: >
+Question: |
   What game starts when you talk to some fierce rabbits at Kelan Village in Wonderland Online?
 
 Answers:
@@ -14199,7 +14142,7 @@ SchemaVersion: 1
 ---
 ID: bd1682ca-c3ef-430f-877a-3a90e63c8407
 
-Question: >
+Question: |
   What does a mermaid at North Island ask you to fetch for her as a quest in the game Wonderland Online?
 
 Answers:
@@ -14227,7 +14170,7 @@ SchemaVersion: 1
 ---
 ID: ad17bf3f-5dfe-4eed-bfe9-382f5ab04f35
 
-Question: >
+Question: |
   How many characters in Super Smash Bros Brawl have the Final Smash Attack of Landmaster?
 
 Answers:
@@ -14255,7 +14198,7 @@ SchemaVersion: 1
 ---
 ID: a8a859fa-9e61-43ff-99b1-6a87076f0ba5
 
-Question: >
+Question: |
   How many characters are there at the beginning of Super Smash Bros Brawl?
 
 Answers:
@@ -14283,7 +14226,7 @@ SchemaVersion: 1
 ---
 ID: 653820f2-6c70-46f2-b88c-c6c1263b1c26
 
-Question: >
+Question: |
   How many Super Smash Bros Brawl characters have 2+ characters in their team?
 
 Answers:
@@ -14311,7 +14254,7 @@ SchemaVersion: 1
 ---
 ID: 9ebbf621-33e9-4768-9566-d7b20b40fd26
 
-Question: >
+Question: |
   How many bosses are there in Subspace Emissary in Super Smash Bros Brawl?
 
 Answers:
@@ -14339,7 +14282,7 @@ SchemaVersion: 1
 ---
 ID: cef84a8e-b653-438b-95c3-9c84578b4d64
 
-Question: >
+Question: |
   What are the bosses in the first Metroid game?
 
 Answers:
@@ -14367,7 +14310,7 @@ SchemaVersion: 1
 ---
 ID: d7b72fd7-0fdc-469f-b0b8-55c7427d920b
 
-Question: >
+Question: |
   Chronologically what is the last boss Samus has faced in the Metroid series?
 
 Answers:
@@ -14395,7 +14338,7 @@ SchemaVersion: 1
 ---
 ID: 6ab42423-f76c-49c2-9a4d-36c00ae05315
 
-Question: >
+Question: |
   In Metroid Prime 3: Corruption Samus fights Meta Ridley while falling down which of the following?
 
 Answers:
@@ -14423,7 +14366,7 @@ SchemaVersion: 1
 ---
 ID: a87022a0-2490-4b49-b03a-ed9afb03b8b4
 
-Question: >
+Question: |
   Why is Phatoons eye his weak point in the Metroid series?
 
 Answers:
@@ -14451,7 +14394,7 @@ SchemaVersion: 1
 ---
 ID: 02d4b3f6-4c10-4a67-a108-608aab161af4
 
-Question: >
+Question: |
   The Pinnacle of Project Helix is what kind of Phazon Infused Space Pirate?
 
 Answers:
@@ -14479,7 +14422,7 @@ SchemaVersion: 1
 ---
 ID: 3faf167d-6fe5-4fb0-8be6-8881be78246e
 
-Question: >
+Question: |
   In the Metroid series, the Vorashs weak point is its eyes.
 
 Answers:
@@ -14503,7 +14446,7 @@ SchemaVersion: 1
 ---
 ID: 50786abc-3877-4dae-b6bc-9976e472687a
 
-Question: >
+Question: |
   The final boss of Metroid Other M on hard mode is Phantoon.
 
 Answers:
@@ -14527,7 +14470,7 @@ SchemaVersion: 1
 ---
 ID: b0601b3a-eead-42d6-800c-842b682979b5
 
-Question: >
+Question: |
   What is Nightmares main weapon in the Metroid series?
 
 Answers:
@@ -14555,7 +14498,7 @@ SchemaVersion: 1
 ---
 ID: 249ec1a9-1188-4976-94d3-0b88555d6138
 
-Question: >
+Question: |
   The Berserker Lord is fought twice in the Metorid series.
 
 Answers:
@@ -14579,7 +14522,7 @@ SchemaVersion: 1
 ---
 ID: d7ab5d44-da49-4b4a-b876-35e4b75357d7
 
-Question: >
+Question: |
   Where does the first game of the Crysis series take place?
 
 Answers:
@@ -14607,7 +14550,7 @@ SchemaVersion: 1
 ---
 ID: 7efc87c0-0123-4590-b2d2-ae7edb5f5add
 
-Question: >
+Question: |
   Of the Crysis characters below, who is not a member of Raptor Team?
 
 Answers:
@@ -14635,7 +14578,7 @@ SchemaVersion: 1
 ---
 ID: 9ef94c17-0551-4de3-9935-fece5ad29383
 
-Question: >
+Question: |
   What Crysis character founded C.E.L.L?
 
 Answers:
@@ -14663,7 +14606,7 @@ SchemaVersion: 1
 ---
 ID: afe3c65f-7ec9-4fef-b270-ce61d0de2eab
 
-Question: >
+Question: |
   Which city is not a Ceph point of interest in the Crysis game series?
 
 Answers:
@@ -14691,7 +14634,7 @@ SchemaVersion: 1
 ---
 ID: b722fe06-df10-49c6-b39a-666d6d89dcfa
 
-Question: >
+Question: |
   In the Crysis games Ceph Organisms are nicknamed Stalkers.
 
 Answers:
@@ -14715,7 +14658,7 @@ SchemaVersion: 1
 ---
 ID: 9a1cbf39-9b7d-43fe-a0f2-9b1259b0c006
 
-Question: >
+Question: |
   What is the Typhoons Rate of Fire in the Crysis games?
 
 Answers:
@@ -14743,7 +14686,7 @@ SchemaVersion: 1
 ---
 ID: 1932b926-cb30-4ba7-ba81-d7cacec0a6af
 
-Question: >
+Question: |
   You can not destroy a round from the Gravity Bomb Launcher in the Crysis games.
 
 Answers:
@@ -14767,7 +14710,7 @@ SchemaVersion: 1
 ---
 ID: 2fa46a96-e531-4cb4-8023-87331c62cff7
 
-Question: >
+Question: |
   Prophet dies at the beginning of Crysis 2 .
 
 Answers:
@@ -14791,7 +14734,7 @@ SchemaVersion: 1
 ---
 ID: 1f1a68fa-73c6-4736-b15f-86dc8a2176ac
 
-Question: >
+Question: |
   In the Crysis games, Pingers do not fire at Alcatraz when he is cloaked.
 
 Answers:
@@ -14815,7 +14758,7 @@ SchemaVersion: 1
 ---
 ID: 694f0d7a-1b16-4c85-b9f1-16b21cd69b6b
 
-Question: >
+Question: |
   What year was Crysis character Jacob Hargreave born?
 
 Answers:
@@ -14843,7 +14786,7 @@ SchemaVersion: 1
 ---
 ID: 8b0cbf5f-5f6e-4257-badf-425fdc7f276d
 
-Question: >
+Question: |
   Which map is considered as a remake of the much loved Halo 3 map Valhalla?
 
 Answers:
@@ -14871,7 +14814,7 @@ SchemaVersion: 1
 ---
 ID: a726e582-aa4a-4866-a6dc-e2f282405880
 
-Question: >
+Question: |
   The plasma rifle is the first covenant weapon to be unlocked in the multiplayer mode of Halo 4.
 
 Answers:
@@ -14895,7 +14838,7 @@ SchemaVersion: 1
 ---
 ID: 81b156ad-2858-4a56-95ab-447323cf4b4c
 
-Question: >
+Question: |
   What are the only two weapons you can use in Grifball in Halo 4 Multiplayer?
 
 Answers:
@@ -14923,7 +14866,7 @@ SchemaVersion: 1
 ---
 ID: 0c74859e-3ad6-44c5-9c42-32006a274b55
 
-Question: >
+Question: |
   What is the award you get for infecting every player in Flood mode in Halo 4 Multiplayer?
 
 Answers:
@@ -14951,7 +14894,7 @@ SchemaVersion: 1
 ---
 ID: 3d4078b4-fb1e-4784-8afc-5a2417923cce
 
-Question: >
+Question: |
   Which  Halo 4 Multiplayer map has a Mantis being constructed in the center of the map?
 
 Answers:
@@ -14979,7 +14922,7 @@ SchemaVersion: 1
 ---
 ID: 5188ea49-ae93-4a14-a06f-5a5fba499080
 
-Question: >
+Question: |
   You can drop weapons of your choice in Halo 4.
 
 Answers:
@@ -15003,7 +14946,7 @@ SchemaVersion: 1
 ---
 ID: c9c4502b-1031-425a-96d8-065a0129ddcb
 
-Question: >
+Question: |
   On what ship does the Halo 4 Multiplayer take place?
 
 Answers:
@@ -15031,7 +14974,7 @@ SchemaVersion: 1
 ---
 ID: 129f1190-e7c1-4af6-a429-ee39841fc149
 
-Question: >
+Question: |
   The Binary Rifle in Halo 4 can only kill someone with a headshot.
 
 Answers:
@@ -15055,7 +14998,7 @@ SchemaVersion: 1
 ---
 ID: ece3bb98-422f-4f07-b8f9-a9fb5e32bfda
 
-Question: >
+Question: |
   What is the Promethean pistol called in Halo 4?
 
 Answers:
@@ -15083,7 +15026,7 @@ SchemaVersion: 1
 ---
 ID: 7b3c10c8-6dd5-4c56-b4ec-88073e005a4a
 
-Question: >
+Question: |
   Which armor ability allows the user to see through walls in Halo 4?
 
 Answers:
@@ -15111,7 +15054,7 @@ SchemaVersion: 1
 ---
 ID: 40f60d9f-9507-47b5-950a-1e1f045374de
 
-Question: >
+Question: |
   What happens when you die in the 2006 Runescape Halloween Event?
 
 Answers:
@@ -15139,7 +15082,7 @@ SchemaVersion: 1
 ---
 ID: 841e7ab6-62c4-45e8-95aa-e0aa496e2a23
 
-Question: >
+Question: |
   Jagex Ltd released RuneScape 3 in 2004.
 
 Answers:
@@ -15163,7 +15106,7 @@ SchemaVersion: 1
 ---
 ID: bc1bce63-668f-4253-8e5e-6db5b45d2d9d
 
-Question: >
+Question: |
   In Runescape a chicken is a level 1 monster.
 
 Answers:
@@ -15187,7 +15130,7 @@ SchemaVersion: 1
 ---
 ID: 7faf1f5e-f350-404c-93e8-0411a8a5ce26
 
-Question: >
+Question: |
   Zezima is the name of a Runescape player who was first ranked number 1 in 2003.
 
 Answers:
@@ -15211,7 +15154,7 @@ SchemaVersion: 1
 ---
 ID: 3a59c011-c3df-4ca2-8b8c-0f0661fd1753
 
-Question: >
+Question: |
   When were Runescape Bots introduced?
 
 Answers:
@@ -15239,7 +15182,7 @@ SchemaVersion: 1
 ---
 ID: 185974f7-0042-478e-878f-1e1beb6b7884
 
-Question: >
+Question: |
   How many sub-quests are there in the quest Recipe for Disaster?
 
 Answers:
@@ -15267,9 +15210,8 @@ SchemaVersion: 1
 ---
 ID: 0b406c8b-5ccd-4c84-85b9-8b1bc066d38e
 
-Question: >
-  The King Black Dragon was the highest level monster in Runescape until 7 September 2004, when it was replaced by
-  which of the following?
+Question: |
+  The King Black Dragon was the highest level monster in Runescape until 7 September 2004, when it was replaced by which of the following?
 
 Answers:
   1: >
@@ -15296,9 +15238,8 @@ SchemaVersion: 1
 ---
 ID: 88bc0f2b-dd51-4198-a473-fe5f91f5f4d4
 
-Question: >
-  Did any Runescape player manage to kill the Corporal Beast by themselves without abusing a glitch during the first
-  year of the Beasts release?
+Question: |
+  Did any Runescape player manage to kill the Corporal Beast by themselves without abusing a glitch during the first year of the Beasts release?
 
 Answers:
   1: >
@@ -15321,7 +15262,7 @@ SchemaVersion: 1
 ---
 ID: 24b54e07-7c6e-4015-841a-9f8867e0ccfa
 
-Question: >
+Question: |
   On Tutorial Island of RuneScape you get runes from a male character.
 
 Answers:
@@ -15345,7 +15286,7 @@ SchemaVersion: 1
 ---
 ID: d475d126-1124-4250-a11f-cfabe425d7c1
 
-Question: >
+Question: |
   Which of these RuneScape weapons is the most powerful?
 
 Answers:
@@ -15373,7 +15314,7 @@ SchemaVersion: 1
 ---
 ID: 564a730a-722d-4a88-b4d8-7adbea348dcc
 
-Question: >
+Question: |
   Which of these is the best type of RuneScape weapon for non members?
 
 Answers:
@@ -15401,7 +15342,7 @@ SchemaVersion: 1
 ---
 ID: 514bfeb7-927c-46b4-8aa7-b1c2dfca6a1b
 
-Question: >
+Question: |
   Which of these RuneScape quests is the most difficult?
 
 Answers:
@@ -15429,7 +15370,7 @@ SchemaVersion: 1
 ---
 ID: 3d25ba61-b87e-4ba5-9583-07fed8796905
 
-Question: >
+Question: |
   Christopher Greenfield is the creator of the RuneScape game.
 
 Answers:
@@ -15453,7 +15394,7 @@ SchemaVersion: 1
 ---
 ID: 2221819e-dcdb-42b5-815a-60339de97127
 
-Question: >
+Question: |
   The creator of RuneScape was helped by his cousin in developing the game.
 
 Answers:
@@ -15477,7 +15418,7 @@ SchemaVersion: 1
 ---
 ID: b5f82cd7-07ca-481c-9d96-12835b849dff
 
-Question: >
+Question: |
   Is is true that in RuneScape, the Corporeal Beast is level 311, the highest level?
 
 Answers:
@@ -15501,7 +15442,7 @@ SchemaVersion: 1
 ---
 ID: a17f6d13-bf72-40b4-a1fd-3c443f3f1f0e
 
-Question: >
+Question: |
   Which of the following is not a place in RuneScape?
 
 Answers:
@@ -15529,7 +15470,7 @@ SchemaVersion: 1
 ---
 ID: f76be003-6ade-450a-aa60-a92e2ed3fca6
 
-Question: >
+Question: |
   Name the female character and one of the four survivors in LFD1.
 
 Answers:
@@ -15557,7 +15498,7 @@ SchemaVersion: 1
 ---
 ID: 41452194-ee70-4e81-92ba-fb2b03a668c8
 
-Question: >
+Question: |
   What is the main difference between LFD1 and LFD2 in regard to use of weapons?
 
 Answers:
@@ -15585,7 +15526,7 @@ SchemaVersion: 1
 ---
 ID: 4684f9c0-2c00-42f9-9d93-23d5bc5d2530
 
-Question: >
+Question: |
   Setting off a car alarm scares off the zombies in LFD.
 
 Answers:
@@ -15609,9 +15550,8 @@ SchemaVersion: 1
 ---
 ID: e244817a-f881-475d-bf34-49e1e3e31602
 
-Question: >
-  A pipe bomb is an ideal weapon to destroy LFD zombies because it is a silent weapon and they won't hear it when you
-  throw it among a group of them.
+Question: |
+  A pipe bomb is an ideal weapon to destroy LFD zombies because it is a silent weapon and they won't hear it when you throw it among a group of them.
 
 Answers:
   1: >
@@ -15634,9 +15574,8 @@ SchemaVersion: 1
 ---
 ID: b41cb23b-acc1-4746-9b85-39bc756bd273
 
-Question: >
-  Unlike in other video or PC games you cannot save a game in LFD and then come back later to play it from where you
-  left off.
+Question: |
+  Unlike in other video or PC games you cannot save a game in LFD and then come back later to play it from where you left off.
 
 Answers:
   1: >
@@ -15659,9 +15598,8 @@ SchemaVersion: 1
 ---
 ID: 0902e543-85a5-434e-a8ac-fba6d6a52ca3
 
-Question: >
-  Name the fictional government agency or organization that was supposed to fight the infection and evacuate people
-  from infected areas in LFD.
+Question: |
+  Name the fictional government agency or organization that was supposed to fight the infection and evacuate people from infected areas in LFD.
 
 Answers:
   1: >
@@ -15688,7 +15626,7 @@ SchemaVersion: 1
 ---
 ID: 7d0b116c-2b4e-4963-9be8-1db776b3c695
 
-Question: >
+Question: |
   In LFD2 the Parish campaign takes place in this city.
 
 Answers:
@@ -15716,7 +15654,7 @@ SchemaVersion: 1
 ---
 ID: deb7cd8b-2083-47d3-bb2b-8c83199b3d70
 
-Question: >
+Question: |
   What is the name of fictional band featured in LFD2?
 
 Answers:
@@ -15744,7 +15682,7 @@ SchemaVersion: 1
 ---
 ID: e768496b-4022-4b2b-bab3-a8b2bd12db3b
 
-Question: >
+Question: |
   What pestilence or disease caused people to turn into zombies and deformed some of them into super mutants in LFD?
 
 Answers:
@@ -15772,7 +15710,7 @@ SchemaVersion: 1
 ---
 ID: 9e209d9b-55de-450f-a8f0-aa41d62ec6d9
 
-Question: >
+Question: |
   What is the name of the race car driver encountered in the Dead Center campaign of LFD2?
 
 Answers:
@@ -15800,7 +15738,7 @@ SchemaVersion: 1
 ---
 ID: 27b92291-70a2-4755-9fdd-b1efb60f7002
 
-Question: >
+Question: |
   In LFD1 the achievement known as Do Not Disturb is awarded for which of the following?
 
 Answers:
@@ -15828,7 +15766,7 @@ SchemaVersion: 1
 ---
 ID: 19b797e5-89e8-42bd-97fb-10de39181b94
 
-Question: >
+Question: |
   In LFD2 the achievement known as the CHAIN OF COMMAND is awarded for which of the following?
 
 Answers:
@@ -15856,7 +15794,7 @@ SchemaVersion: 1
 ---
 ID: 1280c75d-02ff-48e9-bb55-fc867b4b55de
 
-Question: >
+Question: |
   You can add more maps and campaigns in LFD1 and LFD2.
 
 Answers:
@@ -15880,7 +15818,7 @@ SchemaVersion: 1
 ---
 ID: a01161e3-3178-4a6e-ab19-666deb28e579
 
-Question: >
+Question: |
   In both LFD1 and LFD2, accumulating more cash than the other survivors will give you an advantage.
 
 Answers:
@@ -15904,7 +15842,7 @@ SchemaVersion: 1
 ---
 ID: 1ef70ad3-8d44-4e3a-ae66-2842b5b9cb26
 
-Question: >
+Question: |
   What unique Zord do the Time Force Rangers have?
 
 Answers:
@@ -15932,7 +15870,7 @@ SchemaVersion: 1
 ---
 ID: 2efa3144-4abd-4041-abb0-0c58be80d828
 
-Question: >
+Question: |
   Zelda, featured in The Legend of Zelda series of video games, is what kind of character?
 
 Answers:
@@ -15960,7 +15898,7 @@ SchemaVersion: 1
 ---
 ID: f30068f6-5597-48cb-a244-a6bf713d53f8
 
-Question: >
+Question: |
   What is the currency used in the Legend of Zelda video game series?
 
 Answers:
@@ -15988,7 +15926,7 @@ SchemaVersion: 1
 ---
 ID: 93815ea0-f181-44a1-a557-d125bdd4eceb
 
-Question: >
+Question: |
   Which of these is not a race featured in the Legend of Zelda video games?
 
 Answers:
@@ -16016,7 +15954,7 @@ SchemaVersion: 1
 ---
 ID: 378faa66-e144-491e-9e1e-9f77c873524e
 
-Question: >
+Question: |
   Which of these items is always in Links arsenal in the Legend of Zelda games?
 
 Answers:
@@ -16044,7 +15982,7 @@ SchemaVersion: 1
 ---
 ID: 47da259f-da1f-4289-893c-3357709a2283
 
-Question: >
+Question: |
   In The Legend of Zelda series of video games Zelda possesses which piece of the Triforce?
 
 Answers:
@@ -16072,7 +16010,7 @@ SchemaVersion: 1
 ---
 ID: d59bbaae-d0ed-41f5-aad5-0e06c8b5a34a
 
-Question: >
+Question: |
   Is there a game called Super Mario Tennis?
 
 Answers:
@@ -16096,7 +16034,7 @@ SchemaVersion: 1
 ---
 ID: e805b695-23a4-44f5-aa70-b33dc970e8ec
 
-Question: >
+Question: |
   There are Mario games featuring racing, baseball, soccer, tennis, and golf.
 
 Answers:
@@ -16120,7 +16058,7 @@ SchemaVersion: 1
 ---
 ID: ddf11886-4d53-4404-9b21-984fe7e306ee
 
-Question: >
+Question: |
   Which of the following characters is NOT a sidekick in Super Mario Strikers?
 
 Answers:
@@ -16148,7 +16086,7 @@ SchemaVersion: 1
 ---
 ID: 9b185d3c-2cfe-4fac-969e-656b6acfccef
 
-Question: >
+Question: |
   In Mario Superstar Baseball what do you have to you use to unleash your characters super pitch?
 
 Answers:
@@ -16176,7 +16114,7 @@ SchemaVersion: 1
 ---
 ID: 396cc0cd-3911-42e1-adb8-55c52bae4ad9
 
-Question: >
+Question: |
   In Mario Kart, characters are classified as either heavy or light.
 
 Answers:
@@ -16200,7 +16138,7 @@ SchemaVersion: 1
 ---
 ID: 25450b42-e5d7-4530-b2d1-c45b58466970
 
-Question: >
+Question: |
   What is Luigis power shot in Mario Power Tennis?
 
 Answers:
@@ -16228,7 +16166,7 @@ SchemaVersion: 1
 ---
 ID: 24f3a6fb-edca-4f34-9a5f-a226a60b2628
 
-Question: >
+Question: |
   In Mario Power Tennis, Bowsers racket has spikes on it.
 
 Answers:
@@ -16252,7 +16190,7 @@ SchemaVersion: 1
 ---
 ID: c77b6c07-2559-4d69-a34a-fb9caab74136
 
-Question: >
+Question: |
   What is the most basic court in Mario Power Tennis?
 
 Answers:
@@ -16280,7 +16218,7 @@ SchemaVersion: 1
 ---
 ID: 44bb261c-7e64-4147-ae8b-029f05756a33
 
-Question: >
+Question: |
   Sonic the Hedgehog is the protagonist of a video game, released by Nintendo.
 
 Answers:
@@ -16304,7 +16242,7 @@ SchemaVersion: 1
 ---
 ID: 7cfbfa15-b658-464f-b08a-ef2c52c9d509
 
-Question: >
+Question: |
   Which one of these game systems was released by Nintendo?
 
 Answers:
@@ -16332,7 +16270,7 @@ SchemaVersion: 1
 ---
 ID: 9ff15f2d-bc37-47b6-a2c7-f7c3bb88c7a7
 
-Question: >
+Question: |
   Does Nintendos mascot Mario wear a red and black hat?
 
 Answers:
@@ -16356,7 +16294,7 @@ SchemaVersion: 1
 ---
 ID: 87b78149-6884-44b4-bbdf-6e05730e6399
 
-Question: >
+Question: |
   Is it true that Kirby, the protagonist of the Kirby game series, is pink?
 
 Answers:
@@ -16380,7 +16318,7 @@ SchemaVersion: 1
 ---
 ID: e01d3ae7-9cac-4897-86e6-8a1f59945e2f
 
-Question: >
+Question: |
   Captain Falcon, from the F-Zero video games, is a pirate.
 
 Answers:
@@ -16404,7 +16342,7 @@ SchemaVersion: 1
 ---
 ID: 156c043a-15f2-40d4-b16b-0391093db7c2
 
-Question: >
+Question: |
   Which of these games was not released by Nintendo?
 
 Answers:
@@ -16432,7 +16370,7 @@ SchemaVersion: 1
 ---
 ID: 39a9c5c4-4c9a-446c-b0b3-5d2eb9ebbaec
 
-Question: >
+Question: |
   Which Super Smash Bros. Melee character can be unlocked by defeating the 10-minute melee?
 
 Answers:
@@ -16460,7 +16398,7 @@ SchemaVersion: 1
 ---
 ID: a4e954a3-018f-4a86-88ac-a4077c6f17a7
 
-Question: >
+Question: |
   Which character in Super Smash Bros. Melee can be unlocked by beating the game with every character?
 
 Answers:
@@ -16488,7 +16426,7 @@ SchemaVersion: 1
 ---
 ID: 129aaa5a-bc98-4070-a7f0-88b837794fa0
 
-Question: >
+Question: |
   Which character in Super Smash Bros. Melee did not have a grapple ability?
 
 Answers:
@@ -16516,7 +16454,7 @@ SchemaVersion: 1
 ---
 ID: db770f2a-f404-44d3-a7ba-51c767dd299e
 
-Question: >
+Question: |
   Which Pokemon character in Super Smash Bros. Melee damages itself by using its B button moves?
 
 Answers:
@@ -16544,7 +16482,7 @@ SchemaVersion: 1
 ---
 ID: 4f6d07c8-14c8-4dd1-a5dc-bf862d1e276c
 
-Question: >
+Question: |
   Which character in Super Smash Bros. Melee is the final boss of the normal game (Classic Mode)?
 
 Answers:
@@ -16572,7 +16510,7 @@ SchemaVersion: 1
 ---
 ID: 7e20adb3-d56c-4cf2-9ea5-236ab793a5a2
 
-Question: >
+Question: |
   Which character in Super Smash Bros. Melee could jump more than once in midair?
 
 Answers:
@@ -16600,7 +16538,7 @@ SchemaVersion: 1
 ---
 ID: ed8ba772-075b-4455-b1a7-f907ec8f061e
 
-Question: >
+Question: |
   Which character in Super Smash Bros. Melee is unlocked by beating the game with a character from the same game?
 
 Answers:
@@ -16628,7 +16566,7 @@ SchemaVersion: 1
 ---
 ID: f6a60a55-df07-42ce-b035-7c7ab791c96f
 
-Question: >
+Question: |
   Which character in Super Smash Bros. Melee had the ability to pick up other characters and walk with them?
 
 Answers:
@@ -16656,7 +16594,7 @@ SchemaVersion: 1
 ---
 ID: aaf45c17-cc55-473d-80a3-0582ad1964e6
 
-Question: >
+Question: |
   Which of the following game series featured the most Super Smash Bros. Melee characters?
 
 Answers:
@@ -16684,7 +16622,7 @@ SchemaVersion: 1
 ---
 ID: 6a762930-916b-4805-b537-b34d1f05693e
 
-Question: >
+Question: |
   Which character in Super Smash Bros. Melee does not have a saving Up B button move?
 
 Answers:
@@ -16712,7 +16650,7 @@ SchemaVersion: 1
 ---
 ID: a059ac6d-d641-4413-8558-483b9eafcf17
 
-Question: >
+Question: |
   What is the name of the main character in the 2006 third-person shooter Gears of War?
 
 Answers:
@@ -16740,9 +16678,8 @@ SchemaVersion: 1
 ---
 ID: 92407085-95cf-47a1-8a05-c8e3fe0d6b46
 
-Question: >
-  In video game Gears of War, these creatures let loose loud piercing shrieks when they attack but are generally easy
-  to kill.
+Question: |
+  In video game Gears of War, these creatures let loose loud piercing shrieks when they attack but are generally easy to kill.
 
 Answers:
   1: >
@@ -16769,7 +16706,7 @@ SchemaVersion: 1
 ---
 ID: ab770709-cc33-4f3e-88dd-419f9fc1e24a
 
-Question: >
+Question: |
   In Gears of War, if you stay in the dark and walk slowly, the mutant race Kryll won't attack you.
 
 Answers:
@@ -16793,7 +16730,7 @@ SchemaVersion: 1
 ---
 ID: a268794c-efa6-43b2-a8d6-3dc08fe30c81
 
-Question: >
+Question: |
   In Gears of War, which of these creatures is blind, walks upright and hunts by smell?
 
 Answers:
@@ -16821,9 +16758,8 @@ SchemaVersion: 1
 ---
 ID: 619f017e-ca1e-47ff-a76c-c557301014fe
 
-Question: >
-  In the third-person shooter Gears of War, can you kill the Corpser in the Locust tunnels by using the Hammer of
-  Dawn?
+Question: |
+  In the third-person shooter Gears of War, can you kill the Corpser in the Locust tunnels by using the Hammer of Dawn?
 
 Answers:
   1: >
@@ -16846,7 +16782,7 @@ SchemaVersion: 1
 ---
 ID: 5b505c1a-ae4f-4183-9f65-240682337597
 
-Question: >
+Question: |
   What is the name of the Colonel who is in command according to the scenarios in Gears of War?
 
 Answers:
@@ -16874,9 +16810,8 @@ SchemaVersion: 1
 ---
 ID: 77e06c02-3081-4a2b-a522-2d5811f53838
 
-Question: >
-  In the Gears of War game, which member of Alpha Team is first found fighting in a small courtyard, alone and
-  taunting the Locust?
+Question: |
+  In the Gears of War game, which member of Alpha Team is first found fighting in a small courtyard, alone and taunting the Locust?
 
 Answers:
   1: >
@@ -16903,7 +16838,7 @@ SchemaVersion: 1
 ---
 ID: 3bf74fad-e7d9-4eb0-a4fd-71700ea2ae1d
 
-Question: >
+Question: |
   Which difficulty setting can only be unlocked by completing Gears of War once on any difficulty?
 
 Answers:
@@ -16931,7 +16866,7 @@ SchemaVersion: 1
 ---
 ID: 8079cebc-13aa-4e09-a5f0-4a259862579d
 
-Question: >
+Question: |
   General RAAM is protected by the mutant race Kryll when you try to kill him on the train at the end of Gears of War.
 
 Answers:
@@ -16955,7 +16890,7 @@ SchemaVersion: 1
 ---
 ID: d5bef014-da9f-4ba5-afb5-9523ac156a3d
 
-Question: >
+Question: |
   Which of these dragons is the strongest in the Runescape game?
 
 Answers:
@@ -16983,7 +16918,7 @@ SchemaVersion: 1
 ---
 ID: 54172bbe-60fd-4831-a6e5-c9b27577910f
 
-Question: >
+Question: |
   Which of these Runescape creatures drops a Dragon 2H Sword?
 
 Answers:
@@ -17011,7 +16946,7 @@ SchemaVersion: 1
 ---
 ID: b7eb1971-32d1-4e6b-98bb-35c5c41ee5bb
 
-Question: >
+Question: |
   What is the name of the city in Runescape that you unlock after the Lost City Quest?
 
 Answers:
@@ -17039,7 +16974,7 @@ SchemaVersion: 1
 ---
 ID: 3f251eab-e5f8-4b5a-8449-bc6f48149602
 
-Question: >
+Question: |
   Which of these is the postal service in Runescape?
 
 Answers:
@@ -17067,7 +17002,7 @@ SchemaVersion: 1
 ---
 ID: 6e463c3d-9e6a-4859-a771-a5ed365ce632
 
-Question: >
+Question: |
   In the Runescape game you get a fishing skillcape in the Legends Guild.
 
 Answers:
@@ -17091,7 +17026,7 @@ SchemaVersion: 1
 ---
 ID: 797fe556-e048-42d2-aaff-edb2ac71ba28
 
-Question: >
+Question: |
   How many forms does the Calphite Queen have in the game Runescape?
 
 Answers:
@@ -17119,7 +17054,7 @@ SchemaVersion: 1
 ---
 ID: de8fd89c-3771-4a50-ae31-6eb31b98a9a1
 
-Question: >
+Question: |
   Which of these pets can you own in Runescape?
 
 Answers:
@@ -17147,7 +17082,7 @@ SchemaVersion: 1
 ---
 ID: af9860b6-2d64-4565-a036-d37d1ff32d13
 
-Question: >
+Question: |
   You can own a pet rock in the Runescape game.
 
 Answers:
@@ -17171,9 +17106,8 @@ SchemaVersion: 1
 ---
 ID: b1974a4b-ebac-44ff-a2a1-956981441cd0
 
-Question: >
-  In the action/adventure game Killer7, the name of the assassin who can change between seven deadly personalities is
-  Harman Smith.
+Question: |
+  In the action/adventure game Killer7, the name of the assassin who can change between seven deadly personalities is Harman Smith.
 
 Answers:
   1: >
@@ -17196,7 +17130,7 @@ SchemaVersion: 1
 ---
 ID: e6a7ba86-9599-482c-bf37-04a90516b2fe
 
-Question: >
+Question: |
   Which persona from the Killer7 game is the one with the Scope on his/her Automatic?
 
 Answers:
@@ -17224,7 +17158,7 @@ SchemaVersion: 1
 ---
 ID: 9104c852-3c76-410c-8b68-1a1604a57020
 
-Question: >
+Question: |
   In Killer7, what is the character Con Smiths’ age?
 
 Answers:
@@ -17252,7 +17186,7 @@ SchemaVersion: 1
 ---
 ID: dca66ee5-4ba7-4a73-8fd1-bb6f1088862a
 
-Question: >
+Question: |
   Which voice-over actress, who has also done voices for Nickelodeon, is the voice of Kaede in Killer7?
 
 Answers:
@@ -17280,7 +17214,7 @@ SchemaVersion: 1
 ---
 ID: 6671ed72-ed8e-442b-ae80-efc52d7b059a
 
-Question: >
+Question: |
   What is the name of character Iwazarus ex-wife in the action/adventure game Killer7?
 
 Answers:
@@ -17308,7 +17242,7 @@ SchemaVersion: 1
 ---
 ID: 4fe6e31a-c06f-4441-a645-bfcf65877fc7
 
-Question: >
+Question: |
   In the game Killer7, what is the name of Harmans maid?
 
 Answers:
@@ -17336,7 +17270,7 @@ SchemaVersion: 1
 ---
 ID: e02ad520-3f40-4190-8a01-8f5f98c5a406
 
-Question: >
+Question: |
   The only time you can use the save feature in Killer7 is when character Samantha is in what costume?
 
 Answers:
@@ -17364,7 +17298,7 @@ SchemaVersion: 1
 ---
 ID: 3a793b66-26da-44b7-8c23-901811a60ace
 
-Question: >
+Question: |
   What was Mask De Smith’s profession before coming apart of the killers’ team in Killer7?
 
 Answers:
@@ -17392,7 +17326,7 @@ SchemaVersion: 1
 ---
 ID: 5870654e-a89a-4b15-a5d5-9e879e42d9c1
 
-Question: >
+Question: |
   In the action/adventure Killer7, who is the only informant able to contact the Killer7 team?
 
 Answers:
@@ -17420,7 +17354,7 @@ SchemaVersion: 1
 ---
 ID: 3c2421c9-4dd9-4f16-8069-dfe28c5a7976
 
-Question: >
+Question: |
   Besides your Avatar, what other characters can you get at the beginning of the game Baldurs Gate II: Shadows of Amn?
 
 Answers:
@@ -17448,7 +17382,7 @@ SchemaVersion: 1
 ---
 ID: a01efd3f-6df7-4267-8325-0efdf209315d
 
-Question: >
+Question: |
   Where can you get the gauntlets of ogre power in the game Baldurs Gate II: Shadows of Amn?
 
 Answers:
@@ -17476,9 +17410,8 @@ SchemaVersion: 1
 ---
 ID: b3716d9d-ec7c-433f-8da9-dae1d44a3a5d
 
-Question: >
-  What ranger can you save in the game Baldurs Gate II: Shadows of Amn by defeating the Shadow lord in the ruin
-  temple?
+Question: |
+  What ranger can you save in the game Baldurs Gate II: Shadows of Amn by defeating the Shadow lord in the ruin temple?
 
 Answers:
   1: >
@@ -17505,9 +17438,8 @@ SchemaVersion: 1
 ---
 ID: 72f2459b-4d30-444e-9a71-e1aa73f0945d
 
-Question: >
-  What organization takes Imoen from you, after you escape the first level in the game Baldurs Gate II: Shadows of
-  Amn?
+Question: |
+  What organization takes Imoen from you, after you escape the first level in the game Baldurs Gate II: Shadows of Amn?
 
 Answers:
   1: >
@@ -17534,7 +17466,7 @@ SchemaVersion: 1
 ---
 ID: b177aac2-27f1-4415-a75d-7a0fcf7d25c2
 
-Question: >
+Question: |
   Who kidnaps Nalia in the game Baldurs Gate II: Shadows of Amn?
 
 Answers:
@@ -17562,7 +17494,7 @@ SchemaVersion: 1
 ---
 ID: d15ef70b-4b0a-4ca2-97bb-d20e4ed30f69
 
-Question: >
+Question: |
   In the 2007 RuneScape Easter special, what item or items do you earn by helping the Easter bunny?
 
 Answers:
@@ -17590,7 +17522,7 @@ SchemaVersion: 1
 ---
 ID: 3405b4e0-6352-48aa-912d-3c4f0c760939
 
-Question: >
+Question: |
   What two special benefits do RuneScape members get?
 
 Answers:
@@ -17618,7 +17550,7 @@ SchemaVersion: 1
 ---
 ID: 4c7b0630-96b8-458f-8570-2596c222ed08
 
-Question: >
+Question: |
   In the RuneScape game, it is illegal to use a macroer.
 
 Answers:
@@ -17642,7 +17574,7 @@ SchemaVersion: 1
 ---
 ID: 50f1474e-4414-49dd-ab64-9c15511a5dfe
 
-Question: >
+Question: |
   In the RuneScape game, the woodcutting skillcape lets you save a bird from a tree.
 
 Answers:
@@ -17666,7 +17598,7 @@ SchemaVersion: 1
 ---
 ID: 7ada6e75-2b9d-4b62-8c24-6a33be0502ca
 
-Question: >
+Question: |
   On a non-member world in RuneScape, how many places can you travel to on the ship in Port Sarim?
 
 Answers:
@@ -17694,7 +17626,7 @@ SchemaVersion: 1
 ---
 ID: 6d3548ff-d6a3-44b4-96f9-5d33a2af7527
 
-Question: >
+Question: |
   What animal is Santa on the 2005 RuneScape Christmas special?
 
 Answers:
@@ -17722,7 +17654,7 @@ SchemaVersion: 1
 ---
 ID: 6d6a6dac-c6e3-4d78-bfb7-b48422fc6e26
 
-Question: >
+Question: |
   What is the name of the dog the main character is trying to save in the Dogs Life video game?
 
 Answers:
@@ -17750,7 +17682,7 @@ SchemaVersion: 1
 ---
 ID: 946dc3b9-9211-43ca-88f5-c8bc36afb6c9
 
-Question: >
+Question: |
   What changes on the dog every time you go to a different Poodle Parlour in the video game Dogs Life?
 
 Answers:
@@ -17778,7 +17710,7 @@ SchemaVersion: 1
 ---
 ID: 653e68cd-39e8-4603-8a62-b55640febe44
 
-Question: >
+Question: |
   At what location do you first have to run away from the dog catcher in the Dogs Life video game?
 
 Answers:
@@ -17806,7 +17738,7 @@ SchemaVersion: 1
 ---
 ID: 53464e91-baf3-4f40-9f7f-0a65395cdd9d
 
-Question: >
+Question: |
   When you pick up scents in the game Dogs Life, which of the following is not part of a competition with another dog?
 
 Answers:
@@ -17834,7 +17766,7 @@ SchemaVersion: 1
 ---
 ID: 097f8909-a63a-4efc-88ea-a9e760f2d583
 
-Question: >
+Question: |
   What are the names of Miss Peaches henchmen in the Dogs Life game?
 
 Answers:
@@ -17862,7 +17794,7 @@ SchemaVersion: 1
 ---
 ID: 376c88fb-dedb-4af8-9722-a3bab6e587fa
 
-Question: >
+Question: |
   In the Dogs Life video game, what challenge do the purple scents start?
 
 Answers:
@@ -17890,7 +17822,7 @@ SchemaVersion: 1
 ---
 ID: a39038bd-99be-41f2-a25f-f0b432da5ce0
 
-Question: >
+Question: |
   What improves your speed, stamina, and health in the game Dogs Life?
 
 Answers:
@@ -17918,7 +17850,7 @@ SchemaVersion: 1
 ---
 ID: ffee549c-ed6c-427b-9753-648453d1cba4
 
-Question: >
+Question: |
   Which of the following is NOT found at the grooming parlour in the video game Dogs Life?
 
 Answers:
@@ -17946,7 +17878,7 @@ SchemaVersion: 1
 ---
 ID: 67f0e042-bef3-4945-85b4-34c2160462b9
 
-Question: >
+Question: |
   How many places can you go to by train in the Dogs Life game?
 
 Answers:
@@ -17974,7 +17906,7 @@ SchemaVersion: 1
 ---
 ID: 7e9888cc-8ebd-410a-9384-9ba45f517e92
 
-Question: >
+Question: |
   What is the name of the radio show in the game Dogs Life?
 
 Answers:
@@ -18002,7 +17934,7 @@ SchemaVersion: 1
 ---
 ID: 4080131e-057e-4c55-bbaa-f32b058fd63c
 
-Question: >
+Question: |
   What button do you press to dig in Dogs Life (PS2)?
 
 Answers:
@@ -18030,7 +17962,7 @@ SchemaVersion: 1
 ---
 ID: 17f44786-e03d-4926-a0df-77b884f08ac3
 
-Question: >
+Question: |
   What color is Miss Peaches hair in the video game Dogs Life?
 
 Answers:
@@ -18058,7 +17990,7 @@ SchemaVersion: 1
 ---
 ID: b460f158-fb2c-47c7-ba0c-08de0d9a64d4
 
-Question: >
+Question: |
   Where is the Lucky 7s Machine located in the game Dogs Life?
 
 Answers:
@@ -18086,7 +18018,7 @@ SchemaVersion: 1
 ---
 ID: 2275c4d7-1ac4-42da-9f3c-231100e1d221
 
-Question: >
+Question: |
   In the Dogs Life video game, what is the name of the group of bandits at Boom City?
 
 Answers:
@@ -18114,7 +18046,7 @@ SchemaVersion: 1
 ---
 ID: cad55cb7-c919-441c-bcad-cae67986052c
 
-Question: >
+Question: |
   What color is the jacket the girl wants you to get from the ski slopes in the video game Dogs Life?
 
 Answers:

@@ -1,6 +1,6 @@
 ID: 83501eb4-9593-4751-ada8-208db9ce2314
 
-Question: >
+Question: |
   What currency is used in Guatemala?
 
 Answers:
@@ -28,7 +28,7 @@ SchemaVersion: 1
 ---
 ID: af9f43f7-fe63-4caa-b0da-020ad501ae0c
 
-Question: >
+Question: |
   From 1971–1998 David Livingstone's image was portrayed on £10 notes.
 
 Answers:
@@ -50,9 +50,117 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: 934988a9-b770-4f84-b4dc-91b644fa92e6
+
+Question: |
+  What is the title of the signature in the lower right hand corner of the U.S. $10 bill?
+
+Answers:
+  1: >
+    Treasure of the United States
+  2: >
+    United States Treasury Director
+  3: >
+    Secretary of the Treasury
+  4: >
+    Secretary of Commerce
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 79dbf8af-694d-444d-979f-0b20602f2edf
+
+Question: |
+  The inscription, E Pluribus Unum, appears in the left hand seal, above the pyramid, on the $1 bill.
+
+Answers:
+  1: >
+    False
+  2: >
+    True
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: b68a4821-6219-4955-a761-4e74fe2c60e2
+
+Question: |
+  One of these claims about the US currency is false. Can you spot it?
+
+Answers:
+  1: >
+    Dollar bills are easy to counterfeit.
+  2: >
+    Coins do not have their values inscribed with a number.
+  3: >
+    Blind people cannot tell dollar bills apart because of their similar designs and texture.
+  4: >
+    Both the one cent (penny) and the five cent (nickel) are larger than the dime, which is worth ten cents.
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 4f396d8c-7986-4328-b9d7-a1e0635fcdb9
+
+Question: |
+  On the back side of the 1 dollar bill we can see an ancient Egyptian pyramid, beneath a triangle containing a glowing eye. What is the origin of this symbol?
+
+Answers:
+  1: >
+    Christian
+  2: >
+    Jewish
+  3: >
+    Freemason
+  4: >
+    None of these
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: 7c3fe330-c73f-4ea9-bb9b-bdf7f1685a55
 
-Question: >
+Question: |
   How many cents are in a dollar?
 
 Answers:
@@ -80,7 +188,7 @@ SchemaVersion: 1
 ---
 ID: 86276c75-6cfc-4ca5-8e1f-3ba673327da2
 
-Question: >
+Question: |
   On the Canadian 2 dollar bill, what flag flies over the parliament building?
 
 Answers:

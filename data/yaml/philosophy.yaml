@@ -1,8 +1,7 @@
 ID: 2c2c5658-cae3-4f54-b8b6-e0bcec77b0d9
 
-Question: >
-  The words "No thing more excellent nor more valuable than wine was ever granted mankind by God" belong to this Greek
-  philosopher.
+Question: |
+  The words "No thing more excellent nor more valuable than wine was ever granted mankind by God" belong to this Greek philosopher.
 
 Answers:
   1: >
@@ -29,7 +28,7 @@ SchemaVersion: 1
 ---
 ID: 017372fd-21c1-444b-89b5-bc4de6882f64
 
-Question: >
+Question: |
   What science did Aristotle define as 'the knowledge of immaterial being'?
 
 Answers:

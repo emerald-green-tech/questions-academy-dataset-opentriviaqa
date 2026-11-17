@@ -1,6 +1,6 @@
 ID: 8e5899c2-30c3-4a7b-82a8-7ae80c67dff5
 
-Question: >
+Question: |
   Dolmabahçe Palace has elements from what architectural style?
 
 Answers:
@@ -28,7 +28,7 @@ SchemaVersion: 1
 ---
 ID: 803db0a9-9158-4adb-8c5c-478ab32bbe51
 
-Question: >
+Question: |
   What is the shape of the famous Crystal Staircase in Dolmabahçe Palace?
 
 Answers:
@@ -56,7 +56,7 @@ SchemaVersion: 1
 ---
 ID: d7a81876-3323-4a07-8046-2ccaef4a8b82
 
-Question: >
+Question: |
   Dolmabahçe Palace contains over 250 rooms.
 
 Answers:
@@ -80,7 +80,7 @@ SchemaVersion: 1
 ---
 ID: c2c57e23-2f72-4ea3-9c8e-bb27fe1e260c
 
-Question: >
+Question: |
   Big Ben's 150th anniversary was in May 2009.
 
 Answers:
@@ -104,7 +104,7 @@ SchemaVersion: 1
 ---
 ID: 2879aff1-5666-4b4c-a847-f11d017994b5
 
-Question: >
+Question: |
   Why was the Taj Mahal built by Mughal emperor Shah Jahan?
 
 Answers:
@@ -132,7 +132,7 @@ SchemaVersion: 1
 ---
 ID: 3a7d9fc1-2b00-4a4b-b678-f93e19a05c7c
 
-Question: >
+Question: |
   What is the length of the entire Great Wall, with all of its branches?
 
 Answers:
@@ -160,7 +160,7 @@ SchemaVersion: 1
 ---
 ID: d589bf6c-2d1e-49ad-8937-b96a73fb2baa
 
-Question: >
+Question: |
   Joseph Strauss was chief engineer of this famous bridge, completed in 1937.
 
 Answers:
@@ -188,7 +188,7 @@ SchemaVersion: 1
 ---
 ID: d3d7c576-920c-4951-8f73-e58a2ebdfd7f
 
-Question: >
+Question: |
   This wall, sometimes called the Wailing Wall, is one of the most sacred sites in Judaism.
 
 Answers:
@@ -216,7 +216,7 @@ SchemaVersion: 1
 ---
 ID: ee2bf995-71e3-4ad7-867e-9c16efc57a4b
 
-Question: >
+Question: |
   The construction of the Colosseum of Rome was started under Emperor Nero.
 
 Answers:
@@ -240,7 +240,7 @@ SchemaVersion: 1
 ---
 ID: 4f45252c-7dd6-4e37-acbb-33c6b7a4ccb3
 
-Question: >
+Question: |
   Petra is a historical and archaeological city located in the Maan Governorate in Jordan.
 
 Answers:
@@ -264,9 +264,8 @@ SchemaVersion: 1
 ---
 ID: 1e30e3a6-1abf-4d61-8e2e-8d6fe2fcd12f
 
-Question: >
-  Because of the color of the rocks in which it is carved in, the ancient city of Petra is known also known as which
-  of these?
+Question: |
+  Because of the color of the rocks in which it is carved in, the ancient city of Petra is known also known as which of these?
 
 Answers:
   1: >
@@ -293,7 +292,7 @@ SchemaVersion: 1
 ---
 ID: 7d5db16b-96f4-4842-9efb-6879786f9852
 
-Question: >
+Question: |
   Which explorer introduced the ruins of the city of Petra to the Western world?
 
 Answers:
@@ -321,7 +320,7 @@ SchemaVersion: 1
 ---
 ID: 1f3b60c8-cc27-41f9-8040-4240e5221f8d
 
-Question: >
+Question: |
   Which of the following was built in the Rococo style?
 
 Answers:
@@ -349,7 +348,7 @@ SchemaVersion: 1
 ---
 ID: f685372b-6445-49f3-9715-91d8a67615a1
 
-Question: >
+Question: |
   He is considered the first architect whose fame was built on his mall designs.
 
 Answers:
@@ -375,9 +374,93 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: f818cb9e-3cd2-4e7c-bfbd-61d87f88fa23
+
+Question: |
+  This 183-meter skyscraper in London was originally built for the National Westminster Bank.
+
+Answers:
+  1: >
+    The Tower of London
+  2: >
+    Nelsons Column
+  3: >
+    Tower Bridge
+  4: >
+    Tower 42
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 464ce52e-d3b4-41c5-8732-18e14933efa7
+
+Question: |
+  What Las Vegas building, completed in 1996, offers two observation decks, a revolving restaurant, and thrill rides?
+
+Answers:
+  1: >
+    MGM Grand
+  2: >
+    Bellagio
+  3: >
+    Stratosphere
+  4: >
+    Vegas World
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 4293eb9a-46c9-4dee-a936-7c6c04d5d992
+
+Question: |
+  This famous skyscraper in Hong Kong, designed by the architect I. M. Pei, and is 315 meters high?
+
+Answers:
+  1: >
+    Sky Bank
+  2: >
+    Bank of China Tower
+  3: >
+    Bosmal City Center
+  4: >
+    Bank of One Center
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: dcfe41b1-9682-47e7-a655-211b35d07e19
 
-Question: >
+Question: |
   Which twin towers, located in Kuala Lumpur, Malaysia, were the world's highest buildings from 1998 to 2004?
 
 Answers:
@@ -405,10 +488,8 @@ SchemaVersion: 1
 ---
 ID: 89883c10-359a-4522-a8f3-75a831cc1e99
 
-Question: >
-  This building, designed by Louis H. Sullivan, is one of the most famous early skyscrapers housing a flagship
-  department store. This store appears in Theodore Dreisers novel Sister Carrie. It was named a National Historic
-  Landmark in 1975. Name the store.
+Question: |
+  This building, designed by Louis H. Sullivan, is one of the most famous early skyscrapers housing a flagship department store. This store appears in Theodore Dreisers novel Sister Carrie. It was named a National Historic Landmark in 1975. Name the store.
 
 Answers:
   1: >
@@ -435,7 +516,7 @@ SchemaVersion: 1
 ---
 ID: 719a1148-08b7-4ab1-b942-5d99ad62db90
 
-Question: >
+Question: |
   The Pentagon is the world's largest office building by floor area.
 
 Answers:
@@ -459,9 +540,8 @@ SchemaVersion: 1
 ---
 ID: 42f140e3-a1ea-4c9e-b2bb-9129540bf51c
 
-Question: >
-  Upon completion, the Washington Monument, built to commemorate the first US President, became the world's tallest
-  structure. What is the name of the architect who designed it?
+Question: |
+  Upon completion, the Washington Monument, built to commemorate the first US President, became the world's tallest structure. What is the name of the architect who designed it?
 
 Answers:
   1: >
@@ -488,9 +568,8 @@ SchemaVersion: 1
 ---
 ID: e374aad8-303e-484b-b695-4011093ee5f8
 
-Question: >
-  This toilet, also referred to as kybo, is a small structure separate from the main building which does not have a
-  flush or sewer attached.
+Question: |
+  This toilet, also referred to as kybo, is a small structure separate from the main building which does not have a flush or sewer attached.
 
 Answers:
   1: >
@@ -517,7 +596,7 @@ SchemaVersion: 1
 ---
 ID: 9d4e9557-4511-4a5f-bf29-36584986794b
 
-Question: >
+Question: |
   The construction of this structure began on August 9, 1173 but after the third floor was built, it began to lean.
 
 Answers:
@@ -545,7 +624,7 @@ SchemaVersion: 1
 ---
 ID: d3c489de-942c-49bc-8153-7de717bbe0ad
 
-Question: >
+Question: |
   Originally known as the Flavian Amphitheatre, this amphitheatre in Rome was once used for gladiatorial combat.
 
 Answers:
@@ -573,7 +652,7 @@ SchemaVersion: 1
 ---
 ID: ae0ae773-0e10-45a8-aa64-aeed23dfdc93
 
-Question: >
+Question: |
   The name of the Clock Tower of the Palace of Westminster in London is Craster Tower.
 
 Answers:
@@ -597,7 +676,7 @@ SchemaVersion: 1
 ---
 ID: b2484b71-5b04-456a-8e7a-b16b02451d66
 
-Question: >
+Question: |
   This ancient Chinese structure was built to protect China from raids by Mongol and Turkic tribes.
 
 Answers:
@@ -625,7 +704,7 @@ SchemaVersion: 1
 ---
 ID: 44c3483a-253c-4e19-b035-699031f51cbe
 
-Question: >
+Question: |
   Which of the three classical types of columns has its capital ornately decorated to look like acanthus leaves?
 
 Answers:
@@ -653,9 +732,8 @@ SchemaVersion: 1
 ---
 ID: b5bc6bad-59b7-471b-88a5-a765652c7f44
 
-Question: >
-  He was born Charles Edouard Jeanneret in 1887 in Switzerland. He became one of the world's greatest and most famous
-  architects, championing the International Style. What pseudonym did he adopt?
+Question: |
+  He was born Charles Edouard Jeanneret in 1887 in Switzerland. He became one of the world's greatest and most famous architects, championing the International Style. What pseudonym did he adopt?
 
 Answers:
   1: >
@@ -682,9 +760,8 @@ SchemaVersion: 1
 ---
 ID: 37a98fc9-4bf2-4fb8-9a4b-7012c6183ed4
 
-Question: >
-  Who are the two ancient Greek architects who designed the Parthenon, a temple regarded as one of the world's
-  greatest cultural monuments.
+Question: |
+  Who are the two ancient Greek architects who designed the Parthenon, a temple regarded as one of the world's greatest cultural monuments.
 
 Answers:
   1: >
@@ -711,7 +788,7 @@ SchemaVersion: 1
 ---
 ID: 95c404e7-0526-4d16-9e82-75c10a6bc71c
 
-Question: >
+Question: |
   Which of these architects designed St. Peters Basilica in Rome?
 
 Answers:
@@ -739,9 +816,8 @@ SchemaVersion: 1
 ---
 ID: f422984e-62c9-4d0f-9c2a-87bd78e6e8f8
 
-Question: >
-  Raphael Santi was the original architect of the Chigi Chapel but Gian Bernini finished it, after Raphael became a
-  father.
+Question: |
+  Raphael Santi was the original architect of the Chigi Chapel but Gian Bernini finished it, after Raphael became a father.
 
 Answers:
   1: >
@@ -764,7 +840,7 @@ SchemaVersion: 1
 ---
 ID: c6a838db-580a-4482-a1dd-b596a80d6789
 
-Question: >
+Question: |
   The Temple of Vespasian was begun by Titus after whose death?
 
 Answers:
@@ -792,9 +868,8 @@ SchemaVersion: 1
 ---
 ID: 75e3600e-651d-4db6-a54f-90e75a09285e
 
-Question: >
-  Following Michelangelo's death, his student, Giacomo della Porta continued with the unfinished portions of Palazzo
-  Farnese.
+Question: |
+  Following Michelangelo's death, his student, Giacomo della Porta continued with the unfinished portions of Palazzo Farnese.
 
 Answers:
   1: >
@@ -817,7 +892,7 @@ SchemaVersion: 1
 ---
 ID: 879a21fd-3547-4472-a72a-5297d916a5df
 
-Question: >
+Question: |
   Did Leonardo Da Vinci design the facade for the church of Santa Bibiana?
 
 Answers:
@@ -841,7 +916,7 @@ SchemaVersion: 1
 ---
 ID: 779b4656-197a-4ab3-b854-68e371916baa
 
-Question: >
+Question: |
   Arthur Loomis Harmon, who helped design the Empire State Building, designed what building in Jerusalem?
 
 Answers:

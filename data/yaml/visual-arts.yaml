@@ -1,6 +1,6 @@
 ID: 2f1ba52c-bd88-4210-9e60-f714df370aa5
 
-Question: >
+Question: |
   The word serif in the context of typefaces refers to what?
 
 Answers:
@@ -28,7 +28,7 @@ SchemaVersion: 1
 ---
 ID: e4df9835-ce39-4c5c-95ef-cab33cdb89f9
 
-Question: >
+Question: |
   The Taylor-Burton Diamond is cut in the shape of a heart.
 
 Answers:
@@ -52,9 +52,8 @@ SchemaVersion: 1
 ---
 ID: 57e667b3-9171-499a-afe3-76379bb2e43e
 
-Question: >
-  The former Winter Palace in Saint Petersburg, Russia now contains one of the world's greatest museums of art and
-  culture. What is it called?
+Question: |
+  The former Winter Palace in Saint Petersburg, Russia now contains one of the world's greatest museums of art and culture. What is it called?
 
 Answers:
   1: >

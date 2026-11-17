@@ -1,6 +1,6 @@
 ID: bf0220c9-8b77-4d40-a621-a05bc601b360
 
-Question: >
+Question: |
   On January 24, 2011 an international airport in this European capital became the focus of a suicide bomber attack.
 
 Answers:
@@ -28,7 +28,7 @@ SchemaVersion: 1
 ---
 ID: 1b4d58b3-b048-430d-a1c8-145b46a8fc5c
 
-Question: >
+Question: |
   Name the capital of Egypt, which is also the largest city in Africa.
 
 Answers:
@@ -56,7 +56,7 @@ SchemaVersion: 1
 ---
 ID: 0fda9bba-5eef-4220-8727-10025639a275
 
-Question: >
+Question: |
   What former capital of Japan lends its name to a famous Protocol aimed at combating global warming?
 
 Answers:
@@ -84,7 +84,7 @@ SchemaVersion: 1
 ---
 ID: cfc68c6b-bc10-4b29-b64e-f80169f220ea
 
-Question: >
+Question: |
   Which is the capital city of Scotland?
 
 Answers:
@@ -112,7 +112,7 @@ SchemaVersion: 1
 ---
 ID: 880e0e2e-f4b9-44a2-b239-96a74f674e94
 
-Question: >
+Question: |
   What is the capital of the Dominican Republic?
 
 Answers:
@@ -140,7 +140,7 @@ SchemaVersion: 1
 ---
 ID: db5ab98a-35b9-485b-9184-537887a5c391
 
-Question: >
+Question: |
   What is the name of the capital and largest city of Taiwan?
 
 Answers:
@@ -168,7 +168,7 @@ SchemaVersion: 1
 ---
 ID: 18aa836a-6736-4803-9201-8a83d739c391
 
-Question: >
+Question: |
   What is the name of the capital and largest city of Iraq?
 
 Answers:
@@ -196,7 +196,7 @@ SchemaVersion: 1
 ---
 ID: 75f90ba4-4561-490f-be9b-cb743249c908
 
-Question: >
+Question: |
   What is the capital and largest city of the Republic of Peru?
 
 Answers:
@@ -224,7 +224,7 @@ SchemaVersion: 1
 ---
 ID: 55fe8922-e87c-41ec-a61f-d965bf8f2aa4
 
-Question: >
+Question: |
   What city is the capital of the Republic of South Africa?
 
 Answers:
@@ -252,7 +252,7 @@ SchemaVersion: 1
 ---
 ID: 19f70f90-af7f-4c84-b168-294231a0bbca
 
-Question: >
+Question: |
   This country is home to the northernmost capital in mainland Europe?
 
 Answers:
@@ -280,7 +280,7 @@ SchemaVersion: 1
 ---
 ID: 598b3290-48dd-43bb-988c-00e14eb48d0b
 
-Question: >
+Question: |
   When broken down into kanji, the name of this capital city means "east" and "capital".
 
 Answers:
@@ -308,9 +308,8 @@ SchemaVersion: 1
 ---
 ID: e8d4d05a-10c3-4801-bead-a6c851693a0b
 
-Question: >
-  Madrid is the largest city and capital of this country, whose the most valuable natural resource is the soil -
-  nearly one-third of the land is suitable for cultivation.
+Question: |
+  Madrid is the largest city and capital of this country, whose the most valuable natural resource is the soil - nearly one-third of the land is suitable for cultivation.
 
 Answers:
   1: >
@@ -337,9 +336,8 @@ SchemaVersion: 1
 ---
 ID: 8891b141-9429-469a-a2c8-2afafe076d51
 
-Question: >
-  Bern is the capital of this country, where most rivers are not suitable for navigation due to their great falls and
-  swift currents.
+Question: |
+  Bern is the capital of this country, where most rivers are not suitable for navigation due to their great falls and swift currents.
 
 Answers:
   1: >
@@ -366,7 +364,7 @@ SchemaVersion: 1
 ---
 ID: 83fc8ca4-d416-498b-9f78-f4fa6bddf070
 
-Question: >
+Question: |
   Ulaan Baator is the capital of this sparsely populated country, where domesticated animals outnumber people.
 
 Answers:
@@ -394,9 +392,8 @@ SchemaVersion: 1
 ---
 ID: e1f51166-d6ad-4aea-b109-63818b08e029
 
-Question: >
-  This country’s capital, Sucre, is nicknamed "the white city" because most of the colonial buildings in the city
-  centre are white.
+Question: |
+  This country’s capital, Sucre, is nicknamed "the white city" because most of the colonial buildings in the city centre are white.
 
 Answers:
   1: >
@@ -423,7 +420,7 @@ SchemaVersion: 1
 ---
 ID: 3d59036c-fb63-4c18-9147-2857265eef7f
 
-Question: >
+Question: |
   Vientiane is the capital of this country, which has more than 50 ethnic groups, divided into three broad categories.
 
 Answers:
@@ -451,7 +448,7 @@ SchemaVersion: 1
 ---
 ID: 0b7429b0-4bd9-421f-a2a8-ddf5adc74fae
 
-Question: >
+Question: |
   Phnom Penh is the capital of this country, whose official language is Khmer.
 
 Answers:
@@ -479,7 +476,7 @@ SchemaVersion: 1
 ---
 ID: 88309c92-253f-4b87-83c1-ac88241c7058
 
-Question: >
+Question: |
   Vienna is the capital of this landlocked country, which became a member of the European Union in 1995.
 
 Answers:
@@ -507,7 +504,7 @@ SchemaVersion: 1
 ---
 ID: 4c4e28fe-7f4c-499a-8614-11bfe52f7ae4
 
-Question: >
+Question: |
   Montevideo is the capital of this second smallest country in South America, after Suriname.
 
 Answers:
@@ -535,9 +532,8 @@ SchemaVersion: 1
 ---
 ID: 727e13b3-48c7-4137-af17-ec68f64b61e4
 
-Question: >
-  Caracas is the capital of this country, a Spanish colony for more than 300 years, before it declared its
-  independence in the early 19th century.
+Question: |
+  Caracas is the capital of this country, a Spanish colony for more than 300 years, before it declared its independence in the early 19th century.
 
 Answers:
   1: >
@@ -564,9 +560,8 @@ SchemaVersion: 1
 ---
 ID: 94870247-c268-470c-afb2-49999241472c
 
-Question: >
-  This country is about the size of California but has about one sixth of its population. Its capital city is
-  Asunción.
+Question: |
+  This country is about the size of California but has about one sixth of its population. Its capital city is Asunción.
 
 Answers:
   1: >
@@ -593,9 +588,8 @@ SchemaVersion: 1
 ---
 ID: 0ed3b366-b0f0-488e-b126-ed799bcf7546
 
-Question: >
-  Dhaka, formerly Dacca, is the capital and largest city of this country with over 140 million citizens. Families
-  there are large, unfortunately so is infant mortality.
+Question: |
+  Dhaka, formerly Dacca, is the capital and largest city of this country with over 140 million citizens. Families there are large, unfortunately so is infant mortality.
 
 Answers:
   1: >
@@ -622,9 +616,8 @@ SchemaVersion: 1
 ---
 ID: b788b6f0-3a5f-4344-a221-3556631c55ec
 
-Question: >
-  This East European capital city is famous for its wide, tree-lined boulevards and glorious Belle Epoque buildings.
-  Some call it Little Paris because of these buildings.
+Question: |
+  This East European capital city is famous for its wide, tree-lined boulevards and glorious Belle Epoque buildings. Some call it Little Paris because of these buildings.
 
 Answers:
   1: >
@@ -651,7 +644,7 @@ SchemaVersion: 1
 ---
 ID: 10b69acd-5227-4dd9-9f39-8d2b5fbd6441
 
-Question: >
+Question: |
   The name of this city means "the capital" in the native language. It is the capital of South Korea.
 
 Answers:
@@ -679,7 +672,7 @@ SchemaVersion: 1
 ---
 ID: a3dbd13b-5219-4ae2-ad6d-18bf5b5a75c9
 
-Question: >
+Question: |
   What is the capital of the biggest Muslim-majority country, which is officially not a city but a province?
 
 Answers:
@@ -707,7 +700,7 @@ SchemaVersion: 1
 ---
 ID: bb53f090-ab05-4df1-b839-91f067ebabe0
 
-Question: >
+Question: |
   Which big capital city is famous for being the site of the magnificent Saint Basil's Cathedral?
 
 Answers:
@@ -735,7 +728,7 @@ SchemaVersion: 1
 ---
 ID: f84692bf-a534-47e7-b4c6-0d2077c267a7
 
-Question: >
+Question: |
   Damascus is the capital city of Syria.
 
 Answers:
@@ -759,7 +752,7 @@ SchemaVersion: 1
 ---
 ID: c60b27ff-0247-42fa-84fe-9fae7f14012d
 
-Question: >
+Question: |
   Which city used to serve as the capital of West Germany?
 
 Answers:
@@ -787,7 +780,7 @@ SchemaVersion: 1
 ---
 ID: 75929fe6-3fa7-4659-b382-af67defb4231
 
-Question: >
+Question: |
   Legend has it that this European capital was founded by twins raised by a female wolf.
 
 Answers:
@@ -815,7 +808,7 @@ SchemaVersion: 1
 ---
 ID: c8b702b1-3f62-479e-a635-71f82f2a6d03
 
-Question: >
+Question: |
   Belgrade was the capital of former Yugoslavia. Which country has the city as its capital today?
 
 Answers:
@@ -843,7 +836,7 @@ SchemaVersion: 1
 ---
 ID: d5e15ded-5058-4cec-9706-056dad478950
 
-Question: >
+Question: |
   Which capital is NOT situated on an island?
 
 Answers:
@@ -871,9 +864,8 @@ SchemaVersion: 1
 ---
 ID: 2014f8d3-e126-40ab-bf49-a402f102b7b5
 
-Question: >
-  Prague is the capital of the Czech Republic. Bratislava is the capital of the Slovak Republic. Which city used to be
-  the capital of Czechoslovakia?
+Question: |
+  Prague is the capital of the Czech Republic. Bratislava is the capital of the Slovak Republic. Which city used to be the capital of Czechoslovakia?
 
 Answers:
   1: >
@@ -900,7 +892,7 @@ SchemaVersion: 1
 ---
 ID: e9b75147-aa56-4f17-8d21-4c2d54aca805
 
-Question: >
+Question: |
   Which city is the world's most northern capital?
 
 Answers:
@@ -928,7 +920,7 @@ SchemaVersion: 1
 ---
 ID: 89e08daf-d19f-4e55-82c8-f98d4a08688e
 
-Question: >
+Question: |
   Which capital was supposedly founded by Ulysses, after he left Troy escaping the Greeks?
 
 Answers:
@@ -956,7 +948,7 @@ SchemaVersion: 1
 ---
 ID: fc3d3e78-484f-44c7-9797-e0196593b1b5
 
-Question: >
+Question: |
   Which river flows through four European capitals?
 
 Answers:
@@ -984,7 +976,7 @@ SchemaVersion: 1
 ---
 ID: 5420985b-59c3-4705-855d-6cf6519a807e
 
-Question: >
+Question: |
   What is the capital of Switzerland?
 
 Answers:
@@ -1012,7 +1004,7 @@ SchemaVersion: 1
 ---
 ID: 4a247e6c-13aa-4ece-ae8c-3eed76823cf3
 
-Question: >
+Question: |
   Which country has Valletta as its capital?
 
 Answers:
@@ -1040,7 +1032,7 @@ SchemaVersion: 1
 ---
 ID: 80d4bd68-8903-4490-b8c7-f87943ed78a7
 
-Question: >
+Question: |
   The Organization of Petroleum Exporting Countries (OPEC) is based in this European capital.
 
 Answers:
@@ -1068,7 +1060,7 @@ SchemaVersion: 1
 ---
 ID: 2e3cfbf0-1b9f-458f-85a8-d9451e570a36
 
-Question: >
+Question: |
   What is the capital of the Republic of Ireland?
 
 Answers:
@@ -1096,9 +1088,8 @@ SchemaVersion: 1
 ---
 ID: 0abf2bf0-3cf5-47c0-8859-832c656eec7a
 
-Question: >
-  This South-Asian country has Dili as a capital and largest city. Its two official languages are Tetum and
-  Portuguese.
+Question: |
+  This South-Asian country has Dili as a capital and largest city. Its two official languages are Tetum and Portuguese.
 
 Answers:
   1: >
@@ -1125,7 +1116,7 @@ SchemaVersion: 1
 ---
 ID: 98647919-c789-46a7-9fc1-1504dbfe69d3
 
-Question: >
+Question: |
   This country won its independence from France. Its currency is Gourde (HTG) and capital - Port-au-Prince.
 
 Answers:
@@ -1153,7 +1144,7 @@ SchemaVersion: 1
 ---
 ID: 72901057-2e25-47f1-a8b3-efb3ab832722
 
-Question: >
+Question: |
   Which European country used to have Cracow (Kraków) as its capital?
 
 Answers:
@@ -1181,7 +1172,7 @@ SchemaVersion: 1
 ---
 ID: 8188873f-a02d-4655-b100-aac204094f05
 
-Question: >
+Question: |
   What port on the Atlantic Ocean is the largest city and capital of Sierra Leone?
 
 Answers:
@@ -1209,7 +1200,7 @@ SchemaVersion: 1
 ---
 ID: c64e92d0-16bc-4d57-a39f-5553f469568c
 
-Question: >
+Question: |
   Which country's capital is Lima?
 
 Answers:
@@ -1237,7 +1228,7 @@ SchemaVersion: 1
 ---
 ID: c8c3e18a-45fa-4d0f-bbd6-380ce8722904
 
-Question: >
+Question: |
   Name the capital and largest city of Fiji.
 
 Answers:
@@ -1265,7 +1256,7 @@ SchemaVersion: 1
 ---
 ID: 43a05cf5-b85b-47e6-a10e-056af0b34752
 
-Question: >
+Question: |
   What is the capital and largest city of the Republic of Maldives?
 
 Answers:
@@ -1293,7 +1284,7 @@ SchemaVersion: 1
 ---
 ID: eb7c5c2c-8389-4597-bf5c-496512009ca7
 
-Question: >
+Question: |
   What city, located on Upolu Island, is the capital of Samoa?
 
 Answers:
@@ -1321,7 +1312,7 @@ SchemaVersion: 1
 ---
 ID: b34d36ec-17c7-46a7-aaf3-b83d75ab679d
 
-Question: >
+Question: |
   This city, famous for the Parthenon on the Acropolis, is the capital of Greece.
 
 Answers:
@@ -1349,7 +1340,7 @@ SchemaVersion: 1
 ---
 ID: 1e84474a-9305-4db3-a7ab-9e0b1b859f28
 
-Question: >
+Question: |
   What city, situated on the Baltic Sea coast, is the capital of Latvia?
 
 Answers:
@@ -1377,7 +1368,7 @@ SchemaVersion: 1
 ---
 ID: fc0de492-c7eb-48ee-b26e-c9268e86343f
 
-Question: >
+Question: |
   What is the capital city of Australia?
 
 Answers:
@@ -1405,7 +1396,7 @@ SchemaVersion: 1
 ---
 ID: b84e6620-1331-410a-b075-90fbfc8858bf
 
-Question: >
+Question: |
   Which city is the capital of Denmark?
 
 Answers:
@@ -1433,7 +1424,7 @@ SchemaVersion: 1
 ---
 ID: e11d43a7-306a-44eb-a574-be7d2477f9f6
 
-Question: >
+Question: |
   What city is the capital of Austria?
 
 Answers:
@@ -1461,7 +1452,7 @@ SchemaVersion: 1
 ---
 ID: 2ad1e2fb-4e88-4810-bd9d-051ed7e0ee6f
 
-Question: >
+Question: |
   What is the capital of Argentina?
 
 Answers:
@@ -1489,7 +1480,7 @@ SchemaVersion: 1
 ---
 ID: 660de209-652f-4702-b81c-b0bf466674f1
 
-Question: >
+Question: |
   This country was known to the Romans as Bactria and is today an Islamic republic. Its capital is Kabul.
 
 Answers:
@@ -1517,9 +1508,8 @@ SchemaVersion: 1
 ---
 ID: 2cf17747-a8c4-47f4-8368-d8b491326cce
 
-Question: >
-  This country, called Illyria by the Romans, is a republic located on the coast of the Adriatic Sea. Its capital is
-  Tirana.
+Question: |
+  This country, called Illyria by the Romans, is a republic located on the coast of the Adriatic Sea. Its capital is Tirana.
 
 Answers:
   1: >
@@ -1546,9 +1536,8 @@ SchemaVersion: 1
 ---
 ID: ba3b3fe1-a1b2-4180-8f16-11afa037d990
 
-Question: >
-  This country was known to the Romans as Numidia. Today it is the second largest country in Africa. Its capital is
-  Algiers.
+Question: |
+  This country was known to the Romans as Numidia. Today it is the second largest country in Africa. Its capital is Algiers.
 
 Answers:
   1: >
@@ -1575,9 +1564,8 @@ SchemaVersion: 1
 ---
 ID: 7fe49aae-c35a-4fd4-957a-eca21e684a6c
 
-Question: >
-  This country and its capital have the same name. It is located between Spain and France in the Pyrenees Mountain
-  Range.
+Question: |
+  This country and its capital have the same name. It is located between Spain and France in the Pyrenees Mountain Range.
 
 Answers:
   1: >
@@ -1604,7 +1592,7 @@ SchemaVersion: 1
 ---
 ID: 7cf262ef-2e62-4fb3-8e60-02d99028b7a6
 
-Question: >
+Question: |
   This country, located in Africa along the Atlantic coast, has a capital named Luanda.
 
 Answers:
@@ -1632,7 +1620,7 @@ SchemaVersion: 1
 ---
 ID: 5c3a7ed0-c95d-46c3-a05c-32a0a023b819
 
-Question: >
+Question: |
   This country is located in the Caribbean Sea and has a capital named Saint Johns.
 
 Answers:
@@ -1660,7 +1648,7 @@ SchemaVersion: 1
 ---
 ID: 8c035070-2eb7-42d0-92be-7bcd5ae37732
 
-Question: >
+Question: |
   This country is located in the Caucasus Mountains in Asia and its capital is Yerevan.
 
 Answers:
@@ -1688,7 +1676,7 @@ SchemaVersion: 1
 ---
 ID: bc16ee9e-f140-45bb-981e-d7dfbc2ca073
 
-Question: >
+Question: |
   This country is located down under between the Pacific and Indian Oceans. Its capital is Canberra.
 
 Answers:
@@ -1716,7 +1704,7 @@ SchemaVersion: 1
 ---
 ID: 6f73ecfb-e9d0-4f10-a368-1955588227c5
 
-Question: >
+Question: |
   This country is located between the Danube river and the Alps in Europe. Its capital is Vienna.
 
 Answers:
@@ -1744,7 +1732,7 @@ SchemaVersion: 1
 ---
 ID: 38239189-18da-4aec-ad04-c37c49034b4e
 
-Question: >
+Question: |
   This country, located in Asia along the western shore of the Caspian Sea, has a capital named Baku.
 
 Answers:
@@ -1772,7 +1760,7 @@ SchemaVersion: 1
 ---
 ID: 7285ce9e-9ee9-406f-b74f-36ada32cdcd6
 
-Question: >
+Question: |
   The capital of Mongolia is this city.
 
 Answers:
@@ -1800,7 +1788,7 @@ SchemaVersion: 1
 ---
 ID: 6aeb574d-c87c-4922-ae26-a094c5cca7aa
 
-Question: >
+Question: |
   Which of these cities is not a capital of a country in the European Union?
 
 Answers:
@@ -1828,7 +1816,7 @@ SchemaVersion: 1
 ---
 ID: 50571cb1-8c34-4697-bcd7-31c5a72742e4
 
-Question: >
+Question: |
   What is the capital of Finland?
 
 Answers:
@@ -1856,7 +1844,7 @@ SchemaVersion: 1
 ---
 ID: 2dc57ed7-0050-46c9-8284-978f27df6f81
 
-Question: >
+Question: |
   What is the capital and largest city of Austria?
 
 Answers:
@@ -1884,7 +1872,7 @@ SchemaVersion: 1
 ---
 ID: fb150f6e-3293-4ce9-97ea-171fe88b1394
 
-Question: >
+Question: |
   What is the capital city of Iceland?
 
 Answers:
@@ -1912,7 +1900,7 @@ SchemaVersion: 1
 ---
 ID: 865cd82e-4c6b-43ef-a1e9-4b9a57f6d21a
 
-Question: >
+Question: |
   Conakry is the capital of Turkey.
 
 Answers:
@@ -1936,7 +1924,7 @@ SchemaVersion: 1
 ---
 ID: bd4ac469-ad3f-4f09-9eba-2324401a6750
 
-Question: >
+Question: |
   What is the southernmost capital city?
 
 Answers:
@@ -1964,7 +1952,7 @@ SchemaVersion: 1
 ---
 ID: 95cd3072-1220-413b-8572-5312f924dc5c
 
-Question: >
+Question: |
   In terms of population of the city proper, which is the first capital city with over 10,000,000 people?
 
 Answers:
@@ -1992,7 +1980,7 @@ SchemaVersion: 1
 ---
 ID: c6294f4e-a68d-4d34-8a2a-112c9bafe6fd
 
-Question: >
+Question: |
   During the Cold War, which city was the capital of West Germany?
 
 Answers:
@@ -2020,7 +2008,7 @@ SchemaVersion: 1
 ---
 ID: d4f51a09-6316-4d68-a0bb-abaefa5447d9
 
-Question: >
+Question: |
   Which country has Bratislava as its capital city, and the koruna as its unit of currency?
 
 Answers:
@@ -2048,7 +2036,7 @@ SchemaVersion: 1
 ---
 ID: 87499384-9455-4f28-b47b-4554dc9539bf
 
-Question: >
+Question: |
   The capital city of this country was once known as The Little Paris of Eastern Europe.
 
 Answers:
@@ -2076,7 +2064,7 @@ SchemaVersion: 1
 ---
 ID: ca115322-2d32-4e82-a8c5-cb054e2e1616
 
-Question: >
+Question: |
   What city is the capital of the United Arab Emirates?
 
 Answers:
@@ -2104,7 +2092,7 @@ SchemaVersion: 1
 ---
 ID: c1cc75ac-423e-4eb9-bf4c-d842df974448
 
-Question: >
+Question: |
   This country's capital city is Tegucigalpa and it uses the lempira as its currency.
 
 Answers:
@@ -2132,7 +2120,7 @@ SchemaVersion: 1
 ---
 ID: 8c1b716d-b299-4b43-8f6d-43308ffe7b27
 
-Question: >
+Question: |
   What is the capital of Afghanistan?
 
 Answers:
@@ -2160,7 +2148,7 @@ SchemaVersion: 1
 ---
 ID: 7c4e67f1-50ee-4067-af19-2bb004a84e33
 
-Question: >
+Question: |
   What is the capital of Australia?
 
 Answers:
@@ -2188,7 +2176,7 @@ SchemaVersion: 1
 ---
 ID: 42218860-8466-4613-a002-3efd4fab358c
 
-Question: >
+Question: |
   What is the capital of Belgium?
 
 Answers:
@@ -2216,7 +2204,7 @@ SchemaVersion: 1
 ---
 ID: 58c61f37-0438-4b80-8b1a-603ca3e29c6f
 
-Question: >
+Question: |
   What is the capital of Greece?
 
 Answers:
@@ -2244,7 +2232,7 @@ SchemaVersion: 1
 ---
 ID: 0faa8ae8-0558-4a13-91cb-f7649e3ac3fd
 
-Question: >
+Question: |
   What is the capital of Italy?
 
 Answers:
@@ -2272,7 +2260,7 @@ SchemaVersion: 1
 ---
 ID: d9a4dc66-a20c-426b-b0cb-63a39ec7af2a
 
-Question: >
+Question: |
   What is the capital of Israel?
 
 Answers:
@@ -2300,7 +2288,7 @@ SchemaVersion: 1
 ---
 ID: ae99cb7b-9b7a-4a03-863b-222db1ae93c9
 
-Question: >
+Question: |
   What is the capital of Germany?
 
 Answers:
@@ -2328,7 +2316,7 @@ SchemaVersion: 1
 ---
 ID: b6a545cb-5fb8-4ab8-9fe9-d2ccd0f4915b
 
-Question: >
+Question: |
   What is the capital of Norway?
 
 Answers:
@@ -2356,7 +2344,7 @@ SchemaVersion: 1
 ---
 ID: 9b52e09c-6afe-447e-a31d-bdb94e1d3b95
 
-Question: >
+Question: |
   Which country's capital city is considered de facto capital of the European Union?
 
 Answers:
@@ -2384,7 +2372,7 @@ SchemaVersion: 1
 ---
 ID: 3f975a5f-0b6e-4c50-be2a-f29c3d59d0b2
 
-Question: >
+Question: |
   Which of the following countries and states shares its name with its capital city?
 
 Answers:
@@ -2412,7 +2400,7 @@ SchemaVersion: 1
 ---
 ID: dd86dd8a-9b48-40a4-9a4d-0b0709347912
 
-Question: >
+Question: |
   Riga is the capital of which Baltic country?
 
 Answers:
@@ -2440,7 +2428,7 @@ SchemaVersion: 1
 ---
 ID: 61b80e6a-a06a-4aea-a22a-4d74c600ff32
 
-Question: >
+Question: |
   What city is the capital of Madagascar?
 
 Answers:
@@ -2468,7 +2456,7 @@ SchemaVersion: 1
 ---
 ID: 096686a9-0e22-43af-b65d-12ffc69ca005
 
-Question: >
+Question: |
   What is the capital city of the Netherlands?
 
 Answers:
@@ -2496,7 +2484,7 @@ SchemaVersion: 1
 ---
 ID: 782d0b3f-d11f-402a-96db-950d97b164a3
 
-Question: >
+Question: |
   The capital of Belize is Mali.
 
 Answers:
@@ -2520,7 +2508,7 @@ SchemaVersion: 1
 ---
 ID: ec129ef4-6a3b-464c-a198-45dcd993708e
 
-Question: >
+Question: |
   Colombo is the administrative capital of Sri Lanka.
 
 Answers:
@@ -2544,7 +2532,7 @@ SchemaVersion: 1
 ---
 ID: 554b60df-121d-4544-b598-5ea9440fc502
 
-Question: >
+Question: |
   Port Moresby is the capital of Papua New Guinea.
 
 Answers:
@@ -2568,7 +2556,7 @@ SchemaVersion: 1
 ---
 ID: 4bda2c13-9c18-4920-a880-25c066dd5c78
 
-Question: >
+Question: |
   Is Conakry the capital of a country, formerly known as Portuguese Guinea?
 
 Answers:
@@ -2592,7 +2580,7 @@ SchemaVersion: 1
 ---
 ID: b240bf75-85be-4057-9435-1d8020124d7d
 
-Question: >
+Question: |
   What is the capital of Canada?
 
 Answers:
@@ -2620,7 +2608,7 @@ SchemaVersion: 1
 ---
 ID: cb753e6a-df9c-4542-b5f5-1cef4228a60e
 
-Question: >
+Question: |
   What is the capital of Nunavut, Canada’s newest and largest territory?
 
 Answers:
@@ -2648,9 +2636,8 @@ SchemaVersion: 1
 ---
 ID: d8e72852-e76e-4e74-9257-9214be55826d
 
-Question: >
-  This was the capital of the German Federal Republic (BRD), prior to the 1991 unification with the German Democratic
-  Republic (DDR).
+Question: |
+  This was the capital of the German Federal Republic (BRD), prior to the 1991 unification with the German Democratic Republic (DDR).
 
 Answers:
   1: >
@@ -2677,7 +2664,7 @@ SchemaVersion: 1
 ---
 ID: 7c77c9fd-e91a-4a3a-a03a-4cd7d27ec5a3
 
-Question: >
+Question: |
   Which capital city is the easternmost of EU?
 
 Answers:
@@ -2705,7 +2692,7 @@ SchemaVersion: 1
 ---
 ID: 43373cff-033e-4b29-bc3c-db1eb1484bc6
 
-Question: >
+Question: |
   Which EU capital city is elevated the highest above sea level?
 
 Answers:
@@ -2733,7 +2720,7 @@ SchemaVersion: 1
 ---
 ID: 6c4e5406-460d-4b52-93ec-8f6bfb3c4b0a
 
-Question: >
+Question: |
   It is the 72nd largest country of the world located in Southeast- Asia. Its capital is Manila.
 
 Answers:
@@ -2761,7 +2748,7 @@ SchemaVersion: 1
 ---
 ID: 3d21db2d-3210-48af-b723-bd20fed87a02
 
-Question: >
+Question: |
   A transcontinental country that belongs to Asia and Africa. Its capital is Cairo
 
 Answers:
@@ -2789,9 +2776,8 @@ SchemaVersion: 1
 ---
 ID: c390a392-c4d7-461f-8941-df7673ab3c5c
 
-Question: >
-  Located north of Israel. With the area of 10,452 , it is the 166th largest country of the world. Its capital is
-  Beirut.
+Question: |
+  Located north of Israel. With the area of 10,452 , it is the 166th largest country of the world. Its capital is Beirut.
 
 Answers:
   1: >
@@ -2818,9 +2804,8 @@ SchemaVersion: 1
 ---
 ID: c8194446-d6d0-4509-8878-16837ed62b08
 
-Question: >
-  It is a country bordering Red Sea to the south-west, Saudi Arabia to the south and Iraq in the East. Its capital and
-  largest city is Amman.
+Question: |
+  It is a country bordering Red Sea to the south-west, Saudi Arabia to the south and Iraq in the East. Its capital and largest city is Amman.
 
 Answers:
   1: >
@@ -2847,7 +2832,7 @@ SchemaVersion: 1
 ---
 ID: bf467eae-7dd1-489a-ab9c-e509d36f8b62
 
-Question: >
+Question: |
   Is Harare the capital of Niger?
 
 Answers:
@@ -2871,7 +2856,7 @@ SchemaVersion: 1
 ---
 ID: ec1ca7b1-ac5e-4306-a4ae-18496cf69dd9
 
-Question: >
+Question: |
   At the record altitude of 3,600 meters (11,811 feet), La Paz, serves as capital of which South American country?
 
 Answers:
@@ -2899,7 +2884,7 @@ SchemaVersion: 1
 ---
 ID: 36322715-f14d-4a6f-b524-fd15ba1a2894
 
-Question: >
+Question: |
   Which of the following South American countries is paired with the wrong capital?
 
 Answers:
@@ -2927,7 +2912,7 @@ SchemaVersion: 1
 ---
 ID: c87e87c9-d9ee-4f52-b362-8d088b26781a
 
-Question: >
+Question: |
   Which capital city name can be translated as God-given (or Gods gift)?
 
 Answers:
@@ -2955,7 +2940,7 @@ SchemaVersion: 1
 ---
 ID: eb01dd95-41fa-4746-98c1-68be6f4b83c5
 
-Question: >
+Question: |
   This European capital consists of two parts, which used to be separate cities until 1873.
 
 Answers:
@@ -2983,7 +2968,7 @@ SchemaVersion: 1
 ---
 ID: d539a76d-57a1-4c54-9838-2d783871dc26
 
-Question: >
+Question: |
   Which European capital was known as Reval?
 
 Answers:
@@ -3011,7 +2996,7 @@ SchemaVersion: 1
 ---
 ID: a5bd4c3a-22aa-4349-85d6-818a3ed70632
 
-Question: >
+Question: |
   The capital of Thailand is Bangkok.
 
 Answers:
@@ -3035,7 +3020,7 @@ SchemaVersion: 1
 ---
 ID: b2059796-1b3c-4448-872e-ca27acaa7bfc
 
-Question: >
+Question: |
   What is the capital and largest city of Peru?
 
 Answers:
@@ -3063,7 +3048,7 @@ SchemaVersion: 1
 ---
 ID: edd49841-d6a3-457c-9834-13e84e41b09e
 
-Question: >
+Question: |
   Does Bolivia have 2 capitals: Sucre and Buenos Aires?
 
 Answers:
@@ -3087,7 +3072,7 @@ SchemaVersion: 1
 ---
 ID: d2429c2e-9eb4-41e6-a551-b2d367c0ec0e
 
-Question: >
+Question: |
   Iceland's capital is Ice City.
 
 Answers:
@@ -3111,7 +3096,7 @@ SchemaVersion: 1
 ---
 ID: 0537e684-56c8-4a7e-8cee-aa5cb5eb7bf1
 
-Question: >
+Question: |
   What is the capital of the Netherlands?
 
 Answers:
@@ -3139,7 +3124,7 @@ SchemaVersion: 1
 ---
 ID: 448c19b2-dc20-4222-ad92-a4359829b2b6
 
-Question: >
+Question: |
   The capital of the United Kingdom is London.
 
 Answers:
@@ -3163,7 +3148,7 @@ SchemaVersion: 1
 ---
 ID: a2e7a355-3e43-4fdd-a535-f590c549e31a
 
-Question: >
+Question: |
   Japans capital is Osaka.
 
 Answers:
@@ -3187,7 +3172,7 @@ SchemaVersion: 1
 ---
 ID: 50d054c4-2287-4820-9915-912d88ae56b5
 
-Question: >
+Question: |
   What is the name of the capital city of Chile?
 
 Answers:
@@ -3215,7 +3200,7 @@ SchemaVersion: 1
 ---
 ID: d3d369f7-d443-4fdc-b4f4-d279542676eb
 
-Question: >
+Question: |
   Port Moresby is the capital city of this country.
 
 Answers:
@@ -3243,7 +3228,7 @@ SchemaVersion: 1
 ---
 ID: 536cddd6-bccd-4a3a-9fa2-66473842a17d
 
-Question: >
+Question: |
   What is the name of the capital city of Scotland?
 
 Answers:
@@ -3271,7 +3256,7 @@ SchemaVersion: 1
 ---
 ID: ab0ca461-5440-41c5-818e-76b88b6aa904
 
-Question: >
+Question: |
   Khartoum is the capital city of this country.
 
 Answers:
@@ -3299,7 +3284,7 @@ SchemaVersion: 1
 ---
 ID: 4a9929a5-b8de-4ca2-bc6f-a60bca501b70
 
-Question: >
+Question: |
   What is the name of the official capital city of Malaysia?
 
 Answers:
@@ -3327,7 +3312,7 @@ SchemaVersion: 1
 ---
 ID: 2999d452-3178-4f32-bed0-28583770bd2e
 
-Question: >
+Question: |
   What is the capital of Burkina Faso?
 
 Answers:
@@ -3355,7 +3340,7 @@ SchemaVersion: 1
 ---
 ID: c1afdedb-7692-4e9e-af40-036b0ab9f3d5
 
-Question: >
+Question: |
   Niamey is the capital city of what country?
 
 Answers:
@@ -3383,7 +3368,7 @@ SchemaVersion: 1
 ---
 ID: e3848977-d11d-484a-b866-fbceb7663246
 
-Question: >
+Question: |
   Freetown is the capital city of what country?
 
 Answers:
@@ -3411,7 +3396,7 @@ SchemaVersion: 1
 ---
 ID: ac37a2aa-857d-4301-83f8-46be50fabe4d
 
-Question: >
+Question: |
   What is the name of the capital city of the Republic of Indonesia?
 
 Answers:
@@ -3439,7 +3424,7 @@ SchemaVersion: 1
 ---
 ID: 6c5d8896-ef9c-4e33-a5a7-34e8f861195b
 
-Question: >
+Question: |
   What city is the capital of Denmark?
 
 Answers:
@@ -3467,7 +3452,7 @@ SchemaVersion: 1
 ---
 ID: 4614adbc-d6f3-482e-a4b0-4c62fe67937c
 
-Question: >
+Question: |
   Buda, Pest and Óbuda united to form Budapest. What country is Budapest the capital of?
 
 Answers:
@@ -3495,7 +3480,7 @@ SchemaVersion: 1
 ---
 ID: 3609103d-2bd8-48b7-9b2d-f41c221f19b5
 
-Question: >
+Question: |
   Which of these countries has two capital cities?
 
 Answers:
@@ -3523,7 +3508,7 @@ SchemaVersion: 1
 ---
 ID: df7ef0f6-7d7d-4c22-820e-a03c617f3fb7
 
-Question: >
+Question: |
   This West African country's capital is Conakry; it borders the Atlantic Ocean, and the official language is French.
 
 Answers:
@@ -3551,9 +3536,8 @@ SchemaVersion: 1
 ---
 ID: 3d021536-b7e8-4021-921d-4a68c8c2d5ea
 
-Question: >
-  This democratic parliamentary republics capital is Tallinn, and its national flag consists of three horizontal
-  stripes of blue, black and white color.
+Question: |
+  This democratic parliamentary republics capital is Tallinn, and its national flag consists of three horizontal stripes of blue, black and white color.
 
 Answers:
   1: >
@@ -3580,7 +3564,7 @@ SchemaVersion: 1
 ---
 ID: d2697c30-afbc-49c2-8746-07097afca962
 
-Question: >
+Question: |
   This country is located in Central America, its capital is San Jose, its official language is Spanish.
 
 Answers:
@@ -3608,7 +3592,7 @@ SchemaVersion: 1
 ---
 ID: 6955d75b-1785-4a76-9074-03ca5bc5f2a0
 
-Question: >
+Question: |
   This constitutional monarchy is located in Western Asia, its capital is Amman, and its official language is Arabic.
 
 Answers:
@@ -3636,9 +3620,8 @@ SchemaVersion: 1
 ---
 ID: 2990efe7-5428-4af1-98e4-ef79d7f6f72a
 
-Question: >
-  This is the largest country both in Africa and in the Arab World in terms territory, and the tenth largest country
-  in the world. Its capital is Khartoum.
+Question: |
+  This is the largest country both in Africa and in the Arab World in terms territory, and the tenth largest country in the world. Its capital is Khartoum.
 
 Answers:
   1: >
@@ -3665,9 +3648,8 @@ SchemaVersion: 1
 ---
 ID: c01fceb6-afdc-4994-8f0d-2b67208c8d91
 
-Question: >
-  What country located in Southeastern Europe has the city Podgorica as a capital, and was part of a larger state
-  until 2006?
+Question: |
+  What country located in Southeastern Europe has the city Podgorica as a capital, and was part of a larger state until 2006?
 
 Answers:
   1: >
@@ -3694,9 +3676,8 @@ SchemaVersion: 1
 ---
 ID: 70359d5a-888c-4b1b-b428-f0b6fedfbdfd
 
-Question: >
-  This republic is located in northwestern South America, it is named after a European explorer and its capital city
-  is Bogota.
+Question: |
+  This republic is located in northwestern South America, it is named after a European explorer and its capital city is Bogota.
 
 Answers:
   1: >
@@ -3723,9 +3704,8 @@ SchemaVersion: 1
 ---
 ID: 2d4400cc-ea41-43ac-af55-365273d77ac6
 
-Question: >
-  This is an island country consisting of almost one thousand islands, it is located east of Papua New Guinea and its
-  capital is Honiara.
+Question: |
+  This is an island country consisting of almost one thousand islands, it is located east of Papua New Guinea and its capital is Honiara.
 
 Answers:
   1: >
@@ -3752,7 +3732,7 @@ SchemaVersion: 1
 ---
 ID: 8b015f16-e31b-4453-bb8b-a7266c4eac9e
 
-Question: >
+Question: |
   Managua is the capital of this country whose currency is called cordoba.
 
 Answers:
@@ -3780,7 +3760,7 @@ SchemaVersion: 1
 ---
 ID: bd11b4f6-05fb-4025-b7b7-d86a4e79ab8a
 
-Question: >
+Question: |
   Which South American country has two capitals, named La Paz and Sucre?
 
 Answers:
@@ -3808,7 +3788,7 @@ SchemaVersion: 1
 ---
 ID: e89bc273-6801-4f39-ab08-f7f10c5d1dcd
 
-Question: >
+Question: |
   What is the capital of Iceland?
 
 Answers:
@@ -3836,7 +3816,7 @@ SchemaVersion: 1
 ---
 ID: fdb75cc8-e207-4041-b2f1-469eba1ddf11
 
-Question: >
+Question: |
   What is the capital city of Malta, a small island nation in the Mediterranean?
 
 Answers:
@@ -3864,7 +3844,7 @@ SchemaVersion: 1
 ---
 ID: eb84e1e3-8061-4167-872d-03cb3e567ad8
 
-Question: >
+Question: |
   What is the capital of Poland?
 
 Answers:
@@ -3892,9 +3872,8 @@ SchemaVersion: 1
 ---
 ID: c99318a6-8357-4bf8-932f-ca593d483836
 
-Question: >
-  There are nine countries that surround the Baltic Sea. Some of their capitals are port-cities located on the Baltic
-  Sea, its gulfs, bays, or straits. Which Baltic capital has access to the sea only via a river system?
+Question: |
+  There are nine countries that surround the Baltic Sea. Some of their capitals are port-cities located on the Baltic Sea, its gulfs, bays, or straits. Which Baltic capital has access to the sea only via a river system?
 
 Answers:
   1: >
@@ -3921,7 +3900,7 @@ SchemaVersion: 1
 ---
 ID: 11481ba5-4c20-4f29-9b05-e374ff26ba38
 
-Question: >
+Question: |
   Which ancient city was declared Israel’s official capital with a law from January 1950?
 
 Answers:
@@ -3949,7 +3928,7 @@ SchemaVersion: 1
 ---
 ID: fdbc65f9-b18a-41f5-b1c4-50d530c8564e
 
-Question: >
+Question: |
   Amman is the capital of what country?
 
 Answers:
@@ -3977,7 +3956,7 @@ SchemaVersion: 1
 ---
 ID: 452ef849-0d0a-4d05-a449-e6bafaf57216
 
-Question: >
+Question: |
   What Asian capital is located on the northwest coast of the Java river?
 
 Answers:
@@ -4005,7 +3984,7 @@ SchemaVersion: 1
 ---
 ID: 58e3d768-6a9d-4132-936b-a68154c8cf1f
 
-Question: >
+Question: |
   Which European capital is home to major EU institutions?
 
 Answers:
@@ -4033,9 +4012,8 @@ SchemaVersion: 1
 ---
 ID: 61274563-6dd2-4786-ac66-eb3b6e6c3841
 
-Question: >
-  What capital city is on the southern shore of the Rio de la Plata, on the southeastern coast of the South American
-  continent?
+Question: |
+  What capital city is on the southern shore of the Rio de la Plata, on the southeastern coast of the South American continent?
 
 Answers:
   1: >
@@ -4062,7 +4040,7 @@ SchemaVersion: 1
 ---
 ID: 0c05a827-a197-4d6b-88da-763bac39681d
 
-Question: >
+Question: |
   The final point of the Dakar Rally, the capital city of Dakar, is located in what country?
 
 Answers:
@@ -4090,7 +4068,7 @@ SchemaVersion: 1
 ---
 ID: d074971f-7e5b-48e2-8ee9-6db106a64ad8
 
-Question: >
+Question: |
   What Asian capital was known as the "Venice of the East?"
 
 Answers:
@@ -4118,7 +4096,7 @@ SchemaVersion: 1
 ---
 ID: 8e1e3c73-a595-405e-a3f0-da1828a79fda
 
-Question: >
+Question: |
   The Thames river is a major geographical feature of what capital city?
 
 Answers:
@@ -4146,7 +4124,7 @@ SchemaVersion: 1
 ---
 ID: 8fc9606b-ed60-4d55-b965-d0d73079aee1
 
-Question: >
+Question: |
   What country's capital is Tirana?
 
 Answers:
@@ -4174,7 +4152,7 @@ SchemaVersion: 1
 ---
 ID: 2e3aaa67-0eb3-4cdc-88bc-0d648c473082
 
-Question: >
+Question: |
   Which of these South American countries has two official capitals?
 
 Answers:
@@ -4202,7 +4180,7 @@ SchemaVersion: 1
 ---
 ID: bcc6d310-88e8-4b8d-a8f8-147209215924
 
-Question: >
+Question: |
   What is the capital of Micronesia?
 
 Answers:
@@ -4230,7 +4208,7 @@ SchemaVersion: 1
 ---
 ID: ba41cf7f-e89b-4cbe-b30d-3d00712d23ab
 
-Question: >
+Question: |
   Which of these South American capital cities is the farthest north?
 
 Answers:
@@ -4258,7 +4236,7 @@ SchemaVersion: 1
 ---
 ID: 430d11c5-9811-4d22-89d7-1e4378c32945
 
-Question: >
+Question: |
   What is the capital and largest city of Argentina?
 
 Answers:
@@ -4286,7 +4264,7 @@ SchemaVersion: 1
 ---
 ID: fef91cdb-f652-46ae-950b-c2ffa9e2405d
 
-Question: >
+Question: |
   What is the name of the capital city of the People's Republic of China?
 
 Answers:
@@ -4314,7 +4292,7 @@ SchemaVersion: 1
 ---
 ID: 1b86794c-daa7-4a16-85b3-d6d96cb8d722
 
-Question: >
+Question: |
   What was the name of the old capital of Thailand, founded in 1350?
 
 Answers:
@@ -4342,9 +4320,8 @@ SchemaVersion: 1
 ---
 ID: bd5376e9-d3e4-45d4-a4c6-ff0f064d7e24
 
-Question: >
-  You are now the captain of a German boat and you take tourists down the river Danube. Which European capitals can
-  you visit?
+Question: |
+  You are now the captain of a German boat and you take tourists down the river Danube. Which European capitals can you visit?
 
 Answers:
   1: >
@@ -4371,7 +4348,7 @@ SchemaVersion: 1
 ---
 ID: 053a596e-23da-49b6-9a3e-ccc145411b26
 
-Question: >
+Question: |
   What is the capital of Montserrat?
 
 Answers:
@@ -4399,7 +4376,7 @@ SchemaVersion: 1
 ---
 ID: 0cffebbd-8489-4b65-8096-00a8ba317b73
 
-Question: >
+Question: |
   What is the capital of the group of four volcanic islands, known as the Pitcairn Islands?
 
 Answers:
@@ -4427,7 +4404,7 @@ SchemaVersion: 1
 ---
 ID: 17626959-731a-4e81-a21c-885d1851657d
 
-Question: >
+Question: |
   Valletta is the capital city of an island country belonging to the territory of this continent.
 
 Answers:
@@ -4455,7 +4432,7 @@ SchemaVersion: 1
 ---
 ID: 2e7f90e5-8dc9-477d-ab40-af5e5037d843
 
-Question: >
+Question: |
   Which city did not serve as capital of Poland?
 
 Answers:
@@ -4483,7 +4460,7 @@ SchemaVersion: 1
 ---
 ID: 426dd52e-830c-4c1e-969f-873013fc3c68
 
-Question: >
+Question: |
   What is the capital of Romania?
 
 Answers:
@@ -4511,7 +4488,7 @@ SchemaVersion: 1
 ---
 ID: caf26855-23e0-47b0-93c2-d987c1d185d5
 
-Question: >
+Question: |
   What is the capital of the Philippines?
 
 Answers:
@@ -4539,7 +4516,7 @@ SchemaVersion: 1
 ---
 ID: 8bf9855b-a88b-4f44-b22e-876763d36a13
 
-Question: >
+Question: |
   What is the name of the capital and largest city of France?
 
 Answers:
@@ -4567,9 +4544,8 @@ SchemaVersion: 1
 ---
 ID: f1429dc7-e9bd-4936-bfed-19ebfc68311d
 
-Question: >
-  This landlocked African country is one of the 10 poorest countries in the world. Its capital, Bujumbura, is located
-  on Lake Tanganyika.
+Question: |
+  This landlocked African country is one of the 10 poorest countries in the world. Its capital, Bujumbura, is located on Lake Tanganyika.
 
 Answers:
   1: >
@@ -4596,7 +4572,7 @@ SchemaVersion: 1
 ---
 ID: 2d910c0b-4948-4543-b9eb-4968ff87c7b6
 
-Question: >
+Question: |
   What is the capital of Indonesia?
 
 Answers:
@@ -4624,7 +4600,7 @@ SchemaVersion: 1
 ---
 ID: bcaa7134-4d26-4881-91d5-56f6c549c0e6
 
-Question: >
+Question: |
   Which capital is not the largest city (by population) in its country?
 
 Answers:
@@ -4652,7 +4628,7 @@ SchemaVersion: 1
 ---
 ID: 86223b72-a401-4217-bc9b-ed9fc177d881
 
-Question: >
+Question: |
   Pristina is the capital of this country which gained its independence from Serbia on February 17 2008.
 
 Answers:
@@ -4680,7 +4656,7 @@ SchemaVersion: 1
 ---
 ID: 192286cf-70d9-4839-ae65-f28df27d563f
 
-Question: >
+Question: |
   What is the capital of India?
 
 Answers:
@@ -4708,7 +4684,7 @@ SchemaVersion: 1
 ---
 ID: 222fae54-d8a9-4df0-aa7f-c5c954fefcd1
 
-Question: >
+Question: |
   What is the name of the capital and largest city of the Republic of Ireland?
 
 Answers:
@@ -4736,9 +4712,8 @@ SchemaVersion: 1
 ---
 ID: d4a35bc9-90b0-4f5c-a13c-4c49ede5f410
 
-Question: >
-  What city is the capital and largest city in Bulgaria, as well as the 12th largest city by population in the
-  European Union?
+Question: |
+  What city is the capital and largest city in Bulgaria, as well as the 12th largest city by population in the European Union?
 
 Answers:
   1: >
@@ -4765,7 +4740,7 @@ SchemaVersion: 1
 ---
 ID: a75479ec-9a16-4d32-a70b-ff24504f78dd
 
-Question: >
+Question: |
   What is the capital and largest city of Portugal?
 
 Answers:
@@ -4793,7 +4768,7 @@ SchemaVersion: 1
 ---
 ID: 6deb24d1-29a3-431c-a6f6-7e08920e1d7a
 
-Question: >
+Question: |
   Yogyakarta used to be the capital of Indonesia.
 
 Answers:
@@ -4817,7 +4792,7 @@ SchemaVersion: 1
 ---
 ID: d0f5645a-60aa-47fe-b09f-ddd8821d7978
 
-Question: >
+Question: |
   What is the capital of Monaco?
 
 Answers:
@@ -4845,7 +4820,7 @@ SchemaVersion: 1
 ---
 ID: 78ec6ac3-1093-40b6-a316-d07e65f95c5a
 
-Question: >
+Question: |
   What is the capital and largest city of Iceland?
 
 Answers:
@@ -4873,7 +4848,7 @@ SchemaVersion: 1
 ---
 ID: c3c5a9ac-a064-4b50-a1d9-9493583a0467
 
-Question: >
+Question: |
   What is the capital city of Canada?
 
 Answers:
@@ -4901,7 +4876,7 @@ SchemaVersion: 1
 ---
 ID: 7a768b59-7074-459b-bf2f-d0a5b32d91fa
 
-Question: >
+Question: |
   What is the name of the capital and largest city of the Republic of Cuba?
 
 Answers:
@@ -4929,7 +4904,7 @@ SchemaVersion: 1
 ---
 ID: 4b896e43-ad08-4b05-b936-fcbea6f8ebf4
 
-Question: >
+Question: |
   What is the name of the capital and largest city in Germany?
 
 Answers:
@@ -4957,7 +4932,7 @@ SchemaVersion: 1
 ---
 ID: b4dc8404-80f6-4294-8363-6e89a1e4f761
 
-Question: >
+Question: |
   What is the name of the capital and largest city of Greenland?
 
 Answers:
@@ -4985,7 +4960,7 @@ SchemaVersion: 1
 ---
 ID: 21fde315-de69-49b4-a7fc-8db2f5456fa7
 
-Question: >
+Question: |
   What is the name of the capital city of Malta?
 
 Answers:
@@ -5013,7 +4988,7 @@ SchemaVersion: 1
 ---
 ID: 55810fa2-cbdc-4b40-9c0b-3d41652357a3
 
-Question: >
+Question: |
   Bolivia is unusual in that the official capital is not the seat of government. What city is the official capital?
 
 Answers:
@@ -5041,7 +5016,7 @@ SchemaVersion: 1
 ---
 ID: 3a2a2b6a-c9fe-4821-9e65-26e54c9632d3
 
-Question: >
+Question: |
   What is the capital and largest city of Saudi Arabia?
 
 Answers:
@@ -5069,7 +5044,7 @@ SchemaVersion: 1
 ---
 ID: 679cc3d7-f28b-4bfc-a271-256043596213
 
-Question: >
+Question: |
   What is the capital and largest city in the Kingdom of Cambodia?
 
 Answers:
@@ -5097,7 +5072,7 @@ SchemaVersion: 1
 ---
 ID: 7ce2b59c-0a2d-40f2-b2e3-7e171abbe87f
 
-Question: >
+Question: |
   What is the capital city of Mozambique?
 
 Answers:
@@ -5125,7 +5100,7 @@ SchemaVersion: 1
 ---
 ID: be10d906-3b71-4ad8-aeb6-6b5ea26006b1
 
-Question: >
+Question: |
   What is the capital and largest city of CAR (Central African Republic)?
 
 Answers:
@@ -5153,7 +5128,7 @@ SchemaVersion: 1
 ---
 ID: 90620605-3cf5-4c37-81a6-54992f9d5607
 
-Question: >
+Question: |
   What is the capital of Uganda?
 
 Answers:
@@ -5181,7 +5156,7 @@ SchemaVersion: 1
 ---
 ID: 20aebb25-fe8d-4471-82e2-2a2463cfebdb
 
-Question: >
+Question: |
   NDjamena is the capital of this African country.
 
 Answers:
@@ -5209,7 +5184,7 @@ SchemaVersion: 1
 ---
 ID: 4a6875a9-3f7c-4e16-9983-08acb1ac613a
 
-Question: >
+Question: |
   Maseru is the capital of which African country?
 
 Answers:
@@ -5237,7 +5212,7 @@ SchemaVersion: 1
 ---
 ID: 4f91c72a-0c29-48c3-b4b4-7124368ee70a
 
-Question: >
+Question: |
   What is the capital of Swaziland?
 
 Answers:
@@ -5265,7 +5240,7 @@ SchemaVersion: 1
 ---
 ID: da9dca99-056d-4abf-8353-302349b95491
 
-Question: >
+Question: |
   What is the capital of the island African country Cape Verde?
 
 Answers:
@@ -5293,7 +5268,7 @@ SchemaVersion: 1
 ---
 ID: 240fc60b-f3cd-4bbd-acc8-c233104b6800
 
-Question: >
+Question: |
   Name the capital of DRC (Democratic Republic of Congo)?
 
 Answers:
@@ -5321,7 +5296,7 @@ SchemaVersion: 1
 ---
 ID: 1daeafd9-44ff-4971-94aa-e10102a00c14
 
-Question: >
+Question: |
   What is the capital of Mauritania?
 
 Answers:
@@ -5349,7 +5324,7 @@ SchemaVersion: 1
 ---
 ID: abd3642f-3baf-4b3e-91a0-1f8d28f80e6a
 
-Question: >
+Question: |
   Lusaka is the capital of which African country?
 
 Answers:
@@ -5377,7 +5352,7 @@ SchemaVersion: 1
 ---
 ID: b2903d25-60cc-4036-bccb-bb5aff24f7b0
 
-Question: >
+Question: |
   What is the capital of Côte d'Ivoire (Ivory Coast)?
 
 Answers:
@@ -5405,7 +5380,7 @@ SchemaVersion: 1
 ---
 ID: fffea363-8095-4b91-8e0d-fc3dd9ff94e5
 
-Question: >
+Question: |
   What is the capital city of Sudan?
 
 Answers:
@@ -5433,7 +5408,7 @@ SchemaVersion: 1
 ---
 ID: b681d5e2-1016-44be-aec5-92486b74c2d5
 
-Question: >
+Question: |
   What is the capital city of the Socialist Republic of Vietnam?
 
 Answers:
@@ -5461,7 +5436,7 @@ SchemaVersion: 1
 ---
 ID: ae7ea939-50db-47e6-966d-bbb11c45e65b
 
-Question: >
+Question: |
   What city is the capital and the largest city of Jamaica?
 
 Answers:
@@ -5489,7 +5464,7 @@ SchemaVersion: 1
 ---
 ID: 380841eb-2177-4d47-939d-e37d716e9de7
 
-Question: >
+Question: |
   What is the capital city of Sri Lanka?
 
 Answers:
@@ -5517,7 +5492,7 @@ SchemaVersion: 1
 ---
 ID: 7aea00c1-e96c-4a30-8ef7-4b033b92a10c
 
-Question: >
+Question: |
   What is the name of the provincial capital of the island of Bali?
 
 Answers:
@@ -5545,7 +5520,7 @@ SchemaVersion: 1
 ---
 ID: a1bb77a2-490d-4835-81b7-23c463ff4d89
 
-Question: >
+Question: |
   What is the capital city of Algeria?
 
 Answers:
@@ -5573,7 +5548,7 @@ SchemaVersion: 1
 ---
 ID: ddca256e-b8f1-44db-9c06-4fa8fa23252c
 
-Question: >
+Question: |
   What is the name of the capital and largest city of Venezuela?
 
 Answers:
@@ -5601,7 +5576,7 @@ SchemaVersion: 1
 ---
 ID: 2721b6bd-e70e-4381-bdca-7b1030951d11
 
-Question: >
+Question: |
   Porto Novo is the capital of Barbados.
 
 Answers:
@@ -5625,10 +5600,8 @@ SchemaVersion: 1
 ---
 ID: 8f5b331d-c405-40e8-a904-c5af998c3f18
 
-Question: >
-  The 9th biggest country in the world, with a territory of 2,717,300 sq. km (1,049,155 sq. miles). This country
-  appeared in the movies Air Force One (starring Harrison Ford), The World is Not Enough (James Bond), and Rollerball
-  (with Jean Reno).  Its capital is Astana.
+Question: |
+  The 9th biggest country in the world, with a territory of 2,717,300 sq. km (1,049,155 sq. miles). This country appeared in the movies Air Force One (starring Harrison Ford), The World is Not Enough (James Bond), and Rollerball (with Jean Reno).  Its capital is Astana.
 
 Answers:
   1: >
@@ -5655,7 +5628,7 @@ SchemaVersion: 1
 ---
 ID: 9215f462-f1ad-4c35-b4d5-07da8caa729e
 
-Question: >
+Question: |
   This city is the capital of Armenia.
 
 Answers:
@@ -5683,7 +5656,7 @@ SchemaVersion: 1
 ---
 ID: 24fb5953-9ac2-45a6-8b54-66751207ee85
 
-Question: >
+Question: |
   The name of which capital city also refers to an open source project for the Java platform?
 
 Answers:
@@ -5711,7 +5684,7 @@ SchemaVersion: 1
 ---
 ID: 6cb133b7-1b63-4927-a0b5-ea3accd5d40b
 
-Question: >
+Question: |
   What is the capital city of Bahrain?
 
 Answers:
@@ -5739,7 +5712,7 @@ SchemaVersion: 1
 ---
 ID: be8355a0-bebc-463a-9eba-3d80e7aac470
 
-Question: >
+Question: |
   Almaty, or Alma-Ata as formerly known, is the largest city and capital of which country?
 
 Answers:
@@ -5767,9 +5740,8 @@ SchemaVersion: 1
 ---
 ID: 03ef2084-bfdf-4767-81e7-9f1a27c1a392
 
-Question: >
-  With the exception of the Nobel Peace Prize, the Nobel Prizes are presented at an annual ceremony in Stockholm,
-  Sweden. In what capital city ise the Nobel Peace Prize presented?
+Question: |
+  With the exception of the Nobel Peace Prize, the Nobel Prizes are presented at an annual ceremony in Stockholm, Sweden. In what capital city ise the Nobel Peace Prize presented?
 
 Answers:
   1: >
@@ -5796,7 +5768,7 @@ SchemaVersion: 1
 ---
 ID: 54dcca64-c6c2-4cc5-bc0a-e3a8da426120
 
-Question: >
+Question: |
   One of these cities has been Japans capital in the past.
 
 Answers:
@@ -5824,7 +5796,7 @@ SchemaVersion: 1
 ---
 ID: 4a4cf3b0-5cbc-43da-bbe1-f0b30bc3d609
 
-Question: >
+Question: |
   During the Russian Revolution of 1917, which city was capital of Russia?
 
 Answers:
@@ -5852,7 +5824,7 @@ SchemaVersion: 1
 ---
 ID: 9d874898-8db0-4008-8a0b-ee2211e70dc5
 
-Question: >
+Question: |
   What city became the capital after the unification of Germany in 1990?
 
 Answers:
@@ -5880,7 +5852,7 @@ SchemaVersion: 1
 ---
 ID: dbe96f67-b9c5-4182-8ec5-93467399ba3e
 
-Question: >
+Question: |
   What city was the Russian capital before Tsar Peter the Great founded St. Petersburg?
 
 Answers:
@@ -5908,7 +5880,7 @@ SchemaVersion: 1
 ---
 ID: ef47834c-ce27-4c1e-aedf-b5feeb53c937
 
-Question: >
+Question: |
   A great fire burned down half of this European capital city in 1666.
 
 Answers:
@@ -5936,7 +5908,7 @@ SchemaVersion: 1
 ---
 ID: 1d8373a1-3b06-44ca-9eb1-e2390b5e7e56
 
-Question: >
+Question: |
   This country's capital is Buenos Aires. It is the second largest country in South America.
 
 Answers:
@@ -5964,7 +5936,7 @@ SchemaVersion: 1
 ---
 ID: 2fdc9d02-23c9-4c1d-985b-1130fdae89b4
 
-Question: >
+Question: |
   Grand Place, which is known for its large flower carpet, is the main square of this capital European city.
 
 Answers:
@@ -5992,9 +5964,8 @@ SchemaVersion: 1
 ---
 ID: 40053743-600d-4c8a-887f-267066246488
 
-Question: >
-  The Black Sea city of Sukhumi is the capital of this republic that proclaimed its independence from Georgia in the
-  90s.
+Question: |
+  The Black Sea city of Sukhumi is the capital of this republic that proclaimed its independence from Georgia in the 90s.
 
 Answers:
   1: >
@@ -6021,7 +5992,7 @@ SchemaVersion: 1
 ---
 ID: 40a18adf-0e91-41b3-ada2-fc5d5e11c983
 
-Question: >
+Question: |
   The capital of this island country is Kingston.
 
 Answers:
@@ -6049,7 +6020,7 @@ SchemaVersion: 1
 ---
 ID: 342b0b4a-d8ab-40f2-8165-77be46d6b96b
 
-Question: >
+Question: |
   What is the capital and largest city of Italy?
 
 Answers:
@@ -6077,7 +6048,7 @@ SchemaVersion: 1
 ---
 ID: 01e5a915-52c6-4830-bc16-c0e23c03bce8
 
-Question: >
+Question: |
   This island country whose capital is Nicosia is the third-largest Mediterranean island.
 
 Answers:
@@ -6105,7 +6076,7 @@ SchemaVersion: 1
 ---
 ID: db7f79af-28d5-47ee-9599-5447f31e49cf
 
-Question: >
+Question: |
   Valletta is the capital city of this island country in the Mediterranean.
 
 Answers:
@@ -6133,7 +6104,7 @@ SchemaVersion: 1
 ---
 ID: 6baee9b6-3f5b-476c-966d-a235a0864ebd
 
-Question: >
+Question: |
   What is the name of the capital and largest city of Spain?
 
 Answers:
@@ -6161,7 +6132,7 @@ SchemaVersion: 1
 ---
 ID: 070f56a5-b45f-4575-b2d8-878b1c85aa5d
 
-Question: >
+Question: |
   What is the capital of Slovakia?
 
 Answers:
@@ -6189,7 +6160,7 @@ SchemaVersion: 1
 ---
 ID: 8fff773d-dac6-443c-9944-e6c116e6c843
 
-Question: >
+Question: |
   What is the capital of Slovenia?
 
 Answers:
@@ -6217,7 +6188,7 @@ SchemaVersion: 1
 ---
 ID: 67faf2c2-f341-4c2f-bbb8-3b21db014ee3
 
-Question: >
+Question: |
   What is the capital city of Switzerland?
 
 Answers:
@@ -6245,7 +6216,7 @@ SchemaVersion: 1
 ---
 ID: 6bf96fad-a767-4ddc-8780-f6589b7238a1
 
-Question: >
+Question: |
   Which of these is the capital and the largest city in North Korea?
 
 Answers:
@@ -6273,7 +6244,7 @@ SchemaVersion: 1
 ---
 ID: c185e32f-94bb-4901-b9a0-7c665207c29e
 
-Question: >
+Question: |
   What is the name of the capital and largest city of Norway?
 
 Answers:
@@ -6301,7 +6272,7 @@ SchemaVersion: 1
 ---
 ID: 6c0d53b5-13a6-483c-88bd-4c8f9617e5fb
 
-Question: >
+Question: |
   What city is the capital and largest city of Madagascar?
 
 Answers:
@@ -6329,7 +6300,7 @@ SchemaVersion: 1
 ---
 ID: 59bb0b67-ad29-4e80-8ccf-dd4ecfe982f6
 
-Question: >
+Question: |
   What is the capital city of the country of Papua New Guinea?
 
 Answers:
@@ -6357,7 +6328,7 @@ SchemaVersion: 1
 ---
 ID: a98ac9bc-bb4b-4076-9ec5-7454238f6453
 
-Question: >
+Question: |
   What is the capital and largest city of Jamaica?
 
 Answers:
@@ -6385,7 +6356,7 @@ SchemaVersion: 1
 ---
 ID: 37501280-82c6-4327-bf08-addf17b94235
 
-Question: >
+Question: |
   What is the name of the capital city of India?
 
 Answers:
@@ -6413,7 +6384,7 @@ SchemaVersion: 1
 ---
 ID: 2fa52021-0abd-4b0a-8d9a-bb3c226853df
 
-Question: >
+Question: |
   Tegucigalpa is the capital and largest city of this country.
 
 Answers:
@@ -6441,7 +6412,7 @@ SchemaVersion: 1
 ---
 ID: 7bf69c26-6b92-46c4-bce8-dc64d8786a45
 
-Question: >
+Question: |
   What is the capital and largest city of Romania?
 
 Answers:
@@ -6469,7 +6440,7 @@ SchemaVersion: 1
 ---
 ID: baafd035-e3a6-43a7-9f59-2347bf9f2008
 
-Question: >
+Question: |
   Addis Ababa is the capital of what country?
 
 Answers:
@@ -6497,7 +6468,7 @@ SchemaVersion: 1
 ---
 ID: c40d2bc7-237a-49eb-82ec-126336e035f7
 
-Question: >
+Question: |
   What is the capital and largest city of Lebanon?
 
 Answers:
@@ -6525,7 +6496,7 @@ SchemaVersion: 1
 ---
 ID: 11d2623f-bd53-4da3-ad30-47ebd107a635
 
-Question: >
+Question: |
   Kathmandu is the capital city of what country?
 
 Answers:
@@ -6553,7 +6524,7 @@ SchemaVersion: 1
 ---
 ID: 9b088283-aa74-4aed-9acc-04b759e11025
 
-Question: >
+Question: |
   What is the name of the capital city of Latvia?
 
 Answers:
@@ -6581,7 +6552,7 @@ SchemaVersion: 1
 ---
 ID: da6211f0-5ceb-4b65-9b30-d4b88430ece0
 
-Question: >
+Question: |
   This city is the capital of the Kingdom of Morocco.
 
 Answers:
@@ -6609,7 +6580,7 @@ SchemaVersion: 1
 ---
 ID: e41bfca1-4f1a-45dc-a294-2ede12d0e252
 
-Question: >
+Question: |
   The capital city of what country is called Quito?
 
 Answers:
@@ -6637,7 +6608,7 @@ SchemaVersion: 1
 ---
 ID: 71b2a023-b813-4a25-a0a3-8cf7e0757615
 
-Question: >
+Question: |
   Name Zimbabwe's capital which is an independent city equivalent to a province.
 
 Answers:
@@ -6665,7 +6636,7 @@ SchemaVersion: 1
 ---
 ID: 431d5923-9c7b-463b-a3e3-59e357f2e639
 
-Question: >
+Question: |
   Name Moroccos capital that is also the capital of the Rabat-Salé-Zemmour-Zaer region.
 
 Answers:
@@ -6693,7 +6664,7 @@ SchemaVersion: 1
 ---
 ID: eebf397a-0f22-4f52-9a7a-c92c7813f459
 
-Question: >
+Question: |
   Bamako is the capital of Madagascar.
 
 Answers:
@@ -6717,7 +6688,7 @@ SchemaVersion: 1
 ---
 ID: 62e5228f-b1e3-4705-bae8-a59348a667df
 
-Question: >
+Question: |
   What is the capital and largest city of the Republic of the Congo?
 
 Answers:
@@ -6745,7 +6716,7 @@ SchemaVersion: 1
 ---
 ID: 90741fab-0d09-4a72-b407-d21d1410d00d
 
-Question: >
+Question: |
   Ethiopia's capital is Addis Ababa.
 
 Answers:
@@ -6769,7 +6740,7 @@ SchemaVersion: 1
 ---
 ID: 4d2366dc-d466-45e6-ae93-4913ad90d4c1
 
-Question: >
+Question: |
   What port on the Atlantic Ocean is the capital and largest city of Guinea.
 
 Answers:
@@ -6797,7 +6768,7 @@ SchemaVersion: 1
 ---
 ID: fa117db4-4ea7-4f36-82e9-ee28359c7b7b
 
-Question: >
+Question: |
   What is the capital and largest commercial city of Libya?
 
 Answers:
@@ -6825,7 +6796,7 @@ SchemaVersion: 1
 ---
 ID: 599f8e60-1ca2-44c7-80c2-d726d1061458
 
-Question: >
+Question: |
   This city is Kenyas capital and the most populous city in East Africa.
 
 Answers:
@@ -6853,7 +6824,7 @@ SchemaVersion: 1
 ---
 ID: 589cbaaa-d5ef-4baf-8919-f3f9ac321cdb
 
-Question: >
+Question: |
   Victoria is the capital of the Republic of Seychelles.
 
 Answers:
@@ -6877,7 +6848,7 @@ SchemaVersion: 1
 ---
 ID: 8f8d9d32-f057-47d4-b1b5-5508c30c6419
 
-Question: >
+Question: |
   What is the name of the largest city and capital of Sweden?
 
 Answers:
@@ -6905,7 +6876,7 @@ SchemaVersion: 1
 ---
 ID: 65762457-749d-4076-bcbe-0ffbdfcdd9d4
 
-Question: >
+Question: |
   How long has Tel Aviv been the capital of Israel?
 
 Answers:

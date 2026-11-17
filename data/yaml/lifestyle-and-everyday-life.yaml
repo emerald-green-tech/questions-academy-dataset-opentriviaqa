@@ -1,6 +1,6 @@
 ID: f5b4ee28-4819-4e09-8aa2-1c71e147f120
 
-Question: >
+Question: |
   In the Gregorian calendar, Friday the 13th can occur how many times a year at most?
 
 Answers:
@@ -28,7 +28,7 @@ SchemaVersion: 1
 ---
 ID: 7becad53-7ef4-4c97-ad47-5b2f5c8f636c
 
-Question: >
+Question: |
   Any month's 13th day will fall on a Friday if the month starts on this day.
 
 Answers:
@@ -56,7 +56,7 @@ SchemaVersion: 1
 ---
 ID: e1b5fcd1-e21b-4db5-bd47-a8af4c88ae5f
 
-Question: >
+Question: |
   If you want to remove graffiti from the wall of your house, you should do it within this period of time.
 
 Answers:
@@ -84,7 +84,7 @@ SchemaVersion: 1
 ---
 ID: 2d1dd287-83c9-409d-b3ed-886e65ea5ba4
 
-Question: >
+Question: |
   Letterboxing is usually what type of hobby?
 
 Answers:
@@ -112,9 +112,8 @@ SchemaVersion: 1
 ---
 ID: ac8fa2ba-a1bb-424c-9924-31570a73ea4a
 
-Question: >
-  The American Philatelic Society is the U.S. organization of the fans of one of the world's most popular hobbies.
-  Which is it?
+Question: |
+  The American Philatelic Society is the U.S. organization of the fans of one of the world's most popular hobbies. Which is it?
 
 Answers:
   1: >
@@ -141,7 +140,7 @@ SchemaVersion: 1
 ---
 ID: 8fb9fcc9-6cfd-458a-b1ae-83faa8984faf
 
-Question: >
+Question: |
   What is the hobby of collecting matchboxes and different match-related items called?
 
 Answers:
@@ -169,9 +168,8 @@ SchemaVersion: 1
 ---
 ID: c39fd4c1-14cf-4cdc-b74e-0a5f049c373f
 
-Question: >
-  This low-mounted plumbing fixture, similar in design to a toilet, is used for washing the external genitalia and the
-  anus.
+Question: |
+  This low-mounted plumbing fixture, similar in design to a toilet, is used for washing the external genitalia and the anus.
 
 Answers:
   1: >
@@ -198,7 +196,7 @@ SchemaVersion: 1
 ---
 ID: 5b89aed1-13f0-4776-b3c0-ca16859dfdd2
 
-Question: >
+Question: |
   Which specialized toilet is designed to be used only for urination?
 
 Answers:
@@ -226,7 +224,7 @@ SchemaVersion: 1
 ---
 ID: 3cd503de-70d6-459e-b2ab-1334d85aaf47
 
-Question: >
+Question: |
   A customer closed out his million-dollar account after his bank refused to validate a 60 cent parking ticket.
 
 Answers:
@@ -250,9 +248,8 @@ SchemaVersion: 1
 ---
 ID: f848b13f-edf3-47ce-9ab5-285d288afaaa
 
-Question: >
-  A college library is sinking into the ground because its architect failed to take the weight of the books into
-  account.
+Question: |
+  A college library is sinking into the ground because its architect failed to take the weight of the books into account.
 
 Answers:
   1: >
@@ -275,9 +272,8 @@ SchemaVersion: 1
 ---
 ID: 72a46741-cbf1-45ba-a4eb-209ee89be05c
 
-Question: >
-  Neiman-Marcus charged a shopper $250 for its cookie recipe, instead of $2.50.  As revenge for refusing to reverse
-  the charge, she now provides the recipe for free and asks others to pass it along.
+Question: |
+  Neiman-Marcus charged a shopper $250 for its cookie recipe, instead of $2.50.  As revenge for refusing to reverse the charge, she now provides the recipe for free and asks others to pass it along.
 
 Answers:
   1: >
@@ -300,9 +296,8 @@ SchemaVersion: 1
 ---
 ID: e6639c5b-dc01-4d5f-a518-2f477fb15dc9
 
-Question: >
-  Sororities are outlawed in certain states, because local brothel laws prohibit more than a certain number of females
-  from living together.
+Question: |
+  Sororities are outlawed in certain states, because local brothel laws prohibit more than a certain number of females from living together.
 
 Answers:
   1: >
@@ -325,7 +320,7 @@ SchemaVersion: 1
 ---
 ID: ed66d445-31fc-4bec-bbb5-9e08f5be16fa
 
-Question: >
+Question: |
   Mixture of Enfalac baby formula and dog food caused a toddlers stomach to explode post-mortem.
 
 Answers:
@@ -349,7 +344,7 @@ SchemaVersion: 1
 ---
 ID: 8dd5ed54-3312-4a79-9168-d7505697df09
 
-Question: >
+Question: |
   How many dry quarts are in a peck?
 
 Answers:
@@ -377,7 +372,7 @@ SchemaVersion: 1
 ---
 ID: 6354936f-fd68-48b3-98bc-044aad57d072
 
-Question: >
+Question: |
   How many years are in a decade?
 
 Answers:
@@ -405,7 +400,7 @@ SchemaVersion: 1
 ---
 ID: 64d5e729-bb54-4888-8ac3-d5e707f676b8
 
-Question: >
+Question: |
   How many years are in a century?
 
 Answers:
@@ -433,7 +428,7 @@ SchemaVersion: 1
 ---
 ID: 86aeadbc-b0af-4405-9450-a9a2c8353ea1
 
-Question: >
+Question: |
   How many weeks are in a fortnight?
 
 Answers:
@@ -461,7 +456,7 @@ SchemaVersion: 1
 ---
 ID: 79292c00-98c7-45d5-8c0d-1f6a3aa171c9
 
-Question: >
+Question: |
   How many tens are in a score?
 
 Answers:
@@ -489,7 +484,7 @@ SchemaVersion: 1
 ---
 ID: 0171826f-8a3c-47ab-9869-a74d5783e879
 
-Question: >
+Question: |
   How many seconds are there in a score of years?
 
 Answers:
@@ -517,9 +512,8 @@ SchemaVersion: 1
 ---
 ID: 84c880f4-13a8-4a27-a6f8-3bbf47197ab9
 
-Question: >
-  This couple, created by Robert Louis Stevenson, is like getting 2 for 1. Two personalities are hidden in one, one of
-  them being his normal identity, and the other is his dark side.
+Question: |
+  This couple, created by Robert Louis Stevenson, is like getting 2 for 1. Two personalities are hidden in one, one of them being his normal identity, and the other is his dark side.
 
 Answers:
   1: >
@@ -546,7 +540,7 @@ SchemaVersion: 1
 ---
 ID: 636795b0-fa75-4f68-accd-96fe359e8398
 
-Question: >
+Question: |
   When was the Miss America pageant first held?
 
 Answers:
@@ -574,9 +568,8 @@ SchemaVersion: 1
 ---
 ID: e3f57bf0-bde4-4051-8bdb-ff1149d9390d
 
-Question: >
-  The most common talents performed are singing and dancing, but there have been a variety of other odd talents as
-  well.  Which talent was performed at a Miss America pageant?
+Question: |
+  The most common talents performed are singing and dancing, but there have been a variety of other odd talents as well.  Which talent was performed at a Miss America pageant?
 
 Answers:
   1: >
@@ -603,7 +596,7 @@ SchemaVersion: 1
 ---
 ID: 3832a84e-412b-4886-904b-f17f795cbb2f
 
-Question: >
+Question: |
   Miss America always goes on to compete in the Miss Universe pageant.
 
 Answers:
@@ -627,9 +620,8 @@ SchemaVersion: 1
 ---
 ID: 935c6855-6c61-46f9-9e97-b7c9c9871c4d
 
-Question: >
-  As of the beginning of the new millennium, how many Miss America title holders were from New Jersey, the state that
-  held the competitions?
+Question: |
+  As of the beginning of the new millennium, how many Miss America title holders were from New Jersey, the state that held the competitions?
 
 Answers:
   1: >
@@ -656,7 +648,7 @@ SchemaVersion: 1
 ---
 ID: fc595383-a637-472c-a137-c37c4214ac59
 
-Question: >
+Question: |
   Which one of these pairs or roller coaster and theme park is wrong?
 
 Answers:
@@ -684,9 +676,8 @@ SchemaVersion: 1
 ---
 ID: 21df37d5-d6d5-4ebc-a0f4-e1c68a0848db
 
-Question: >
-  Top Thrill Dragster was opened in 2003 and it was the tallest and fastest roller coaster in the world until 2005
-  (this is true). It was the first roller coaster to break the 300 ft (91.4 m) barrier.
+Question: |
+  Top Thrill Dragster was opened in 2003 and it was the tallest and fastest roller coaster in the world until 2005 (this is true). It was the first roller coaster to break the 300 ft (91.4 m) barrier.
 
 Answers:
   1: >
@@ -709,7 +700,7 @@ SchemaVersion: 1
 ---
 ID: bc788850-48e3-49cb-acd5-2d3c4476eab6
 
-Question: >
+Question: |
   Which one of these pairs of roller coaster and year of opening is wrong?
 
 Answers:
@@ -737,9 +728,8 @@ SchemaVersion: 1
 ---
 ID: d432be1d-74af-4223-921b-61440c1f49f5
 
-Question: >
-  What was typical for the Cirque nouveau or the New Circus that developed in the 1970s in France, Australia, the
-  USA.and the UK?
+Question: |
+  What was typical for the Cirque nouveau or the New Circus that developed in the 1970s in France, Australia, the USA.and the UK?
 
 Answers:
   1: >
@@ -766,7 +756,7 @@ SchemaVersion: 1
 ---
 ID: b9c51247-665d-44f9-b8ac-e16355b845ec
 
-Question: >
+Question: |
   The Jewish calendar is a lunar calendar.
 
 Answers:
@@ -790,7 +780,7 @@ SchemaVersion: 1
 ---
 ID: dae30680-4ea3-463f-b912-f3fff3597aef
 
-Question: >
+Question: |
   What kind of museum is the Batey Haosef Museum in Tel Aviv?
 
 Answers:

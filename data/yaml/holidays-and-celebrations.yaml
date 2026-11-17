@@ -1,6 +1,6 @@
 ID: cbd83552-de26-49db-a479-154db8dc93fd
 
-Question: >
+Question: |
   Which wedding anniversary is traditionally called a Ruby Anniversary?
 
 Answers:
@@ -28,7 +28,7 @@ SchemaVersion: 1
 ---
 ID: b3b92ee3-b828-42df-baa8-fa657fc8b354
 
-Question: >
+Question: |
   What was the original name of the US federal holiday known as Memorial Day?
 
 Answers:
@@ -56,7 +56,7 @@ SchemaVersion: 1
 ---
 ID: 738a88a8-f156-4e35-bae1-0e6f3f13d3f8
 
-Question: >
+Question: |
   In what country is the popular tomato festival called La Tomatina celebrated annually?
 
 Answers:
@@ -84,9 +84,8 @@ SchemaVersion: 1
 ---
 ID: 60cfc5bb-403c-4d74-b10a-4a1f2efafa77
 
-Question: >
-  In the British Overseas Territory of Bermuda, kite flying is not just a hobby, but also an important part of which
-  holiday?
+Question: |
+  In the British Overseas Territory of Bermuda, kite flying is not just a hobby, but also an important part of which holiday?
 
 Answers:
   1: >
@@ -113,7 +112,7 @@ SchemaVersion: 1
 ---
 ID: ffe912d4-10d2-4c54-882c-a7e2c2ad894d
 
-Question: >
+Question: |
   The 3rd Monday in April is Patriot's Day - a legal holiday in this state.
 
 Answers:
@@ -141,8 +140,9 @@ SchemaVersion: 1
 ---
 ID: 9a150d45-885f-48b9-895b-56947f7cfe51
 
-Question: >
+Question: |
   This country's national holidays include:
+  
   * Independence Day, 10 December (date of independence from Spain, 1898)
   * 20 May (independence from US administration, 1902)
   * Rebellion Day 26 July (1953)
@@ -170,9 +170,93 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: fd27df97-4c79-44ae-9c08-f2c5c7915b19
+
+Question: |
+  On Halloween, children go door-to-door and yell trick-or-treat. However, in Scotland it is likely to hear children saying this.
+
+Answers:
+  1: >
+    My eyes are blue, your house is too, my baskets green, may I have my Halloween.
+  2: >
+    Give me your money!
+  3: >
+    The sky is blue, the grass is green, may we have our Halloween.
+  4: >
+    I can smell something sweet around here.
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 44276b7a-1f39-4395-ae34-f8fcaaaf09dd
+
+Question: |
+  People in which country used to decorate Christmas trees with artificial roses and set them on fire?
+
+Answers:
+  1: >
+    Finland
+  2: >
+    Estonia
+  3: >
+    Sweden
+  4: >
+    Lithuania
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 65a61295-7663-45ee-9639-fa540cdd6c2f
+
+Question: |
+  Every year, on the day after Thanksgiving, leftovers provide the perfect reason for a small and quick feast, referred to as this day.
+
+Answers:
+  1: >
+    Dinkie
+  2: >
+    Winkie
+  3: >
+    Sinkie
+  4: >
+    Binkie
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: f0576f91-f504-4d20-946c-4a10e709a34b
 
-Question: >
+Question: |
   In 2001, St. Patrick's Day celebration went on as planned in Ireland.
 
 Answers:
@@ -196,7 +280,7 @@ SchemaVersion: 1
 ---
 ID: ee1857ef-a6fd-4627-9f31-5004bf045e8a
 
-Question: >
+Question: |
   Rudolph the Red-Nosed Reindeer was created for a Chicago based department store.
 
 Answers:
@@ -221,7 +305,7 @@ SchemaVersion: 1
 ---
 ID: d2d00de8-58d0-4caf-896f-2c7237280758
 
-Question: >
+Question: |
   In what month do Russians celebrate the October Revolution?
 
 Answers:
@@ -249,7 +333,7 @@ SchemaVersion: 1
 ---
 ID: 4ed0b352-41d4-416b-b547-24c21ad8a249
 
-Question: >
+Question: |
   What meals are typically eaten during the celebrations of the Channukah holiday?
 
 Answers:
@@ -277,7 +361,7 @@ SchemaVersion: 1
 ---
 ID: e75be6e3-9323-4c02-8491-be907e00f0e2
 
-Question: >
+Question: |
   Hannukah (or Channukah) is the Jewish equivalent of Christmas.
 
 Answers:
@@ -301,7 +385,7 @@ SchemaVersion: 1
 ---
 ID: 3426014c-0f20-4d64-8ff3-0284777953d0
 
-Question: >
+Question: |
   What does Yom Yerusalyim celebrate?
 
 Answers:
@@ -329,7 +413,7 @@ SchemaVersion: 1
 ---
 ID: 11127556-1958-4867-b46c-1cd931794ddd
 
-Question: >
+Question: |
   At Christmas, Christians celebrate the Nativity or birth of Jesus Christ in which city?
 
 Answers:

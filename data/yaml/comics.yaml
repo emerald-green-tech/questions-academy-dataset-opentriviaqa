@@ -1,6 +1,6 @@
 ID: cb06a8e4-125c-4e35-936b-da3350677052
 
-Question: >
+Question: |
   Unfortunately this fictional dog is constantly bullied by his buddy cat.
 
 Answers:
@@ -28,7 +28,7 @@ SchemaVersion: 1
 ---
 ID: 5b218895-0c4e-4e7a-97ad-5e65507e34ff
 
-Question: >
+Question: |
   Which cartoon dog is one of Mickey Mouse's best friends?
 
 Answers:
@@ -56,7 +56,7 @@ SchemaVersion: 1
 ---
 ID: aa233d96-acb7-48ab-a359-eec136f916de
 
-Question: >
+Question: |
   Name the Red Baron hunting Beagle from Charles Schultz popular comic strip, Peanuts.
 
 Answers:
@@ -84,7 +84,7 @@ SchemaVersion: 1
 ---
 ID: 64882dde-1b83-4736-b3d6-e076ff6ec983
 
-Question: >
+Question: |
   This cartoon Great Dane often needs his nephew headstrong nephew to protect him.
 
 Answers:
@@ -112,9 +112,8 @@ SchemaVersion: 1
 ---
 ID: a8bda2e0-b319-4990-af5a-7d680f38495b
 
-Question: >
-  "If there are no stupid questions, then what kind of questions do stupid people ask? Do they get smart just in time
-  to ask questions?" Which comic book creator created this witty remark?
+Question: |
+  "If there are no stupid questions, then what kind of questions do stupid people ask? Do they get smart just in time to ask questions?" Which comic book creator created this witty remark?
 
 Answers:
   1: >
@@ -141,9 +140,8 @@ SchemaVersion: 1
 ---
 ID: be181f65-af98-46be-b8e2-77cf6b90fe3d
 
-Question: >
-  Aquaman, The Atom, Batman, The Flash, Green Arrow, Hawkman, Jonn Jonzz Martian Hunter, Superman and Wonder Woman are
-  from which of these groups?
+Question: |
+  Aquaman, The Atom, Batman, The Flash, Green Arrow, Hawkman, Jonn Jonzz Martian Hunter, Superman and Wonder Woman are from which of these groups?
 
 Answers:
   1: >
@@ -170,7 +168,7 @@ SchemaVersion: 1
 ---
 ID: 9db5eef3-3dc5-47a0-a61e-9353fabcf581
 
-Question: >
+Question: |
   Allen Scot, Hal Jorden, John Stewart, Kyle Rainier, Guy Gardner have a costumed identity in common. What is it?
 
 Answers:
@@ -198,7 +196,7 @@ SchemaVersion: 1
 ---
 ID: 1aa0901d-70b6-42c1-a726-0eb6840b8723
 
-Question: >
+Question: |
   Cyclops, Beast, The Angel, Iceman and Marvel Girl are from this group.
 
 Answers:
@@ -226,7 +224,7 @@ SchemaVersion: 1
 ---
 ID: be1e53b4-979f-40a8-a930-1e84c6154ffa
 
-Question: >
+Question: |
   Dick Grayson, Jason Todd, Timothy Drake were all identified as this same super hero. Can you figure out which one?
 
 Answers:
@@ -254,9 +252,8 @@ SchemaVersion: 1
 ---
 ID: 009c5969-7de2-4911-ba6b-b8e5553b8008
 
-Question: >
-  Can you finish this oath? In brightest day, in blackest night, no evil shall escape my sight, let those who worship
-  evil's might beware my power ....
+Question: |
+  Can you finish this oath? In brightest day, in blackest night, no evil shall escape my sight, let those who worship evil's might beware my power ....
 
 Answers:
   1: >
@@ -283,7 +280,7 @@ SchemaVersion: 1
 ---
 ID: 09e212d7-2b93-48b9-bfeb-4f7458015530
 
-Question: >
+Question: |
   Jay Garrick and Barry Allen played the same role as this super hero.
 
 Answers:
@@ -311,7 +308,7 @@ SchemaVersion: 1
 ---
 ID: baa415ee-7745-46fc-b5cf-09fd4aa17263
 
-Question: >
+Question: |
   Robin, Kid Flash, Speedy, Aqua Lad and Wonder Girl are found in which of these groups?
 
 Answers:
@@ -339,9 +336,8 @@ SchemaVersion: 1
 ---
 ID: 1653caa4-437f-4ab5-b1dc-b6ef3b23e23d
 
-Question: >
-  Captain America was a hero of World War 2 in the 1960s. He wakes up from a frozen state on board a submarine. What
-  group found him?
+Question: |
+  Captain America was a hero of World War 2 in the 1960s. He wakes up from a frozen state on board a submarine. What group found him?
 
 Answers:
   1: >
@@ -368,7 +364,7 @@ SchemaVersion: 1
 ---
 ID: e540ed9d-9be6-41d3-8494-e38e19f464eb
 
-Question: >
+Question: |
   On what planet was the Silver Surfer born?
 
 Answers:
@@ -396,7 +392,7 @@ SchemaVersion: 1
 ---
 ID: 754b1cda-ca70-400c-bb9a-a2da7af5785a
 
-Question: >
+Question: |
   Bruce Wayne (Batman) has a butler named Alfred. What is Alfred's nationality?
 
 Answers:
@@ -424,9 +420,8 @@ SchemaVersion: 1
 ---
 ID: c2af302a-0151-4a17-bd03-ae36f4951f97
 
-Question: >
-  This One Piece character is the Captain of the Strawhat Pirates, and wears a straw hat himself. He gained elasticity
-  powers after eating the Gomu Gomu Fruit.
+Question: |
+  This One Piece character is the Captain of the Strawhat Pirates, and wears a straw hat himself. He gained elasticity powers after eating the Gomu Gomu Fruit.
 
 Answers:
   1: >
@@ -453,7 +448,7 @@ SchemaVersion: 1
 ---
 ID: eda85688-58ce-4910-bed2-639a4e176423
 
-Question: >
+Question: |
   What One Piece character is a skilled swordsman who always carries three katanas with him?
 
 Answers:
@@ -481,7 +476,7 @@ SchemaVersion: 1
 ---
 ID: 17a1b4d9-b60a-4111-a1ff-700f7355cf52
 
-Question: >
+Question: |
   This One Piece character is a cook who uses his feet to attack and has a weakness for beautiful women.
 
 Answers:
@@ -509,7 +504,7 @@ SchemaVersion: 1
 ---
 ID: 7f9ae233-704b-436d-b0f8-03ca7b00a21e
 
-Question: >
+Question: |
   Who controls the weather with their weapon and is the navigator of the fictional Strawhat Pirates?
 
 Answers:
@@ -537,7 +532,7 @@ SchemaVersion: 1
 ---
 ID: 25508244-152a-4f52-846a-55d0a44dd857
 
-Question: >
+Question: |
   Which One Piece character is the carpenter who remodeled himself into a cyborg?
 
 Answers:
@@ -565,7 +560,7 @@ SchemaVersion: 1
 ---
 ID: ab2017ef-f1e9-4dca-8a03-1bb247a44a43
 
-Question: >
+Question: |
   Who is the living skeleton musician in One Piece?
 
 Answers:
@@ -593,7 +588,7 @@ SchemaVersion: 1
 ---
 ID: cf0d399a-ea42-4609-994e-3aba5bbd672e
 
-Question: >
+Question: |
   Which One Piece character is able to sprout body parts on anything except for sea stone?
 
 Answers:
@@ -621,7 +616,7 @@ SchemaVersion: 1
 ---
 ID: 98b2c484-27b3-45b8-bc59-52dc2ee48918
 
-Question: >
+Question: |
   What One Piece character, nicknamed King of Snipers Sogeking, is the crew's marksman?
 
 Answers:
@@ -649,7 +644,7 @@ SchemaVersion: 1
 ---
 ID: 9151216e-a94a-49d1-b340-a4a3c4829f02
 
-Question: >
+Question: |
   What character from the series One Piece is a blue-nosed reindeer who gained human properties?
 
 Answers:
@@ -677,7 +672,7 @@ SchemaVersion: 1
 ---
 ID: 7fff4216-6a61-4446-ad9b-6fe73dc975df
 
-Question: >
+Question: |
   Name the Fleet Admiral who commands the Marine in the series One Piece.
 
 Answers:
@@ -705,7 +700,7 @@ SchemaVersion: 1
 ---
 ID: d2b0e130-bfdd-4fa7-9e76-5a1c54717f04
 
-Question: >
+Question: |
   Spiderman was the top ranked superhero on IGNs Top 100 Comic Book Heroes of All Time in 2011.
 
 Answers:
@@ -729,7 +724,7 @@ SchemaVersion: 1
 ---
 ID: fdd34410-1e75-4ccf-aff1-5e2aa9cb4ec8
 
-Question: >
+Question: |
   Which of the Teenage Mutant Ninja Turtles wears a red mask and red cloth around his knees?
 
 Answers:
@@ -757,7 +752,7 @@ SchemaVersion: 1
 ---
 ID: eded40c3-4635-4993-9ebb-03ed2ec8b9d2
 
-Question: >
+Question: |
   What big red dog, created in 1963 by Norman Birdwell, is owned by Emily Elizabeth Howard?
 
 Answers:
@@ -785,7 +780,7 @@ SchemaVersion: 1
 ---
 ID: f4a7ddc1-f4d8-4c59-a6c4-1a16839e9fe4
 
-Question: >
+Question: |
   Who created the comic-strip FoxTrot in 1988?
 
 Answers:
@@ -813,7 +808,7 @@ SchemaVersion: 1
 ---
 ID: 01c66fec-abbe-47de-80fe-a50f99b29ed3
 
-Question: >
+Question: |
   Who is the youngest sibling in the comic-strip FoxTrot?
 
 Answers:
@@ -841,9 +836,8 @@ SchemaVersion: 1
 ---
 ID: 4cd56763-09fb-46dc-b847-286e8ac73378
 
-Question: >
-  In 2006, the creator of the FoxTrot comic-strip stopped making a daily publication and switched to a Sunday only
-  format.
+Question: |
+  In 2006, the creator of the FoxTrot comic-strip stopped making a daily publication and switched to a Sunday only format.
 
 Answers:
   1: >
@@ -866,7 +860,7 @@ SchemaVersion: 1
 ---
 ID: 2e18398a-6a5a-4de9-abf7-5874029a47d5
 
-Question: >
+Question: |
   In the comic-strip FoxTrot, what are the names of the kids parents?
 
 Answers:
@@ -894,7 +888,7 @@ SchemaVersion: 1
 ---
 ID: 8a25378c-aae4-43d6-b9d3-418acab8867a
 
-Question: >
+Question: |
   Jason Fox, from the comic FoxTrot, is very much into video games.
 
 Answers:
@@ -918,7 +912,7 @@ SchemaVersion: 1
 ---
 ID: 91b4b28a-4bfd-47a3-9865-907661bf7d6e
 
-Question: >
+Question: |
   What kind of unusual animal is Jason Fox's pet in the comic FoxTrot?
 
 Answers:
@@ -946,7 +940,7 @@ SchemaVersion: 1
 ---
 ID: f0a3ab2a-4a08-4df2-9633-b503fa806f38
 
-Question: >
+Question: |
   Who is Jason's friend, whom he plays with all the time, in the comic FoxTrot?
 
 Answers:
@@ -974,7 +968,7 @@ SchemaVersion: 1
 ---
 ID: 83c4c5fd-837b-42b9-9982-aafe1a24306d
 
-Question: >
+Question: |
   Paige Fox, a character in the comic-strip FoxTrot, has always had a boyfriend.
 
 Answers:
@@ -998,7 +992,7 @@ SchemaVersion: 1
 ---
 ID: 8716bd65-de49-4d74-98b7-33d7cde83b1b
 
-Question: >
+Question: |
   Which of the following FoxTrot characters has an exaggerated appetite?
 
 Answers:
@@ -1026,7 +1020,7 @@ SchemaVersion: 1
 ---
 ID: dd949da1-96bb-46e0-b7b5-4035efab1b82
 
-Question: >
+Question: |
   Who was the creator of the "Peanuts" cartoon, that featured characters like Lucy, Linus, Snoopy and Charlie Brown?
 
 Answers:
@@ -1054,7 +1048,7 @@ SchemaVersion: 1
 ---
 ID: 11e9c5d2-4ed8-4045-b5e6-5f01586991aa
 
-Question: >
+Question: |
   Which Peanuts cartoon character said, All I really need is love, but a little chocolate now and then doesn't hurt!?
 
 Answers:
@@ -1082,7 +1076,7 @@ SchemaVersion: 1
 ---
 ID: 8ffe16aa-4110-429e-941d-53206532f5cc
 
-Question: >
+Question: |
   What is the name of Charlie Brown's little sister in the Peanuts comic strip?
 
 Answers:
@@ -1110,7 +1104,7 @@ SchemaVersion: 1
 ---
 ID: e0fc1951-20fa-4aa3-92e0-dcc30a294510
 
-Question: >
+Question: |
   What famous person from WWI does Snoopy pretend to battle from the top of his dog house in the comic strip Peanuts?
 
 Answers:
@@ -1138,7 +1132,7 @@ SchemaVersion: 1
 ---
 ID: a6f297af-3790-4984-bad1-3f2a8db36a5d
 
-Question: >
+Question: |
   What is Lucy and Linus's last name in the cartoon strip Peanuts?
 
 Answers:
@@ -1166,7 +1160,7 @@ SchemaVersion: 1
 ---
 ID: 48708132-2cdb-4094-8483-df1c5127766a
 
-Question: >
+Question: |
   In the Peanuts cartoon strip, who does Marcie call Sir?
 
 Answers:
@@ -1194,7 +1188,7 @@ SchemaVersion: 1
 ---
 ID: 2ad92268-1157-41ef-b766-f078908b4af0
 
-Question: >
+Question: |
   The Peanuts characters played baseball frequently. Who isn't matched with their usual position?
 
 Answers:
@@ -1222,7 +1216,7 @@ SchemaVersion: 1
 ---
 ID: 659ca85a-ce16-4677-85b4-8fda31c19aca
 
-Question: >
+Question: |
   Who does Linus wait for every year at Halloween in the Peanuts comic strip?
 
 Answers:
@@ -1250,7 +1244,7 @@ SchemaVersion: 1
 ---
 ID: 6cfcf1f6-f418-48e5-8877-f77bd3a1c7c3
 
-Question: >
+Question: |
   In the Peanuts comic strip, Schroeder plays a toy piano very well. Who is his favorite classical composer?
 
 Answers:
@@ -1278,7 +1272,7 @@ SchemaVersion: 1
 ---
 ID: 40489d3b-f7e1-40ed-b569-10a85b5802c4
 
-Question: >
+Question: |
   Charles Schulz, the creator of Peanuts passed away in what year?
 
 Answers:
@@ -1306,7 +1300,7 @@ SchemaVersion: 1
 ---
 ID: 0f6df1f7-222f-4f01-a523-94ac4a21a718
 
-Question: >
+Question: |
   In the Peanuts comic strip, how much does Lucy charge for psychiatric help at her booth?
 
 Answers:
@@ -1334,7 +1328,7 @@ SchemaVersion: 1
 ---
 ID: 8c9b1702-e89d-4c20-af17-0d4b77f2d0a5
 
-Question: >
+Question: |
   What was the name of the puppy farm in Peanuts where Charlie Brown got Snoopy, his pet beagle?
 
 Answers:
@@ -1362,7 +1356,7 @@ SchemaVersion: 1
 ---
 ID: 32fe821a-6f61-4f78-af78-da8e2b58ffd9
 
-Question: >
+Question: |
   Who is Charlie Brown in love with in the comic strip Peanuts?
 
 Answers:
@@ -1390,7 +1384,7 @@ SchemaVersion: 1
 ---
 ID: e386e270-bf32-43fc-9c87-ad59f7884a19
 
-Question: >
+Question: |
   In the Peanuts Lucy is infatuated with this character who constantly rebuffs her advances.
 
 Answers:
@@ -1418,7 +1412,7 @@ SchemaVersion: 1
 ---
 ID: 00946ce7-3084-4f3d-aac9-8ada0def1609
 
-Question: >
+Question: |
   Which Lex was the arch enemy of the comics character Superman?
 
 Answers:
@@ -1446,7 +1440,7 @@ SchemaVersion: 1
 ---
 ID: ec37f212-7b31-49f1-afee-99772b314dcc
 
-Question: >
+Question: |
   Name the fat and lazy cat who hates Mondays.
 
 Answers:
@@ -1474,9 +1468,8 @@ SchemaVersion: 1
 ---
 ID: 2c053a6d-3cb4-4c01-a627-044d6e3dd41b
 
-Question: >
-  These fictional superheroes were born, when a container of radioactive waste bounced off a truck and struck a young
-  boy, turning him into Daredevil.
+Question: |
+  These fictional superheroes were born, when a container of radioactive waste bounced off a truck and struck a young boy, turning him into Daredevil.
 
 Answers:
   1: >
@@ -1503,9 +1496,8 @@ SchemaVersion: 1
 ---
 ID: 9a0ae5e7-84ee-41fb-b73e-25f29a934400
 
-Question: >
-  This superhero, who first appeared in the comic book Tales of Suspense, used his own invention to keep his heart
-  pumping.
+Question: |
+  This superhero, who first appeared in the comic book Tales of Suspense, used his own invention to keep his heart pumping.
 
 Answers:
   1: >
@@ -1532,9 +1524,8 @@ SchemaVersion: 1
 ---
 ID: 14f9f1dd-50c4-46e5-9f95-16920eb5570e
 
-Question: >
-  This Marvel Comics superhero, whose birth name was Peter Benjamin Parker, first used his new found superpowers as a
-  professional wrestler.
+Question: |
+  This Marvel Comics superhero, whose birth name was Peter Benjamin Parker, first used his new found superpowers as a professional wrestler.
 
 Answers:
   1: >
@@ -1561,9 +1552,8 @@ SchemaVersion: 1
 ---
 ID: a2f637f2-8866-43e8-9f9e-c60f8638141c
 
-Question: >
-  This comedic superhero, created by Ben Edlund, met an accountant named Arthur, after taking a long bus ride into The
-  City.
+Question: |
+  This comedic superhero, created by Ben Edlund, met an accountant named Arthur, after taking a long bus ride into The City.
 
 Answers:
   1: >
@@ -1590,7 +1580,7 @@ SchemaVersion: 1
 ---
 ID: d1843e94-4810-4244-9c75-0fb7c11dbdc1
 
-Question: >
+Question: |
   These comic book superheroes were trained in Professor Xaviers School for Gifted Youngsters.
 
 Answers:
@@ -1618,7 +1608,7 @@ SchemaVersion: 1
 ---
 ID: 2fff87ca-0db6-4989-a754-55da1cdc766c
 
-Question: >
+Question: |
   Which Marvel Comics character became a ruthless vigilante, after witnessing his familys violent murder?
 
 Answers:
@@ -1646,9 +1636,8 @@ SchemaVersion: 1
 ---
 ID: b9152a6b-ec2e-470e-893b-bc5b91255fec
 
-Question: >
-  This DC Comics superhero, whose true identity is Bruce Wayne, decided to train himself to the peak of physical
-  perfection after witnessing the murder of his parents.
+Question: |
+  This DC Comics superhero, whose true identity is Bruce Wayne, decided to train himself to the peak of physical perfection after witnessing the murder of his parents.
 
 Answers:
   1: >
@@ -1675,7 +1664,7 @@ SchemaVersion: 1
 ---
 ID: 4d223b1b-df85-4474-8c54-01c6e9dd094b
 
-Question: >
+Question: |
   Which fictional member of the Teen Titans started out as Batman's sidekick?
 
 Answers:
@@ -1703,7 +1692,7 @@ SchemaVersion: 1
 ---
 ID: 425aed29-c5e5-41b4-8d4b-58dfde45c4df
 
-Question: >
+Question: |
   Fellow Justice League members Superman and Martian Manhunter have something in common. What is it?
 
 Answers:
@@ -1731,7 +1720,7 @@ SchemaVersion: 1
 ---
 ID: aee028fd-7985-4462-94c6-1c8827014177
 
-Question: >
+Question: |
   Which of the following fictional heroes is a World War II veteran?
 
 Answers:
@@ -1759,7 +1748,7 @@ SchemaVersion: 1
 ---
 ID: 3ec730f4-e7bb-4e52-9420-b1eccb390414
 
-Question: >
+Question: |
   What is the real name of Gambit who first appeared in the comic book The Uncanny X-Men?
 
 Answers:
@@ -1787,7 +1776,7 @@ SchemaVersion: 1
 ---
 ID: 5178b117-9552-49fc-9caf-ee1e6e54c026
 
-Question: >
+Question: |
   Which of these X-Men characters is not a member of the Summers family line?
 
 Answers:
@@ -1815,7 +1804,7 @@ SchemaVersion: 1
 ---
 ID: b65a0128-cf7c-422e-9645-2099dfbb9a32
 
-Question: >
+Question: |
   Archangel, a mutant and a member of the X-Men, was which horseman of Apocalypse?
 
 Answers:
@@ -1843,7 +1832,7 @@ SchemaVersion: 1
 ---
 ID: d67dfd05-9ef7-48e1-901c-61708b9fcbea
 
-Question: >
+Question: |
   Which antagonist of the X-Men is responsible for the death of Wolverine in the comic books?
 
 Answers:
@@ -1871,7 +1860,7 @@ SchemaVersion: 1
 ---
 ID: c0b4c33d-8204-48b2-a0e1-e0f71b15ca48
 
-Question: >
+Question: |
   Which of these X-men characters is not a mutant?
 
 Answers:
@@ -1899,7 +1888,7 @@ SchemaVersion: 1
 ---
 ID: fc3909fa-a349-4154-91f6-3962bb2962ba
 
-Question: >
+Question: |
   In the Age of Apocalypse timeline, Wolverine, a member of the X-Men, is married to which female?
 
 Answers:
@@ -1927,7 +1916,7 @@ SchemaVersion: 1
 ---
 ID: a55f4f0b-0dee-432d-a2fb-3f8593e3b2f8
 
-Question: >
+Question: |
   Who is the head of the X-Men in the Age of Apocalypse timeline?
 
 Answers:
@@ -1955,7 +1944,7 @@ SchemaVersion: 1
 ---
 ID: 7ebf920f-433a-4538-8c95-f66046c07e20
 
-Question: >
+Question: |
   Omega Red, a foe of the X-Men, serves which country?
 
 Answers:
@@ -1983,7 +1972,7 @@ SchemaVersion: 1
 ---
 ID: b5797306-46ea-43b4-9de9-b8c637a6e992
 
-Question: >
+Question: |
   What is the real name of X-Men member Wolverine?
 
 Answers:
@@ -2011,7 +2000,7 @@ SchemaVersion: 1
 ---
 ID: 3af59c24-d7f9-4b3d-9238-11da7dc42792
 
-Question: >
+Question: |
   This member of the Hellfire Clubs inner circle, known as the White Queen, once fought against the X-Men.
 
 Answers:
@@ -2039,7 +2028,7 @@ SchemaVersion: 1
 ---
 ID: 0659ec9b-34ba-45f1-b4cf-43bc9a9ec81f
 
-Question: >
+Question: |
   In what year did Snoopy first make his first appearance in a comic strip?
 
 Answers:
@@ -2067,7 +2056,7 @@ SchemaVersion: 1
 ---
 ID: cf88f933-06df-4b35-9ac4-712f3bc2ed1c
 
-Question: >
+Question: |
   What name was Charles Schulz originally going to give to Charlie Brown's dog Snoopy?
 
 Answers:
@@ -2095,7 +2084,7 @@ SchemaVersion: 1
 ---
 ID: a124fd80-33ad-41b5-b331-5f11aa7d5cf1
 
-Question: >
+Question: |
   In what year did comic strip character Snoopy first appear sleeping on top of his doghouse?
 
 Answers:
@@ -2123,7 +2112,7 @@ SchemaVersion: 1
 ---
 ID: 1e75d170-6353-4114-b74e-bcf3ebc315b1
 
-Question: >
+Question: |
   In what year did comic strip character Snoopy first walk upright?
 
 Answers:
@@ -2151,7 +2140,7 @@ SchemaVersion: 1
 ---
 ID: 25f7757a-2161-4206-b07a-be32297bf515
 
-Question: >
+Question: |
   How does Calvin's dad like to spend his vacation in the comic strip Calvin and Hobbes?
 
 Answers:
@@ -2179,7 +2168,7 @@ SchemaVersion: 1
 ---
 ID: 168414ec-bb46-473b-86ad-9db2f75f1ae1
 
-Question: >
+Question: |
   What does comic strip character Calvin like to do during recess?
 
 Answers:
@@ -2207,7 +2196,7 @@ SchemaVersion: 1
 ---
 ID: 6b8f08c7-96d9-440e-bece-cb9bc16a37c3
 
-Question: >
+Question: |
   Which of these is NOT the name of one of the Calvin and Hobbes books?
 
 Answers:
@@ -2235,7 +2224,7 @@ SchemaVersion: 1
 ---
 ID: 434a10eb-040d-472c-b547-cc79a04611b4
 
-Question: >
+Question: |
   Which of the following words is not part of the title of Calvins favorite book in the Calvin and Hobbes comic strip?
 
 Answers:
@@ -2263,9 +2252,8 @@ SchemaVersion: 1
 ---
 ID: 7285ab17-54d6-461d-a2a7-bf872ab03c7e
 
-Question: >
-  Dilbert from the self-titled comic strip is an engineer who graduated from MIT. What type of engineering degree does
-  Dilbert have?
+Question: |
+  Dilbert from the self-titled comic strip is an engineer who graduated from MIT. What type of engineering degree does Dilbert have?
 
 Answers:
   1: >
@@ -2292,7 +2280,7 @@ SchemaVersion: 1
 ---
 ID: 6be4865e-4c0c-4d63-aa04-c0bdff0be4d8
 
-Question: >
+Question: |
   Which of the following is not one of the characters that live in Dilbert's house in the comic strip Dilbert?
 
 Answers:
@@ -2320,7 +2308,7 @@ SchemaVersion: 1
 ---
 ID: 90e7bf6e-23dd-4628-84dc-4d8caf70ae0e
 
-Question: >
+Question: |
   Which of the following is not a word/term created by Scott Adams for the comic strip Dilbert?
 
 Answers:
@@ -2348,7 +2336,7 @@ SchemaVersion: 1
 ---
 ID: 8ef41fe8-15d7-430a-9491-fb1bb12109a4
 
-Question: >
+Question: |
   In the comic strip Dilbert, the real name of Dilbert's pointed-haired boss is Phil.
 
 Answers:
@@ -2372,7 +2360,7 @@ SchemaVersion: 1
 ---
 ID: 0cdffed1-1bbc-46f9-9db6-e69fd6adc8bf
 
-Question: >
+Question: |
   Who is the brother of the pointed-haired boss in the comic strip Dilbert?
 
 Answers:
@@ -2400,7 +2388,7 @@ SchemaVersion: 1
 ---
 ID: 359d7070-a59c-4856-97cf-78cc5033c5f6
 
-Question: >
+Question: |
   What is the name of Dilbert's coworker in the comic strip Dilbert, who believes he has psychic powers?
 
 Answers:
@@ -2428,7 +2416,7 @@ SchemaVersion: 1
 ---
 ID: 572775de-a609-4a6f-ad17-2c10b2ad9d66
 
-Question: >
+Question: |
   What is the name of Dilbert's sometimes girlfriend in the comic strip Dilbert?
 
 Answers:
@@ -2456,7 +2444,7 @@ SchemaVersion: 1
 ---
 ID: 9eb4ac7b-36a2-4934-a0f3-6fcaa59edd9b
 
-Question: >
+Question: |
   In what year was the debut of the comic strip Hagar the Horrible?
 
 Answers:
@@ -2484,9 +2472,8 @@ SchemaVersion: 1
 ---
 ID: 60d42b9d-5408-497c-b083-2ff96cb5ce01
 
-Question: >
-  Hagar the Horrible from the comic strip of the same name had his own short lived line of beer called Hagars Viking
-  Beer which was pulled off the shelves due to lack of sales.
+Question: |
+  Hagar the Horrible from the comic strip of the same name had his own short lived line of beer called Hagars Viking Beer which was pulled off the shelves due to lack of sales.
 
 Answers:
   1: >
@@ -2509,7 +2496,7 @@ SchemaVersion: 1
 ---
 ID: e0101654-8b85-4376-b5f0-d9061fc9a99a
 
-Question: >
+Question: |
   Shortly after its creation the Hagar the Horrible comic strips distributed to how many newspapers worldwide?
 
 Answers:
@@ -2537,7 +2524,7 @@ SchemaVersion: 1
 ---
 ID: 8f2af0c1-5557-4c65-923b-ce4ff805b978
 
-Question: >
+Question: |
   In how many countries were the Hagar the Horrible comic strips strip distributed?
 
 Answers:
@@ -2565,7 +2552,7 @@ SchemaVersion: 1
 ---
 ID: d98192c4-189d-4389-8de5-527c23cff473
 
-Question: >
+Question: |
   How many languages were the Hagar the Horrible comics printed in worldwide?
 
 Answers:
@@ -2593,7 +2580,7 @@ SchemaVersion: 1
 ---
 ID: 2422201c-e740-4edd-bb24-2eef53ddc2ce
 
-Question: >
+Question: |
   What kind of radiation was Dr. Banner exposed to that causes him to turn into the Hulk?
 
 Answers:
@@ -2621,7 +2608,7 @@ SchemaVersion: 1
 ---
 ID: ad78288b-3c96-4572-8679-8b0c97dd1e54
 
-Question: >
+Question: |
   In what year did The Incredible Hulk debut?
 
 Answers:
@@ -2649,7 +2636,7 @@ SchemaVersion: 1
 ---
 ID: 8731e1fb-a6ee-47db-93a9-386c5a6405d3
 
-Question: >
+Question: |
   Who were the creators of comics superhero Aquaman?
 
 Answers:
@@ -2677,7 +2664,7 @@ SchemaVersion: 1
 ---
 ID: 816c86d7-0763-463a-a029-3406dc6f26df
 
-Question: >
+Question: |
   What famous comic book company published Aquaman Comics?
 
 Answers:
@@ -2705,7 +2692,7 @@ SchemaVersion: 1
 ---
 ID: 00602773-365b-4de1-90ec-4b2cba644ea8
 
-Question: >
+Question: |
   Aquaman's enemy the Ocean Master was his own father.
 
 Answers:
@@ -2729,7 +2716,7 @@ SchemaVersion: 1
 ---
 ID: f3a6847b-b2cb-43d0-a7d5-7649f18f8abf
 
-Question: >
+Question: |
   Did comics character Aquaman ever have a child?
 
 Answers:
@@ -2753,7 +2740,7 @@ SchemaVersion: 1
 ---
 ID: 2f7916ab-edc7-4fc1-b5fb-e0c621c8e6ba
 
-Question: >
+Question: |
   What was the name of Aquaman's girlfriend and eventual wife?
 
 Answers:
@@ -2781,7 +2768,7 @@ SchemaVersion: 1
 ---
 ID: c2a471e3-d693-4b3a-bd5f-cb8cae8f7365
 
-Question: >
+Question: |
   Which of these was not one of Aquaman's amazing powers?
 
 Answers:
@@ -2809,7 +2796,7 @@ SchemaVersion: 1
 ---
 ID: 81324597-2d6e-4295-a7c7-3ea9afc00b27
 
-Question: >
+Question: |
   How long could Aquaman survive out of water?
 
 Answers:
@@ -2837,7 +2824,7 @@ SchemaVersion: 1
 ---
 ID: 0f746292-79a7-4a39-9c47-ff4134004125
 
-Question: >
+Question: |
   Comics superhero Aquaman was one of the founding members of The Justice League of America.
 
 Answers:
@@ -2861,7 +2848,7 @@ SchemaVersion: 1
 ---
 ID: 206c517f-9752-455d-b0aa-c9d8392aa977
 
-Question: >
+Question: |
   In the comic strip FoxTrot, what is the name of the only girl in the Fox family?
 
 Answers:
@@ -2889,7 +2876,7 @@ SchemaVersion: 1
 ---
 ID: 083c7710-1e47-441b-9f5e-2d99c3329996
 
-Question: >
+Question: |
   Does FoxTrot character Jason ever joke that it is 25 degrees out?
 
 Answers:
@@ -2913,7 +2900,7 @@ SchemaVersion: 1
 ---
 ID: 7e975b93-1c3e-44f5-9164-c7ca1013af99
 
-Question: >
+Question: |
   In the comics FoxTrot, Roger Fox is writing a novel.
 
 Answers:
@@ -2937,7 +2924,7 @@ SchemaVersion: 1
 ---
 ID: bff5977e-cf5b-4134-bfaa-b2544ae0726e
 
-Question: >
+Question: |
   Does Andy and Rogers daughter get notes in her locker in FoxTrot?
 
 Answers:
@@ -2961,7 +2948,7 @@ SchemaVersion: 1
 ---
 ID: aea62f7e-e997-4208-b79d-e1935d6b0da3
 
-Question: >
+Question: |
   What is the name of Peters girlfriend in the comics FoxTrot?
 
 Answers:
@@ -2989,7 +2976,7 @@ SchemaVersion: 1
 ---
 ID: 83922590-587a-4eec-94c5-eec19301944f
 
-Question: >
+Question: |
   Which of the following best describes Andy and Roger’s youngest child in the comics FoxTrot?
 
 Answers:
@@ -3017,7 +3004,7 @@ SchemaVersion: 1
 ---
 ID: 0eea0c09-3c5b-4910-80e5-921b275ffbae
 
-Question: >
+Question: |
   Has FoxTrot character Jason developed a plan for a Star Trek-themed amusement park?
 
 Answers:
@@ -3041,7 +3028,7 @@ SchemaVersion: 1
 ---
 ID: 31047cc1-882e-4b4e-a929-9eabdb72beb0
 
-Question: >
+Question: |
   What Batman villain formerly worked as a zoologist?
 
 Answers:
@@ -3069,7 +3056,7 @@ SchemaVersion: 1
 ---
 ID: ee55ce65-a25a-4ee6-8db0-0b631344db8b
 
-Question: >
+Question: |
   What super villain once broke Batman's back, leaving him crippled and wheelchair-bound?
 
 Answers:
@@ -3097,7 +3084,7 @@ SchemaVersion: 1
 ---
 ID: 50f678e5-1e96-48d8-a714-86e27beb8fac
 
-Question: >
+Question: |
   What year was the character of Robin first introduced?
 
 Answers:
@@ -3125,7 +3112,7 @@ SchemaVersion: 1
 ---
 ID: 8aad79f5-5550-4627-9b05-4de01439da83
 
-Question: >
+Question: |
   Who is credited with creating Batman?
 
 Answers:
@@ -3153,9 +3140,8 @@ SchemaVersion: 1
 ---
 ID: a94c89b4-a2fa-4666-a216-a12f166ae751
 
-Question: >
-  In Detective Comics #267, a magical Kobold from another dimension decides to help Batman fight crime--what was his
-  name?
+Question: |
+  In Detective Comics #267, a magical Kobold from another dimension decides to help Batman fight crime--what was his name?
 
 Answers:
   1: >
@@ -3182,7 +3168,7 @@ SchemaVersion: 1
 ---
 ID: 7e55096b-5d46-4d19-b6d9-7216b41b1495
 
-Question: >
+Question: |
   What was Bat-hounds name?
 
 Answers:
@@ -3210,7 +3196,7 @@ SchemaVersion: 1
 ---
 ID: fcb5a6ac-2a79-4efe-ae14-a0a4eeb11525
 
-Question: >
+Question: |
   What were the names of Bruce Wayne's parents?
 
 Answers:
@@ -3238,7 +3224,7 @@ SchemaVersion: 1
 ---
 ID: 9a985625-0558-4efd-998f-4cf16b0b6de2
 
-Question: >
+Question: |
   The original Batgirl was related to what familiar Batman character?
 
 Answers:
@@ -3266,7 +3252,7 @@ SchemaVersion: 1
 ---
 ID: aae5439d-4cf9-4d77-9c32-7d0e43c4dd58
 
-Question: >
+Question: |
   Which of these Bat-villains was introduced first?
 
 Answers:
@@ -3294,7 +3280,7 @@ SchemaVersion: 1
 ---
 ID: 9ab109e2-e47d-4f68-90a9-df08c8d2506b
 
-Question: >
+Question: |
   What was Alfred the butler's original family name?
 
 Answers:
@@ -3322,7 +3308,7 @@ SchemaVersion: 1
 ---
 ID: 471e6947-4c43-4454-bbea-50b5132aaf6c
 
-Question: >
+Question: |
   What is the name of the creator of Bloom County?
 
 Answers:
@@ -3350,7 +3336,7 @@ SchemaVersion: 1
 ---
 ID: 514f8888-8911-46fa-98f0-c028d2c45902
 
-Question: >
+Question: |
   What was the name of the penguin in Bloom County?
 
 Answers:
@@ -3378,7 +3364,7 @@ SchemaVersion: 1
 ---
 ID: 232d655e-cb15-4d9f-8448-f2d4d0099df9
 
-Question: >
+Question: |
   In Bloom County, Milo Bloom was a 10-year-old reporter for The Bloom Chronicle.
 
 Answers:
@@ -3402,7 +3388,7 @@ SchemaVersion: 1
 ---
 ID: 09194544-e2e9-41ee-8cea-d2d7cd6c16bb
 
-Question: >
+Question: |
   What was the name of the hard rock band formed by lawyer Steve Dallas in the Bloom County comic strip?
 
 Answers:
@@ -3430,7 +3416,7 @@ SchemaVersion: 1
 ---
 ID: 046ee842-5355-4f51-a84d-6f803868b1fe
 
-Question: >
+Question: |
   Who did Opus marry in the comic strip Bloom County?
 
 Answers:
@@ -3458,7 +3444,7 @@ SchemaVersion: 1
 ---
 ID: dc2afa78-93b5-456a-b838-be1332f9897e
 
-Question: >
+Question: |
   Bloom County character Opus has appeared in two other comic strips titled Neverland and Opus.
 
 Answers:
@@ -3482,7 +3468,7 @@ SchemaVersion: 1
 ---
 ID: 21605939-390d-4307-b650-cb21f8042e63
 
-Question: >
+Question: |
   What was the name of the feminist school teacher in Bloom County?
 
 Answers:
@@ -3510,7 +3496,7 @@ SchemaVersion: 1
 ---
 ID: 22e224d1-aaec-4610-b8d2-949307885b76
 
-Question: >
+Question: |
   In the comic strip Bloom County, Bill the cat became a televangelist. What was his name?
 
 Answers:
@@ -3538,7 +3524,7 @@ SchemaVersion: 1
 ---
 ID: 959b417f-ef06-44c4-a24b-469e959b1922
 
-Question: >
+Question: |
   What year did Andy Capp make his comic strip debut?
 
 Answers:
@@ -3566,7 +3552,7 @@ SchemaVersion: 1
 ---
 ID: 3cb6e668-15ff-4d09-9218-26e0d5936689
 
-Question: >
+Question: |
   Which of these is NOT one of Andy Capp's hobbies?
 
 Answers:
@@ -3594,7 +3580,7 @@ SchemaVersion: 1
 ---
 ID: 551a563d-c04f-48f0-86e0-1e8550a456b6
 
-Question: >
+Question: |
   There was once a musical based on the Andy Capp comic strip.
 
 Answers:
@@ -3618,7 +3604,7 @@ SchemaVersion: 1
 ---
 ID: 6960dd1c-53ab-4f82-97dc-04bfe3f0d129
 
-Question: >
+Question: |
   Who are Andy Capp's best friends and neighbors?
 
 Answers:
@@ -3646,7 +3632,7 @@ SchemaVersion: 1
 ---
 ID: 960702c7-5a0b-4ee9-bf2c-38317b3dcff9
 
-Question: >
+Question: |
   What country are the Andy Capp comic strips set in?
 
 Answers:
@@ -3674,7 +3660,7 @@ SchemaVersion: 1
 ---
 ID: ecb588a9-85d8-484a-a798-1dc9c322e743
 
-Question: >
+Question: |
   Cartoon character Andy Capp has a son.
 
 Answers:
@@ -3698,7 +3684,7 @@ SchemaVersion: 1
 ---
 ID: 67a6b5e6-bd43-4014-89dc-ec76f495adac
 
-Question: >
+Question: |
   In what year did the Andy Capp comic strips reach the U.S.?
 
 Answers:
@@ -3726,7 +3712,7 @@ SchemaVersion: 1
 ---
 ID: 98459a13-22ce-402f-b917-04b6acc2e806
 
-Question: >
+Question: |
   Which one of these comics was the first comic Jim Davis created?
 
 Answers:
@@ -3754,7 +3740,7 @@ SchemaVersion: 1
 ---
 ID: 6fcea3bb-289b-4eac-99f3-b77ed250c66f
 
-Question: >
+Question: |
   When did the comic strip Garfield come out?
 
 Answers:
@@ -3782,7 +3768,7 @@ SchemaVersion: 1
 ---
 ID: 1fd9a000-ee4a-4d48-b86c-bf22267406b5
 
-Question: >
+Question: |
   Is it true that the comic strip Garfield inspired a CD titled Am I Cool or Not?
 
 Answers:
@@ -3806,7 +3792,7 @@ SchemaVersion: 1
 ---
 ID: ce3a8d55-390d-41f0-82ce-e11c00cbe202
 
-Question: >
+Question: |
   Who is Garfield's on and off girlfriend?
 
 Answers:
@@ -3834,7 +3820,7 @@ SchemaVersion: 1
 ---
 ID: 1941e04a-2f10-4572-94ab-434ba82c8e0d
 
-Question: >
+Question: |
   Is it true that Nermal, who makes unannounced visits into Garfield's home, is a male kitten?
 
 Answers:
@@ -3858,7 +3844,7 @@ SchemaVersion: 1
 ---
 ID: 8bcb67a7-09ba-4853-baba-571f7c2634b2
 
-Question: >
+Question: |
   Who is the fictional dog that gets pushed around by Garfield?
 
 Answers:
@@ -3886,7 +3872,7 @@ SchemaVersion: 1
 ---
 ID: c36acdc2-30c0-44f6-9e14-f3b4bdabf2cd
 
-Question: >
+Question: |
   Who is the Garfield's owner on the popular comic strip?
 
 Answers:
@@ -3914,7 +3900,7 @@ SchemaVersion: 1
 ---
 ID: 5ad3f507-bc86-4cb6-9f26-1c7ca4cfdd44
 
-Question: >
+Question: |
   What is the profession of Irma, one of the supporting characters on the comic strip Garfield?
 
 Answers:
@@ -3942,7 +3928,7 @@ SchemaVersion: 1
 ---
 ID: d53bbbe3-81ab-44b3-9422-d19bf2a864b5
 
-Question: >
+Question: |
   What is the name of Garfield's veterinarian on the self-titled comic strip?
 
 Answers:
@@ -3970,7 +3956,7 @@ SchemaVersion: 1
 ---
 ID: 423eeb7f-28a1-4e9b-b29d-6b5817087495
 
-Question: >
+Question: |
   The Marvel character Anubis is also known as The Guardian of the Veil .
 
 Answers:
@@ -3994,7 +3980,7 @@ SchemaVersion: 1
 ---
 ID: c9e8840b-c3e7-4d02-b0b9-0bbac3addddc
 
-Question: >
+Question: |
   In the Marvel comics universe, Horus is the God of fire.
 
 Answers:
@@ -4018,7 +4004,7 @@ SchemaVersion: 1
 ---
 ID: 2f45e1b6-5f25-4866-890c-b23035fa32ec
 
-Question: >
+Question: |
   Marvel character Zeus ruled the underworld.
 
 Answers:
@@ -4042,7 +4028,7 @@ SchemaVersion: 1
 ---
 ID: 40d60650-4b63-4891-b8da-a4c6d31fee2c
 
-Question: >
+Question: |
   Seth is the Egyptian god of evil and death in the Marvel Comics universe.
 
 Answers:
@@ -4066,7 +4052,7 @@ SchemaVersion: 1
 ---
 ID: 200d1012-ebb7-4512-98fb-3ee6dccc9283
 
-Question: >
+Question: |
   What is Judge Dredd's first name?
 
 Answers:
@@ -4094,7 +4080,7 @@ SchemaVersion: 1
 ---
 ID: 368d0390-fc27-456d-9cac-7c6d2d06ff27
 
-Question: >
+Question: |
   Judge Dredd is 2000 ADs longest-running character, appearing from the first issue in 1977.
 
 Answers:
@@ -4118,7 +4104,7 @@ SchemaVersion: 1
 ---
 ID: db71dd8a-5ec9-41d7-8854-4b72f728ba63
 
-Question: >
+Question: |
   Judge Dredd's visual appearance was loosely based on the character of Frankenstein from the film Death Race 2000.
 
 Answers:
@@ -4142,9 +4128,8 @@ SchemaVersion: 1
 ---
 ID: 912bbab5-0449-45ea-a0c5-8940acdcffed
 
-Question: >
-  The giant city, Mega City One, where Judge Dredd is a lawkeeper, is located in which area that we would recognise
-  nowadays?
+Question: |
+  The giant city, Mega City One, where Judge Dredd is a lawkeeper, is located in which area that we would recognise nowadays?
 
 Answers:
   1: >
@@ -4171,7 +4156,7 @@ SchemaVersion: 1
 ---
 ID: abd890a6-a987-47d6-8c4f-6c2f18bc625e
 
-Question: >
+Question: |
   What sentence does Judge Dredd frequently utter during his duties?
 
 Answers:
@@ -4199,9 +4184,8 @@ SchemaVersion: 1
 ---
 ID: 18452dff-63d1-463a-b9b4-bcc5f3f0a984
 
-Question: >
-  What was the name of Judge Dredd's clone-brother, who he turned in to the authorities when he began to break the
-  law?
+Question: |
+  What was the name of Judge Dredd's clone-brother, who he turned in to the authorities when he began to break the law?
 
 Answers:
   1: >
@@ -4228,7 +4212,7 @@ SchemaVersion: 1
 ---
 ID: 2cff7c77-5037-4551-ad6c-45f2e8c5f94c
 
-Question: >
+Question: |
   Judge Dredd once lived in an apartment block named after a character from Rawhide.
 
 Answers:
@@ -4252,7 +4236,7 @@ SchemaVersion: 1
 ---
 ID: 7cf575f0-1190-4b66-9d3f-94ab3a521ff1
 
-Question: >
+Question: |
   Which of the following has Judge Dredd not battled against?
 
 Answers:
@@ -4280,7 +4264,7 @@ SchemaVersion: 1
 ---
 ID: 539ead67-047b-4daf-8f7c-0420ca9d2f41
 
-Question: >
+Question: |
   In The New Batman Adventures episode Over the Edge, who does Commissioner Gordon hire to help him kill Batman?
 
 Answers:
@@ -4308,7 +4292,7 @@ SchemaVersion: 1
 ---
 ID: 25b565e2-b000-46fc-89e4-c68a0e852151
 
-Question: >
+Question: |
   Fictional character Batman has a son.
 
 Answers:
@@ -4332,7 +4316,7 @@ SchemaVersion: 1
 ---
 ID: 3ecb430e-3214-45d9-a4a3-2a08e5af5aea
 
-Question: >
+Question: |
   What issue did the Joker originally appear in?
 
 Answers:
@@ -4360,7 +4344,7 @@ SchemaVersion: 1
 ---
 ID: 8408ad4c-0809-4542-93df-b8f61de14319
 
-Question: >
+Question: |
   In the cartoon series Calvin and Hobbes, what is Hobbes?
 
 Answers:
@@ -4388,7 +4372,7 @@ SchemaVersion: 1
 ---
 ID: 2fd8e30c-0b28-4155-9b6a-c0fc110e4b65
 
-Question: >
+Question: |
   What is Calvin's favorite subject according to the popular comics Calvin and Hobbes?
 
 Answers:
@@ -4416,9 +4400,8 @@ SchemaVersion: 1
 ---
 ID: 6091884b-af5e-4085-afb5-0c79a2366f5d
 
-Question: >
-  In the Calvin and Hobbes comics, Hobbes is constantly sneaking up on Calvin and pouncing on him when he doesn't
-  expect it.
+Question: |
+  In the Calvin and Hobbes comics, Hobbes is constantly sneaking up on Calvin and pouncing on him when he doesn't expect it.
 
 Answers:
   1: >
@@ -4441,7 +4424,7 @@ SchemaVersion: 1
 ---
 ID: 741c7b28-94ed-4c69-a7be-2b5bace91608
 
-Question: >
+Question: |
   Who created Popeye, Olive Oyl and Bluto?
 
 Answers:
@@ -4469,7 +4452,7 @@ SchemaVersion: 1
 ---
 ID: 79188096-a356-4ad1-a955-240130e3b226
 
-Question: >
+Question: |
   Olive Oyl was created before Popeye.
 
 Answers:
@@ -4493,7 +4476,7 @@ SchemaVersion: 1
 ---
 ID: b2e14b2a-44b7-4288-9d84-1288c8d12cf2
 
-Question: >
+Question: |
   Who was the woman who was the basis for the character Olive Oyl?
 
 Answers:
@@ -4521,7 +4504,7 @@ SchemaVersion: 1
 ---
 ID: 6fb22621-24e7-4164-97d1-f45a5c297564
 
-Question: >
+Question: |
   In the Popeye comics, who was Sweet Pea?
 
 Answers:
@@ -4549,7 +4532,7 @@ SchemaVersion: 1
 ---
 ID: 06f5128b-10c4-44b3-8570-11d8ca43f075
 
-Question: >
+Question: |
   Who was Olive Oyl's niece?
 
 Answers:
@@ -4577,7 +4560,7 @@ SchemaVersion: 1
 ---
 ID: 696a1ea0-3f7e-4c59-b520-219be7b41b07
 
-Question: >
+Question: |
   Who created Captain America?
 
 Answers:
@@ -4605,7 +4588,7 @@ SchemaVersion: 1
 ---
 ID: c7878d0f-5ba0-4459-832b-ff5ed8cbb048
 
-Question: >
+Question: |
   Captain America made his first appearance in what comic book?
 
 Answers:
@@ -4633,7 +4616,7 @@ SchemaVersion: 1
 ---
 ID: cbd45e3e-b296-49f7-ba1b-a06d221d31de
 
-Question: >
+Question: |
   Who was Captain Americas sidekick during World War II?
 
 Answers:
@@ -4661,7 +4644,7 @@ SchemaVersion: 1
 ---
 ID: 81477bec-b569-44bf-a535-5f101fbf9f3e
 
-Question: >
+Question: |
   What is Captain America's secret identity?
 
 Answers:
@@ -4689,7 +4672,7 @@ SchemaVersion: 1
 ---
 ID: 6cc6e797-20e9-43a3-9e06-fd1b8918e60a
 
-Question: >
+Question: |
   For a brief period during the 1970s, disillusioned by U.S. politics, Captain America changed his name to ...
 
 Answers:
@@ -4717,7 +4700,7 @@ SchemaVersion: 1
 ---
 ID: 119b059f-af8d-4c1e-9213-99707f383fb0
 
-Question: >
+Question: |
   What team of superheroes discovered Captain Americas body frozen in a block of ice in 1964?
 
 Answers:
@@ -4745,7 +4728,7 @@ SchemaVersion: 1
 ---
 ID: 51aa14dc-9d51-476e-b2ca-943231a408f7
 
-Question: >
+Question: |
   What villain did Captain America and Bucky fight in the very first issue of Captain America Comics?
 
 Answers:
@@ -4773,7 +4756,7 @@ SchemaVersion: 1
 ---
 ID: bfc0383a-f6e2-4254-ab7a-7fa192676e42
 
-Question: >
+Question: |
   What was the original shape of Captain Americas shield?
 
 Answers:

@@ -1,6 +1,6 @@
 ID: 1b6da358-44ed-4de0-9971-1d963d1263b6
 
-Question: >
+Question: |
   What decade did the pop culture icon the plastic lawn flamingo come into existence?
 
 Answers:
@@ -28,7 +28,7 @@ SchemaVersion: 1
 ---
 ID: 0e23ff57-d3b0-4527-b10a-a5465e2e8a05
 
-Question: >
+Question: |
   Researches have found that most graffiti artists fall into this demographic category.
 
 Answers:
@@ -56,7 +56,7 @@ SchemaVersion: 1
 ---
 ID: 248f0b7a-b1a7-4b9b-9869-0d03785a9271
 
-Question: >
+Question: |
   The FBI reports show that 65-75% of criminal violence is marijuana related.
 
 Answers:
@@ -80,7 +80,7 @@ SchemaVersion: 1
 ---
 ID: 9621023c-9f86-4412-b222-6e8d3f38f924
 
-Question: >
+Question: |
   How many Americans were arrested on marijuana charges in 1997?
 
 Answers:
@@ -108,7 +108,7 @@ SchemaVersion: 1
 ---
 ID: badfecf7-8710-4b0b-982c-bc9937775b84
 
-Question: >
+Question: |
   Which of the following is not a name for marijuana?
 
 Answers:
@@ -136,7 +136,7 @@ SchemaVersion: 1
 ---
 ID: d99e44d6-f194-45dc-bf0e-711472c30abb
 
-Question: >
+Question: |
   The largest gay and lesbian rights march took place in the capital of this country.
 
 Answers:
@@ -164,7 +164,7 @@ SchemaVersion: 1
 ---
 ID: d0fde7c6-f853-4707-b057-e890a85a8a23
 
-Question: >
+Question: |
   If the world were a village of 100 people, how many people would possess 59% of the world's wealth?
 
 Answers:
@@ -192,10 +192,8 @@ SchemaVersion: 1
 ---
 ID: b652f0b7-30d7-4eaa-bb61-47fcbac3af73
 
-Question: >
-  There are many theories about the identity of this mysterious British serial killer. He marks the dawn of the modern
-  age of serial murders. Although the number of his victims is not high, compared to others on our list (5), he is
-  probably the world's most famous serial murderer.
+Question: |
+  There are many theories about the identity of this mysterious British serial killer. He marks the dawn of the modern age of serial murders. Although the number of his victims is not high, compared to others on our list (5), he is probably the world's most famous serial murderer.
 
 Answers:
   1: >
@@ -222,7 +220,7 @@ SchemaVersion: 1
 ---
 ID: 6c3ab872-509e-43a0-924a-2376335c7a65
 
-Question: >
+Question: |
   Which of these belonged to the highest-ranking Hindu caste?
 
 Answers:
@@ -250,7 +248,7 @@ SchemaVersion: 1
 ---
 ID: 08787e77-3dcb-4d21-840f-00400a5c6357
 
-Question: >
+Question: |
   What term is used to describe a person's return to live in Israel?
 
 Answers:
@@ -278,7 +276,7 @@ SchemaVersion: 1
 ---
 ID: d1c2755d-2968-49e3-9cce-86e13f42c416
 
-Question: >
+Question: |
   What is the name of the organization that promotes a return to Israel?
 
 Answers:
@@ -306,9 +304,8 @@ SchemaVersion: 1
 ---
 ID: b06431d9-93b0-43f3-bf84-54a4640010a4
 
-Question: >
-  The B'nai B'rith International , a well known social welfare organization, was formed to help people who suffered in
-  this American tragedy.
+Question: |
+  The B'nai B'rith International , a well known social welfare organization, was formed to help people who suffered in this American tragedy.
 
 Answers:
   1: >

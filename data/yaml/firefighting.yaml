@@ -1,6 +1,6 @@
 ID: 8553e0c4-a8c3-47f0-93a0-c11a0abf2a89
 
-Question: >
+Question: |
   Mixed hot gases, during firefighting operations, can result in an explosive ignition. What is this ignition called?
 
 Answers:
@@ -28,9 +28,8 @@ SchemaVersion: 1
 ---
 ID: ebd1ec98-3870-45ac-b140-9a17c1250765
 
-Question: >
-  Fires involving electrical energized equipment such as computers, household appliances and etc. are what class of
-  fire?
+Question: |
+  Fires involving electrical energized equipment such as computers, household appliances and etc. are what class of fire?
 
 Answers:
   1: >
@@ -57,7 +56,7 @@ SchemaVersion: 1
 ---
 ID: e02e4da8-20a8-4a39-a6f4-cfc576bb1df5
 
-Question: >
+Question: |
   Which of the following equipment is used by firefighters to protects the face and lungs?
 
 Answers:
@@ -85,7 +84,7 @@ SchemaVersion: 1
 ---
 ID: f9ded925-523b-4564-99c5-c0e6f08044eb
 
-Question: >
+Question: |
   What type of self-contained breathing apparatus is used in fire service?
 
 Answers:
@@ -113,9 +112,8 @@ SchemaVersion: 1
 ---
 ID: a3bdd3a5-c9a4-47f5-b5e5-947200ad4176
 
-Question: >
-  How often must steel and aluminum air cylinders for self-contained breathing apparatus be tested according to
-  requirements of the United States Department of Transportation?
+Question: |
+  How often must steel and aluminum air cylinders for self-contained breathing apparatus be tested according to requirements of the United States Department of Transportation?
 
 Answers:
   1: >
@@ -142,9 +140,8 @@ SchemaVersion: 1
 ---
 ID: fab4d0da-47d1-4051-b543-0f28b1e33c41
 
-Question: >
-  How often must composite air cylinders for self-contained breathing apparatus be tested to meet the requirements of
-  the United States Department of Transportation?
+Question: |
+  How often must composite air cylinders for self-contained breathing apparatus be tested to meet the requirements of the United States Department of Transportation?
 
 Answers:
   1: >
@@ -171,7 +168,7 @@ SchemaVersion: 1
 ---
 ID: ebaa72db-007a-4490-a37b-47784a9d9530
 
-Question: >
+Question: |
   A class 1-A extinguisher will extinguish twice as much fuel as 2-A extinguisher.
 
 Answers:
@@ -195,7 +192,7 @@ SchemaVersion: 1
 ---
 ID: bdd53ae5-ea9a-4dbe-be16-4d41d3dc3312
 
-Question: >
+Question: |
   What type of rope is used in life safety situations?
 
 Answers:
@@ -223,7 +220,7 @@ SchemaVersion: 1
 ---
 ID: 73e6c9c7-e7d7-427e-89b4-4e89bc7f7f3c
 
-Question: >
+Question: |
   A dynamic high-stretch rope is designed for rising and lowering heavy loads.
 
 Answers:
@@ -247,7 +244,7 @@ SchemaVersion: 1
 ---
 ID: c77a115f-eb91-424a-a818-9ad6f4b053b8
 
-Question: >
+Question: |
   What is one of the objective of a building search during a fire?
 
 Answers:
@@ -275,7 +272,7 @@ SchemaVersion: 1
 ---
 ID: 4b443a63-7f0a-4ccc-9860-3f04fec718b4
 
-Question: >
+Question: |
   During a fire, what are the most critical areas in a multistorey building?
 
 Answers:
@@ -303,7 +300,7 @@ SchemaVersion: 1
 ---
 ID: f42e4081-c616-4a3c-8e03-3b1473b6e341
 
-Question: >
+Question: |
   During the searching operation within a building on fire, what should the rescue personnel do?
 
 Answers:
@@ -331,7 +328,7 @@ SchemaVersion: 1
 ---
 ID: 7e745644-53a3-4268-8661-6e25b9615336
 
-Question: >
+Question: |
   Most fire engines and fire trucks are this color.
 
 Answers:

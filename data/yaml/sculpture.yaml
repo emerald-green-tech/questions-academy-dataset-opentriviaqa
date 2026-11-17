@@ -1,6 +1,6 @@
 ID: 9a3ca5a8-1a07-419f-a815-640f59616449
 
-Question: >
+Question: |
   The famous Statue of David by Michelangelo was created at the beginning of 16 century.
 
 Answers:
@@ -24,7 +24,7 @@ SchemaVersion: 1
 ---
 ID: c91fe6ab-ab2f-41cf-9233-787c61633422
 
-Question: >
+Question: |
   What is the other name of the Venus de Milo statue?
 
 Answers:
@@ -52,7 +52,7 @@ SchemaVersion: 1
 ---
 ID: 8fb2e8f8-fe8b-4167-b72b-b5c41f129b7a
 
-Question: >
+Question: |
   The Thinker is a stone statue created by Auguste Rodin.
 
 Answers:
@@ -76,7 +76,7 @@ SchemaVersion: 1
 ---
 ID: 733ab688-baf9-4c6f-b596-34648c90ff60
 
-Question: >
+Question: |
   What does the famous sculpture Pieta by Michelangelo represent?
 
 Answers:
@@ -104,7 +104,7 @@ SchemaVersion: 1
 ---
 ID: f23731a5-ca58-40ca-9544-339e0e351d87
 
-Question: >
+Question: |
   The Caesar Augustus Bust was made from Carrara Marble with bronze plated armor.
 
 Answers:
@@ -128,9 +128,8 @@ SchemaVersion: 1
 ---
 ID: fe608ded-de3a-4fc0-ac01-c186b9d7d1e4
 
-Question: >
-  13th-century Italians Francesca da Rimini and Paolo Malatestas romance was the inspiration of the famous statue by
-  Auguste Rodin – the Kiss.
+Question: |
+  13th-century Italians Francesca da Rimini and Paolo Malatestas romance was the inspiration of the famous statue by Auguste Rodin – the Kiss.
 
 Answers:
   1: >
@@ -153,7 +152,7 @@ SchemaVersion: 1
 ---
 ID: eadd2804-0694-45d1-9d55-b98216b0273b
 
-Question: >
+Question: |
   Since what time does the statue of Lady Justice date?
 
 Answers:
@@ -181,7 +180,7 @@ SchemaVersion: 1
 ---
 ID: 9ecd5768-f933-479a-828f-21d0fdf2c2be
 
-Question: >
+Question: |
   The statue Discus Thrower was created during the Classical Period (2th to 3th century BC).
 
 Answers:
@@ -205,7 +204,7 @@ SchemaVersion: 1
 ---
 ID: 6de72434-a728-4e01-99a2-424d08ebdeb7
 
-Question: >
+Question: |
   The Greek God Hermes bust was discovered at Olympia.
 
 Answers:
@@ -229,7 +228,7 @@ SchemaVersion: 1
 ---
 ID: 2519ac6b-bcbe-4a95-9001-fb57c86e89d9
 
-Question: >
+Question: |
   What was the profession of the creator of the statue Bird Girl?
 
 Answers:
@@ -257,7 +256,7 @@ SchemaVersion: 1
 ---
 ID: 9bacefc6-9675-4894-9183-772a0d206773
 
-Question: >
+Question: |
   The famous statue of David by Michelangelo was created at the beginning of the 16th century.
 
 Answers:
@@ -281,7 +280,7 @@ SchemaVersion: 1
 ---
 ID: 3e5ac27f-0f8c-4c82-b1a9-281e0eb99683
 
-Question: >
+Question: |
   What is the other name of the ancient Greek statue, known as Venus de Milo?
 
 Answers:
@@ -309,7 +308,7 @@ SchemaVersion: 1
 ---
 ID: d87b2fe4-e3cd-40ef-b751-84279fbb019b
 
-Question: >
+Question: |
   The Thinker is a sculpture created by Auguste Rodin.
 
 Answers:
@@ -333,7 +332,7 @@ SchemaVersion: 1
 ---
 ID: dae9280c-d09f-405f-8713-60425f2ec6b8
 
-Question: >
+Question: |
   What does Michelangelo's statue La Pieta depict?
 
 Answers:
@@ -361,7 +360,7 @@ SchemaVersion: 1
 ---
 ID: c92e8173-8528-4fe0-b3a8-305cf99d9e0f
 
-Question: >
+Question: |
   The Caesar Augustus Bust was made from Carrara marble.
 
 Answers:
@@ -385,9 +384,8 @@ SchemaVersion: 1
 ---
 ID: f5401b8c-fc3b-41d5-98fa-dd2b7f78df53
 
-Question: >
-  The flaming passion between Francesca da Rimini and Paolo Malatesta was the inspiration for Auguste Rodins famous
-  statue, The Kiss.
+Question: |
+  The flaming passion between Francesca da Rimini and Paolo Malatesta was the inspiration for Auguste Rodins famous statue, The Kiss.
 
 Answers:
   1: >
@@ -410,7 +408,7 @@ SchemaVersion: 1
 ---
 ID: 91450a9d-8886-41ec-85d5-efd6e1c66f25
 
-Question: >
+Question: |
   What city houses Hans Giengs famous statue of Lady Justice?
 
 Answers:
@@ -438,7 +436,7 @@ SchemaVersion: 1
 ---
 ID: 2a7e6b0a-1851-4de9-9727-0bf5eb205edd
 
-Question: >
+Question: |
   The Discus Thrower sculpture of Myron was created during the Classical Period (5th to 4th Century BC).
 
 Answers:
@@ -462,7 +460,7 @@ SchemaVersion: 1
 ---
 ID: ad6caa89-bb8e-4a2e-96b7-c06d5f1e2233
 
-Question: >
+Question: |
   The Savannah Bird Girl statue achieved fame when it was featured on the cover of what book?
 
 Answers:
@@ -490,9 +488,8 @@ SchemaVersion: 1
 ---
 ID: 9b7d2804-ee02-492d-a48d-d6f626161914
 
-Question: >
-  When Michelangelo was still an apprentice, he made an imitation of a famous Roman statue that was sold in Rome as an
-  ancient Roman original. What was the name of the original statue?
+Question: |
+  When Michelangelo was still an apprentice, he made an imitation of a famous Roman statue that was sold in Rome as an ancient Roman original. What was the name of the original statue?
 
 Answers:
   1: >
