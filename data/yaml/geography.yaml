@@ -26,6 +26,34 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: 1ddf3b20-bf84-48aa-9bc8-58d68475b330
+
+Question: |
+  The town of Kemi, which in 1996 became the home of the world's largest snow castle, is located in this European country.
+
+Answers:
+  1: >
+    Denmark
+  2: >
+    Norway
+  3: >
+    Finland
+  4: >
+    Sweden
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: db39e7ad-b0c0-4bc3-9a42-995c6f5c99c7
 
 Question: |
@@ -70,6 +98,34 @@ Answers:
     London
 
 Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: fd3751e8-6c8c-42b2-a2af-336da3684fa3
+
+Question: |
+  This country, famous for its fjords, has an extensive coastline, facing the North Atlantic Ocean and the Barents Sea.
+
+Answers:
+  1: >
+    Norway
+  2: >
+    Denmark
+  3: >
+    Sweden
+  4: >
+    Finland
+
+Correct: 1
 
 Explanation: |
   None
@@ -654,6 +710,34 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: a3146691-87d3-4087-a5e6-e85210f7bc51
+
+Question: |
+  In January, 2010 a 7.0-magnitude earthquake devastated the capital of this country and caused the death of 230,000 people.
+
+Answers:
+  1: >
+    Chile
+  2: >
+    Cuba
+  3: >
+    Jamaica
+  4: >
+    Haiti
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: 5ec5ce12-c62b-4f5e-8b4d-47e7762a98e1
 
 Question: |
@@ -1114,6 +1198,34 @@ Answers:
     Australia
 
 Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 06ea2c57-aaae-4cf9-aeb0-70c72a14646d
+
+Question: |
+  This state, with a capital of Jaipur, is the largest state in India.
+
+Answers:
+  1: >
+    Rajasthan
+  2: >
+    Madhya Pradesh
+  3: >
+    Andhra Pradesh
+  4: >
+    Karnataka
+
+Correct: 1
 
 Explanation: |
   None
@@ -1770,6 +1882,34 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: 0a9ee384-eca7-475f-b9eb-2a34ed0cf806
+
+Question: |
+  Krakatoa volcano caused the most violent volcanic eruption recorded in history. In 1883, it destroyed 75% of the territory of this island.
+
+Answers:
+  1: >
+    Thailand
+  2: >
+    Malaysia
+  3: >
+    Indonesia
+  4: >
+    Surinam
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: ca83e28e-becd-4ea3-bc61-ecb147d7aab8
 
 Question: |
@@ -1966,6 +2106,34 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: 3d006d26-3c1e-4e8a-8fd9-b510d7c3d19d
+
+Question: |
+  Over 125 million people of more than 250 ethnic groups share the territory of this African country. This constitutes 1/5 of the population of the entire continent.
+
+Answers:
+  1: >
+    Nigeria
+  2: >
+    Egypt
+  3: >
+    Zaire
+  4: >
+    South Africa
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: 2ae650ba-4066-4ac9-8972-63dcda2c59d6
 
 Question: |
@@ -1982,6 +2150,34 @@ Answers:
     Iraq
 
 Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 704f02f1-e590-4f37-b345-58497debc167
+
+Question: |
+  Constituted of 17,508 islands this country gives home to about 240 million. Its tropical rain forest accounts for 10% of the world's rain forests.
+
+Answers:
+  1: >
+    Bali
+  2: >
+    Singapore
+  3: >
+    Malaysia
+  4: >
+    Indonesia
+
+Correct: 4
 
 Explanation: |
   None
@@ -2234,6 +2430,34 @@ Answers:
     Tuvalu
 
 Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 743e4a03-6d8d-4247-9c38-63395a8f7c68
+
+Question: |
+  This country is an enclave in central Italy. Its territory is 61.2 sq. km. (24 sq. miles). It claims to be the world's oldest republic still in existence, founded in 301 A.D.
+
+Answers:
+  1: >
+    Vatican City
+  2: >
+    Palau
+  3: >
+    Seychelles
+  4: >
+    San Marino
+
+Correct: 4
 
 Explanation: |
   None
@@ -2858,6 +3082,34 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: 3ea4b989-7528-4e18-b235-cc69063f74f4
+
+Question: |
+  It was formed when Somaliland, Puntland, and Galdumug collided to form it. It is also part of Greater Middle East. Its capital and largest city is Mogadishu.
+
+Answers:
+  1: >
+    Eritrea
+  2: >
+    Somalia
+  3: >
+    Djibouti
+  4: >
+    Sudan
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: f9db3300-a819-4a9e-9887-565cbdf6ff30
 
 Question: |
@@ -3017,6 +3269,34 @@ Correct: 3
 
 Explanation: |
   The ABC countries are Argentica, Brazil, and Chile.
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: e5f85646-eaab-4259-81f3-92d762880710
+
+Question: |
+  This country, located in the South Pacific Ocean, comprises of about 322 larger islands, its capital is Suva, and one of the official languages is Hindi.
+
+Answers:
+  1: >
+    Fiji
+  2: >
+    Kiribati
+  3: >
+    Micronesia
+  4: >
+    Vanuatu
+
+Correct: 1
+
+Explanation: |
+  None
 
 Active:
   True
@@ -3260,6 +3540,34 @@ Answers:
     Galiria
   4: >
     Galumua
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 1150645c-9db5-4084-9082-28899e2f3dfa
+
+Question: |
+  Which of the following is not an actual city in Nicaragua?
+
+Answers:
+  1: >
+    Tegucigalpa
+  2: >
+    Matagalpa
+  3: >
+    Masaya
+  4: >
+    Leon
 
 Correct: 1
 
@@ -3558,6 +3866,34 @@ Answers:
     False
 
 Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: d5caecd0-7cf0-418d-ad60-c9c9d58e6dc7
+
+Question: |
+  Ibiza's name dates back to 654 BC when Phoenician settlers founded a port called Ibossim. What is the meaning of this name?
+
+Answers:
+  1: >
+    Pine Island
+  2: >
+    It is a dedication to a god of the fire
+  3: >
+    It is a dedication to a god of music and dance
+  4: >
+    Blossom Island
+
+Correct: 3
 
 Explanation: |
   None
@@ -4234,6 +4570,34 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: 2466bdf9-c32f-4044-a0b8-dc9784e906cf
+
+Question: |
+  Only one of the following small countries possesses farms.
+
+Answers:
+  1: >
+    Monaco
+  2: >
+    Vatican City
+  3: >
+    Nauru
+  4: >
+    Andorra
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: 0e7ffa8f-d644-4a81-a6b5-cdcf0465bdfa
 
 Question: |
@@ -4426,6 +4790,34 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: 050e1fd1-d94f-4e9e-a797-7ab93cba4724
+
+Question: |
+  What is the longest river in Asia Minor?
+
+Answers:
+  1: >
+    Tigris
+  2: >
+    Ganges
+  3: >
+    Euphrates
+  4: >
+    Mekong
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: e4d1b5ae-8963-4266-82de-f19cdc5433b5
 
 Question: |
@@ -4442,6 +4834,63 @@ Answers:
     Shanghai
 
 Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: d8dde98d-0f99-4421-b3b3-96da915466d0
+
+Question: |
+  In which country would you find the world's largest underground lake?
+
+Answers:
+  1: >
+    Ukraine
+  2: >
+    Poland
+  3: >
+    USA
+  4: >
+    Namimbia
+
+Correct: 4
+
+Explanation: |
+  The largest underground lake in the world is in Dragon's Breath Cave in Namibia. The second largest is The Lost Sea
+  in Tennessee, United States.
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 531c4623-f7a3-4d9b-82d5-c8449392dcb7
+
+Question: |
+  The famous Statue of Liberty lies between New York and New Jersey. Another, much smaller Statue of Liberty of the same shape is located where?
+
+Answers:
+  1: >
+    England
+  2: >
+    Paris
+  3: >
+    Canada
+  4: >
+    Union of South Africa
+
+Correct: 2
 
 Explanation: |
   None
@@ -4510,6 +4959,34 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: 5cd185d4-fd2b-43e7-93d4-48359d922a35
+
+Question: |
+  In the year 100, there were about 255 square miles per living person on earth. What was that number in 2000?
+
+Answers:
+  1: >
+    17.3 square  miles
+  2: >
+    127.4 square miles
+  3: >
+    8.2 square miles
+  4: >
+    64.1 square  miles
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: 6bd0bbc1-fdd5-4874-8934-0c5ceec2be15
 
 Question: |
@@ -4538,6 +5015,90 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: ac4e6928-30c7-47f1-bbb3-2aa1081aaf16
+
+Question: |
+  According to the August 2008 issue of Travel & Leisure, what is the scariest road in the world?
+
+Answers:
+  1: >
+    Karakoram Hwy., Pakistan to China
+  2: >
+    Guoliang Tunnel Road, China
+  3: >
+    N. Yungas Road, Bolivia
+  4: >
+    Halsena Hwy., Luzon, Philippines
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: bca89d2d-5a91-46e7-9156-bf5e1b870156
+
+Question: |
+  Which two countries are connected by the Simplon Pass?
+
+Answers:
+  1: >
+    Switzerland and Italy
+  2: >
+    Northern Ireland and Ireland
+  3: >
+    Canada and The USA
+  4: >
+    Bulgaria and Romania
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: e900ba4d-fb82-4b5e-9ea9-b981754b5ac6
+
+Question: |
+  Canada is made up of 10 Provinces. How many of them do not border the USA?
+
+Answers:
+  1: >
+    1
+  2: >
+    2
+  3: >
+    3
+  4: >
+    4
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: 0fbe4fc4-b339-4a8f-afe2-1df0adf19aac
 
 Question: |
@@ -4554,6 +5115,62 @@ Answers:
     Brazil
 
 Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 15744f29-39bb-4204-990c-0a95889e1522
+
+Question: |
+  The world's largest swimming pool in 2007 was in this country.
+
+Answers:
+  1: >
+    Chile
+  2: >
+    Morocco
+  3: >
+    North Korea
+  4: >
+    Venezuela
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 9b673843-49d6-451a-847b-11054d44b584
+
+Question: |
+  This country is a democratic, parliamentary republic that has over 1500 islands, 700 rivers and streams, and 1000 lakes. During the winter, the shortest day is only 6 hours long. Smoked trout is a typical food there.
+
+Answers:
+  1: >
+    Sweden
+  2: >
+    Montenegro
+  3: >
+    Denmark
+  4: >
+    Estonia
+
+Correct: 4
 
 Explanation: |
   None

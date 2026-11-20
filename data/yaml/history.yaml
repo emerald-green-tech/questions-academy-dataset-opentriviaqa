@@ -8195,7 +8195,7 @@ SchemaVersion: 1
 ID: 569f5f7c-a148-4129-b337-35211be59398
 
 Question: |
-  He  led  US troops in WWI.
+  He led US troops in WWI.
 
 Answers:
   1: >
@@ -12228,6 +12228,62 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: 6ea03884-345f-47a0-98b1-2798a483b057
+
+Question: |
+  In August 1947, this country bordered by the Arabian Sea on the west, the Indian Ocean on the south and the Bay of Bengal on the east, gained its independence from Britain.
+
+Answers:
+  1: >
+    China
+  2: >
+    Borneo
+  3: >
+    India
+  4: >
+    Malaysia
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 341717ce-2145-4021-9759-b326fffddc99
+
+Question: |
+  *Houston, the Eagle has landed*, signaled to the world that man had reached the moon. Neil Armstrong and Buzz Aldrin were the first and second man to walk on the moon. Who was the third man on the Apollo 11 mission?
+
+Answers:
+  1: >
+    John Glenn
+  2: >
+    Deke Slayton
+  3: >
+    Alan Shepherd
+  4: >
+    Michael Collins
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: f3f727fd-f003-454f-b3b0-e5c45f8da8b3
 
 Question: |
@@ -12368,6 +12424,142 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: 16aeb0c4-8918-4e90-b35b-d9d343b971ec
+
+Question: |
+  President Warren Harding drove the final spike in the Alaska Railroad.
+
+Answers:
+  1: >
+    False
+  2: >
+    True
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 60f0a591-883a-49f9-8d06-13e45e8719a5
+
+Question: |
+  Who was vice president of the US when Congress gave final approval to begin construction of the Alaska pipeline?
+
+Answers:
+  1: >
+    Lyndon Johnson
+  2: >
+    Spiro Agnew
+  3: >
+    None of these
+  4: >
+    Hubert Humphrey
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 600c137f-40d8-4348-bfe0-9691d1901733
+
+Question: |
+  In 1977, this Arab nation leader signed a peace agreement, known as the Camp David Accords with Israeli Prime Minister Menachem Begin.
+
+Answers:
+  1: >
+    Yitzhak Rabin
+  2: >
+    Anwar Sadat
+  3: >
+    Gamal Abdel Nasser
+  4: >
+    Saddam Hussein
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 410fe359-3ed2-40c9-8438-da489875bf77
+
+Question: |
+  The first abstract choice for Man of the Year was made by Time magazine in 1950. To whom was the award given?
+
+Answers:
+  1: >
+    The Members of the United Nations
+  2: >
+    Doctors Without Borders
+  3: >
+    The American Fighting Man
+  4: >
+    The Peacemakers
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 29a9fb9c-f39a-40e5-bc23-26c1c7bcb041
+
+Question: |
+  When did Dr. Martin L. King, Jr. win Time magazine's Man of the Year award?
+
+Answers:
+  1: >
+    1973
+  2: >
+    1978
+  3: >
+    1963
+  4: >
+    1968
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: 6eb16e89-42b9-4819-af18-88439920268d
 
 Question: |
@@ -12384,6 +12576,34 @@ Answers:
     Friedrich Engels
 
 Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 7d3b1efa-7418-4837-aea0-8ab7b27004ec
+
+Question: |
+  Which of these Presidents was very vocal in advocating Father's Day as a National Holiday?
+
+Answers:
+  1: >
+    Teddy Roosevelt
+  2: >
+    Wilson
+  3: >
+    Taft
+  4: >
+    Coolidge
+
+Correct: 4
 
 Explanation: |
   None
@@ -12440,6 +12660,146 @@ Answers:
     Latin Empire
 
 Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: cf514546-b94f-48cb-8403-1c336d0aa342
+
+Question: |
+  What is the real name of Sayuki, the first Caucasian geisha in history, who was born in Melbourne, Australia?
+
+Answers:
+  1: >
+    Fiona Graham
+  2: >
+    Debbie Baker
+  3: >
+    Angela Chirstovski
+  4: >
+    Rachel Featherman
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: fa057df2-6447-4003-809d-2324afbcbdf8
+
+Question: |
+  Which of the following pairs is wrong? It is the representative who took part in writing the draft of the declaration and their state.
+
+Answers:
+  1: >
+    Roger Sherman - New York
+  2: >
+    Benjamin Franklin - Pennsylvania
+  3: >
+    John Adams - Massachusetts
+  4: >
+    Thomas Jefferson - Virginia
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 1c287976-422f-40ce-b687-a3b5f7334c1f
+
+Question: |
+  There was not a single signature appended to the Declaration of Independence until the 4th of July. Thomas McKean, one of the signers, did not sign the Declaration until this year.
+
+Answers:
+  1: >
+    1777
+  2: >
+    1779
+  3: >
+    1785
+  4: >
+    1781
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 34e2306a-34e9-4e2c-8d0e-8049d39926ba
+
+Question: |
+  Which of these events did not occur on a June 5?
+
+Answers:
+  1: >
+    The ever popular Kenny G. was born.
+  2: >
+    Robert Blake was found liable for the death of his wife in a civil trial in 2000.
+  3: >
+    The Battle of France begins in World War II.
+  4: >
+    Robert F. Kennedy is murdered.
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 8a8d145f-5aa6-49c1-9bd8-30ae14e838c6
+
+Question: |
+  On 12 October, 1960, Nikita Khrushchev pounded this on a desk at the United Nations General Assembly meeting.
+
+Answers:
+  1: >
+    his fist
+  2: >
+    his shoe
+  3: >
+    his water glass
+  4: >
+    his gavel
+
+Correct: 2
 
 Explanation: |
   None
@@ -16849,6 +17209,118 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: ed968197-5e4b-487f-9e44-a5071f2a4a5e
+
+Question: |
+  During which war did the first known pandemic take place? It dates back to 430 BC.
+
+Answers:
+  1: >
+    The Peloponnesian War
+  2: >
+    The Punic Wars
+  3: >
+    The Persian Wars
+  4: >
+    The Trojan War
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 1f59c118-834e-4d35-a139-4a3c5b29717c
+
+Question: |
+  The San Francisco earthquake is one of the most ill-famed earthquakes in history. It happened in this year.
+
+Answers:
+  1: >
+    1908
+  2: >
+    1916
+  3: >
+    1910
+  4: >
+    1906
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: faefdc22-f892-4d21-b5c2-2f01bf1d553a
+
+Question: |
+  James Joseph Sylvester was an English mathematician who taught at the University of Virginia. Almost everyone loved him, his lectures, his motivational talks, etc. Everyone, except for the only student who got a C from him. Besides some lewd talk and antisemitic rants, the student took a stump and attacked Sylvester. What happened next?
+
+Answers:
+  1: >
+    The student's father demanded a duel with Sylvester because he had had the student arrested. Sylvester left for France the next night.
+  2: >
+    The student  was arrested for assault, sent to prison for three years. Sylvester returned to England physically broken.
+  3: >
+    Sylvester beat the heck out of the student. Sylvester was a good 40 older than the student, but took no guff.
+  4: >
+    After a short beating, Sylvesters students broke up the fight. Sylvester spent a month in the hospital and returned to his duties.
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: b32196fa-1f7d-49ff-8d34-7a69cb5761b7
+
+Question: |
+  The National Aeronautics and Space Administration was established on July 29, 1958 under which U.S. President?
+
+Answers:
+  1: >
+    Dwight Eisenhower
+  2: >
+    Harry Truman
+  3: >
+    John Kennedy
+  4: >
+    Lyndon Johnson
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: 5acf3e56-6b50-44a9-b77f-e6a4ef3e7a45
 
 Question: |
@@ -16863,6 +17335,450 @@ Answers:
     1953
   4: >
     1955
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 590a6564-62f8-4773-a375-a9a16b7c497c
+
+Question: |
+  After an earthquake in 1989, a car thief was found crushed under a collapsed freeway overpass in the vehicle had stolen.
+
+Answers:
+  1: >
+    False
+  2: >
+    True
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 1a12b857-c173-4f11-9456-36aef43f950f
+
+Question: |
+  King John Sobieski of Poland saved Vienna from Ottoman invaders. In his honor something new was invented. What was it ?
+
+Answers:
+  1: >
+    The Polish saddle
+  2: >
+    The  epee
+  3: >
+    Heeled boots
+  4: >
+    The bagel
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 34d0e6e1-2558-4b3b-8950-06a9a64e6ba5
+
+Question: |
+  Lawrence Kusche was one of the first people to conduct a comprehensive research on the topic of strange disappearances of ships. His conclusions proved to some extent that there was nothing extraordinary about this region. One of the following statements was not a conclusion that he made.
+
+Answers:
+  1: >
+    The number of such disappearances was exaggerated by sloppy research and fuzzy math.
+  2: >
+    The disappearance of three of the missing ships can be explained through the interference of the US Military Force.
+  3: >
+    The proportion of losses was no greater than anywhere else.
+  4: >
+    The number of ships which disappeared in supposedly still, calm weather, did not jibe with press weather reports published at the time.
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: general
+
+SchemaVersion: 1
+---
+ID: e5ae70da-77be-4acb-8e31-9a290dcd68ba
+
+Question: |
+  The protest march from Philadelphia to Teddy Roosevelt's home in 1903 was called this.
+
+Answers:
+  1: >
+    The March of the Mill Children
+  2: >
+    The March of the Veterans
+  3: >
+    The March of the Unemployed
+  4: >
+    The March of the Suffrajets
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 872234a4-18aa-492d-bb0a-afe8da87508d
+
+Question: |
+  Pax Romana, the long period of relative peace experienced by states within the Roman Empire took place between these years.
+
+Answers:
+  1: >
+    27BC - 180
+  2: >
+    33 - 180
+  3: >
+    180 - 436
+  4: >
+    145 - 254
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 02432757-8463-4c4e-af5c-2662fba4971f
+
+Question: |
+  Who were the legendary founders of the city of Rome?
+
+Answers:
+  1: >
+    Romulus and Remus
+  2: >
+    Castor and Pollux
+  3: >
+    Troilus and Cressida
+  4: >
+    Damon and Pythias
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 1bd0090b-13ca-4295-a896-adb5cc71b47c
+
+Question: |
+  One of these French Kings was not a founder of a royal dynasty. Which one?
+
+Answers:
+  1: >
+    Hugh Capet
+  2: >
+    Philip VI the Fortunate
+  3: >
+    Louis XIII the Well-Beloved
+  4: >
+    Charles the Bald
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: ed29df9c-be37-4c76-9fc0-0c691b8ed0ec
+
+Question: |
+  This was a war fought because a Prussian prince was put on the Spanish throne.
+
+Answers:
+  1: >
+    The  War of  Prussian Succession
+  2: >
+    The War of  Spanish Succession
+  3: >
+    The Iberian Campaign
+  4: >
+    The Franco-Prussian War
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 775e5f5a-520f-4872-84bd-cdbc91054b01
+
+Question: |
+  The Magna Carta went into effect in 1215. Who signed it?
+
+Answers:
+  1: >
+    Eleanor of Aquitaine
+  2: >
+    King John aka John Lackland
+  3: >
+    nobody
+  4: >
+    King Richard the Lion Hearted
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 2189b976-d470-4922-ba78-fa35aa79ee1e
+
+Question: |
+  When Lincoln delivered his Gettysburg Address he was not the main speaker. Who was the main speaker?
+
+Answers:
+  1: >
+    General Grant
+  2: >
+    Edward Everett
+  3: >
+    Mrs. Lincoln
+  4: >
+    General Meade
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 22bc28f8-7bab-4714-a3bc-5e1039b7e9aa
+
+Question: |
+  This ancient thinker, who was the first person to propose a heliocentric model of the Solar system, considered that the Earth revolves around the Sun.
+
+Answers:
+  1: >
+    Aristades
+  2: >
+    Hippachus
+  3: >
+    Heron
+  4: >
+    Aristarchus
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 5c077eb6-31f1-48d8-8c08-45880ea4a583
+
+Question: |
+  The Luddites were a social movement of English workers, who protested against industrial revolution, because they felt that their jobs were threatened. The movement, which was named after a mythical leader began in this year.
+
+Answers:
+  1: >
+    1756
+  2: >
+    1854
+  3: >
+    1811
+  4: >
+    1798
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 0baae631-d678-475d-b668-54c9ec335166
+
+Question: |
+  Plato won it twice. Aristotle, Socrates and Alexander the Great are all said to have been keen observers of it. Dioxippus was probably the most famous winner of it. What does this question refer to?
+
+Answers:
+  1: >
+    A martial art championship
+  2: >
+    A literary award
+  3: >
+    A poetry contest
+  4: >
+    A debate championship
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 7e8b988b-946e-4d7a-96f4-9f02f7977e44
+
+Question: |
+  After the battle of Waterloo, General Ney of the French army received a death sentence and was reportedly executed by firing squad on December 7th, 1815. However a gentleman called Peter Ney, who died in the year 1846, claimed to be the General. It was never proven that he actually was the General. However, many things point towards the truth of his claim. Which of these is not one of them?
+
+Answers:
+  1: >
+    On the boat to the US he was spotted and recognized by a former soldier under his command
+  2: >
+    When he arrived in the US - safe from prosecution - he identified himself as the General, but he was not believed
+  3: >
+    A famous New York handwriting specialist identified his writing as that of the general
+  4: >
+    He had surprising knowledge of the family background and the military
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: f8f8cff7-4983-45c9-b81d-b0d0e060c852
+
+Question: |
+  On January 15, 1919, 21 Bostonians drowned but no water was involved. How can this be explained?
+
+Answers:
+  1: >
+    They had influenza so their lungs filled with fluids, drowning them
+  2: >
+    They drowned as actors in a play about the Titanic
+  3: >
+    They drowned in molasses
+  4: >
+    They were drowned in beer
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 6afa16a2-729e-491d-a90e-d5a334698a66
+
+Question: |
+  In April 2009, Gjorge Ivanov was elected the 4th President of what country?
+
+Answers:
+  1: >
+    Republic of Macedonia
+  2: >
+    Republic of Lithuania
+  3: >
+    Republic of the Marshall Islands
+  4: >
+    Republic of Palau
 
 Correct: 1
 
@@ -16905,6 +17821,146 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: 039a1fe7-9702-47ea-a8cb-91cb6a47f681
+
+Question: |
+  We get the word boycott from the name of Charles C. Boycott, a terrible landlord of the 19th Century. Where did he own land?
+
+Answers:
+  1: >
+    England
+  2: >
+    Ireland
+  3: >
+    Scotland
+  4: >
+    Massachusetts
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 83b2d8c2-c897-4b5b-bb98-70153135c538
+
+Question: |
+  Who was the second US President to face impeachment?
+
+Answers:
+  1: >
+    William Blount
+  2: >
+    Andrew Johnson
+  3: >
+    Richard Nixon
+  4: >
+    William Clinton
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: fa2d27a6-363c-4316-b0b0-29438f72f932
+
+Question: |
+  They were a group of landed nobility in Prussia and Eastern Germany. Their name comes from the German for young lord. They formed several aristocratic political groups in Germany.
+
+Answers:
+  1: >
+    Jurrsia
+  2: >
+    Jongres
+  3: >
+    Junkers
+  4: >
+    Junists
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 596e6a0c-5871-4a36-8c55-89e744d3d562
+
+Question: |
+  This President, often called by his opponents His Accidency, was the first politician to assume the office of US President following the death of his predecessor.
+
+Answers:
+  1: >
+    John Tyler
+  2: >
+    Andrew Johnson
+  3: >
+    Richard Nixon
+  4: >
+    James Buchanan
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 8941f56a-6bcb-4017-882f-e3112a1f75ae
+
+Question: |
+  Eight years before George Washington was elected President of the USA, this politician was appointed President of the United States by the Continental Congress.
+
+Answers:
+  1: >
+    Thomas McKean
+  2: >
+    Harry Lightfoot Lee
+  3: >
+    Samuel Adams
+  4: >
+    John Hancock
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: af48d2f9-a251-412a-b50b-63453ed88620
 
 Question: |
@@ -16921,6 +17977,146 @@ Answers:
     Minor White
 
 Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 72709f3b-8ac1-4c3f-bf80-f7cf232f24f8
+
+Question: |
+  The Barbary Wars were fought between the USA and pirates from this part of the world.
+
+Answers:
+  1: >
+    The Gulf of Mexico
+  2: >
+    Somalia and its coast
+  3: >
+    The Persian Gulf
+  4: >
+    The Mediterranean Coast of Africa
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 743c2092-9e2f-42c5-bc25-e9237881ab5a
+
+Question: |
+  Under which US President were the Barbary Wars fought?
+
+Answers:
+  1: >
+    James K. Polk
+  2: >
+    Thomas Jefferson
+  3: >
+    William McKinley
+  4: >
+    Teddy Roosevelt
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 39a6c53b-ad5b-4438-bd07-f63c84b3e482
+
+Question: |
+  In his twelve-volume analysis, this British historian wrote that history was not a continuous climb upward, but a series of waves or pulses, where civilizations rise, prosper and eventually fall.
+
+Answers:
+  1: >
+    Charles Beard
+  2: >
+    Howard Zinn
+  3: >
+    Arnold J. Toynbee
+  4: >
+    Frederick J. Turner
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: b66ec6bf-8360-4364-b356-6deab6089461
+
+Question: |
+  In 1836, German-Dutch farmers in South Africa moved north east through South Africa to establish a colony. What did they call this march?
+
+Answers:
+  1: >
+    The March of the 14,000
+  2: >
+    The Dutch-Zulu War
+  3: >
+    The Boer War
+  4: >
+    The Great Trek
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 884bcd93-ecff-4619-bc42-00dbd51e481d
+
+Question: |
+  On March 19 2008 President Bush's approval rates were 31% and 69%. What were his chances of winning the 2008 presidential race?
+
+Answers:
+  1: >
+    31%
+  2: >
+    50%
+  3: >
+    0%
+  4: >
+    69%
+
+Correct: 3
 
 Explanation: |
   None

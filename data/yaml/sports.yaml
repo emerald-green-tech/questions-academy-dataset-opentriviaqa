@@ -2966,6 +2966,146 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: 477fd7b8-8bce-4e4a-b442-877d259e0982
+
+Question: |
+  Former NBA coach Frank Layton once fined small forward Adrian Dantley thirty pieces of silver. What did Layton say the fine was for?
+
+Answers:
+  1: >
+    Being late to three  practices in a row
+  2: >
+    Betrayal
+  3: >
+    Asking to be traded
+  4: >
+    Missing three foul shots in a row
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: a29b9453-f8bc-42cc-b88b-ece2434e5f1f
+
+Question: |
+  This famous head American football coach at Florida A&M College, used to say: I like my boys to be agile, mobile, and hostile.
+
+Answers:
+  1: >
+    Joe Paterno
+  2: >
+    Knute Rockne
+  3: >
+    Jake Gaither
+  4: >
+    Peal Bear Bryant
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 4a239ace-4544-4ee3-a2c9-0762671583f8
+
+Question: |
+  The Golden State Warriors of the NBA once traded a player and a draft choice for center, Billy Joel Carroll. Who were the two players they traded?
+
+Answers:
+  1: >
+    Dennis Johnson and  JoJo White
+  2: >
+    Robert Parrish and Kevin McHale
+  3: >
+    Rick Barry and Fred Hetzel
+  4: >
+    Cliff Hagan and Easy Ed MCCauley
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: f71a7bbc-e92b-4f28-9cb8-c5ebf85288b9
+
+Question: |
+  It is the 1954 Cotton Bowl between Rice and Alabama. Rice's All-American running back, Dicky Moegle, is leading his team to a crushing of the Bart Starr led Alabama team. On one run, he was stopped on his own 35 yard line, where he was tackled. The referee blew his whistle and awarded a touchdown. Why ?
+
+Answers:
+  1: >
+    He ran the wrong way
+  2: >
+    The referee made a mistake on a penalty
+  3: >
+    He flipped the ball to another player who scored
+  4: >
+    He was tackled by Tommy Lewis
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: d21c50a7-3033-4bd0-8d65-8839084db9fb
+
+Question: |
+  This person became public announcer for the New York Yankees in 1951. He also appeared in the movies 61, It Could Happen to You, The Scout and Anger Management.
+
+Answers:
+  1: >
+    Joe Buck
+  2: >
+    Phil Rizzuto
+  3: >
+    Bob Sheppard
+  4: >
+    Michael Kay
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: 21ba3bfc-3ac2-4fbf-b4e4-1cc37e2634ec
 
 Question: |
@@ -2982,6 +3122,174 @@ Answers:
     Jack Jeffries
 
 Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 0755fad2-854a-4d21-8044-60f0ed4ac34c
+
+Question: |
+  His first name was Jimmy and he was a great defensive back for the San Francisco 49ers from 1961 -1976. He is in the Pro Football Hall of Fame. His brother, Rafer, is more famous as an athlete and as a part-time special bodyguard. What is Jimmy and Rafer's last name?
+
+Answers:
+  1: >
+    Johnson
+  2: >
+    James
+  3: >
+    Jameson
+  4: >
+    Jackson
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: e30287f5-56d4-43a2-b1fc-1f33e97a7f62
+
+Question: |
+  This American boxer's brother was a boxing heavyweight champ. He fought Tyson for the heavyweight title, but lost in an early round KO. Who was he?
+
+Answers:
+  1: >
+    Michal Spinks
+  2: >
+    Steve Norton
+  3: >
+    Johnny Fullmer
+  4: >
+    Danny Lewis
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 9c419892-3ddb-4ed5-9486-d8975a12a56d
+
+Question: |
+  Every summer, a special basketball tournament is held in Harlem, NY. What is the original name of the tournament?
+
+Answers:
+  1: >
+    The Harlem Five on Five
+  2: >
+    The Rucker Tournament
+  3: >
+    The Entertainers Basketball Classic
+  4: >
+    The Holcombe Tournament
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 344d9210-dcaf-4a36-803e-7d5609d04700
+
+Question: |
+  Who was the first Major League Baseball player to hit four homers in one game and three triples in another game?
+
+Answers:
+  1: >
+    Mickey Mantle
+  2: >
+    Tris Speaker
+  3: >
+    Willie Mays
+  4: >
+    Joe Dimaggio
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 96525938-bf96-4b54-be28-c25549193c8a
+
+Question: |
+  The Big Ten Conference is a college athletic conference located in the northern United States. It had this many members, as of the beginning of the new millennium.
+
+Answers:
+  1: >
+    12
+  2: >
+    9
+  3: >
+    11
+  4: >
+    10
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 536677c4-61d6-4151-96fc-9e6bdd4d7af7
+
+Question: |
+  Ross Rebagliati, Karine Ruby, Gian Simmen, Nicola Thost, Anton Pogue, Stacia Hookman, Steve Persons, and Sabrina Sadeghi are prominent names in this sport.
+
+Answers:
+  1: >
+    Snowboarding
+  2: >
+    Skiing
+  3: >
+    Figure skating
+  4: >
+    Team handball
+
+Correct: 1
 
 Explanation: |
   None

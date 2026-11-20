@@ -2686,6 +2686,62 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: cda65f69-12f1-44ce-b2b6-cdb00a489c8e
+
+Question: |
+  There are countless theories about the origins of fear of number 3. One says that the phobia comes from Norse mythology. According to a legend, the 13th god, the god of mischief, turned up at a gathering of the 12 Viking gods and caused the death of Balder the Good. What was the god of mischief called?
+
+Answers:
+  1: >
+    Loki
+  2: >
+    Tor
+  3: >
+    Odin
+  4: >
+    Hod
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: d8d3c124-71fc-4065-b744-5f12eca3a141
+
+Question: |
+  Which part of the Loch Ness monster is most noteworthy according to people who claim to have seen it?
+
+Answers:
+  1: >
+    Hair
+  2: >
+    Eyes
+  3: >
+    Neck
+  4: >
+    Teeth
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: 01ff4744-ec48-4b55-9ac8-3826d34bf170
 
 Question: |

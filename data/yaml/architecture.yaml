@@ -514,6 +514,34 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: cd83d4d3-a18a-4ebc-bf23-e85f89fb436d
+
+Question: |
+  Designed by Skidmore, Owings & Merrill LLP, this building consists of 9 bundled square tubes, each 75 feet wide with no columns between the core and the perimeter.
+
+Answers:
+  1: >
+    Water Tower Place
+  2: >
+    Aon Center
+  3: >
+    One Magnificent Mile
+  4: >
+    Sears Tower
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: 719a1148-08b7-4ab1-b942-5d99ad62db90
 
 Question: |
@@ -690,6 +718,62 @@ Answers:
     Menara Kuala Lumpur
 
 Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: c6590d9f-8ede-4cdb-b39b-4f3be24a1aa5
+
+Question: |
+  When a client complained that the roof in his building leaks, this famous architect who had designed the building replied: "That’s how you can tell it’s a roof". Another work of his was the Guggenheim Museum in New York.
+
+Answers:
+  1: >
+    Aldo Rossi
+  2: >
+    Frank Lloyd Wright
+  3: >
+    Michael Graves
+  4: >
+    Frank Owen Gehry
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 5fa8962f-0ad4-4028-933f-a9b00533bd0a
+
+Question: |
+  This architecture style is characterized by the use of materials such as stainless steel and aluminium. It aimed at nontraditional elegance that symbolizes wealth and sophistication. It originated in Europe in 1920s and formed its name in 1925 at the World’s Fair, held in Paris.
+
+Answers:
+  1: >
+    Archigram
+  2: >
+    Rococo
+  3: >
+    Art Deco
+  4: >
+    Baroque
+
+Correct: 3
 
 Explanation: |
   None

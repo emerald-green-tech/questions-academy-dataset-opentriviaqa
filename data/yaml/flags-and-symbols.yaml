@@ -3435,6 +3435,34 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: 36cad07d-b571-4dd2-8c43-8ed0a3d50dd3
+
+Question: |
+  Of what country is the kiwi bird a national symbol? It is also native to that country.
+
+Answers:
+  1: >
+    Australia
+  2: >
+    New Zealand
+  3: >
+    United Kingdom
+  4: >
+    Sumatra
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: a50e4b22-82a3-4d64-b128-a7e8ae8e9f2b
 
 Question: |

@@ -26,6 +26,90 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: 191eac5f-e7d5-43fa-b02a-d3f4685e52b6
+
+Question: |
+  At this school, each student gets a full scholarship in return for doing about 15 hours of work each week on campus .
+
+Answers:
+  1: >
+    Somona State College
+  2: >
+    The Culinary Institute of America
+  3: >
+    Oklahoma Panhandle College
+  4: >
+    Berea College
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: ad0b629d-c2b7-4fdb-b2d0-abd2ff491414
+
+Question: |
+  This is a two year school that has a student body numbering under 30. It is over 40 miles from the nearest town. The school generates its own electricity from solar panels. Which college is this?
+
+Answers:
+  1: >
+    Northern Arizona College, Arizona
+  2: >
+    Maiea State College, Hawaii
+  3: >
+    Oklahoma Panhandle State, Oklahoma
+  4: >
+    Deep Springs College, California
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 843ce8ee-eb4b-409d-b6d9-d0914a31b837
+
+Question: |
+  This is a small engineering school that gives full scholarships to all of its students. Exams at this school are taken outside of class and students are allowed to use any source (other than other people) to answer test questions.
+
+Answers:
+  1: >
+    Bradley University
+  2: >
+    Lancaster Polytechnical Institute
+  3: >
+    Olin College
+  4: >
+    Worcester Technical College
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: 2497fe6f-c87c-4a2d-8f4b-4547c19c453b
 
 Question: |
@@ -60,6 +144,62 @@ Answers:
     False
   2: >
     True
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: adf32402-6f47-450a-a2a5-fdbf117aaa39
+
+Question: |
+  In economics, opportunity cost is the difference between the yield that funds and resources earn in one use and the yield they could have earned had they been placed in an alternative investment. Which of these factors has the most impact on opportunity cost?
+
+Answers:
+  1: >
+    Poverty
+  2: >
+    Unemployment
+  3: >
+    Scarcity
+  4: >
+    Consumer spending
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: aedd1f28-14fc-466d-b60a-c89c14b0f62b
+
+Question: |
+  What does a vexillogist study and/or collect?
+
+Answers:
+  1: >
+    Stamps
+  2: >
+    Flags
+  3: >
+    Bones
+  4: >
+    Letters
 
 Correct: 2
 

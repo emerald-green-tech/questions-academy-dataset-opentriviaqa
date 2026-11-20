@@ -2586,6 +2586,34 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: 7d39ed06-08a3-4fa6-801f-67b988910669
+
+Question: |
+  What company had the first service uniform registered with the United States Patent Trademark Office?
+
+Answers:
+  1: >
+    United States Postal Workers
+  2: >
+    Texico
+  3: >
+    United Postal Service
+  4: >
+    Playboy Enterprises
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: 8f82e361-987d-45a5-b45e-3b1613715cbc
 
 Question: |
@@ -2635,6 +2663,86 @@ Active:
 
 Notes: >
   None
+
+SchemaVersion: 1
+---
+ID: 42194a33-f3f1-4739-9f6e-d86eb62ee1e1
+
+Question: |
+  Is there a restaurant from the worldwide theme restaurant chain Planet Hollywood in Puerto Vallarta?
+
+Answers:
+  1: >
+    Yes
+  2: >
+    No
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 3c7d13c1-2a8d-4aa5-b716-4c3d2ca96288
+
+Question: |
+  Edward Bernays and this man are considered to be the fathers of modern day public relations.
+
+Answers:
+  1: >
+    Ivy Lee
+  2: >
+    George Parker
+  3: >
+    John Price Jones
+  4: >
+    George Creel
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 4ff1a33a-7513-4105-ab40-3052c19047cf
+
+Question: |
+  Many of the first public relations practitioners, such as Edward Bernays and John W. Hill, got their start in this institution.
+
+Answers:
+  1: >
+    The United States Environmental Protection Agency
+  2: >
+    The Central Intelligence Agency
+  3: >
+    The Committee on Public Information
+  4: >
+    The Federal Trade Commission
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: world
 
 SchemaVersion: 1
 ---
@@ -3432,6 +3540,450 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: 88d80a13-2ff5-447c-ac6a-a0317c7ff533
+
+Question: |
+  Which airlines introduced  the frequent flyer program?
+
+Answers:
+  1: >
+    KLM
+  2: >
+    Delta Airlines
+  3: >
+    Pan American Airlines
+  4: >
+    American Airlines
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: cb6a6fb3-7731-474d-aa07-0613d02bc6c9
+
+Question: |
+  Approximately how many trees does it take to make one ton of paper?
+
+Answers:
+  1: >
+    170
+  2: >
+    34
+  3: >
+    1100
+  4: >
+    17
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: a47a692b-987c-4ea8-9d87-99dcd39af9d2
+
+Question: |
+  In 2002 Ericsson signed a joint agreement with a vendor, whose advanced silicon technology would be used in the core components for Ericsson's GPRS and 3G reference design platforms. Who was that vendor?
+
+Answers:
+  1: >
+    IBM
+  2: >
+    Motorola
+  3: >
+    Intel
+  4: >
+    Texas Instruments
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 5d9800cb-dfbf-4ec5-aa38-92657c5f5451
+
+Question: |
+  In August 2002, this wireless company announced the availability of roaming in 35 countries. It was later bought out by Cingular Wireless.
+
+Answers:
+  1: >
+    T-mobile
+  2: >
+    VoiceStream
+  3: >
+    AT&T Wireless
+  4: >
+    Verizon Wireless
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 9f4272b1-2a7b-471d-a729-6430eb55decf
+
+Question: |
+  In November of 2002 Sprint PCS announced the launch of the first US camera phone. Who was the manufacturer?
+
+Answers:
+  1: >
+    Nokia
+  2: >
+    LG
+  3: >
+    Sanyo
+  4: >
+    Siemens
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: b95d4aff-6410-4cae-ae0a-0b9a1b2f2e6e
+
+Question: |
+  Which company built the A6M, aka Zero, the fighter aircraft that was used in the attack on Pearl Harbor?
+
+Answers:
+  1: >
+    Toshiba
+  2: >
+    Isuzu
+  3: >
+    Mitsubishi
+  4: >
+    Mikayashi
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 81376332-198e-4aa0-90f2-e76e4c7552ca
+
+Question: |
+  Which device was patented in 1970 by Douglas Engelbart, an American inventor of Norwegian descent?
+
+Answers:
+  1: >
+    The traffic light
+  2: >
+    The computer mouse
+  3: >
+    The internal combustion engine
+  4: >
+    The can opener
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 65c0c3e2-8ae5-4a32-ae56-41de8984435a
+
+Question: |
+  What did Wilhelm Schickard invent?
+
+Answers:
+  1: >
+    the first automatic calculator
+  2: >
+    the pneumatic drill
+  3: >
+    celluloid
+  4: >
+    the integrated circuit
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 903c0978-6277-426b-999f-bd12aecfedec
+
+Question: |
+  Leonardo da Vinci is well known as the artist who painted the Mona Lisa, but he was also an inventor. Which modern-day machine is based on one of his concepts?
+
+Answers:
+  1: >
+    helicopter
+  2: >
+    radio
+  3: >
+    chain saw
+  4: >
+    blender
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 867b7357-5684-44f8-9d76-0c860485e63e
+
+Question: |
+  What did engineer James Wright invent in 1943?
+
+Answers:
+  1: >
+    The oral polio vaccine
+  2: >
+    Silly Putty
+  3: >
+    The first chemical to repel sharks
+  4: >
+    Acetate cartoon cells
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: c6af8af8-d61f-4489-ab8b-4b5d696cf974
+
+Question: |
+  Which of these is a real event in the history of the pencil?
+
+Answers:
+  1: >
+    The discovery of rubber in Malaysia in 1823
+  2: >
+    The discovery of lead in what is now Turkey, ca. 573 A.D.
+  3: >
+    The discovery that cedar wood has three times the tensile strength of any other wood
+  4: >
+    The discovery of graphite in Seathwaite, Burrowdale, England
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 0443e3f1-4823-4b4e-b28d-0eaf82937bff
+
+Question: |
+  If your pencil has a reddish brown grain and a smell, what does that usually indicate?
+
+Answers:
+  1: >
+    It is made of incense-cedar.
+  2: >
+    It is made from non-incense-cedar.
+  3: >
+    It is made from plastic.
+  4: >
+    It is made of rainforest wood.
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: eeffaa41-8d42-4246-9eed-06d7c0d8dbf6
+
+Question: |
+  The Boeing 747 project was so big, that there were no buildings that could house it. Boeing constructed the largest building in the world for this purpose.
+
+Answers:
+  1: >
+    False
+  2: >
+    True
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: e71297d2-1d0c-445c-91d4-b285abe73711
+
+Question: |
+  The Boeing 747 project was bankrolled by the President of an airline company, when in 1965 a downpayment of $250,000,000 was made. Which was the airline company?
+
+Answers:
+  1: >
+    American Airlines
+  2: >
+    Pan American
+  3: >
+    Delta
+  4: >
+    United
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 14d4a60f-624b-4a9e-a07e-4b7141693ea2
+
+Question: |
+  What popular gun was invented by General John T. Thompson?
+
+Answers:
+  1: >
+    the JT assault rifle
+  2: >
+    johnny gun
+  3: >
+    sten gun
+  4: >
+    tommy gun
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 78114c15-a1a1-48d5-bb9f-1c3084a85b9a
+
+Question: |
+  In 1879, the Procter & Gamble company created a new brand of soap as a result of what mistake?
+
+Answers:
+  1: >
+    A soap maker tried to make shampoo.
+  2: >
+    A soap maker put the wrong chemicals in the new dish soap, making it corrosive.
+  3: >
+    A soap maker tried to make the companys new toothpaste yellow.
+  4: >
+    A soap maker forgot to turn off the soap mixer before going to lunch.
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: 9620a629-215f-4d9b-bc23-8c5d2203dc18
 
 Question: |
@@ -3460,6 +4012,90 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: 030dbf4e-1c99-4b90-b18a-4c22e3a1da66
+
+Question: |
+  The Olivieri brothers, Pat and Harry, are given credit for inventing this in 1933.
+
+Answers:
+  1: >
+    The Philly cheesesteak
+  2: >
+    Dental floss
+  3: >
+    The jet engine
+  4: >
+    The McDonald quarter-pounder
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 2437d6da-084b-4ff7-b829-09a060f4d23e
+
+Question: |
+  Which plane is the first jet fighter?
+
+Answers:
+  1: >
+    Messerschmidt  M29
+  2: >
+    Heinkel He 280
+  3: >
+    F-117A
+  4: >
+    MiG 12
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: f76c6b39-0a9a-40d2-9c54-5735b4634d76
+
+Question: |
+  Which of these weapons is a US Marine infantry weapon, scheduled for widespread use in starting 2008?
+
+Answers:
+  1: >
+    Stryker
+  2: >
+    M-17A2 rifle
+  3: >
+    SMAW-NE
+  4: >
+    Javelin
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: 8fac855e-2ac7-4a36-b290-958f03d14a7d
 
 Question: |
@@ -3474,6 +4110,34 @@ Answers:
     electricity
   4: >
     jet engines
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 201785fb-95d3-4376-99ef-058a4c2d7051
+
+Question: |
+  This American shoe company, that offered a job to basketball player Chuck Taylor, was opened in Malden, Massachusetts in 1908.
+
+Answers:
+  1: >
+    Nike
+  2: >
+    Converse
+  3: >
+    Airbound
+  4: >
+    Rebound
 
 Correct: 2
 

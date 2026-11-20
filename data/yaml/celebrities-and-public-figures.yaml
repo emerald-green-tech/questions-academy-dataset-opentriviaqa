@@ -5182,6 +5182,126 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: a3fb22d1-c690-481a-9ed1-0ef53bf93596
+
+Question: |
+  Actor Johnny Crawford was born March 26, 1947.
+
+Answers:
+  1: >
+    False
+  2: >
+    True
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 01cc1924-f3f7-45e3-9122-30d11440e46a
+
+Question: |
+  Johnny Crawford was born in Las Vegas, Nevada.
+
+Answers:
+  1: >
+    False
+  2: >
+    True
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 7f784777-45af-409a-99e9-44a02e891b8b
+
+Question: |
+  Actor and musician Johnny Crawford graduated from Hollywood High School in 1964.
+
+Answers:
+  1: >
+    False
+  2: >
+    True
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 80c9e619-29b0-4f6e-8c51-09caa59b7a1a
+
+Question: |
+  Actor and musician Johnny Crawford released an album in 1995.
+
+Answers:
+  1: >
+    False
+  2: >
+    True
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 574fec48-26b3-450f-8364-b82a7bf69945
+
+Question: |
+  It is said that Johnny Crawford used to take his horse with him on personal tours.
+
+Answers:
+  1: >
+    True
+  2: >
+    False
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: c2450cd8-fcf1-4dfe-9a2c-fd2a28734628
 
 Question: |
@@ -5366,6 +5486,118 @@ Answers:
     Peggy Lee
 
 Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 2756f4ac-aa55-4294-8fee-6c855235ff5d
+
+Question: |
+  This blond beauty, born in Athens, Georgia in 1953, made millions as a movie star but went bankrupt due, in part, to her purchase of the entire town of Baselton, Georgia.
+
+Answers:
+  1: >
+    Kay Douglas
+  2: >
+    Kim Bassinger
+  3: >
+    Anita Bryant
+  4: >
+    Stella Stevens
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: f95181ea-ebf4-4359-932d-279ef801578e
+
+Question: |
+  In 1880 Baby Doe met Mr. Tabor and they began a courtship Colorado wouldn't soon forget. What was so noteworthy about their courtship?
+
+Answers:
+  1: >
+    Baby Doe was a divorcee.
+  2: >
+    Mr Tabor had secretly divorced Augusta, but it wasn't legal, and he married Baby Doe anyway on Sept. 30 1882
+  3: >
+    All of these
+  4: >
+    Mr. Tabor was already married when he took up with Baby Doe.
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 7f3042f0-8079-46fc-b1fa-5c6d6273646d
+
+Question: |
+  Since Baby Doe and Horace Tabor's marriage wasn't completely legal, Augusta fought it any way she could. She asked for separate maintenance, claiming her husband was worth 9 Million. How long did it take for the divorce to become fully legal?
+
+Answers:
+  1: >
+    3 years
+  2: >
+    4 months
+  3: >
+    7 years
+  4: >
+    9 months
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 8af84ebf-2018-43dc-935e-15e3c9e3e910
+
+Question: |
+  Horace Tabor contributed greatly to Denver, and Leadville, Colorado with Opera Houses, business buildings, etc. but he is known best as the owner of which silver mine in Leadville?
+
+Answers:
+  1: >
+    Baby Doe Mine
+  2: >
+    Matchless Mine
+  3: >
+    Matchbook Mine
+  4: >
+    Broken Women Mine
+
+Correct: 2
 
 Explanation: |
   None
@@ -8832,6 +9064,372 @@ Answers:
     None of these
   4: >
     Colorblindness
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 42d44dd9-f56d-40f6-ac3e-73913989f8a3
+
+Question: |
+  Comedian Ron White has a famous nickname that he mentions during the Blue Collar Comedy Tour and also on his albums. What is that delicious nickname?
+
+Answers:
+  1: >
+    Tuna Salad
+  2: >
+    Mac Salad
+  3: >
+    Tater Salad
+  4: >
+    Egg Salad
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: cf3e440f-4721-4223-92a6-1bf43864f297
+
+Question: |
+  Which of these famous people was not an epileptic?
+
+Answers:
+  1: >
+    Otto von Bismarck
+  2: >
+    Vladimir Ilyich Lenin
+  3: >
+    Rudi Dutschke
+  4: >
+    F.M. Dostoevsky
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 8a5e8f0a-c92e-4acf-a830-dcbf4b2d21b5
+
+Question: |
+  This person, who in 1919 became the General Manager of Radio Corporation of America (RCA), claimed that he was the first person to receive a signal from the sinking Titanic in 1912.
+
+Answers:
+  1: >
+    Leonhard Dresdorff
+  2: >
+    Burr Tilstrom
+  3: >
+    Capt. Jonas Bray
+  4: >
+    David Sarnoff
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: ec8025f6-cd31-4e11-8c8a-6f5f681a03ed
+
+Question: |
+  Television beamed their fairytale wedding to over 270 million viewers on July 29, 1981. Sadly, on August 28, 1996 a divorce was granted to the People's Princess and her once Prince Charming. Who was the Princess referring to when she stated in an interview on the BBC:
+  
+  > There were three of us in the marriage, so, it was a bit crowded.
+
+Answers:
+  1: >
+    Wallis Warfield Simpson
+  2: >
+    Camilla Parker Bowles
+  3: >
+    Tiggy Legge-Bourke
+  4: >
+    Alice Keppel
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: ab2a06d4-8fb7-435d-a1cc-b137dae1eda1
+
+Question: |
+  Who was on the cover of the first issue of People magazine?
+
+Answers:
+  1: >
+    Elvis Presley
+  2: >
+    Joseph G. Cannon
+  3: >
+    Mia Farrow
+  4: >
+    Lucille Ball
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: f08034bd-61ed-41e4-a39b-e6e01c469026
+
+Question: |
+  In the USA we often see commercials for Subway sandwiches. They usually feature a man who went from 425 pounds to 190 pounds because of a diet  based on Subway's menu. What is his name?
+
+Answers:
+  1: >
+    Jared Leto
+  2: >
+    Jared Nugent
+  3: >
+    Jared Lamanite
+  4: >
+    Jared Fogel
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: e4e69ebe-070d-4a0b-b0d9-d903d6ac72f0
+
+Question: |
+  In 1995 this person addressed the UN General Assembly in English, French, Spanish, Arabic, Chinese and Russian.
+
+Answers:
+  1: >
+    Mother Teresa
+  2: >
+    Yuri Andropov
+  3: >
+    Fidel Castro
+  4: >
+    Pope John Paul II
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: e109fbfc-43c3-40fd-979a-34dd1298fc05
+
+Question: |
+  He is a very popular American entertainer. His wife, Compton Maalak, operates a full service non-profit salon giving free services to women trying to get off welfare and going into jobs. He was in Beverly Hills Cop II and voiced a role in Madagascar. Who is he?
+
+Answers:
+  1: >
+    Will Smith
+  2: >
+    Tommy Tiny LIster
+  3: >
+    Eddie Murphy
+  4: >
+    Chris Rock
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 6c105d3a-2572-4b8e-9d91-5c8cc3d5ca29
+
+Question: |
+  Clark Gable was in the Army Air Corps during World War II. Who signed his discharge papers?
+
+Answers:
+  1: >
+    Hap Arnold
+  2: >
+    John Marshall
+  3: >
+    Ronald Reagan
+  4: >
+    George Patton
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 04da93db-1633-4388-86f0-db3926730763
+
+Question: |
+  During World War II, Paul Newman applied to become a fighter pilot. Why was he rejected?
+
+Answers:
+  1: >
+    He did not pass the written test.
+  2: >
+    He was color blind.
+  3: >
+    He had an inner ear problem that affected his sense of balance.
+  4: >
+    He was too short.
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: ac34763b-8a9d-4113-be94-e200652a68ff
+
+Question: |
+  This Harvard dropout's first acting role was in Mystic Pizza, in 1988. He lived next door to historian Howard Zinn.
+
+Answers:
+  1: >
+    Matt Damon
+  2: >
+    Mark Ruffalo
+  3: >
+    Ed Norton
+  4: >
+    Ed Burns
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 34e7f9af-be74-4e19-b541-3731f95819db
+
+Question: |
+  What do these people have in common: both Presidents Bush, actor James Spader, actor Jack Lemmon, actor Humphrey Bogart and writer Edgar Rice  Burroughs?
+
+Answers:
+  1: >
+    They all went to the same high school.
+  2: >
+    They all were in Texas on 9/11/2001.
+  3: >
+    They are the same Zodiac sign.
+  4: >
+    They were all born in the same month.
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 6c655457-3a06-4582-af35-6fbfc69d963e
+
+Question: |
+  What do these people have in common: Star Jones, Randy Jackson, President Dwight David Eisenhower, Carnie Wilson, Diego Maradona?
+
+Answers:
+  1: >
+    They have all had gastric bypass surgery.
+  2: >
+    They have all appeared on the long running BBC show Leaders of Our Times.
+  3: >
+    They have all been cited by the UN for their work with UNICEF.
+  4: >
+    They have all received he Legiondaire Grand Award.
 
 Correct: 1
 

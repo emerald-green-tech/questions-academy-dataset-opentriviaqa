@@ -5599,6 +5599,317 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: c6669683-779c-4801-86e4-3673a15d7723
+
+Question: |
+  What is the missing number in the following sequence:  4, 20, 24, ___, 44, 60, 64?
+
+Answers:
+  1: >
+    28
+  2: >
+    40
+  3: >
+    30
+  4: >
+    32
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: e3e4f930-251d-442c-a421-6348860880a8
+
+Question: |
+  What number is missing from the following sequence: 5,10,20, ___, 50, 55, 110?
+
+Answers:
+  1: >
+    25
+  2: >
+    30
+  3: >
+    40
+  4: >
+    35
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 0d176caa-d7ca-4d26-ac9e-c91a3f8c99be
+
+Question: |
+  Find the missing number in the following sequence: 8, 16, 28, 44, ___, 88, 116, 148, 184.
+
+Answers:
+  1: >
+    48
+  2: >
+    56
+  3: >
+    64
+  4: >
+    52
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 9e6fc07e-9758-4e05-a352-0a25656627e5
+
+Question: |
+  A card is selected at random from a regular poker deck of cards. The jokers have been eliminated. What is the probability that the selected card is a diamond?
+
+Answers:
+  1: >
+    1 in  4
+  2: >
+    1 in 13
+  3: >
+    1 in 26
+  4: >
+    1 in 52
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 80360afd-2a94-42ff-ab1c-34bfb58b3f0d
+
+Question: |
+  A regular fair pair of dice is rolled. What is the probability that the roll will be a 7?
+
+Answers:
+  1: >
+    7 in 6
+  2: >
+    1 in 6
+  3: >
+    6 in 7
+  4: >
+    7 in 36
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: f0fa0aa5-8fe8-4db5-849f-7962e6049e78
+
+Question: |
+  Mr. A picks three cards from a 52-card deck. Mr. B rolls a pair of dice once. Mr. C rolls three dice. Mr. A must pick three aces. Mr. B must roll a 13. Mr. C must roll a  two. Who has the best odds?
+
+Answers:
+  1: >
+    Mr. A
+  2: >
+    The odds are equal
+  3: >
+    Mr. C.
+  4: >
+    Mr. B
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 55532375-ca85-4514-a61b-8efe7c2a5642
+
+Question: |
+  A combination lock has a combination consisting of three numbers. Each number could be 0,1,2,3,4,....39. How many different combinations are possible?
+
+Answers:
+  1: >
+    40 X 40 X 40=40^3
+  2: >
+    40  X 3=120
+  3: >
+    39X 3=117
+  4: >
+    3 X3 X 3X.........=3^40
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: af98708d-ebc3-458b-8833-cb5a723a1ad3
+
+Question: |
+  For some reason, you are playing craps. The person rolling wants Little Joe. What is he hoping for?
+
+Answers:
+  1: >
+    a 12
+  2: >
+    a 2
+  3: >
+    a 4
+  4: >
+    a 14
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 2e4bea4b-8f65-43d3-a2b7-6e7c26a2042b
+
+Question: |
+  A  nine-digit number is selected at random. What are the odds that it will be your social security number (in the USA)?
+
+Answers:
+  1: >
+    1 in 9
+  2: >
+    9 in 1,000,000,000
+  3: >
+    1 in 1,000,000,000
+  4: >
+    1 in 9,000,000,000
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 1a496b11-c635-43ee-a998-e3f2ea271189
+
+Question: |
+  Isabella took a test that had 20 questions. The total grade was computed by awarding 10 points for each correct answer and deducting 5 points for each incorrect answer. Isabella answered all 20 questions and received a score of 125. How many answers did Isabella get incorrect?
+
+Answers:
+  1: >
+    10
+  2: >
+    5
+  3: >
+    3
+  4: >
+    8
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 59bd0ece-46c6-40fc-8e80-4ff19c93d0fc
+
+Question: |
+  In which of these rows would the letter Z go?
+  
+  WETYIAFHKLXVNM<br />
+  QRUOPSDGJCB
+
+Answers:
+  1: >
+    bottom
+  2: >
+    top
+  3: >
+    neither
+  4: >
+    none
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: b9ae74c9-07f3-4431-9d5b-6ebaf7a74ff4
 
 Question: |

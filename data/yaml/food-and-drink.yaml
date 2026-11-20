@@ -18064,6 +18064,62 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: da5b0a34-f2b3-4431-abd9-05b74ec7fa5a
+
+Question: |
+  In parts of Western Brittany, in France, cakes called kornigou are baked at Samhain. What natural shape are the cakes baked in?
+
+Answers:
+  1: >
+    Antlers
+  2: >
+    Crucifixes
+  3: >
+    Coffins
+  4: >
+    Broomsticks
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 98f18593-15c4-476a-8604-15d81d107bff
+
+Question: |
+  A king cake is a type of cake associated with the Carnival Season, traditionally holding a trinket inside. Which of the following is not a traditional trinket, found inside a king cake?
+
+Answers:
+  1: >
+    ceramic or plastic baby doll
+  2: >
+    a plastic king wearing a crown
+  3: >
+    red bean
+  4: >
+    a doubloon
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: 8788776f-dfa0-4ca1-aedb-b0938a61eadd
 
 Question: |
@@ -19656,6 +19712,202 @@ Answers:
     Softness
 
 Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: b7986fef-51dc-4aab-9bcf-49527566787d
+
+Question: |
+  You go into a diner and  you hear the waitress yell out Cats Eyes. What has someone just ordered?
+
+Answers:
+  1: >
+    a breakfast of steak and two eggs
+  2: >
+    strawberries and cream
+  3: >
+    tapioca
+  4: >
+    sunny side eggs
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: c7c9d577-afa5-4698-a4a3-f9743b23e88a
+
+Question: |
+  The Mars family were the richest American family of 1988, according to Fortune magazine. They named one of their most successful products after their horse, who was named what?
+
+Answers:
+  1: >
+    Snickers
+  2: >
+    Bounty
+  3: >
+    M&M
+  4: >
+    Corny
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: fc33c0c3-89d7-4226-a588-6a819a4c69bc
+
+Question: |
+  What does a la crecy mean?
+
+Answers:
+  1: >
+    Served with butter
+  2: >
+    Served with sauce
+  3: >
+    Served with carrots
+  4: >
+    Served with cheese
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 0245414e-0f9a-4bcf-9174-2312ba6557ac
+
+Question: |
+  Which statement about fast food restaurants in the USA is not true?
+
+Answers:
+  1: >
+    The first Burger King was opened in Miami.
+  2: >
+    The first Wendys was opened in Columbus, Ohio.
+  3: >
+    The first KFC was opened in Salt Lake City.
+  4: >
+    The first Ben and Jerrys was opened on the campus of Dartmouth University.
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: ed900701-5a5f-41fa-8711-a8c2736f1704
+
+Question: |
+  The Polish food specialties oscypek and bryndza are what type of food?
+
+Answers:
+  1: >
+    Soups
+  2: >
+    Salads
+  3: >
+    Cheeses
+  4: >
+    Cakes
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 90137b30-768b-40f4-8bc7-e972718df1af
+
+Question: |
+  The inventor of the first marketed bubble gum, Walter Diemer, was actually an accountant at Fleer Chewing Gum Company in Philadelphia. He did various experiments in his free time. He invented bubble gum by accident, when one of his gum mixtures turned out to be less sticky than the usual chewing gum mixture and easily stretched. When did he invent the bubble gum?
+
+Answers:
+  1: >
+    1955
+  2: >
+    1915
+  3: >
+    1935
+  4: >
+    1928
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: b51ee511-164a-4743-ba20-984ecd127231
+
+Question: |
+  This is the most popular color of bubble gum. When gum had to be released on the market, it was the only color the inventor had on hand.
+
+Answers:
+  1: >
+    Blue
+  2: >
+    Green
+  3: >
+    White
+  4: >
+    Pink
+
+Correct: 4
 
 Explanation: |
   None

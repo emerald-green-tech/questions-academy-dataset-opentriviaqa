@@ -1466,6 +1466,36 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: 52c02125-d1bb-429f-b444-43e2d4076cb4
+
+Question: |
+  Which feline fatale said:
+  
+  > You're the second man who killed me this week but I've got seven lives left.
+
+Answers:
+  1: >
+    Catwoman
+  2: >
+    Storm
+  3: >
+    Daredevil
+  4: >
+    Miss Kitty
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: 2c053a6d-3cb4-4c01-a627-044d6e3dd41b
 
 Question: |

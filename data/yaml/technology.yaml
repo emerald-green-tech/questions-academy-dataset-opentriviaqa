@@ -102,6 +102,90 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: a5867fb2-4082-43d1-babb-e59ac222a4e3
+
+Question: |
+  Your flight has been delayed due to bad weather. The  airline representative at the gate gives prompt updates concerning the time your flight may depart.  Behind the scenes, the technical term for the estimated time of departure is this one.
+
+Answers:
+  1: >
+    EDCT
+  2: >
+    ETCD
+  3: >
+    ECTD
+  4: >
+    ETD
+
+Correct: 1
+
+Explanation: |
+  EDCT stands for Expect Departure Clearance Time.
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 8733e371-db10-4042-a354-408f150a46da
+
+Question: |
+  The reading lamp in the Passenger Control Unit (PCU) above your seat has burned out. After the flight crew consults with local maintenance, they fill out a form, indicating that it is safe to let this aircraft fly under the aforementioned condition. What is the aircraft industry's technical term for this?
+
+Answers:
+  1: >
+    MEL PLACARD
+  2: >
+    TECHOPS FLT RELEASE
+  3: >
+    THRU TRANSIT MAINTENANCE CLASSIFICATION FORM
+  4: >
+    PCU MODIFICATION FORM
+
+Correct: 1
+
+Explanation: |
+  MEL stands for Minimum Equipment List.
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 85b1f69f-95cb-49f8-be5a-37492daa2edf
+
+Question: |
+  On June 5 in 1833 the first person acknowledged to be a computer programmer met the person considered the father of modern computing. Who met whom?
+
+Answers:
+  1: >
+    George Kemeny met Thomas Kurtz
+  2: >
+    Ada Lovelace met Charles Babbage
+  3: >
+    Thomas Kurtz met Ada Lovelace
+  4: >
+    Grace Hooper met Charles Babbage
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: d0823d88-9146-488a-86cf-1871ef96e129
 
 Question: |
@@ -242,6 +326,230 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: 5f2ab9cb-d182-45d7-9fcc-bed1f6b93bed
+
+Question: |
+  In 1995, this famous American computer outlaw was caught while stealing electronic mail and software. In 1996 he released the book Takedown: The Pursuit and Capture of Americas Most Wanted Computer Outlaw -- By The Man.
+
+Answers:
+  1: >
+    Robert Morris
+  2: >
+    Vladimir Levin
+  3: >
+    Tsutomu Shimomura
+  4: >
+    Kevin Mitnick
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 9844cb4b-b6e4-48c3-92ae-b569306cf717
+
+Question: |
+  In April 28, 2001, this famous American multimillionaire became the first space tourist.
+
+Answers:
+  1: >
+    Mark Shuttleworth
+  2: >
+    Charles Simonyi
+  3: >
+    Gregory Olsen
+  4: >
+    Dennis Tito
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 2d198ecb-42ca-4fa7-913d-8b007e967be5
+
+Question: |
+  One famous analog computer was the water integrator, which functioned by manipulation of water through a room of pipes and pumps, where the water levels represented numbers, and the rate of flow represented mathematical operations. Which country built the water integrator?
+
+Answers:
+  1: >
+    Soviet Union
+  2: >
+    Great Britain
+  3: >
+    USA
+  4: >
+    Germany
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 39f36eae-6e40-495a-8c79-c4f32d6091e7
+
+Question: |
+  In their third generation computers flourished, thanks to Jack St. Clair Kilby's and Robert Noyce's independent invention. What did they invent?
+
+Answers:
+  1: >
+    the transistor
+  2: >
+    the first computer program
+  3: >
+    integrated circuit (or microchip)
+  4: >
+    computer memory
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 6deb561f-c43f-456f-b4c8-fea8e12e1751
+
+Question: |
+  Use an IMAP server to get advanced mail features. What does IMAP stand for?
+
+Answers:
+  1: >
+    Internet Message Access Protocol
+  2: >
+    Intelligent Message Account Process
+  3: >
+    Internet Massive Access Peak
+  4: >
+    Intelligent Messaging Account Protocol
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: e7517a53-4bbc-4355-889e-ff17bdb25eb7
+
+Question: |
+  This device, named Missing Link, was invented by twin sisters Kelli and Vanessa Dunn.
+
+Answers:
+  1: >
+    The remote control locator
+  2: >
+    The bookshelf speakers
+  3: >
+    The 56K modem
+  4: >
+    The microphone
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 32257c65-631d-4260-b954-f3ba1fc89aec
+
+Question: |
+  To build the 747, The Boeing Co. needed to design and construct a large number of tools. Approximately how many?
+
+Answers:
+  1: >
+    170,000
+  2: >
+    1,800
+  3: >
+    270,000
+  4: >
+    45,000
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: d935f728-8bc2-451a-9b1f-d5cd5c186dbf
+
+Question: |
+  The original 747 was fitted with what kind of jet engines?
+
+Answers:
+  1: >
+    General Electric CF6-80C2B1F
+  2: >
+    Pratt  Whitney JT9D-3
+  3: >
+    Rolls Royce RB211-524G
+  4: >
+    Kuznetsov NK-82 turbofans
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: b512fac8-02fe-4c04-b60f-1b84e7193d92
 
 Question: |
@@ -258,6 +566,58 @@ Answers:
     Lord Byron's daughter
 
 Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 50ceb5f3-0e43-425d-b80c-2d12e8dd9f32
+
+Question: |
+  The first computer used for weather research and prediction was MANIAC.
+
+Answers:
+  1: >
+    False
+  2: >
+    True
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 8d2a8cc4-4b8e-4e3e-9349-0e752f28b0d9
+
+Question: |
+  In the world of airplane technology, what does LOT stand for?
+
+Answers:
+  1: >
+    Long Operational Technology
+  2: >
+    Lengthy Oppositional Technology
+  3: >
+    Low Observational Technology
+  4: >
+    Light Opposing Technology
+
+Correct: 3
 
 Explanation: |
   None

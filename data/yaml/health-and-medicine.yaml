@@ -4546,6 +4546,34 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: 6eded851-d2cc-4fb9-acdd-5d5456c1c189
+
+Question: |
+  What is suggested that you not do several hours before you go into labor? It could get you embarrassed.
+
+Answers:
+  1: >
+    Eat fish
+  2: >
+    Have sex
+  3: >
+    Talk on the phone
+  4: >
+    Eat food
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: 59e1d85e-71a5-4586-8096-b9c3e00ea429
 
 Question: |
@@ -4574,6 +4602,310 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: bc4f3b1f-fb3c-4eb4-b412-5b1ea86e6a3c
+
+Question: |
+  Body Mass Index (BMI) is the relation between body mass and height. If your BMI is in this range then you are considered overweight.
+
+Answers:
+  1: >
+    25 to 29.9
+  2: >
+    20 to 24.9
+  3: >
+    15 - 19.9
+  4: >
+    10 - 14.9
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: ef08e865-9ed8-4355-8452-209bc6dcada2
+
+Question: |
+  Laughter is one of the first expressions of emotions babies learn to convey. At about what age do babies start to laugh?
+
+Answers:
+  1: >
+    12 months
+  2: >
+    7 months
+  3: >
+    18 months
+  4: >
+    4 months
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 38c130af-5734-4b73-a6b0-c05160005ea9
+
+Question: |
+  A death erection is a post-mortem erection which occurs when a male individual dies vertically or face-down. What causes this condition?
+
+Answers:
+  1: >
+    Having intercourse before death
+  2: >
+    Gravity causes the genitalia to fill up with blood
+  3: >
+    The body swells up
+  4: >
+    Bladder and Intestines empty
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 973692df-bb08-439d-b31c-a9ff67ee0ccc
+
+Question: |
+  At a party, a doctor asked a nurse: Are you an RN or an LPN? The nurse replied: I'm an RN. I got my BSN at Georgetown. Are you an MD or a DO? The doctor replied: I'm a DO. Which of the following statements can be concluded from this conversation?
+
+Answers:
+  1: >
+    The doctor is going to get lucky tonight.
+  2: >
+    The doctor is not really a doctor at all.
+  3: >
+    The doctor was trained in osteopathic manipulation.
+  4: >
+    The doctor is a chiropractor.
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: b60809b2-2671-468d-a5c2-8abb2315a179
+
+Question: |
+  An old adage states, Neurotics build castles in the sand. Psychotics live in them. Which one of the following disorders is not considered a neurosis?
+
+Answers:
+  1: >
+    Schizoid Personality Disorder
+  2: >
+    Obsessive-Compulsive Disorder
+  3: >
+    Panic Disorder
+  4: >
+    Agoraphobia
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 515fac87-83d8-4a24-9fb8-0baa164d210f
+
+Question: |
+  If a doctor prescribes a medicine and the prescription reads, Instill 2 - 3 gtts in OD bid. What does OD mean?
+
+Answers:
+  1: >
+    Left ear
+  2: >
+    Right ear
+  3: >
+    Right eye
+  4: >
+    Left eye
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 963a19e6-3561-40d2-8461-2821da2e5686
+
+Question: |
+  After week 27 of pregnancy, you can do the following experiment: switch on a flashlight against your belly and the baby will move towards the light. What allows this to happen?
+
+Answers:
+  1: >
+    its head can move
+  2: >
+    its hearing started functioning
+  3: >
+    its brain started growing quickly
+  4: >
+    it opens its eyes
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 7ddf9641-7308-4d9d-a954-d2dff8ea72c3
+
+Question: |
+  A common complaint among pregnant women are swollen legs. Feet actually swell because of this.
+
+Answers:
+  1: >
+    Tight Shoes
+  2: >
+    Constipation
+  3: >
+    Indigestion
+  4: >
+    Water retention
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: c411f0eb-d5a6-44c7-892f-76e66b227f7b
+
+Question: |
+  Which of the following drugs thins the blood? That is, it decreases the ability of the blood to clot.
+
+Answers:
+  1: >
+    hydrochlorothiazide
+  2: >
+    Coumadin (warfarin)
+  3: >
+    Lexapro (escitalopram)
+  4: >
+    Biaxin (clarithromycin)
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 10fce26e-fea3-495f-a86a-39f055b94527
+
+Question: |
+  This is one of the first symptoms of dental caries. It is most pronounced when consuming sweet, hot or cold foods and liquids.
+
+Answers:
+  1: >
+    Numbness
+  2: >
+    Bad breath
+  3: >
+    Toothache
+  4: >
+    Saliva overproduction
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: cd00bc4c-15fc-4c68-8dda-d6ea33c49e83
+
+Question: |
+  Sugar is a major reason for tooth decay. Due to the high content of sugar in most carbonated drinks, you can diminish the risk of tooth decay by sipping through a straw.
+
+Answers:
+  1: >
+    True
+  2: >
+    False
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: 5266f77a-a220-4331-b847-0bdb1f149d5b
 
 Question: |
@@ -4590,6 +4922,422 @@ Answers:
     USA for Africa
 
 Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 9fcb75bc-f3ee-4592-9237-046f10ac049c
+
+Question: |
+  As of the beginning of the new millennium, this was the approximate number of Americans who receive a massage annually.
+
+Answers:
+  1: >
+    15,000
+  2: >
+    150,000
+  3: >
+    20,000,000
+  4: >
+    3,000,000
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 57c252ba-d22e-428f-a20a-a62dd94825fa
+
+Question: |
+  Depression and anxiety are considered mood disorders. Which of the following is also considered a mood disorder?
+
+Answers:
+  1: >
+    Bipolar Disorder
+  2: >
+    Schizophrenia
+  3: >
+    Schizotypal Personality Disorder
+  4: >
+    Narcissism
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 50b13df3-f973-4824-acc0-7595af6f956b
+
+Question: |
+  Bone surfaces are not featureless and smooth but are scarred with an array of bumps, holes, and ridges called bone markings. What is the name of a bone marking which is very large, blunt and irregularly shaped?
+
+Answers:
+  1: >
+    Crest
+  2: >
+    Tuberosity
+  3: >
+    Trochanter
+  4: >
+    Tubercle
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 693f66c4-1ce6-4efd-8ad0-46e7677961af
+
+Question: |
+  African Americans are more likely to suffer from hypertension (high blood pressure) than European Americans. Why?
+
+Answers:
+  1: >
+    Enslaved individuals were transported from Africa in the holds of ships, and given very little water.  Those whose bodies conserved salt were more likely to survive the journey.  Salt exacerbates high blood pressure.
+  2: >
+    Rap music raises blood pressure.
+  3: >
+    African Americans eat more salty food than European Americans do.
+  4: >
+    In tropical climates, one sweats a lot.  This results in water loss, which lowers blood pressure.  Africans therefore conserve salt more efficiently than Europeans.  In the United States, however, where it is cooler, this characteristic leads to high bloo
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: b19da33e-5e1b-4f85-99a3-7e98cb801b6b
+
+Question: |
+  Dark skin contains melanin, which is a dark pigment in the skin. The purpose for melanin is to protect the skin from harmful effects of ultraviolet sunlight, which include skin cancer. What evolutionary advantage does light skin have?
+
+Answers:
+  1: >
+    Light skin lets in more sunlight, which allows a person in colder climates to get warm more easily.
+  2: >
+    Light skin lets in more sunlight.  Sunlight catalyzes the formation of Vitamin D.
+  3: >
+    Light skin tans more easily.  This makes the person more attractive and therefore facilitates mating.
+  4: >
+    Light skin is more attractive, which makes the person better able to attract a mate.
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 0323e8ea-1fe1-4458-b8b9-cd1998d6c72b
+
+Question: |
+  This mental illness, classified by Emil Kraepelin in 1887, is characterized by persistent disorders in the perception or expression of reality. A person who suffers from this disease may have delusions, hallucinations, disorganized or catatonic behavior.
+
+Answers:
+  1: >
+    Autism
+  2: >
+    Huntingtons Disease
+  3: >
+    Schizophrenia
+  4: >
+    Dementia
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 880984bc-795e-4431-8349-b996b724baf5
+
+Question: |
+  This disease is characterized by the presence of the following symptoms: recurrent, episodic vertigo, hearing loss, a sensation of aural fullness and tinnitus. It is a balance disorder of the inner ear, first described by a French physician in 1861.
+
+Answers:
+  1: >
+    Alzheimers Disease
+  2: >
+    Menieres Disease
+  3: >
+    Kawasaki Syndrome
+  4: >
+    Cushings Syndrome
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 384876fd-5429-4f77-a925-2ba5db1957a1
+
+Question: |
+  The term albino comes from the Latin word albus. An albino person or animal is characterised by what?
+
+Answers:
+  1: >
+    Extremely dark pigmentation of the skin
+  2: >
+    A lack of pigmentation in the skin, eyes and hair
+  3: >
+    Redness of the skin
+  4: >
+    Oily skin
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: a813e431-9e90-4897-a4c8-38238c993f35
+
+Question: |
+  Human toes and fingers go by what common name?
+
+Answers:
+  1: >
+    Tarsals
+  2: >
+    Carpals
+  3: >
+    Phalanges
+  4: >
+    Vertabrae
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: a94394d8-357a-4e5f-9182-6f2a4c7557ae
+
+Question: |
+  When you take a shower or bath for a long time, the skin on your fingertips shrivels. This happens because your body does this.
+
+Answers:
+  1: >
+    Loses water in the hypotonic solution
+  2: >
+    Loses water in the hypertonic solution
+  3: >
+    Absorbs water in the hypertonic solution
+  4: >
+    Absorbs water in the hypotonic solution
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 807b2f6f-3088-4676-bb2c-7eb3e9929441
+
+Question: |
+  Vitamin C and Vitamins of the B group are crucial for the proper functioning of the body. Are they considered to be complex, fat-soluble substances?
+
+Answers:
+  1: >
+    No
+  2: >
+    Yes
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: bc8a37a7-f5b3-41e1-b345-d015db71621a
+
+Question: |
+  What type of chocolate contains the most flavonoids and may help lower your cholesterol?
+
+Answers:
+  1: >
+    Chocolate with almonds
+  2: >
+    Milk chocolate
+  3: >
+    White chocolate
+  4: >
+    Dark chocolate
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: c539a22a-00cb-4da7-af52-395e7dd11edc
+
+Question: |
+  There are cases of heterosexual men wearing bras to hide his enlarged chest. What is the name of the disease that causes this hormonal defect?
+
+Answers:
+  1: >
+    Hepatitis
+  2: >
+    Gynecomastia
+  3: >
+    Budd-Chiari Syndrome
+  4: >
+    Caroli Disease
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 2609e080-5c90-4ec7-bfd9-4114579f3126
+
+Question: |
+  Studies have proven that there is a relation between wearing bras and this disease. Research found that 3 out of 4 women wearing bras 24 hours a day had the chance to get this disease, while women wearing bras for less than 12 hours a day had a 1 out of 152 chance.
+
+Answers:
+  1: >
+    Gynecomastia
+  2: >
+    Breast cancer
+  3: >
+    Anemia
+  4: >
+    Asthma
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 7337a98e-9f6e-4b57-be62-263e501dfe2b
+
+Question: |
+  Where did the Black Plague originate?
+
+Answers:
+  1: >
+    Turkey
+  2: >
+    Italy
+  3: >
+    Russia
+  4: >
+    India
+
+Correct: 4
 
 Explanation: |
   None

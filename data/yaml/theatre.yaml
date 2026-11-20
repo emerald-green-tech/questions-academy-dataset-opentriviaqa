@@ -842,6 +842,90 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: 3e694071-3698-4f1f-9cae-e653fd9eb43c
+
+Question: |
+  It was one of the longest running off-Broadway plays. Its orchestra consisted of a harp and a piano. It was written by Tom Jones and Harvey Schmidt. It originally starred Rita Gardner, Thomas Bruce and Kenneth Nelson.
+
+Answers:
+  1: >
+    Hair
+  2: >
+    When Tony Met Angela
+  3: >
+    Cats!
+  4: >
+    The Fantasticks
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 43bbdb53-c1ff-4749-b7a9-8cecc7c62f94
+
+Question: |
+  This tragedy, written by Shakespeare, is often referred to as The Scottish Play by actors, as it was believed that using its actual name in theatre would bring bad luck.
+
+Answers:
+  1: >
+    Hamlet
+  2: >
+    The Merry Wives of Windsor
+  3: >
+    Macbeth
+  4: >
+    Othello
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: afe3c4a7-8c6d-4f3a-bf25-9e9b989fb158
+
+Question: |
+  With witches, ghosts, and murder this play by Shakespeare has nearly all the elements of horror fiction. First performed around 1606, it is called simply The Scottish Play by many actors who consider calling the play by its real title bad luck.
+
+Answers:
+  1: >
+    Macbeth
+  2: >
+    King Lear
+  3: >
+    The Merchant of Venice
+  4: >
+    The Tempest
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: 4d61243e-145c-4335-bf63-30d75af4473a
 
 Question: |

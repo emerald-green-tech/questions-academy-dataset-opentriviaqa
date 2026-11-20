@@ -2694,6 +2694,90 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: b28b7117-022c-46f6-ad1e-edee31d0e704
+
+Question: |
+  What city is considered the holiest for Judish, Jewesh, Islamic people?
+
+Answers:
+  1: >
+    Rome
+  2: >
+    Tel Aviv
+  3: >
+    Amman
+  4: >
+    Jerusalem
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 52969d1c-e3fa-449c-9d9a-994b38fa73a9
+
+Question: |
+  Samhain was a time when the future was divined for the forthcoming year. Which of the following was not commonly used to divine the future at these times?
+
+Answers:
+  1: >
+    Crows
+  2: >
+    Ouija board
+  3: >
+    Nuts
+  4: >
+    Apples
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 6170db3a-1773-46f6-9eff-b0b5afa2ca13
+
+Question: |
+  Samhain is one of the eight annual Sabbats (holidays) of Wiccans and is a celebration of darkness and death. Wiccans have a festival at the beginning of the Summer season to celebrate life and fertility, what is its name?
+
+Answers:
+  1: >
+    Imbolc
+  2: >
+    Mabon
+  3: >
+    Beltaine
+  4: >
+    Ostara
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: b7eca866-51fc-48ac-8739-7a97d02760be
 
 Question: |
@@ -3089,6 +3173,118 @@ Answers:
     Capybara meat
   4: >
     Porcupine meat
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: f50ca917-9d0a-4b8e-94ff-4d49568c87f3
+
+Question: |
+  The 7 Virtues are: Temperance, Charity, Diligence, Patience, Kindness, Humility, Chastity. What are their opposites which are considered the 7 Deadly Sins?
+
+Answers:
+  1: >
+    Greed, Anger, Envy, Jealousy, Conciet, Lust, Gluttony
+  2: >
+    Greed, Anger, Envy, Jealousy, Dominance, Lust, Gluttony
+  3: >
+    Lust, Gluttony, Greed, Sloth, Wrath, Envy, Pride
+  4: >
+    Carelessness, Anger, Envy, Jealousy, Conciet, Lust, Gluttony
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 8b721592-00ed-4360-8104-3583d4f6d7f9
+
+Question: |
+  According to the Christian tradition there are 39 books in the Old Testament. How many books are there in the Old Testament according to the Jewish tradition?
+
+Answers:
+  1: >
+    39
+  2: >
+    5
+  3: >
+    24
+  4: >
+    65
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 11a4250f-eefb-4e5f-8a7a-91cbc360ed25
+
+Question: |
+  According to Luke 6:13, Jesus called unto him his disciples, and of them he chose twelve, whom also he named apostles. Which one did Jesus not choose?
+
+Answers:
+  1: >
+    Judas Iscariot
+  2: >
+    Thomas
+  3: >
+    Mark
+  4: >
+    Thaddaeus
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 3bda0ff3-bda3-4e2e-b2d6-720186e3ae08
+
+Question: |
+  Where would you find The Book of Kells?
+
+Answers:
+  1: >
+    Glasgow, Scotland
+  2: >
+    Edinburgh, Scotland
+  3: >
+    Next to the Book of Durrow
+  4: >
+    Next to the Blarney Stone
 
 Correct: 3
 

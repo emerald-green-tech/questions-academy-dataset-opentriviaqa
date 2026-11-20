@@ -254,6 +254,34 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: 2326f0fb-8441-428f-8b5e-a83968dd11da
+
+Question: |
+  If you find yourself traveling through Ashville, Ohio, be sure you stop for this. But you have to plan ahead. It only happens on July 4th every year.
+
+Answers:
+  1: >
+    The world's oldest ongoing chess match makes another move.
+  2: >
+    The world's oldest unexploded bottle rocket is on display.
+  3: >
+    The world's oldest traffic light is on display.
+  4: >
+    The world's oldest hot dog is on display.
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: f0576f91-f504-4d20-946c-4a10e709a34b
 
 Question: |
@@ -319,6 +347,62 @@ Answers:
     October
 
 Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 7105ea9f-f388-4f4e-9462-ccf56f6e8745
+
+Question: |
+  Orange and this color are the colors of the holiday Halloween.
+
+Answers:
+  1: >
+    White
+  2: >
+    Purple
+  3: >
+    Red
+  4: >
+    Black
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: da26f53f-dbea-4768-bd8c-9ec6e41d35ba
+
+Question: |
+  Every year in Yatesville, Georgia there is a celebration of chitlins, called the Chitlin Hoedown. What exactly are chitlins?
+
+Answers:
+  1: >
+    Bull testicles
+  2: >
+    Sheep eyes
+  3: >
+    Cow brains
+  4: >
+    Pigs intestines
+
+Correct: 4
 
 Explanation: |
   None

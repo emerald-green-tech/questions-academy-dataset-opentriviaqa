@@ -2682,6 +2682,62 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: da4b31bb-e1c5-4496-abed-57fef165e269
+
+Question: |
+  Submarine landslides are prevalent in deltas such as North America's Mississippi and Fraser deltas. When the sediment slides across a pipe it can cause significant movement, so that this type of force can actually break it.
+
+Answers:
+  1: >
+    compressive
+  2: >
+    bending
+  3: >
+    sideways
+  4: >
+    tensile
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 19651142-0aba-4756-a386-640603eef705
+
+Question: |
+  This great scientist was able to show the equivalence of electricity, magnetism and light via a set of equations that carry his name.
+
+Answers:
+  1: >
+    G.H. Hardy
+  2: >
+    Charles Babbage
+  3: >
+    James Clerk Maxwell
+  4: >
+    Isaac Newton
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: e0665a97-b9ae-4508-9f8e-3710158e760a
 
 Question: |
@@ -3562,6 +3618,146 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: 15f0248e-a7ba-4dff-a6ac-a296ff2089a9
+
+Question: |
+  These are lumps of ice and dust. When they get close enough to the Sun they gradually evaporate. Jets of gas and dust create long tails that people can see from Earth.
+
+Answers:
+  1: >
+    Asteroids
+  2: >
+    Comets
+  3: >
+    UFOs
+  4: >
+    Stars
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 53e98c68-6e4d-4422-a1e2-ae9f0a9477a5
+
+Question: |
+  This planet is has the largest group of moons - 31, but it is best known for its ring system.
+
+Answers:
+  1: >
+    Neptune
+  2: >
+    Mars
+  3: >
+    Saturn
+  4: >
+    Venus
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 932efc2e-2a3f-4dff-a8c6-4afbe2264ba5
+
+Question: |
+  A compass cannot be used on the Moon. What factor is responsible for this?
+
+Answers:
+  1: >
+    Lack of a magnetic field
+  2: >
+    Influence of Earths gravity
+  3: >
+    Asteroid impacts
+  4: >
+    Lack of gravity on the Moon
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: cde4b08e-8745-4122-8b85-588ffaa2d52b
+
+Question: |
+  This moon is the most volcanic object in the solar system. Its volcanoes erupt sulfur, sulfur dioxide and silicate rock, constantly resurfacing it.
+
+Answers:
+  1: >
+    Titania
+  2: >
+    Io
+  3: >
+    Ganymede
+  4: >
+    Europa
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: ade907ab-6c99-482b-9536-2c2300006309
+
+Question: |
+  What do we call this sequence of numbers:  1, 1, 2, 3, 5, 8, 13, 21, 34, 55 ...?
+
+Answers:
+  1: >
+    Lucas
+  2: >
+    Gauss
+  3: >
+    Euler
+  4: >
+    Fibonacci
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: 605a01aa-06f2-4a88-bb59-8d2cb6a215ec
 
 Question: |
@@ -3576,6 +3772,806 @@ Answers:
     Matter
   4: >
     Force
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: c7c8d998-1ecc-453b-854d-8f35a546fa05
+
+Question: |
+  Distances in the universe are enormous compared to those we are used to, so scientists use light years for measurement. Approximately how many miles does a light year represent?
+
+Answers:
+  1: >
+    Six zillion miles
+  2: >
+    Six trillion miles
+  3: >
+    Six million miles
+  4: >
+    Six billion miles
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 827bb3e3-8b3f-4c60-8bdb-f898f58c3e58
+
+Question: |
+  Which set contains only prime numbers?
+
+Answers:
+  1: >
+    2, 3, 5, 7,11,13, 17
+  2: >
+    1, 4, 11, 13, 15, 17
+  3: >
+    2, 3, 5, 7, 9, 11, 37
+  4: >
+    1, 3, 5, 7, 9, 11, 13
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 31be89d3-d875-4285-8c2c-3573e282ccff
+
+Question: |
+  In 1938, Edward Kasner wrote a 1 followed by 100 zeros and showed it to his baby nephew. What the baby said became the name of that written number. What did the kid say?
+
+Answers:
+  1: >
+    Giggle
+  2: >
+    Dada
+  3: >
+    Gaga
+  4: >
+    Googol
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 1ae4ebb9-cfef-4040-874f-208067768095
+
+Question: |
+  What do we call these numbers:  0, 1, 4, 9, 16, 25, 36, 49, etc?
+
+Answers:
+  1: >
+    algebraic numbers
+  2: >
+    cubic numbers
+  3: >
+    square numbers
+  4: >
+    prime numbers
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: dc6f9931-5a7b-4f7a-a60b-52d7355001ec
+
+Question: |
+  Which of these three sets is the largest: the set of all whole numbers, the set of all even numbers, the set of all odd numbers?
+
+Answers:
+  1: >
+    The set of all even numbers
+  2: >
+    The set of all whole numbers
+  3: >
+    They are the same size
+  4: >
+    The set of all odd numbers
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: ec3f3911-8838-428b-ab19-16411d5edd81
+
+Question: |
+  On Friday evenings it was the custom of Jewish families to invite college students over for a home cooked meal. One of the students the Einsteins often ate with introduced Albert to science. What was his name ?
+
+Answers:
+  1: >
+    Max Born
+  2: >
+    Max Malamud
+  3: >
+    Max Silberstein
+  4: >
+    Max Talmud
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 3fe86fd5-dc9e-42a4-a0d7-8b712dc08c49
+
+Question: |
+  This unit, named after one of the main discoverers of electromagnetism, is the base unit of electrical current.
+
+Answers:
+  1: >
+    OHM
+  2: >
+    Frequency
+  3: >
+    Ampere
+  4: >
+    Capacitor
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 8fe73b2a-331a-40b5-9c29-36d44e99fe49
+
+Question: |
+  An insulator is a thin metal strip mounted in a holder. When too much current passes through it, the metal strip melts and opens the circuit.
+
+Answers:
+  1: >
+    False
+  2: >
+    True
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 20ebee29-15ef-41df-92e2-104ad3184f29
+
+Question: |
+  The mathematical constant Pi can be approximated by taking a series of polygons inscribed in a circle and a series of polygons circumscribed around the circle.  Who was the first to write of this method of calculating pi?
+
+Answers:
+  1: >
+    Carl Friedrich Gauss
+  2: >
+    Archimedes
+  3: >
+    Sir Isaac Newton
+  4: >
+    Euclid
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 724f74e0-44ee-43ac-b363-08feea923e81
+
+Question: |
+  As you calculate more and more decimal places for the mathematical constant pi, you will eventually reach Feynman's Point. Which one of these most accurately defines Feynman's Point?
+
+Answers:
+  1: >
+    The place where the decimal value of pi shows three 9s in a row
+  2: >
+    The decimal place where we have five nines in a row
+  3: >
+    The decimal place where we have six zeros in a row
+  4: >
+    The last decimal place we know
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 0a3f5649-ddd8-410f-88f3-093dba20ace9
+
+Question: |
+  Although it is generally described as a transparent liquid, in seas, lakes and other large water bodies, water appears blue. What property of water is this attributed to?
+
+Answers:
+  1: >
+    Water reflects light in the red range
+  2: >
+    Water absorbs light in the red range
+  3: >
+    Water refracts light
+  4: >
+    Water radiates in the blue range
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: c7e7ef71-104f-477b-b331-51fe0506699b
+
+Question: |
+  In 1924, Raymond Dart discovered a fossil which he called Australopithecanthropus africanis. What is the meaning of the name?
+
+Answers:
+  1: >
+    None of these
+  2: >
+    The old man from Australia
+  3: >
+    The man from the Mesolithic Age
+  4: >
+    The ape man from southern Africa
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: e6082038-f9f4-431e-a8d8-9e563ff597a1
+
+Question: |
+  Who found and named the first Homo Erectus in 1891?
+
+Answers:
+  1: >
+    Eugene Dubois
+  2: >
+    Franz Boas
+  3: >
+    Louis and Mary Leakey
+  4: >
+    David Johannson
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 6e10c585-e1aa-48b5-808c-040261bca1e0
+
+Question: |
+  On a plane, a map is drawn so that the border of any two intersecting areas is more than just one point. You wish to color the map so that two intersecting area have different colors. What is the minimal number of colors you will need to color any such map?
+
+Answers:
+  1: >
+    8
+  2: >
+    3
+  3: >
+    2
+  4: >
+    4
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 1a21e852-f17e-4659-8ab5-3d434f79a59e
+
+Question: |
+  The absolute hardness of a diamond measures 1500, on which scale?
+
+Answers:
+  1: >
+    Grubers scale of mineral hardness
+  2: >
+    Hans scale of mineral hardness
+  3: >
+    Abels scale of mineral hardness
+  4: >
+    Mohs scale of mineral hardness
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 7091ff7e-87a3-471c-ae0b-7f4f72a9f85c
+
+Question: |
+  One of the factors necessary for the formation of a tropical cyclone is a warm sea surface to a certain depth. As a minimum, how warm should the sea surface be and to what depth?
+
+Answers:
+  1: >
+    5.5 C (41.9 F) to a depth of  100 meters (328 ft)
+  2: >
+    15 C (59 F) to a depth of 25 meters (82 ft)
+  3: >
+    26.5 C (79.7 F) to a depth of 50 meters (164 ft)
+  4: >
+    35.5 C (95.9 F) to a depth of  100 meters (328 ft)
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: b3b04f17-3c8c-4e92-84b1-aa789d67ecca
+
+Question: |
+  In December 2004, the discovery of the deepest coral reef in the United States was confirmed. It is also the deepest coral reef in the world.
+
+Answers:
+  1: >
+    True
+  2: >
+    False
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 9b9cc690-d3ad-4212-a146-71a92e83d6fe
+
+Question: |
+  In 1912, a jawbone and fragments of a skull were discovered and originally named "dawn-man". It wasn’t until 41 years later that it was exposed as a hoax. This darling of creationist skepticism is known as what?
+
+Answers:
+  1: >
+    Neanderthal
+  2: >
+    Hobbit Man
+  3: >
+    Peking Man
+  4: >
+    Piltdown Man
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 26d5db97-b5eb-49b8-be7e-4c32fd6e970c
+
+Question: |
+  When burning fuel for energy, small particles are thrown into the air that are visible in the form of smoke. It is called this type of pollution.
+
+Answers:
+  1: >
+    Outdoor pollution
+  2: >
+    Water pollution
+  3: >
+    Indoor pollution
+  4: >
+    Black carbon pollution
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 5da92bc4-db59-4b5d-b512-0443efb696a3
+
+Question: |
+  The distribution of this substance into water is often deadly for seabirds as it destroys the structure of their feathers. Thus cold water quickly reaches the skin and the bird often freezes to death.
+
+Answers:
+  1: >
+    Carbon dioxide
+  2: >
+    Carbon monoxide
+  3: >
+    Oil
+  4: >
+    Pesticides
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: b25bd090-1384-44c8-a07f-ddad18fcc9d6
+
+Question: |
+  During first quarter moon, what time does the moon rise?
+
+Answers:
+  1: >
+    dawn
+  2: >
+    midnight
+  3: >
+    noon
+  4: >
+    sunset
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 733e8197-13ae-4021-b266-bdf379dd26fd
+
+Question: |
+  Which of these statements best describes the mathematical constant *e*?
+
+Answers:
+  1: >
+    It is a transcendental number.
+  2: >
+    It is an algebraic transcendental and irrational number.
+  3: >
+    It is a transcendental and irrational number.
+  4: >
+    It is a rational transcendental number.
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 1a06fb9e-ae6d-4484-9f9a-bfd58bd622df
+
+Question: |
+  Which statement is not true about mathematical functions?
+
+Answers:
+  1: >
+    For some functions we can not find a maximal value.
+  2: >
+    A function is always written as a polynomial.
+  3: >
+    A function is a type of relationship between two sets.
+  4: >
+    A one-to-one relationship is a type of function.
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: c2e4cb1e-1146-4d50-b7aa-05485414d497
+
+Question: |
+  Along with Neil Armstrong and Michael Collins, who was the third member of the Apollo 11 crew?
+
+Answers:
+  1: >
+    James A. Lovell, Jr
+  2: >
+    William Anders
+  3: >
+    Fred Haise
+  4: >
+    Buzz Aldrin
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 1aad322b-f8a7-46f5-8935-858387210371
+
+Question: |
+  What are  the odds that you will be killed by lightning in the USA?
+
+Answers:
+  1: >
+    360,200,000 to1
+  2: >
+    2,320,000 to 1
+  3: >
+    23,200,000 to 1
+  4: >
+    506,000 to 1
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: bd1825bd-6b4f-4730-9e7d-e7a67e7e7538
+
+Question: |
+  There are four laws governing thermodynamics. The zeroth is concerned with thermal equilibrium of three systems, the first law describes that the total energy of the universe remains constant and the second law tells us that entropy of a non-equilibrium system will increase over time.  What does the third law of thermodynamics describe?
+
+Answers:
+  1: >
+    As temperature approaches absolute zero, the entropy of a system approaches a constant (Avogadros number).
+  2: >
+    As temperature approaches absolute zero, the entropy of a system approaches critical mass.
+  3: >
+    As temperature approaches absolute zero, the entropy of a system approaches a constant (zero).
+  4: >
+    As temperature approaches absolute zero, the entropy of a system approaches infinity.
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 44384326-81d5-4363-8e70-c9e344e2ea6c
+
+Question: |
+  Duality in quantum mechanics is used to describe these two concepts. The Schrodinger equation is in fact the essence of duality. Which two concepts are described in duality?
+
+Answers:
+  1: >
+    solids and liquids
+  2: >
+    temperature and volume
+  3: >
+    liquids and gases
+  4: >
+    particles and waves
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: ae93425d-4ddc-4a05-aa6a-768465a2603c
+
+Question: |
+  What does the prefix *milli-* mean?
+
+Answers:
+  1: >
+    1000
+  2: >
+    1/100000
+  3: >
+    1/1000
+  4: >
+    1/100
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 5a0ece5d-6ab4-4dbd-a7bb-2ef86912ba09
+
+Question: |
+  The most common fossil is the tooth.
+
+Answers:
+  1: >
+    True
+  2: >
+    False
 
 Correct: 1
 
@@ -3606,6 +4602,782 @@ Answers:
     Catoptric telescope
 
 Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 17453659-939d-402f-90da-33c8bc73cc28
+
+Question: |
+  All planets, comets and asteroids orbit around the Sun. What percentage of the Solar System's mass does the Sun account for?
+
+Answers:
+  1: >
+    around one-half
+  2: >
+    99.8%
+  3: >
+    86.2%
+  4: >
+    around 10%
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 2f6e73aa-da7c-403c-824e-6789259419b1
+
+Question: |
+  The surface temperature of the Sun is 5,780 K, which makes it white. Why does the Sun appear yellow from the surface of the Earth?
+
+Answers:
+  1: >
+    due to the electromagnetic radiation
+  2: >
+    because of the distance the light travels
+  3: >
+    because of the blue color of the sky
+  4: >
+    because of our eyes inability to see light  in that range
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 61ea58fb-9944-446d-b757-be685f105bf5
+
+Question: |
+  This commercially available non-toxic gas makes up 25% of the Sun's mass. It is used in deep diving to reduce the effects of narcosis.
+
+Answers:
+  1: >
+    nitrogen
+  2: >
+    hydrogen
+  3: >
+    helium
+  4: >
+    carbon
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: ea6735a7-a3fe-441e-aa0b-ab9ac9d26730
+
+Question: |
+  Ancient Greek astronomer Aristarchus was the first person to present heliocentrism, the theory that the sun is at the center of the solar system. However in the 16th century, this Polish astronomer was first to formulate a scientifically based heliocentric study.
+
+Answers:
+  1: >
+    Giovanni Cassini
+  2: >
+    Thomas Harriot
+  3: >
+    Nicolaus Copernicus
+  4: >
+    Galileo Galilei
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: d638638d-1710-422a-89f7-8603d1748355
+
+Question: |
+  Which planet has an apparent magnitude of  -2.8 to -1.6?
+
+Answers:
+  1: >
+    Venus
+  2: >
+    Mercury
+  3: >
+    Jupiter
+  4: >
+    Mars
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: d699d109-d519-4acc-a321-caf1ae4b7c9a
+
+Question: |
+  In math and science a double tilde (≈) is often used as a symbol. Which is symbolized by a double tilde?
+
+Answers:
+  1: >
+    Has the same atomic number as
+  2: >
+    Has the same first derivative as
+  3: >
+    Is approximately equal to
+  4: >
+    Has the same atomic weight as
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 16246cd4-f030-4947-88fd-25ca45623f22
+
+Question: |
+  This 1903 Nobel Prize laureate discovered radioactivity in 1896.
+
+Answers:
+  1: >
+    Wilhelm Conrad Rontgen
+  2: >
+    Henri Becquerel
+  3: >
+    Elihu Thomson
+  4: >
+    Niels Bohr
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: bbeaea86-dfb8-459c-962c-9628257a261a
+
+Question: |
+  The first week of June, 2007 was Recycle Now week in England. Which of these events was featured in its program?
+
+Answers:
+  1: >
+    Building a prison, made of recycled tires.
+  2: >
+    Beautiful women, parading in bathing suits, made of recycled steel.
+  3: >
+    Children, demonstrating how to recycle uranium.
+  4: >
+    Repaving Fleet Street with recycled paper.
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 51c9636f-b59c-4f99-a096-197c8c7f06ae
+
+Question: |
+  What type of conic section would this yield: y=3x^2-9
+
+Answers:
+  1: >
+    Line
+  2: >
+    Parabola
+  3: >
+    Ray
+  4: >
+    Cylinder
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 5c89dd2d-d6de-4e2c-a5a8-9e238f6d2ca4
+
+Question: |
+  If an atom loses an electron its electromagnetic balance is disturbed and the atom decays releasing ionizing particles and a large amount of energy.
+
+Answers:
+  1: >
+    False
+  2: >
+    True
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 93e6679b-3313-45d9-bcc5-c8e2d0aa2c17
+
+Question: |
+  Chemistry is defined as the natural science of matter, dealing with the composition of substances and their properties, reactions and interactions. Which of the following would NOT be an example of a chemical reaction?
+
+Answers:
+  1: >
+    mixing vinegar and baking soda together
+  2: >
+    the burning of a piece of wood
+  3: >
+    converting liquid water to gaseous steam
+  4: >
+    the rusting of a nail
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 61fad9f6-652d-4ddc-a6d8-baaa96c585dc
+
+Question: |
+  pH, or the negative log of the H3O+ (hydronium ion) concentration, is the measure of acidity or basicity of an aqueous solution. Which solution would have the lowest pH at room temperature?
+
+Answers:
+  1: >
+    a weak base such as ammonium hydroxide
+  2: >
+    a weak acid such as acetic acid
+  3: >
+    a strong acid such as sulfuric acid
+  4: >
+    a strong base such as sodium hydroxide solution
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: e8b1a5b1-e82c-4feb-aaa0-c7434b4e5f53
+
+Question: |
+  The equilibrium constant expression for a chemical equation is equal to the product concentrations divided by the reactant concentrations. For example, A + B = C + D will give an equilibrium constant = [C][D]/[A][B]. According to LeChatelier's principle, which of the following will affect the equilibrium of a given reaction?
+
+Answers:
+  1: >
+    changing the volume or pressure
+  2: >
+    all of these will affect equilibrium
+  3: >
+    increasing the temperature
+  4: >
+    changing the concentration of a reactant or a product
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: a3d3d6e6-9714-4fb2-bd16-3ea9e0e443d5
+
+Question: |
+  What does the word geometry mean?
+
+Answers:
+  1: >
+    width and length
+  2: >
+    earth measure
+  3: >
+    shapes and sizes
+  4: >
+    size and measurement
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: fa8c4527-a290-4f1e-8a30-be933cfb1bf5
+
+Question: |
+  You have a string that is 120 inches long. You must use this to enclose a shape of maximum area. What shape should you form?
+
+Answers:
+  1: >
+    A square of 60 inches on each side
+  2: >
+    A square of 30 inches on each side
+  3: >
+    A circle of circumference 120 inches
+  4: >
+    A triangle of 30 inches on each side
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 1e7298e2-4e4c-49da-bb10-06fab8b0e7f9
+
+Question: |
+  Two angles of a triangle are 4 degrees and 56 degrees, respectively. How large is the third angle?
+
+Answers:
+  1: >
+    60 degrees
+  2: >
+    45 degrees
+  3: >
+    120 degrees
+  4: >
+    30 degrees
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 3a8126f7-27cf-4889-834a-e36c87a559a0
+
+Question: |
+  If we are using regular square graph papers, what do we call the point where the x-axis meets the y-axis?
+
+Answers:
+  1: >
+    the abscissa
+  2: >
+    the quadrant
+  3: >
+    the ordinate
+  4: >
+    the origin
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 4299d53d-dd70-4b99-8f5f-b189f478612a
+
+Question: |
+  What is the name of this famous theorem? If x, y, and z are non-zero positive integers, then x^n+y^n=z^n has no solution if n is an integer greater than two.
+
+Answers:
+  1: >
+    Fermat's Theorem
+  2: >
+    Gauss's Theorem
+  3: >
+    Euler's Theorem
+  4: >
+    Riemann's Hypothesis
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: cd4017f7-04b3-4f96-8cd7-e71713e1f230
+
+Question: |
+  What is this equation? F=G\*m1\*m2/d^2
+
+Answers:
+  1: >
+    the atomic number of an isotope of uranium at distance d from the nucleus
+  2: >
+    the force of gravity between two bodies of masses m1 and m2 at distance d
+  3: >
+    the  thermal force between two masses, m1 and m2 at a distance d from the isothermal center
+  4: >
+    the focal length of a lens of diopter length m1 and m2 at distance d
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 3106731c-487f-4d63-8667-1285b6196a04
+
+Question: |
+  What does this equation describe? y=A(sin) wt, where A is the amplitude and t is the time.
+
+Answers:
+  1: >
+    The tangent of the angle x
+  2: >
+    The cosine of the angle w
+  3: >
+    Linear motion
+  4: >
+    Simple harmonic motion
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: bf5daf0f-5a05-4253-853f-de42b0a06bb4
+
+Question: |
+  From which language does the word algebra derive?
+
+Answers:
+  1: >
+    Greek
+  2: >
+    Arabic
+  3: >
+    Latin
+  4: >
+    Sanskrit
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 8aa229a5-89cf-48bd-922a-497e160143f5
+
+Question: |
+  Which of these is not a prime number?
+
+Answers:
+  1: >
+    13
+  2: >
+    3
+  3: >
+    2
+  4: >
+    1
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: eb11a559-bee0-42d7-912e-38cc26888a45
+
+Question: |
+  During the Devonian period, when trees and forests began to appear for the first time, there were two types of fish: fish with ray fins and fish with lobe fins. Which type were able to make their way onto the land and breath air?
+
+Answers:
+  1: >
+    Neither
+  2: >
+    Both
+  3: >
+    Ray finned fish
+  4: >
+    Lobe finned fish
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 3ea86adc-10d3-4675-a0d2-e1ffbe6fc177
+
+Question: |
+  For over 1000 years most people believed that the sun circled the Earth. The scientific basis for this came from the book The Almagest written by this thinker.
+
+Answers:
+  1: >
+    Aristarchus
+  2: >
+    Hipparchus
+  3: >
+    Aristotle
+  4: >
+    Ptolemy
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: a1e4a5f8-d8a4-4d60-98d2-22d4d5b7011c
+
+Question: |
+  What does the Latin word facula refer to?
+
+Answers:
+  1: >
+    A region of unexplained loss of gravity beneath the earth's outer crust
+  2: >
+    Bright spots or patches on the suns photosphere
+  3: >
+    A measurement of the suns reflectivity
+  4: >
+    A dark region on the suns chromosphere
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 5053bc05-d703-4b63-98d4-449c42ef10d8
+
+Question: |
+  Who was the first person to use the term atomic bomb?
+
+Answers:
+  1: >
+    H.G. Wells
+  2: >
+    Robert Oppenheimer
+  3: >
+    Lise Meitner
+  4: >
+    Enrico Fermi
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: fa7f5398-e429-4040-849f-c57f44965d24
+
+Question: |
+  If x is positive, then x^2 < x.
+
+Answers:
+  1: >
+    False
+  2: >
+    True
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: d66bcad1-caf3-4f87-87ff-530156c8c054
+
+Question: |
+  This malleable, ductile, gray-white metal is very valuable. It is used in jewelry, in the production of electrical equipment, and in automobile emission systems. Certain compounds of this metal have shown to be effective in destroying tumors.
+
+Answers:
+  1: >
+    Bronze
+  2: >
+    Copper
+  3: >
+    Manganese
+  4: >
+    Platinum
+
+Correct: 4
 
 Explanation: |
   None

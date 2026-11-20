@@ -1130,6 +1130,62 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: a3a54afa-04c7-4ba9-87c0-b4347acd8821
+
+Question: |
+  Which company developed the computer game Command & Conquer: Generals?
+
+Answers:
+  1: >
+    Electronic Arts
+  2: >
+    Microsoft
+  3: >
+    NewGame Software
+  4: >
+    Nintendo
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: bfb09701-d00f-4f92-87a8-04c59c5a1924
+
+Question: |
+  Name the video game that has characters: Samanosuke Akechi, Princess Yuki,  Nobunaga.
+
+Answers:
+  1: >
+    Devil May Cry?
+  2: >
+    Tenchu: Wrath of Heaven?
+  3: >
+    Genji: Dawn of the Samurai?
+  4: >
+    Onimusha?
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: b6a340cd-74a9-402c-8b07-893afd1e7f85
 
 Question: |

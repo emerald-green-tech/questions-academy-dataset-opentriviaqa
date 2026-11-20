@@ -40753,6 +40753,58 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: fd713d01-77e4-44d3-9239-f0900f41b318
+
+Question: |
+  A large number of flies can appear around a dead body within the first 24 hours of death. This is mainly because the flies lay eggs on the body, this multiplying their numbers.
+
+Answers:
+  1: >
+    True
+  2: >
+    False
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 6983b034-5eff-4b4f-ab24-0fa925ba7d9f
+
+Question: |
+  Three of these snakes produce venom, lethal to humans. Which one does not?
+
+Answers:
+  1: >
+    King Cobra
+  2: >
+    Desert Kingsnake
+  3: >
+    Mamba
+  4: >
+    Rattlesnake
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: 22412934-05f8-4a28-9fbc-47f611aca450
 
 Question: |
@@ -40781,6 +40833,86 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: 6fa73277-f479-4545-89b1-8fa88807606d
+
+Question: |
+  The "peppered moth" is a prime example of micro evolution, where the moth’s color changed over a span of 200 years to match the soot-darkened trunks of the trees it inhabits. The darker moths survived because they were less conspicuous than their white counterparts to the birds that preyed on them. What is the term associated with the coloration change demonstrated in the peppered moth?
+
+Answers:
+  1: >
+    Industrial Melanism
+  2: >
+    Revolutionary Adaptation
+  3: >
+    Natural Pigmentism
+  4: >
+    Genetic Blackening
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 41d4d8d2-f546-488e-9154-5f25309ab317
+
+Question: |
+  The narwhal has two teeth in its upper jaw, one of which develops into a horn-like protrusion. It is almost always the left one that becomes the horn.
+
+Answers:
+  1: >
+    False
+  2: >
+    True
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: b530b184-7b25-46dc-918e-109dcd4892f9
+
+Question: |
+  Which of the following primates is the closest related to humans? That is, this primate has more DNA in common with humans than any other living creature does.
+
+Answers:
+  1: >
+    Lemur
+  2: >
+    Chimpanzee
+  3: >
+    Gorilla
+  4: >
+    Orangutan
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: a54549c3-372f-4536-927f-60f83b6830f4
 
 Question: |
@@ -40793,6 +40925,62 @@ Answers:
     False
 
 Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: fc286165-f3b1-4e27-9acc-be3daa4027c9
+
+Question: |
+  If the tail of these animals appears thicker, then you could expect a severe winter.
+
+Answers:
+  1: >
+    Squirrels
+  2: >
+    Bears
+  3: >
+    Skunks
+  4: >
+    Marmots
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 2d7af6d6-d925-4105-85bf-a1c0a5b3782e
+
+Question: |
+  Turtles employ numerous survival techniques. Which one is not among these natural devices for survival?
+
+Answers:
+  1: >
+    Their ability to breathe out of their mouth and out of their anus
+  2: >
+    Their shells, impervious to attacks by any animals other than humans
+  3: >
+    Their ability to live both on land and in the water
+  4: >
+    Their incredible orientation skills - they get back to lay eggs where they were born
+
+Correct: 2
 
 Explanation: |
   None

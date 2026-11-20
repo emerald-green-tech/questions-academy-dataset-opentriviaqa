@@ -378,6 +378,34 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: 183caf49-1cf7-467f-b4d0-71429ee64522
+
+Question: |
+  The most complete Australopithecus skeleton, dubbed Lucy, was found in 1974. She was 1.10m (3"7') tall and weighed about 30kg (66lbs). Anthropologists named the skeleton after this Lucy.
+
+Answers:
+  1: >
+    Lucille Ball from the TV show I Love Lucy
+  2: >
+    Lucy of Lucy Clothing Manufacturers
+  3: >
+    Lucy from The Beatles song Lucy in the Sky with Diamonds
+  4: >
+    Actress Lucy Liu
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: 540fba41-55d0-4f73-a575-e8b17901e564
 
 Question: |
@@ -394,6 +422,62 @@ Answers:
     18.37 feet  (5.6 m)
 
 Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: b4d17545-7657-41aa-8da5-f9653a50b6cb
+
+Question: |
+  Mitochondrial DNA has been analyzed to estimate the ancestral lineage of various species around the world, including primates. Which of the following statements about mitochondria is true?
+
+Answers:
+  1: >
+    Mitochondrial DNA does not mutate.
+  2: >
+    Mitochondria function in the cell to break down waste products.
+  3: >
+    Mitochondria are descended from once-separate, single-celled organisms which invaded a cell, stuck around, then lost their ability to live independently.
+  4: >
+    Mitochondrial DNA is only inherited by males.
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 070a6ee3-1bbc-4310-b871-fbe401fda784
+
+Question: |
+  The nose is an amazing piece of the human body. Every flower or food gives off odor molecules that your nose picks up and your brain translates. How many smells can your brain recognize?
+
+Answers:
+  1: >
+    5,000
+  2: >
+    15,000
+  3: >
+    10,000
+  4: >
+    20,000
+
+Correct: 3
 
 Explanation: |
   None

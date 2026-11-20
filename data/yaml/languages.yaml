@@ -1002,6 +1002,34 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: 6acc63ea-5d18-46a6-b269-53597d6f861b
+
+Question: |
+  The Behistun Inscription was carved into a cliff wall. It was deciphered by Henry Rawlinson. It contains the same text in 3 different languages. All 3 of the texts, however, are written in the same script. What is this script called?
+
+Answers:
+  1: >
+    Hieroglyphs
+  2: >
+    Cyrillic
+  3: >
+    Cuneiform
+  4: >
+    Hangul
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: a4fb8b1a-29ac-49bf-a760-1282c49c48a8
 
 Question: |
@@ -4350,6 +4378,90 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: b5d468cf-2f1b-47e5-83a9-f86c52552e65
+
+Question: |
+  One of the following pairs of chat abbreviation and its meaning is wrong.
+
+Answers:
+  1: >
+    BRB - Be Right Back
+  2: >
+    ATM - At The Moment
+  3: >
+    TTYL - To Tell You a Lie
+  4: >
+    TIA - Thanks In Advance
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: b9e7cfde-d542-461a-ae31-d411e6e59ebe
+
+Question: |
+  In chat jargon, the emoticon [8-] refers to this person.
+
+Answers:
+  1: >
+    Elvis
+  2: >
+    Ronald Regan
+  3: >
+    Frankenstein
+  4: >
+    The Pope
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 2b7f1264-e15e-4a67-9e89-503924b843fd
+
+Question: |
+  The word *phlebo* is of Greek origin, which comes from the root phlein, meaning to gush or to overflow. What part of the body does this word refer to?
+
+Answers:
+  1: >
+    Aorta
+  2: >
+    Arteries
+  3: >
+    Capillaries
+  4: >
+    Veins
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: ecfc2c64-982f-4bbb-ae3d-42aa9d0c960c
 
 Question: |
@@ -4366,6 +4478,228 @@ Answers:
     Korea
 
 Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 9a679c4d-b780-422d-8522-e182fa0fc05f
+
+Question: |
+  *Octo-* is a prefix meaning eight. An octopus has eight legs. An octagon has 8 sides. An octogenarian is at least 8 decades old. What is the eighth month?
+
+Answers:
+  1: >
+    November
+  2: >
+    August
+  3: >
+    October
+  4: >
+    September
+
+Correct: 2
+
+Explanation: |
+  October was originally the eighth month of the ancient Roman calendar.
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 1ec0d1bd-8f46-4f34-8604-f201488b6ba9
+
+Question: |
+  Ladino is a language composed of which two other languages ?
+
+Answers:
+  1: >
+    Spanish and Portuguese
+  2: >
+    Spanish and Arabic
+  3: >
+    Hebrew and Spanish
+  4: >
+    Portuguese and Italian
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 2a3e2e84-a29d-4b9e-b0fc-732e35685bc5
+
+Question: |
+  When something is especially cleaned one is said to have *applied polish and ...*  to it.
+
+Answers:
+  1: >
+    Ajax
+  2: >
+    Spit
+  3: >
+    Elbow grease
+  4: >
+    Cleanser
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 22d5b4f1-2f58-467d-8a81-0171eca5bcc4
+
+Question: |
+  Which word in this sentence is incorrectly used: The new trivia mix was answered by Joe and me.
+
+Answers:
+  1: >
+    me
+  2: >
+    answered
+  3: >
+    trivia
+  4: >
+    mix
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: be0092c0-394c-4e1b-873a-8a0d17db466e
+
+Question: |
+  Which of these words means gloomy, dark, sadly dim?
+
+Answers:
+  1: >
+    insouciant
+  2: >
+    qutianous
+  3: >
+    prolix
+  4: >
+    tenebrous
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 986793e7-b034-4864-84ad-da7f8c3a4e2f
+
+Question: |
+  Which use of the term "Wild West" is incorrect?
+
+Answers:
+  1: >
+    Wild West is the title of several Western movies
+  2: >
+    Wild West is a Nintendo game
+  3: >
+    Wild West was a common name for territories west of the Rio Grande river
+  4: >
+    Wild West is an album of Dottie West
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: c2f96a58-f7cb-41b7-a91d-9106bec2cab0
+
+Question: |
+  The following group of words (as a whole) makes up a palindrome:
+  
+  > A man. A plan. A canal. Panama.
+
+Answers:
+  1: >
+    False
+  2: >
+    True
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: a74d6621-0310-43d7-9182-cd0859230016
+
+Question: |
+  What do the male name Thomas and its derivatives Tom, Thom, Tomas, Tomm all mean?
+
+Answers:
+  1: >
+    Brave
+  2: >
+    Doubt
+  3: >
+    Soldier
+  4: >
+    Twin
+
+Correct: 4
 
 Explanation: |
   None

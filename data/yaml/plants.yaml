@@ -3890,6 +3890,34 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: c48ee36f-228a-4838-95d0-c9ee31733521
+
+Question: |
+  In the city of Athens, Georgia, USA, there is a White Oak tree with more rights than any other tree. What is so special about this tree?
+
+Answers:
+  1: >
+    Touching it is against the law.
+  2: >
+    It owns itself.
+  3: >
+    It owns a human being.
+  4: >
+    It has the right to vote.
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: 1463d752-0cd8-4bfd-82bf-2ce107faa9a8
 
 Question: |

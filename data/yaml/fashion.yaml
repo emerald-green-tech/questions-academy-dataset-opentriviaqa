@@ -3449,3 +3449,59 @@ Notes: >
   None
 
 SchemaVersion: 1
+---
+ID: 8e41c54f-2768-4fd1-94aa-6effc4d06614
+
+Question: |
+  This famous bra brand was introduced to the USA in May 1994. It started selling at a rate of one every 15 seconds at the initial retail price of $26.
+
+Answers:
+  1: >
+    Bali
+  2: >
+    Wonderbra
+  3: >
+    La Perla
+  4: >
+    Victorias Secret
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: c2cac586-73f1-4f0c-8748-98bc19aec212
+
+Question: |
+  She was the first woman to wear high-heeled shoes.
+
+Answers:
+  1: >
+    Cleopatra
+  2: >
+    Joan of Arc
+  3: >
+    Catherine DeMedici
+  4: >
+    Queen Elizabeth I
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1

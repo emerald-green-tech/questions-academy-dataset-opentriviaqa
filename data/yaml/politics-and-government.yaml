@@ -1514,6 +1514,114 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: b16c390f-7b74-42a5-9178-cc4f7d14b866
+
+Question: |
+  This man, named Person of the Year by Time magazine in 2001, stood tall after the 9/11 and inspired his city to get through the terrible attack.
+
+Answers:
+  1: >
+    David Ho
+  2: >
+    Rudy Giuliani
+  3: >
+    Adrien Fenty
+  4: >
+    Peter Uberroth
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 0b6bf078-d598-4c51-b294-e693848301e3
+
+Question: |
+  This criminal was convicted of kidnapping, rape, and armed robbery in the '60s in Phoenix, AZ. The case went all the way to the Supreme Court of the U. S., and a ruling was made to protect the ignorant and indigent but it applies to everyone when they are arrested. Who was the defendant in this landmark case in American Jurisprudence?
+
+Answers:
+  1: >
+    John Henry Faulk
+  2: >
+    Clarence Earl Gideon
+  3: >
+    Dred Scott
+  4: >
+    Ernesto Miranda
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: db8621c3-268a-46fe-a8ad-1ec5bed1dd46
+
+Question: |
+  How many times did President Harry S. Truman win Time magazine's Man of the Year award?
+
+Answers:
+  1: >
+    1
+  2: >
+    3
+  3: >
+    2
+  4: >
+    0
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: ecb69db8-fab1-40d6-a960-5f26abe94259
+
+Question: |
+  Prior to 1837 if you mailed a letter, the person receiving the letter had to pay for postage.
+
+Answers:
+  1: >
+    False
+  2: >
+    True
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: a4291082-6f0a-4740-9777-7aa659611dff
 
 Question: |
@@ -1610,6 +1718,118 @@ Answers:
     Britain's economy fell into stagnation as a result of it.
 
 Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 016f5248-0f79-409c-9234-f2f30cbbe1cb
+
+Question: |
+  International trade is an important part of world economy. Which statement about international trade is not true?
+
+Answers:
+  1: >
+    Globalization is a process closely related to international trade.
+  2: >
+    Large countries depend more on trade than smaller countries do.
+  3: >
+    Communist and socialist nations tend to aspire to complete lack of international trade (autarky).
+  4: >
+    Free trade is most strongly supported by the economically powerful nation in the world.
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 1868b165-72ee-4bdc-8432-ad5ab6edcab5
+
+Question: |
+  Hammer v. Dagenhart was an important Supreme Court case, which dealt what topic?
+
+Answers:
+  1: >
+    Segragation
+  2: >
+    The right to privacy
+  3: >
+    Abortion rights
+  4: >
+    Child labor vis-a-vis interstate commerce
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: b0fbfa93-6cb4-43da-8b67-e8f71e8692bb
+
+Question: |
+  Which are the only two states in the USA that do not allow drivers to pump their own gas?
+
+Answers:
+  1: >
+    Utah and Wyoming
+  2: >
+    New Jersey and Oregon
+  3: >
+    New Jersey and Utah
+  4: >
+    Oregon and Wyoming
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: b7e157e3-4510-4bdc-b288-7a90013a0b51
+
+Question: |
+  Which Amendment  to the US Constitution guarantees the right to privacy?
+
+Answers:
+  1: >
+    The Fourteenth
+  2: >
+    The Fifteenth
+  3: >
+    It is not guaranteed in the Constitution
+  4: >
+    The Second
+
+Correct: 3
 
 Explanation: |
   None

@@ -1610,6 +1610,90 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: a6ea7c4d-0918-4ff0-a277-8e0e0e9154c3
+
+Question: |
+  In Ireland and Scotland the Féile na Marbh traditionally took place at Samhain. What does Féile na Marbh mean?
+
+Answers:
+  1: >
+    Festival of fire
+  2: >
+    Festival of the dead
+  3: >
+    Harvest festival
+  4: >
+    Festival of the dark
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: c3a3230d-14f0-4737-a999-a49f6ff571b3
+
+Question: |
+  A famous mythical logger, Paul Bunyan, has a famous mythical ox as a sidekick. What's the name of the ox?
+
+Answers:
+  1: >
+    King
+  2: >
+    None of these
+  3: >
+    Babe
+  4: >
+    Victor
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: b539c992-006e-44db-8590-de6e934c5c61
+
+Question: |
+  A horn from what animal is used as a modern replacement of rhinoceros's horn in traditional Chinese medicine?
+
+Answers:
+  1: >
+    Buffalo
+  2: >
+    Goat
+  3: >
+    All of these
+  4: >
+    Ram
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: 6e209eb2-5312-4898-b2c8-abb72172711f
 
 Question: |
@@ -1704,6 +1788,118 @@ Answers:
     False
   2: >
     True
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: f5ab1a00-956a-4c00-83e5-71aff2458a77
+
+Question: |
+  In which of these countries is showing negative facial expressions considered impolite and is therefore avoided? Negative expressions are instead usually masked with smile or laughter.
+
+Answers:
+  1: >
+    Peru
+  2: >
+    Kenya
+  3: >
+    Indonesia
+  4: >
+    Japan
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 59aaa4b1-8099-45ca-81ce-dd107678a6b4
+
+Question: |
+  The terms ahimsa and satyagraha are generally associated with whom?
+
+Answers:
+  1: >
+    Mahatma Gandhi
+  2: >
+    Angelina Jolie
+  3: >
+    Buddha
+  4: >
+    Indira Gandhi
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: f44f2272-3d1c-4789-be8e-e4c730b77bf4
+
+Question: |
+  According to a belief, women should wear diamonds on this finger.
+
+Answers:
+  1: >
+    The thumb of the right hand
+  2: >
+    The index finger of the left hand
+  3: >
+    The middle finger of the left hand
+  4: >
+    The middle finger of the right hand
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 967377aa-d701-4884-b428-104c3c8f4aaa
+
+Question: |
+  At wedding ceremonies in Iran, this object is placed between two candelabras on a spread, to represent the brightly future of the couple.
+
+Answers:
+  1: >
+    Silver plate
+  2: >
+    Mirror
+  3: >
+    Lamp
+  4: >
+    Diamond ring
 
 Correct: 2
 

@@ -134,6 +134,58 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: 60645b4d-113f-47de-8f60-242a43be4acd
+
+Question: |
+  Cars can be stolen by thieves who write down VINs (car serial numbers) and use them to obtain duplicate keys through auto dealerships.
+
+Answers:
+  1: >
+    True
+  2: >
+    False
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: a3aa3ba1-9b6d-4188-83fe-ed3b0d029e0f
+
+Question: |
+  Researchers in England found this to be true of blond cashiers in supermarkets.
+
+Answers:
+  1: >
+    Have frequent technical issues with the registers
+  2: >
+    Gather greater queues
+  3: >
+    Receive more tips from customers
+  4: >
+    Have higher chances of not balancing the register at the end of the day
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: d99e44d6-f194-45dc-bf0e-711472c30abb
 
 Question: |
@@ -176,6 +228,34 @@ Answers:
     60
   4: >
     6
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 47fdaaf5-988a-4313-a14f-6e2805f1eb37
+
+Question: |
+  Some of the most persecuted people in history, they trace their origins to northwestern India or present day Pakistan. The Nazis killed as many as 400,000 of them. By the 1400s they had spread across Asia Minor and into Egypt, Spain and Germany. Who are they?
+
+Answers:
+  1: >
+    The Sabines
+  2: >
+    The Creatans
+  3: >
+    The Slavs
+  4: >
+    The Roma
 
 Correct: 4
 

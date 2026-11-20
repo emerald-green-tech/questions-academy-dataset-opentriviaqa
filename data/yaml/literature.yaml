@@ -13426,6 +13426,34 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: d8a0a266-7c9d-4db6-b101-eb541e67f87b
+
+Question: |
+  The Brook Farm area was a settlement of intellectuals on the outskirts of Hartford. Among its distinguished residents were Harriet Beecher Stowe and this author.
+
+Answers:
+  1: >
+    Mark Twain
+  2: >
+    Louisa Mae Alcott
+  3: >
+    Eugene ONeill
+  4: >
+    Robert Benchley
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: cc379848-32c6-430b-9663-cf3bfbaaba97
 
 Question: |
@@ -13442,6 +13470,62 @@ Answers:
     Tom Snout
 
 Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: edc9ca60-f865-4357-8721-d634bbc43f76
+
+Question: |
+  This Oxford scholar was a master of satire. He wrote A Modest Proposal, and An Argument Against Abolishing Christianity.
+
+Answers:
+  1: >
+    William Golding
+  2: >
+    Roger Bannister
+  3: >
+    Jonathan Swift
+  4: >
+    Adam Smith
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: ce29aabf-db0d-46fa-b5f6-dcdac4f12afa
+
+Question: |
+  On June 5 in 1851 The National Era began publishing a serial that took ten months to finish. The serial which treated slavery was made into a very popular book. Who was the author?
+
+Answers:
+  1: >
+    Samuel Clemens (Mark Twain)
+  2: >
+    Horace Greeley
+  3: >
+    Harriet Ward Lowell
+  4: >
+    Harriet Beecher Stowe
+
+Correct: 4
 
 Explanation: |
   None
@@ -52609,6 +52693,62 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: 3144566c-e211-43c2-b5c7-a4537c864b91
+
+Question: |
+  This author wrote a book in which the story is told from the view point of the mulatto slave Cynara, born on the plantation Tata. The book is a parody of the novel Gone with the Wind.
+
+Answers:
+  1: >
+    Maya Angelu
+  2: >
+    Toni Morrisson
+  3: >
+    Valerie Drew Pierce
+  4: >
+    Alice Randall
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: c1121ea1-f27c-4918-a154-ff9627e46da4
+
+Question: |
+  Which of these books was not written by Steve Allen?
+
+Answers:
+  1: >
+    The Murder Game
+  2: >
+    Murder in Manhattan
+  3: >
+    The Talk Show Murders
+  4: >
+    Murder in the Valley
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: 7bd84eb2-fc71-4b3a-a66e-789985267d16
 
 Question: |
@@ -52693,6 +52833,62 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: 76fbeaee-8fe2-4226-bda4-5cb3b622768d
+
+Question: |
+  This author of popular novels, who was a lecturer at Wellesley College, spoke fluent English, Russian and French and made chess problems in his spare time.
+
+Answers:
+  1: >
+    Brecht
+  2: >
+    Pasternak
+  3: >
+    Nabokov
+  4: >
+    Steinbeck
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: b61589fe-fc30-42d9-9070-0d4b089c1811
+
+Question: |
+  Who was the famous American writer whose first job was selling and making pencils?
+
+Answers:
+  1: >
+    Henry David Thoreau
+  2: >
+    John Steinbeck
+  3: >
+    Benjamin Franklin
+  4: >
+    Nathaniel Hawthorne
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: ec372fb9-98a4-4392-8820-94a80684bb22
 
 Question: |
@@ -52709,6 +52905,118 @@ Answers:
     The Tempest
 
 Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: f968e3d9-2d2d-4221-8152-09e0f74c7395
+
+Question: |
+  Let me in! I'm so cold, pleads the ghost of Catherine Earnshaw. In what 1847 novel will you find the story of the doomed lovers Catherine Earnshaw and the wild gypsy Heathcliff?
+
+Answers:
+  1: >
+    Lorna Doone
+  2: >
+    Wuthering Heights
+  3: >
+    Jane Eyre
+  4: >
+    Agnes Gray
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 48862fc7-196e-4a30-a902-659d4dfcd29a
+
+Question: |
+  This Czech writer wrote a play called R.U.R.: Rossum's Universal Robots.
+
+Answers:
+  1: >
+    Carl Kuchik
+  2: >
+    Peter Kipchak
+  3: >
+    Karel Capek
+  4: >
+    Wilhem Capok
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 14c1e159-3c91-4923-832d-c72ad84491bf
+
+Question: |
+  This great American literary work was intended to be both a novella and a play. It has been made into a full-length movie at least three times. It hits on themes of mental illness, prejudice, loneliness and brutality. It revolves around two friends named George and Lennie. What is its title?
+
+Answers:
+  1: >
+    Of Mice and Men
+  2: >
+    To Kill a Mockingbird
+  3: >
+    In Cold Blood
+  4: >
+    The Grapes of Wrath
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: d437c31d-f186-4e52-ba1c-8e13bca47367
+
+Question: |
+  This novel told the story of two families, the Hamiltons and the Trasks, living in the Salinas Valley in California. It is loosely based on Biblical stories.
+
+Answers:
+  1: >
+    East of Eden
+  2: >
+    My Brothers Keeper
+  3: >
+    The Tree of Life
+  4: >
+    The Caine Mutiny
+
+Correct: 1
 
 Explanation: |
   None
@@ -52749,6 +53057,34 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: 739b8254-8724-4d70-a59f-44d459ed838a
+
+Question: |
+  Atticus Finch was a great, moral man and a fine lawyer who defended Tom Robinson. In which novel and movie was he a central character?
+
+Answers:
+  1: >
+    To Kill a Mockingbird
+  2: >
+    The Trial
+  3: >
+    Witness for the Prosecution
+  4: >
+    Anatomy of a Murder
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: 10dd4229-4d7e-4a89-8cc7-e5b14d08e8df
 
 Question: |
@@ -52765,6 +53101,34 @@ Answers:
     She marries the prince and they live happily ever after.
 
 Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: f640ff31-d39d-4d09-8202-3e58fbf0f47b
+
+Question: |
+  Who was the first American novelist to be considered an important writer by the Europeans?
+
+Answers:
+  1: >
+    Washinton Irving
+  2: >
+    James Fennimore Cooper
+  3: >
+    Thomas  Howell
+  4: >
+    John Quincy Adams
+
+Correct: 4
 
 Explanation: |
   None

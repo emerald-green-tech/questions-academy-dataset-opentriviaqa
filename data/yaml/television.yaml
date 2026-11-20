@@ -4228,6 +4228,78 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: efb5dc3c-b2cb-44f9-952e-99b55a424118
+
+Question: |
+  The Rifleman was one of the TV westerns Johnny Crawford starred in.
+
+Answers:
+  1: >
+    False
+  2: >
+    True
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 6cf70f1c-8982-41e1-bc95-554f42a8bb0b
+
+Question: |
+  On The Rifleman series, Johnny Crawford’s characters name was Matt.
+
+Answers:
+  1: >
+    False
+  2: >
+    True
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 53f525a8-4897-484b-a8b6-27adaea18f58
+
+Question: |
+  Johnny Crawford never received an Emmy nomination.
+
+Answers:
+  1: >
+    False
+  2: >
+    True
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: fb422f34-dbbb-4f9a-b8f4-6541192e67bc
 
 Question: |
@@ -146873,6 +146945,90 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: 613d909d-4a9e-4f18-827f-7b039809dd6c
+
+Question: |
+  TV Guide named this man the greatest television character of all times. He lived with his wife Edith at 704 Hauser Street in Queens, New York. What television character's favorite chair can be seen in the National Museum of American History?
+
+Answers:
+  1: >
+    George Jefferson
+  2: >
+    Cliff Huxtable
+  3: >
+    Carlton Banks
+  4: >
+    Archie Bunker
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 85b0ac06-ef81-42c9-8049-5d2d56b40810
+
+Question: |
+  Which CBS news show was the first to feature live simultaneous transmissions both from the East Coast and the West Coast?
+
+Answers:
+  1: >
+    See It Now
+  2: >
+    Camel News Caravan
+  3: >
+    48 Hours
+  4: >
+    Huntley-Brinkley
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 5f4944d2-3a17-4972-942c-980f55e945eb
+
+Question: |
+  This actor, who earned an MFA from Yale School of Drama, is famous for his long-running roles on Law & Order and Sex and the City.
+
+Answers:
+  1: >
+    David Duchovny
+  2: >
+    Sam Waterston
+  3: >
+    Henry Winkler
+  4: >
+    Chris Noth
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: 6cbd19a5-5102-4ac6-b622-e11b9acf7ed0
 
 Question: |
@@ -153881,6 +154037,202 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: 194b91d1-a910-4e71-8ee7-7954e282fddb
+
+Question: |
+  This is considered the first American sitcom with a gay character.
+
+Answers:
+  1: >
+    The Nancy Walker Show
+  2: >
+    Soap
+  3: >
+    Barney Miller
+  4: >
+    The Corner Bar
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 169f6bfb-5094-4668-bda3-c4445252ac73
+
+Question: |
+  The first scheduled TV broadcasts, which began in 1928, originated in which US state?
+
+Answers:
+  1: >
+    California
+  2: >
+    New Jersey
+  3: >
+    New York
+  4: >
+    Massachusetts
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 6f7879ed-0598-40bd-a472-1ff124a68949
+
+Question: |
+  Across the Hall, Friends Like Us, Insomnia Café and Six of One are all working titles of one of famous US TV-series. Name the series.
+
+Answers:
+  1: >
+    Friends
+  2: >
+    Sex and the City
+  3: >
+    ALF
+  4: >
+    One Tree Hill
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 53613299-5ef4-4590-ae28-9918d6b3fd00
+
+Question: |
+  In the Looney Tunes cartoons, there was a little bird who was always trying to catch Foghorn Leghorn. What's the name of this brave little brown bird?
+
+Answers:
+  1: >
+    Yoyo
+  2: >
+    Henery Hawk
+  3: >
+    Booker T.
+  4: >
+    Sid the Sparrow
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 320d0190-8882-482a-bc76-258e2d7e300a
+
+Question: |
+  Who was the first guest on The Tonight Show when Johnny Carson was the host?
+
+Answers:
+  1: >
+    Bette Midler
+  2: >
+    Bob Hope
+  3: >
+    Groucho Marx
+  4: >
+    Steve Allen
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 510b50b1-9a94-405f-ae13-4f4bd42445b7
+
+Question: |
+  It was one of the first TV shows for children. It featured one human and many puppets, all worked by one man, Burr Tillstrom. What was its name ?
+
+Answers:
+  1: >
+    Howdy Doody
+  2: >
+    Kukla, Fran and Ollie
+  3: >
+    Crusader Rabbit and Rags the Tiger
+  4: >
+    Wonder-Rama
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 3b627ed5-58c5-46f8-81d0-6c3f5a9a1bc3
+
+Question: |
+  This was the first TV show to demand and get $1 million per minute for ads.
+
+Answers:
+  1: >
+    Seinfeld
+  2: >
+    Everyone Loves Raymond
+  3: >
+    Frasier
+  4: >
+    Saturday Night Live
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: bb918dd2-d7a3-43cd-8cfd-6c75ab4594a1
 
 Question: |
@@ -153897,6 +154249,34 @@ Answers:
     Tom Everett Scott
 
 Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 8b715352-06ac-4e8b-902c-6cd93db1d3aa
+
+Question: |
+  This very successful rock group appeared in an episode of Will and Grace.
+
+Answers:
+  1: >
+    Genesis
+  2: >
+    Bon Jovi
+  3: >
+    Hall and Oates
+  4: >
+    The Bangles
+
+Correct: 3
 
 Explanation: |
   None

@@ -2630,6 +2630,34 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: d55e9433-7c80-4d94-aba9-0f607e70fbdb
+
+Question: |
+  In terms of yearly undergraduate tuition, the most expensive college in the USA is in this state.
+
+Answers:
+  1: >
+    Massachusetts
+  2: >
+    New York
+  3: >
+    Georgia
+  4: >
+    Connecticut
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: 9a4b1df2-8448-48ef-b7be-839d4f6a5622
 
 Question: |
@@ -2770,10 +2798,90 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: 9894b112-98c7-483e-a159-58395ddb16f8
+
+Question: |
+  Women's Memorial is a site honoring all military women - past, present and future. Which cemetery is it located in?
+
+Answers:
+  1: >
+    National Cemetery Webling
+  2: >
+    Arlington National Cemetery
+  3: >
+    Barrancas National Cemetery
+  4: >
+    Marietta National Cemetery
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: 779c9407-1278-48fd-801d-cfe6bf61f9ae
 
 Question: |
   Baltimore is the capital of Maryland.
+
+Answers:
+  1: >
+    True
+  2: >
+    False
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: e813f5a5-cfd0-45e8-ac5f-bc62323cfc23
+
+Question: |
+  Which Freeway is closest in proximity to Randy's Donuts, at 805 Manchester Ave in Inglewood?
+
+Answers:
+  1: >
+    The 405, San Diego Freeway
+  2: >
+    The 110, Pasadena Freeway
+  3: >
+    The 710, Harbor Freeway
+  4: >
+    The 210, Foothill Freeway
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 73f4851d-15e4-449a-a9dd-e46cd958e735
+
+Question: |
+  The 55 in Orange County is known exclusively as the Costa Mesa Freeway.
 
 Answers:
   1: >
@@ -3276,6 +3384,34 @@ Answers:
     Chicago
   4: >
     Princeton
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 8842b1c3-0c7b-48d0-b8ec-36803676bf7d
+
+Question: |
+  According to the 2003 US Census Bureau statistics, about how many Americans classify themselves as Native Americans?
+
+Answers:
+  1: >
+    19,987
+  2: >
+    12,719,508
+  3: >
+    278,652
+  4: >
+    2,786,652
 
 Correct: 4
 
@@ -4202,6 +4338,58 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: 9f22d0b7-cc9b-4d6d-9e0b-9dd81dca2c25
+
+Question: |
+  You're crossing Hoover Dam from Nevada into Arizona (USA) during the Winter months (after Oct 31st). Will you change Time Zones?
+
+Answers:
+  1: >
+    No
+  2: >
+    Yes
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: bf198dfc-94e7-4798-a5bf-d7664a87a680
+
+Question: |
+  You live in Ossining, NY, USA, and you call your friend in Honolulu, Hawaii. It's the month of May. How many hours time difference are there between these 2 locales?
+
+Answers:
+  1: >
+    6 Hours Difference
+  2: >
+    4 Hours Difference
+  3: >
+    3 Hours Difference
+  4: >
+    5 Hours Difference
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: 1072ea92-d2d6-4327-81f4-70bfccbdf1de
 
 Question: |
@@ -4216,6 +4404,34 @@ Answers:
     Pittsburgh, Pennsylvania
   4: >
     Washington, D.C.
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: a7da4eb2-7758-49ad-9638-c989dcf7a59c
+
+Question: |
+  It has an unemployment rate of 15%. According to the 2000 Census it is the poorest of the 100 largest US Cities. Which city is it?
+
+Answers:
+  1: >
+    Newark
+  2: >
+    New Haven
+  3: >
+    Detroit
+  4: >
+    Boca Raton
 
 Correct: 3
 
@@ -4254,6 +4470,62 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: 97aca4b7-d0a1-40a8-9e81-fe6b80a35382
+
+Question: |
+  Which one of these is the motto of the state of Missouri?
+
+Answers:
+  1: >
+    Semper ubi sub ubi
+  2: >
+    Magnus inter opes inops
+  3: >
+    Salus populi suprema lex esta
+  4: >
+    Pares cum paribus facillime congregantur
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: aed0cc6f-8693-4413-9cc9-c845d7e9f277
+
+Question: |
+  In the Spring of 1967, this city was 700 acres of rock and timber. In a little more than 6 months it would be transformed in a high-tech city. It was commissioned by a company, whose mission was simple - to build the biggest and fastest subsonic commercial jetliner ever constructed.
+
+Answers:
+  1: >
+    Greenbank, Washington
+  2: >
+    Walla Walla, Washington
+  3: >
+    Everett, Washington
+  4: >
+    Olympia, Washington
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: 03aa2284-9efd-4161-9c18-4192a6a8a055
 
 Question: |
@@ -4270,6 +4542,62 @@ Answers:
     Florida
 
 Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 498b9ce3-3473-4721-9c47-b518918108a2
+
+Question: |
+  Which US city is nicknamed The Venice of America?
+
+Answers:
+  1: >
+    Fort Lauderdale, Florida
+  2: >
+    Punta Gorda, Florida
+  3: >
+    Key West, Florida
+  4: >
+    Biloxi, Mississippi
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 909ae409-69c3-4bc5-a0b4-30176e1546be
+
+Question: |
+  Where was the first museum in the USA located?
+
+Answers:
+  1: >
+    Charleston, S.C.
+  2: >
+    Philadelphia, PA.
+  3: >
+    Boston, MA.
+  4: >
+    Augusta, Maine
+
+Correct: 1
 
 Explanation: |
   None
