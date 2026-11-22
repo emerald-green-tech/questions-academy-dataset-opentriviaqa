@@ -85,7 +85,7 @@ SchemaVersion: 1
 ID: 75128476-1460-44b0-a7d5-c67c549a2cca
 
 Question: |
-  According to historians this indigo-colored vegetable originates from India.  However, there are some written accounts from the 5th century in China, which indicate its cultivation there as well.
+  According to historians this indigo-colored vegetable originates from India. However, there are some written accounts from the 5th century in China, which indicate its cultivation there as well.
 
 Answers:
   1: >
@@ -169,7 +169,7 @@ SchemaVersion: 1
 ID: 9349ef1c-f784-43e1-a9af-d6b9a1e2a105
 
 Question: |
-  This orange vegetable was first discovered in Afghanistan 5000 years ago. Paintings were found on the walls of temples in Egypt, where it is believed to have been used for  treatment of diseases.
+  This orange vegetable was first discovered in Afghanistan 5000 years ago. Paintings were found on the walls of temples in Egypt, where it is believed to have been used for treatment of diseases.
 
 Answers:
   1: >
@@ -445,7 +445,7 @@ SchemaVersion: 1
 ID: 40e55f91-fd19-4af3-9aee-9f330fd0852b
 
 Question: |
-  Which popular substance, derived from orchids, is widely used in  the making of desserts.
+  Which popular substance, derived from orchids, is widely used in the making of desserts.
 
 Answers:
   1: >
@@ -2641,7 +2641,7 @@ SchemaVersion: 1
 ID: 0ffad5b1-849c-4354-8eaf-a43c3234d79a
 
 Question: |
-  The main components of this slow-growing perennial plant, often used as a general tonic, affect the physical and mental activity of the body, providing revitalising properties.  The English word of the plant derives from a Chinese term meaning man root.
+  The main components of this slow-growing perennial plant, often used as a general tonic, affect the physical and mental activity of the body, providing revitalising properties. The English word of the plant derives from a Chinese term meaning man root.
 
 Answers:
   1: >
@@ -3574,6 +3574,34 @@ Answers:
     Foxglove
 
 Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 6fd73210-6f51-4fda-9c06-8c47fddf14e7
+
+Question: |
+  In early 1800s, marijuana was the number one crop in this American state.
+
+Answers:
+  1: >
+    California
+  2: >
+    Texas
+  3: >
+    Idaho
+  4: >
+    Kentucky
+
+Correct: 4
 
 Explanation: |
   None

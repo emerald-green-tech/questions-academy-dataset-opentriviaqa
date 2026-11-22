@@ -170,6 +170,283 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: 1b883429-b298-41a4-a59e-31c47a72bcae
+
+Question: |
+  In the United Kingdom, what holiday is December 26th?
+
+Answers:
+  1: >
+    Perihelion
+  2: >
+    Boxing Day
+  3: >
+    Candlemas
+  4: >
+    St Patrick's Day
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 020f5a42-2f8b-433b-b762-c10303a18425
+
+Question: |
+  Christmas celebrations in the Soviet Union were banned after the Russian Revolution.
+
+Answers:
+  1: >
+    True
+  2: >
+    False
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: df43cfce-5300-4b17-b440-b66a343bbbf6
+
+Question: |
+  Finish the popular Christmas carol:
+  
+  > Silent night Holy night<br />
+  > All is calm all is bright<br />
+  > Round yon virgin Mother and Child<br />
+  > Holy infant ...
+
+Answers:
+  1: >
+    so tender and mild
+  2: >
+    just cried
+  3: >
+    so playful and wild
+  4: >
+    just smiled
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 2e72887f-f5e9-4073-8da8-bb489408c3b9
+
+Question: |
+  The origins of the widespread tradition of decorating a Christmas tree can be traced back to the 16th century, in this country.
+
+Answers:
+  1: >
+    The United States
+  2: >
+    France
+  3: >
+    Russia
+  4: >
+    Germany
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 6c8ae52b-9d9c-4397-91ac-ebf27f80a706
+
+Question: |
+  For Catholics, Protestants and most Orthodox Christians, the 25th of December is celebrated as Christmas. However, the Jerusalem, Russian, Coptic, Serbian and Georgian Orthodox churches celebrate the birth of Jesus on this date.
+
+Answers:
+  1: >
+    December 31
+  2: >
+    February 15
+  3: >
+    January 7
+  4: >
+    November 25
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: a29e24f6-7499-4241-8ab0-2283bd84f4a0
+
+Question: |
+  The burning of the Yule Log is one of many Christmas traditions that come from the Yule festival. Do you know what this tradition symbolizes?
+
+Answers:
+  1: >
+    The mortality of humans
+  2: >
+    The returning light
+  3: >
+    The Holy Spirit
+  4: >
+    The life-cycle
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 738d919d-3cd0-45e5-914f-806a0822fda8
+
+Question: |
+  Three of these names are of reindeers of Santa Claus. Which is the odd one?
+
+Answers:
+  1: >
+    Comet
+  2: >
+    Rudolph
+  3: >
+    Clement
+  4: >
+    Donder
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 1ce5c75a-2150-4f0b-9383-ac5422d30217
+
+Question: |
+  Halloween is celebrated the day before this Holy Catholic day.
+
+Answers:
+  1: >
+    Ash Wednesday
+  2: >
+    All Saints Day
+  3: >
+    Watch Night
+  4: >
+    Christmas
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 1e051b9d-253a-42a4-a85a-bb8283e2011f
+
+Question: |
+  In some parts of this country, Halloween is called Pooky Night.
+
+Answers:
+  1: >
+    Spain
+  2: >
+    Romania
+  3: >
+    Ireland
+  4: >
+    Switzerland
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 371360fe-a8cf-4a49-8ab0-48a85a0c8e6d
+
+Question: |
+  In some cities the most famous part of Halloween, the trick-or-treating, has been banned.
+
+Answers:
+  1: >
+    False
+  2: >
+    True
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: fd27df97-4c79-44ae-9c08-f2c5c7915b19
 
 Question: |
@@ -198,6 +475,474 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: c886d75f-17bb-4aac-bf51-7509fae80279
+
+Question: |
+  According to a survey by Harvard University that began in 1999, most people do not use a special word for the night before Halloween.
+
+Answers:
+  1: >
+    False
+  2: >
+    True
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 3c1e55b0-cb2f-4c65-991a-d62af83219fb
+
+Question: |
+  Many Protestant denominations celebrate this holiday on October 31 and some of them even meld it with Halloween.
+
+Answers:
+  1: >
+    The Midsummer Day
+  2: >
+    Epiphany
+  3: >
+    The Reformation Day
+  4: >
+    All Fools Day
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 350bead6-e435-44b2-80f3-519e7614d0b4
+
+Question: |
+  The first jack-o-lanterns (carved in Ireland) weren't made of pumpkins.
+
+Answers:
+  1: >
+    False
+  2: >
+    True
+
+Correct: 2
+
+Explanation: |
+  They were carved mainly from turnips.
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: caac3df8-e9cf-45a8-a950-4ff7fef03b8b
+
+Question: |
+  According to a popular Christmas story, the magical red nose of this flying reindeer provides light to guide Santa Clause through the darkness of Christmas Eve.
+
+Answers:
+  1: >
+    Comet
+  2: >
+    Blitzen
+  3: >
+    Rudolph
+  4: >
+    Red
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 8aa739a3-b2a3-4d53-8bba-a85e32891286
+
+Question: |
+  This is how Santa's helper, who judges which children were bad during the year, is called in the Netherlands.
+
+Answers:
+  1: >
+    Black Peter
+  2: >
+    Saint Nick
+  3: >
+    Father Christmas
+  4: >
+    Rudolph
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 318a18ec-97ed-4535-b6a0-9d7193e97445
+
+Question: |
+  Christmas is believed to have originated from a pagan Roman festival. It lasted 7 days and included the winter solstice, which at that time fell on December 25. Which Roman god did this festival honor?
+
+Answers:
+  1: >
+    Jupiter
+  2: >
+    Saturn
+  3: >
+    Apolon
+  4: >
+    Mars
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: c945c551-c246-4fdb-99bc-dcf0cbc4dc5d
+
+Question: |
+  He is the French equivalent of Santa Claus.
+
+Answers:
+  1: >
+    Olentzero
+  2: >
+    Pere Noel
+  3: >
+    Jack Frost
+  4: >
+    Zwarte Piet
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 0572980f-aed5-4d03-a4ad-c02aa486e541
+
+Question: |
+  Irish Fest, the largest celebration of Irish music and culture in the world, is held annually in which location?
+
+Answers:
+  1: >
+    Massachusetts, USA
+  2: >
+    Dublin, Ireland
+  3: >
+    Limerick, Ireland
+  4: >
+    Wisconsin, USA
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 4d6cd412-0ec3-4be8-b68c-a2ab4070c620
+
+Question: |
+  If you go to New York City, you might hear about Macy's Day, another name for this Federal Holiday.
+
+Answers:
+  1: >
+    Thanksgiving Day
+  2: >
+    Columbus Day
+  3: >
+    Labor Day
+  4: >
+    Memorial Day
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 85e6c553-f316-494a-8362-e7aa7fe3da46
+
+Question: |
+  It is believed that the American Labor Day originates from a parade, organized on September 5, 1882 in this city.
+
+Answers:
+  1: >
+    Detroit
+  2: >
+    Los Angeles
+  3: >
+    New York City
+  4: >
+    Chicago
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 3ceedb18-e34a-48dd-a251-f36767c58159
+
+Question: |
+  In the US, Loyalty Day is celebrated on May 1st with parades and ceremonies. It was first observed in the 1930s and was designed as a counterweight to this holiday.
+
+Answers:
+  1: >
+    Labor Day
+  2: >
+    Memorial Day
+  3: >
+    May Day
+  4: >
+    Victory Day
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 223876a3-ee2e-4b69-a4fa-abc333c28802
+
+Question: |
+  Every year on 14 July, France celebrates its national holiday, Fete Nationale, widely known as this.
+
+Answers:
+  1: >
+    Armed Forces Day
+  2: >
+    Victory Day
+  3: >
+    Bastille Day
+  4: >
+    Independence Day
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: fcd21be4-3484-42af-89aa-d81c653d4b2f
+
+Question: |
+  The Chinese New Year is the most important of all traditional Chinese holidays and is celebrated on this date.
+
+Answers:
+  1: >
+    The date is not fixed
+  2: >
+    22 February
+  3: >
+    18 February
+  4: >
+    28 February
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 981d4d96-ece8-41cd-a183-3d9a1603f340
+
+Question: |
+  Remembrance Day or Armistice Day is observed on November 11 in the Commonwealth of Nations and various European countries. What does it commemorate?
+
+Answers:
+  1: >
+    World War II
+  2: >
+    The fall of the Berlin Wall
+  3: >
+    The formation of the European Union
+  4: >
+    World War I and other wars
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: a8296bc2-96aa-4ef4-908c-dd71c4a03b3e
+
+Question: |
+  On September 7, Brazil commemorates its independence from this country.
+
+Answers:
+  1: >
+    Italy
+  2: >
+    Spain
+  3: >
+    The United Kingdom
+  4: >
+    Portugal
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 9f81987e-b6f2-41a5-82d3-ab98d6ca8392
+
+Question: |
+  ANZAC Day is a public holiday celebrated on April 25th, in this country.
+
+Answers:
+  1: >
+    Australia
+  2: >
+    Argentina
+  3: >
+    Angola
+  4: >
+    Austria
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 0819ae52-4560-4ea1-8bfe-03f4f923072e
+
+Question: |
+  In Russia, the International Women's Day is celebrated on this date.
+
+Answers:
+  1: >
+    1 April
+  2: >
+    8 March
+  3: >
+    15 December
+  4: >
+    11 March
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: 44276b7a-1f39-4395-ae34-f8fcaaaf09dd
 
 Question: |
@@ -212,6 +957,34 @@ Answers:
     Sweden
   4: >
     Lithuania
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: ce48c0be-cff2-4a22-8db5-ff7bc46703b0
+
+Question: |
+  What is used on Festivus instead of a tree?
+
+Answers:
+  1: >
+    Any wooden stick
+  2: >
+    An aluminum pole
+  3: >
+    A doll house
+  4: >
+    A yard stick
 
 Correct: 2
 
@@ -270,6 +1043,34 @@ Answers:
     The world's oldest hot dog is on display.
 
 Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 7b968ea7-b06e-4ce4-9bd0-cb4d07950c64
+
+Question: |
+  Which of these Halloween events is not correctly matched with the place where it is held?
+
+Answers:
+  1: >
+    Terror Behind the Walls - Madison, Wisconsin
+  2: >
+    Halloween on Franklin Street - Chapel Hill, North Carolina
+  3: >
+    Howl-O-Scream - Tampa, Florida
+  4: >
+    Halloween in the Castro – San Francisco, California
+
+Correct: 1
 
 Explanation: |
   None

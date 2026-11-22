@@ -3478,6 +3478,34 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: e6cbb6cb-4444-459d-9606-3f67b835a7c3
+
+Question: |
+  Fashion designer Alexander McQueen, known as the hooligan of English fashion, succeeded John Galliano as head designer at this French fashion house.
+
+Answers:
+  1: >
+    Chanel
+  2: >
+    Christian Lacroix
+  3: >
+    Dolce & Gabbana
+  4: >
+    Givenchy
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: c2cac586-73f1-4f0c-8748-98bc19aec212
 
 Question: |
@@ -3494,6 +3522,34 @@ Answers:
     Queen Elizabeth I
 
 Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 5218b3fc-6e16-4020-aa47-d9d3e48310b1
+
+Question: |
+  We get this term for a type of clothing from the royal name of J.T. Brudnell, a famous British cavalry officer.
+
+Answers:
+  1: >
+    cardigan
+  2: >
+    derby
+  3: >
+    ragland
+  4: >
+    tuxedo
+
+Correct: 1
 
 Explanation: |
   None

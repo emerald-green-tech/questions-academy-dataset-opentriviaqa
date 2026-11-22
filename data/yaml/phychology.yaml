@@ -296,6 +296,34 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: f4959a90-e4c5-49fd-b15f-826ea203d5f9
+
+Question: |
+  Amathophobia is an irrational fear of what?
+
+Answers:
+  1: >
+    thunder & lightning
+  2: >
+    movement or change
+  3: >
+    falling in love
+  4: >
+    dust particles
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: a0a8a724-6f8b-497a-a3f0-d3533ab880f4
 
 Question: |
@@ -310,6 +338,62 @@ Answers:
     Quick movements
   4: >
     Daylight
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 97e66090-fb13-4155-b07a-507e2b06513d
+
+Question: |
+  This is an obsessive love of clowns.
+
+Answers:
+  1: >
+    Cacophilia
+  2: >
+    Bathyhilia
+  3: >
+    Coulrophilia
+  4: >
+    Bufonophilia
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 7f28ac01-3926-4242-8bd9-79f05ab2da36
+
+Question: |
+  What is cenophilia?
+
+Answers:
+  1: >
+    An obsessive love of being dirty
+  2: >
+    An obsessive love of empty spaces
+  3: >
+    An obsessive love of animal fur skins
+  4: >
+    An obsessive love of school
 
 Correct: 2
 

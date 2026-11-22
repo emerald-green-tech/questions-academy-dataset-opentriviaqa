@@ -102,6 +102,58 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: f807d2f4-35e5-4bc2-b889-c316bae11e62
+
+Question: |
+  GPS stands for Global Positioning System.
+
+Answers:
+  1: >
+    True
+  2: >
+    False
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: ddf3c066-701c-405d-9361-06a645f4c435
+
+Question: |
+  On Christmas Day, 1973, this forerunner of the Internet crashed, when a programming bug forced all traffic to be routed through the server at Harvard University, causing the server to freeze.
+
+Answers:
+  1: >
+    X.25
+  2: >
+    Fidonet
+  3: >
+    ARPANET
+  4: >
+    Bulletin board system
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: a5867fb2-4082-43d1-babb-e59ac222a4e3
 
 Question: |
@@ -354,6 +406,34 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: d5b678e8-68cf-48e8-881c-7723d19d5aa0
+
+Question: |
+  Which one of these is an operating system?
+
+Answers:
+  1: >
+    Norton Anti-Virus
+  2: >
+    Office Professional edition
+  3: >
+    Vista
+  4: >
+    Microsoft
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: 9844cb4b-b6e4-48c3-92ae-b569306cf717
 
 Question: |
@@ -370,6 +450,34 @@ Answers:
     Dennis Tito
 
 Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 4407e015-28d6-4248-8886-e49528a73411
+
+Question: |
+  Why are recoilless guns recoilless?
+
+Answers:
+  1: >
+    Their barrels are open at both ends.
+  2: >
+    They are loaded with missiles not cannon balls.
+  3: >
+    They are made of very heavy metals.
+  4: >
+    They are not placed on wheels.
+
+Correct: 1
 
 Explanation: |
   None
@@ -424,6 +532,34 @@ Answers:
     integrated circuit (or microchip)
   4: >
     computer memory
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 29d960c7-3b00-49e7-9759-4c785b1c2942
+
+Question: |
+  This person is given credit for coining the term "surfing the internet".
+
+Answers:
+  1: >
+    Marvin Minsky
+  2: >
+    Tim Lee-Berniers
+  3: >
+    Jean Armour Polly
+  4: >
+    Gregory Chaitin
 
 Correct: 3
 

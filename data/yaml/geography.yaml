@@ -2134,6 +2134,62 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: 4367c819-18de-4cc8-a340-a24c38195cb8
+
+Question: |
+  This country has about 130 million people, and one vending machine for every 23 of them.
+
+Answers:
+  1: >
+    China
+  2: >
+    Singapore
+  3: >
+    Japan
+  4: >
+    Korea
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: d2bf61d4-327d-48bf-9ad9-ea894f36aa89
+
+Question: |
+  This home to 144 million spans 11 time zones and its territory takes up 1/8th of the entire Earth surface.
+
+Answers:
+  1: >
+    Australia
+  2: >
+    Canada
+  3: >
+    USA
+  4: >
+    Russia
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: 2ae650ba-4066-4ac9-8972-63dcda2c59d6
 
 Question: |
@@ -2148,6 +2204,34 @@ Answers:
     Iran
   4: >
     Iraq
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: df00c5d7-8242-41b6-89ed-4bf28a6f344c
+
+Question: |
+  About 75% of the 185 million citizens of this country live in the cities. The largest city is Sao Paulo with a population of 16 million.
+
+Answers:
+  1: >
+    Peru
+  2: >
+    Brazil
+  3: >
+    Bolivia
+  4: >
+    Argentina
 
 Correct: 2
 
@@ -2218,6 +2302,34 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: 2bb1ab7c-007e-40c5-bc33-a08fb2bc1a6f
+
+Question: |
+  The first medical school, Ayurveda was founded in this populous country.
+
+Answers:
+  1: >
+    Israel
+  2: >
+    India
+  3: >
+    Pakistan
+  4: >
+    China
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: 07a14c19-b469-4509-964d-ac1e2304de38
 
 Question: |
@@ -2234,6 +2346,34 @@ Answers:
     South Korea
 
 Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 733e3759-5d5b-4e25-9324-79a2266650b2
+
+Question: |
+  The famous Bull Run is held in this Spanish city.
+
+Answers:
+  1: >
+    Valencia
+  2: >
+    Pamplona
+  3: >
+    Cordoba
+  4: >
+    Barcelona
+
+Correct: 2
 
 Explanation: |
   None
@@ -2302,6 +2442,34 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: 4e639045-8a7b-43b4-9b5d-d6c2992e7ab2
+
+Question: |
+  In close proximity to this Italian city are the famous ruins of Pompeii, which once was a thriving town for wealthy Romans. The city of Pompeii was destroyed in the cataclysmic eruption of Mount Vesuvius in 79 AD.
+
+Answers:
+  1: >
+    Bologna
+  2: >
+    Venice
+  3: >
+    Naples
+  4: >
+    Rome
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: ed838ce5-b753-4094-9aed-126ddffcd03d
 
 Question: |
@@ -2318,6 +2486,34 @@ Answers:
     Katmandu
 
 Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 68666a43-28f1-435a-b1db-f3f10dd2e40a
+
+Question: |
+  The name of this 5th largest city in North America originates from a Mohawk word, meaning where there are trees standing in the water.
+
+Answers:
+  1: >
+    Toronto
+  2: >
+    Quebec
+  3: >
+    Montreal
+  4: >
+    Ottawa
+
+Correct: 1
 
 Explanation: |
   None
@@ -2358,6 +2554,90 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: f7666f93-f92f-4e44-9e61-e5a3c42642e1
+
+Question: |
+  This Central America country, slightly smaller than South Carolina, withdrew from Colombia in 1903 with the help of US support.
+
+Answers:
+  1: >
+    Chile
+  2: >
+    Panama
+  3: >
+    Ecuador
+  4: >
+    Venezuela
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 34e05c42-521e-4f53-9d77-a000de754aec
+
+Question: |
+  This country was part of China. Then in 1895, military defeat forced China to cede this country to Japan. China re-gained control after World War II.
+
+Answers:
+  1: >
+    Thailand
+  2: >
+    Hong Kong
+  3: >
+    Singapore
+  4: >
+    Taiwan
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 454d4603-8389-4c02-8a88-25b7340bdfc2
+
+Question: |
+  This Southeast European country allied with the Axis powers and participated in the 1941 German invasion of the USSR. In 1947, overrun by the Soviets, it became a Communist people's republic.
+
+Answers:
+  1: >
+    Hungary
+  2: >
+    Yugoslavia
+  3: >
+    Slovenia
+  4: >
+    Romania
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: a4eb9038-be80-4d69-a344-abc0bf817b57
 
 Question: |
@@ -2386,6 +2666,310 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: b73f8d84-6d45-4a8a-911e-c0220902c590
+
+Question: |
+  Known as the Triumphant City, this place is one of the largest urban settlements which features both Christian and Islamic monuments.
+
+Answers:
+  1: >
+    New York
+  2: >
+    Moscow
+  3: >
+    Lima
+  4: >
+    Cairo
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 84b47734-0fb7-4a86-ac91-35939ea62026
+
+Question: |
+  The biggest mosque in India, called Jama Masjid, is situated in this city, which is considered the heart of the country.
+
+Answers:
+  1: >
+    Jaipur
+  2: >
+    Delhi
+  3: >
+    Bombay
+  4: >
+    Calcutta
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 8c4fee45-33b5-4210-accc-4358e670d42c
+
+Question: |
+  This city originated from a Muslim settlement near the Pasig River in a country, which was a colony of Spain for almost three centuries.
+
+Answers:
+  1: >
+    Lima
+  2: >
+    Afghanistan
+  3: >
+    Seoul
+  4: >
+    Manila
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: ff406e7c-e259-4de0-931e-23acec1d18c2
+
+Question: |
+  This city is located in the province Sindh in Pakistan, on the cost of the Arabian Sea.
+
+Answers:
+  1: >
+    Beijing
+  2: >
+    Hanoi
+  3: >
+    Karachi
+  4: >
+    Sydney
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 48b277ae-fb61-46ad-975c-29ab02bc3bf4
+
+Question: |
+  This big city, originally named Naniwa, is famous for a huge aquarium called Kaiyukan.
+
+Answers:
+  1: >
+    Osaka
+  2: >
+    Seoul
+  3: >
+    Kobe
+  4: >
+    Delhi
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: d1b70f67-fcc6-49f4-8f84-2bcddc7c1926
+
+Question: |
+  This Latin American city, known also as the City of the Holy Trinity, is located on the southern shore of the Río de la Plata.
+
+Answers:
+  1: >
+    Buenos Aires
+  2: >
+    Lima
+  3: >
+    Mexico City
+  4: >
+    Sacramento
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 6d74ac2e-285c-423a-be00-9290140b46a3
+
+Question: |
+  This city is situated at the foot of the Alborz mountain range and one of its most famous landmarks is the Azadi Tower.
+
+Answers:
+  1: >
+    Shanghai
+  2: >
+    Lagos
+  3: >
+    Calcutta
+  4: >
+    Tehran
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: d0701046-ac58-45f8-b3eb-be53041c8edb
+
+Question: |
+  Which city, known as the City of Light, was originally called Lutetia in Latin?
+
+Answers:
+  1: >
+    Paris
+  2: >
+    London
+  3: >
+    Rome
+  4: >
+    Vienna
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 82de9330-7051-436a-a2de-6c4dc5e62e0d
+
+Question: |
+  Puerto Rico is a territory of the United States.
+
+Answers:
+  1: >
+    False
+  2: >
+    True
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 9ade8d8d-c23b-450b-b0eb-d9498f20abab
+
+Question: |
+  The Lao People's Democratic Republic, a landlocked country in southeast Asia, neighbouring China, Vietnam, Cambodia, and Thailand, was previously known by the name of Lan Xang, which means what translated in English?
+
+Answers:
+  1: >
+    Land of a million elephants
+  2: >
+    Holy land
+  3: >
+    Land of great valleys
+  4: >
+    Land of abundance
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: cdc50c47-c11b-4351-a36c-6ce3bab27fe0
+
+Question: |
+  Brunei is a small country (about 5,700 km² in area,) situated on the island of Borneo, in Southeast Asia. Brunei borders only one country, which one?
+
+Answers:
+  1: >
+    Myanmar
+  2: >
+    Sri Lanka
+  3: >
+    East Malaysia
+  4: >
+    Indonesia
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: 0b17cebc-5d25-4c4e-8908-00575aa4f83c
 
 Question: |
@@ -2400,6 +2984,230 @@ Answers:
     Coal
   4: >
     Iron
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 1728b53b-8902-4255-b22e-82d8acaeac46
+
+Question: |
+  The State of Qatar, an emirate in the Middle East with substantial oil and natural gas deposits, is located on a small peninsula (The Qatari peninsula), in which of these bodies of water?
+
+Answers:
+  1: >
+    The Gulf of Aden
+  2: >
+    Caspian Sea
+  3: >
+    Persian Gulf
+  4: >
+    Arabian Sea
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 8c84ea8d-255a-43c0-b7bd-d3189b384be8
+
+Question: |
+  Burma, the former name of this Southern Asian republic, was changed by the military government which took over political authority in 1988. Nevertheless, Burma is still often used to refer to this country.
+
+Answers:
+  1: >
+    Laos
+  2: >
+    Brunei
+  3: >
+    Myanmar
+  4: >
+    East Timor
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 0cfa0306-667f-4db5-b582-afb961412ba5
+
+Question: |
+  Lying near the equator, the Republic of Suriname is a country with a tropical climate, swampy coastal plains, broad savannas, and densely forested areas, located on what continent?
+
+Answers:
+  1: >
+    Europe
+  2: >
+    Asia
+  3: >
+    South America
+  4: >
+    Africa
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: bcf61336-4c49-458e-ab36-5d34e923910d
+
+Question: |
+  Geographically, Azerbaijan is a country situated at the crossroads of Europe and Southwest Asia, between what two major water basins?
+
+Answers:
+  1: >
+    The Persian Gulf and Caspian Sea
+  2: >
+    Red Sea and the Indian Ocean
+  3: >
+    Mediterranean Sea and Black Sea
+  4: >
+    Caspian Sea and Black Sea
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 1c124cc4-c5dc-4875-86eb-b0a9068e964b
+
+Question: |
+  This island country, whose national motto is Te Mauri, Te Raoi ao Te Tabomoa (Health, Peace, and Prosperity), has its territory situated in both hemispheres.
+
+Answers:
+  1: >
+    Kiribati
+  2: >
+    Zambia
+  3: >
+    Kuwait
+  4: >
+    Tuvalu
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 4308d0a0-5af4-49c9-9c5c-211fd2e2ef63
+
+Question: |
+  The Independent State of Samoa is a country comprising a group of islands in the South Pacific Ocean, known as the Navigators Islands until the beginning of the 20th century, due to its inhabitants excellent seafaring skills. What is the main religion of the majority of the Samoans?
+
+Answers:
+  1: >
+    Islam
+  2: >
+    Hinduism
+  3: >
+    Christianity
+  4: >
+    Buddhism
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: a46a5504-202d-43e3-9d11-ae4f0d1d385c
+
+Question: |
+  This southern African constitutional monarchy is entirely surrounded by the Republic of South Africa.
+
+Answers:
+  1: >
+    Sierra Leone
+  2: >
+    Togo
+  3: >
+    Lesotho
+  4: >
+    Uganda
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: ae8e20ae-f661-4371-b57d-c6925e4d751c
+
+Question: |
+  389 sq. km (150 sq. miles) is the entire territory of this country, situated in the Caribbean. Agriculture is the most important sector of its economy, more specifically, bananas.
+
+Answers:
+  1: >
+    Saint Vincent and the Grenadines
+  2: >
+    St. Kitts and Nevis
+  3: >
+    Maldives
+  4: >
+    Barbados
 
 Correct: 1
 
@@ -2442,6 +3250,90 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: 6b8634e3-0bc0-4f8c-b398-df8120906f7a
+
+Question: |
+  This country is comprised of 1190 coral islands southwest of the southern tip of India. They constitute 300 sq. kilometers (115 sq. miles). The official language is Dhivehi, but English is also spoken.
+
+Answers:
+  1: >
+    Haiti
+  2: >
+    Maldives
+  3: >
+    Seychelles
+  4: >
+    Polynesia
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: c92958e8-21f4-4275-91f7-676d24bdb617
+
+Question: |
+  This country, situated in the eastern Caribbean, stretches over 261 sq. km. (104 sq. miles). The two islands were first settled by the British in 1623 and gained their autonomy in 1967. Independence came in 1983.
+
+Answers:
+  1: >
+    San Marino
+  2: >
+    Seychelles
+  3: >
+    Nauru
+  4: >
+    Saint Kitts and Nevis
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 23031465-5d19-41f6-9dab-474f074a7a0b
+
+Question: |
+  Situated in central Europe, this country takes up 160 sq. km. (62 sq. miles). It is a famous winter resort, also known for its low tax rates.
+
+Answers:
+  1: >
+    Liechtenstein
+  2: >
+    Vatican City
+  3: >
+    San Marino
+  4: >
+    Monaco
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: 743e4a03-6d8d-4247-9c38-63395a8f7c68
 
 Question: |
@@ -2458,6 +3350,34 @@ Answers:
     San Marino
 
 Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 14014967-e878-4791-9641-d18581ff84c4
+
+Question: |
+  This Pacific country lies on 26 sq. km. (9 sq. miles). It stands between Hawaii and Australia, its name meaning Eight Standing Together in the local language.
+
+Answers:
+  1: >
+    San Marino
+  2: >
+    Vatican City
+  3: >
+    Tuvalu
+  4: >
+    Seychelles
+
+Correct: 3
 
 Explanation: |
   None
@@ -2554,6 +3474,34 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: d0727420-cc32-43ce-a43e-d5cf6f941c20
+
+Question: |
+  Excluding continents, which island is considered to be the largest island on Earth?
+
+Answers:
+  1: >
+    Greenland
+  2: >
+    Australia
+  3: >
+    Madagascar
+  4: >
+    New Zealand
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: eed531f8-b55a-4ff2-ac86-1117a00d73b7
 
 Question: |
@@ -2570,6 +3518,146 @@ Answers:
     The Himalayas
 
 Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: a248b82a-07b4-4b37-8116-9984b7ed24b3
+
+Question: |
+  Although not freshwater, it is the largest lake in the world, covering an area of 371,800 sq km.
+
+Answers:
+  1: >
+    Caspian Sea
+  2: >
+    Dead Sea
+  3: >
+    Lake Ontario
+  4: >
+    Lake Baikal
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 162dd376-fc72-46d0-9434-37a3d993a179
+
+Question: |
+  This is the longest river on Earth.
+
+Answers:
+  1: >
+    Nile
+  2: >
+    Gang
+  3: >
+    Danube
+  4: >
+    Amazon
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 94ea712f-e34d-4160-b6de-d5570e7b59cb
+
+Question: |
+  Paricutín is the youngest mountain on Earth. It is an active volcano and was formed from lava and ash as early as February 20, 1943. It is located in this country.
+
+Answers:
+  1: >
+    Brazil
+  2: >
+    Equador
+  3: >
+    Mexico
+  4: >
+    Peru
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 2ce293de-c665-4016-bed6-540527232762
+
+Question: |
+  This water basin contains the saltiest water on Earth. It is so salty, there is no life in it.
+
+Answers:
+  1: >
+    Dead sea
+  2: >
+    Adriatic sea
+  3: >
+    Black sea
+  4: >
+    Red sea
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: f1220fe6-fd1c-4023-8b38-fd7234bd432b
+
+Question: |
+  Angel Falls, located in this country, is the highest waterfall in the world.
+
+Answers:
+  1: >
+    Venezuela
+  2: >
+    Portugal
+  3: >
+    Panama
+  4: >
+    Argentina
+
+Correct: 1
 
 Explanation: |
   None
@@ -2610,6 +3698,90 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: d4d97aaa-5bca-4b71-a780-ae75bce6a924
+
+Question: |
+  During a 1974 survey, it was discovered that this spot located in East Antarctica has the deepest ice cover on Earth.
+
+Answers:
+  1: >
+    Vostok
+  2: >
+    Onega
+  3: >
+    Baikal
+  4: >
+    Ladoga
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: d18040da-00c6-49a3-825f-aafb763971b2
+
+Question: |
+  The lowest temperature on earth was recorded on this continent in 1983, when the termometer locked at -129F (- 88C).
+
+Answers:
+  1: >
+    Alaska
+  2: >
+    Atlantis
+  3: >
+    Arctic Ocean
+  4: >
+    Antarctica
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: bae96493-6d51-4d90-b38a-de40945765d2
+
+Question: |
+  Antarctica could be considered the wettest place on our planet, as 90 per cent of its surface is ice. However the ice isn't melted. So the wettest place on Earth is a small village in India, called this.
+
+Answers:
+  1: >
+    Bangalore
+  2: >
+    Chandigarh
+  3: >
+    Cherrapunji
+  4: >
+    Hyderabad
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: 6dadad86-9e25-4e40-9a8a-3ec8600c5277
 
 Question: |
@@ -2626,6 +3798,662 @@ Answers:
     Caspian sea
 
 Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 0309faac-364f-4c53-884d-5b9b6fa915db
+
+Question: |
+  What country is called Polska in its native language?
+
+Answers:
+  1: >
+    Pakistan
+  2: >
+    Poland
+  3: >
+    Panama
+  4: >
+    Portugal
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 3b6e559f-2c23-4720-ae55-3a8016648280
+
+Question: |
+  What country in West-central Europe is called Deutschland in its native language?
+
+Answers:
+  1: >
+    Switzerland
+  2: >
+    Germany
+  3: >
+    Denmark
+  4: >
+    Austria
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: b93cda3c-e57d-4cf7-8346-cf43deed2d2f
+
+Question: |
+  What former Yugoslavian republic is called Crna Gora in its native language?
+
+Answers:
+  1: >
+    Croatia
+  2: >
+    Montenegro
+  3: >
+    Ukraine
+  4: >
+    Belarus
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 467aa42a-07de-41bf-91f0-8d569e7a935e
+
+Question: |
+  What country is called Suomi in its native language?
+
+Answers:
+  1: >
+    Finland
+  2: >
+    Switzerland
+  3: >
+    Sweden
+  4: >
+    Norway
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 625fd885-5620-4a3e-8976-f817cc750ff8
+
+Question: |
+  What country is called Sverige in its native language?
+
+Answers:
+  1: >
+    Sweden
+  2: >
+    Finland
+  3: >
+    Switzerland
+  4: >
+    Sudan
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 8de02a22-c47b-4d11-b05d-134ca8db5413
+
+Question: |
+  This country is called Österreich in its native language, which is literally translated as the eastern state?
+
+Answers:
+  1: >
+    Germany
+  2: >
+    Albania
+  3: >
+    Austria
+  4: >
+    Georgia
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 41cea1b3-acf9-4ce8-ad50-73e833393cc8
+
+Question: |
+  What country is called Magyarorszag in its native language?
+
+Answers:
+  1: >
+    Armenia
+  2: >
+    Morocco
+  3: >
+    Hungary
+  4: >
+    Madagascar
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 4a999d80-92ed-45e8-8895-ea55735e73d5
+
+Question: |
+  What country is called Eire in its native language?
+
+Answers:
+  1: >
+    Iceland
+  2: >
+    Ireland
+  3: >
+    Egypt
+  4: >
+    Estonia
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 4579187f-c4fe-4ab4-91e0-ffa55f21f6f1
+
+Question: |
+  What Balkan country is called Shqiperia in its native language?
+
+Answers:
+  1: >
+    Macedonia
+  2: >
+    Albania
+  3: >
+    Iran
+  4: >
+    Switzerland
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 94fee10e-c5cf-41f3-8bbe-2bce52fb2fe5
+
+Question: |
+  This country on the Balkan Peninsula is called Ellada in its native language?
+
+Answers:
+  1: >
+    Greece
+  2: >
+    Macedonia
+  3: >
+    Albania
+  4: >
+    Estonia
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 43bfb51d-de3e-497f-8b8a-ceb1d60b9744
+
+Question: |
+  What country is called Hrvatska in its native language?
+
+Answers:
+  1: >
+    Spain
+  2: >
+    Holland
+  3: >
+    Czech Republic
+  4: >
+    Croatia
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: fc47e32a-74c5-44e9-995c-19c93bfb92fc
+
+Question: |
+  What country is called Slovensko in its native language?
+
+Answers:
+  1: >
+    Slovenia
+  2: >
+    Slovakia
+  3: >
+    Poland
+  4: >
+    Russia
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 81a99919-8b68-4448-ba72-9a70ce09fd32
+
+Question: |
+  Lake Volta is the largest artificial lake in the world. In which African country is it located?
+
+Answers:
+  1: >
+    Kenya
+  2: >
+    Korea
+  3: >
+    India
+  4: >
+    Ghana
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 07320458-0158-4dbe-97f2-044302145d88
+
+Question: |
+  The Sudetes is a mountain range in Central Europe.
+
+Answers:
+  1: >
+    True
+  2: >
+    False
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: a2fa7f25-c31b-4ff1-9c3a-bec757dea98d
+
+Question: |
+  The city of Limassol is located in Greece.
+
+Answers:
+  1: >
+    False
+  2: >
+    True
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: d2d47399-8dd8-4a75-87e7-adbbe2627976
+
+Question: |
+  Mont Blanc is the second highest mountain in the world.
+
+Answers:
+  1: >
+    True
+  2: >
+    False
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 269e7f8f-77fb-48b4-ba5e-f2143fed16d6
+
+Question: |
+  Mount Vesuvius is a volcano east of Naples, Italy.
+
+Answers:
+  1: >
+    True
+  2: >
+    False
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 072fca82-409d-4186-9a13-17e9cbea2164
+
+Question: |
+  A life-sized Christmas nativity scene is on permanent display in Piazza San Pietro, in this city.
+
+Answers:
+  1: >
+    Paris, France
+  2: >
+    Venice, Italy
+  3: >
+    Toledo, Spain
+  4: >
+    Vatican City
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: a2403391-028f-4fd9-b793-f0f4ec3755b9
+
+Question: |
+  On December 24 and 25, 1974, tropical cyclone Tracy devastated Darwin, a city located on this country's far north-western coastline.
+
+Answers:
+  1: >
+    Australia
+  2: >
+    New Zealand
+  3: >
+    South Aftica
+  4: >
+    United Kingdom
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: bba5e0a2-3c7c-43e7-a2cd-fdb370c78355
+
+Question: |
+  What country is Dublin in?
+
+Answers:
+  1: >
+    Bulgaria
+  2: >
+    Ireland
+  3: >
+    U.S.
+  4: >
+    Germany
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: f2cc8678-673c-47d8-bdac-2b59133034ee
+
+Question: |
+  Russia is the largest country in the world, located on which continent(s)?
+
+Answers:
+  1: >
+    Europe
+  2: >
+    Asia
+  3: >
+    Asia and Europe
+  4: >
+    Asia and Africa
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 434b349e-6e71-46ba-afa0-b5d79020ce2a
+
+Question: |
+  Which one of these countries is smallest in area?
+
+Answers:
+  1: >
+    Angola
+  2: >
+    Argentina
+  3: >
+    Afghanistan
+  4: >
+    Azerbaijan
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: e20c4dd5-6d0e-4170-a72f-66939f3bd02d
+
+Question: |
+  What cape is the northernmost point of the second largest continent in the world, Africa?
+
+Answers:
+  1: >
+    Cape Bon
+  2: >
+    Cape Blanc
+  3: >
+    Cape Rosa
+  4: >
+    Cape Serrat
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: a32b18d9-dd1a-460a-9abe-b55e36acd77d
+
+Question: |
+  Which of these cities is NOT located on the shore of the Baltic sea?
+
+Answers:
+  1: >
+    Warsaw
+  2: >
+    Helsinki
+  3: >
+    Copenhagen
+  4: >
+    Tallinn
+
+Correct: 1
 
 Explanation: |
   None
@@ -4762,6 +6590,34 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: 7e2f3b62-dd37-4fb9-a12a-f5d169efcf9e
+
+Question: |
+  What are the only two landlocked countries in South America ?
+
+Answers:
+  1: >
+    Bolivia and Paraguay
+  2: >
+    Paraguay and Uruguay
+  3: >
+    Bolivia and Uruguay
+  4: >
+    Colombia and Ecuador
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: fc59a613-4508-4f63-b233-7ef72e91857e
 
 Question: |
@@ -5099,6 +6955,34 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: b21269a4-547c-4a76-a216-b6d2962b0098
+
+Question: |
+  Which statement about Greenland is correct?
+
+Answers:
+  1: >
+    Greenland is home to the world's largest penguin population.
+  2: >
+    Greenland has tropical rainforests where coconuts grow year-round.
+  3: >
+    Greenland's national sport is scuba diving, invented by Vikings in the 12th century.
+  4: >
+    Disko Island is located off the west coast of Greenland.
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: 0fbe4fc4-b339-4a8f-afe2-1df0adf19aac
 
 Question: |
@@ -5113,6 +6997,34 @@ Answers:
     Israel
   4: >
     Brazil
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: b5622e0a-e6be-45c7-a81c-8ad678c520c8
+
+Question: |
+  What is the lowest point in Europe?
+
+Answers:
+  1: >
+    The Caspian Sea
+  2: >
+    Comedy clubs in Germany
+  3: >
+    Gabo de Roca
+  4: >
+    Gavdos
 
 Correct: 1
 
@@ -5171,6 +7083,34 @@ Answers:
     Estonia
 
 Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 6ebff759-1548-40d9-99ea-c640243ece02
+
+Question: |
+  San Marino, Denmark and Norway are among the countries with most ... per capita.
+
+Answers:
+  1: >
+    Personal computers
+  2: >
+    Television sets
+  3: >
+    Credit cards
+  4: >
+    Cell phones
+
+Correct: 1
 
 Explanation: |
   None

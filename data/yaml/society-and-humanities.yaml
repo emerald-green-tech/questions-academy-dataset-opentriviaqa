@@ -26,6 +26,34 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: 590a8a81-c614-4f2c-a412-a1650ee7e0c4
+
+Question: |
+  All of the 80 or so students at this college spend half their sophomore years in Rome, Italy. Which school is this?
+
+Answers:
+  1: >
+    Sienna College
+  2: >
+    Visari College
+  3: >
+    Bloomton College
+  4: >
+    Thomas More College
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: 191eac5f-e7d5-43fa-b02a-d3f4685e52b6
 
 Question: |
@@ -96,6 +124,34 @@ Answers:
     Olin College
   4: >
     Worcester Technical College
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 17ec41ee-e9c6-4f36-8eb0-1fd3beaa4a21
+
+Question: |
+  About 85% of this school's students study abroad. It also has the largest percentage of students who serve in the Peace Corps.
+
+Answers:
+  1: >
+    Reed College
+  2: >
+    Bates College
+  3: >
+    Kalamazoo College
+  4: >
+    Middlebury College
 
 Correct: 3
 
@@ -186,6 +242,34 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: 4a5a5fff-c3a9-456e-9bcb-34cf3e8fb5ac
+
+Question: |
+  Which one of these statements was not made by economist Milton Friedman?
+
+Answers:
+  1: >
+    Hell hath no fury like a bureaucrat scorned.
+  2: >
+    Inflation is one form of taxation that can be imposed without legislation.
+  3: >
+    For the bureaucrat the world is a mere object to be manipulated by him.
+  4: >
+    Governments never learn. Only people learn.
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: aedd1f28-14fc-466d-b60a-c89c14b0f62b
 
 Question: |
@@ -202,6 +286,34 @@ Answers:
     Letters
 
 Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 0dddc3d6-8b73-4620-af94-81beb93403fe
+
+Question: |
+  What is unusual about the curriculum of St. Helen's School in Newbury, Ohio?
+
+Answers:
+  1: >
+    Except for Advanced Placement classes, all classes are taught in Latin.
+  2: >
+    Studying at least four foreign languages is mandatory.
+  3: >
+    Unicycling is a mandatory subject.
+  4: >
+    Although it is a Catholic school, Hebrew is a required subject.
+
+Correct: 3
 
 Explanation: |
   None

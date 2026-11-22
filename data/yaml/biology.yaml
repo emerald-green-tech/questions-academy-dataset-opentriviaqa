@@ -406,6 +406,34 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: 90b50312-7d7a-48ac-a73a-3f482fb52e0c
+
+Question: |
+  What is the definition of ontogeny (morphogenesis), one of the branches of developmental biology?
+
+Answers:
+  1: >
+    The study that deals with the relations between predators and their prey
+  2: >
+    A study that describes the organism from the embryo to adulthood
+  3: >
+    The relationships of groups of organisms as reflected by their evolutionary history
+  4: >
+    The study that deals with the marine mammals
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: 540fba41-55d0-4f73-a575-e8b17901e564
 
 Question: |

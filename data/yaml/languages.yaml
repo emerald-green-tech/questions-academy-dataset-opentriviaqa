@@ -585,7 +585,7 @@ SchemaVersion: 1
 ID: af2f9221-2b2b-4577-9877-caa4c7b87b3f
 
 Question: |
-  From which language do we get the  term flak?
+  From which language do we get the term flak?
 
 Answers:
   1: >
@@ -974,6 +974,370 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: b09e13dd-af34-4d66-84d8-d74a6510a8b5
+
+Question: |
+  What is the phrase for the personal identification that must be attached to luggage checked by an airline?
+
+Answers:
+  1: >
+    Baggage Wafer
+  2: >
+    Baggage Notice
+  3: >
+    Baggage Tag
+  4: >
+    Baggage Sticker
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 19698f88-b321-484f-a155-92b4ce9d551b
+
+Question: |
+  What does the phrase "to Christmas tree a test" mean for students?
+
+Answers:
+  1: >
+    To get a very high score on an exam that you haven't studied for
+  2: >
+    To cheat on an exam
+  3: >
+    To get a very low score on an exam that you have studied for
+  4: >
+    To fill in the answer sheet randomly
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: cc919191-836c-4475-8ed2-46f7852a5d9b
+
+Question: |
+  What is the main language of Brazil?
+
+Answers:
+  1: >
+    Portuguese
+  2: >
+    Tupi
+  3: >
+    Spanish
+  4: >
+    Brazilian
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 0c7a03dc-b817-496d-a445-2674e4231b46
+
+Question: |
+  What is the main language of Austria?
+
+Answers:
+  1: >
+    English
+  2: >
+    German
+  3: >
+    Austrian
+  4: >
+    Hungarian
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 2add3278-da3b-474b-b9e0-e050c65918d7
+
+Question: |
+  What is the most widely spoken language in Papua New Guinea?
+
+Answers:
+  1: >
+    Hiri Motu
+  2: >
+    Tok Pisin (Pidgin English)
+  3: >
+    French
+  4: >
+    Manam
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: c3df3e71-6725-45f2-a076-cf62d2e28e57
+
+Question: |
+  What is the most widely spoken language in Hawaii?
+
+Answers:
+  1: >
+    Hawaiian
+  2: >
+    Chinese
+  3: >
+    English
+  4: >
+    Japanese
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 5aaa2e1e-930a-4417-84bc-78b3e01b721b
+
+Question: |
+  What is the most widely spoken language in Nigeria?
+
+Answers:
+  1: >
+    Yoruba
+  2: >
+    Arabic
+  3: >
+    Hausa
+  4: >
+    English
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: f58c301e-7ef5-4c64-a3d8-e1cd2dca1993
+
+Question: |
+  What is the main language of Haiti?
+
+Answers:
+  1: >
+    Creole French
+  2: >
+    Pidgin English
+  3: >
+    Portuguese
+  4: >
+    Spanish
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 18f689c7-3bb0-4ce6-a772-bf1e93d135d1
+
+Question: |
+  What is the main language of Bangladesh?
+
+Answers:
+  1: >
+    Bengali
+  2: >
+    French
+  3: >
+    Hindi
+  4: >
+    Urdu
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: efec4585-b228-47b9-b523-7fec7394ce94
+
+Question: |
+  What is the main language of Tunisia?
+
+Answers:
+  1: >
+    Arabic
+  2: >
+    English
+  3: >
+    Italian
+  4: >
+    Tunisian
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 5dce9894-c0fb-4c2a-ab0e-b8feb45d540e
+
+Question: |
+  What is the most widely spoken language in Ethiopia?
+
+Answers:
+  1: >
+    Swahili
+  2: >
+    Arabic
+  3: >
+    English
+  4: >
+    Amharic
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 9adc9d05-7050-4a22-892d-426de0b2b363
+
+Question: |
+  What are the two official national languages of Ireland?
+
+Answers:
+  1: >
+    Gaelic and Irish
+  2: >
+    Irish and English
+  3: >
+    English and Latin
+  4: >
+    Scottish and English
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 4f424911-f24a-492c-9130-efa380e2d9e5
+
+Question: |
+  What does the word Christmas mean?
+
+Answers:
+  1: >
+    Birth of Christ
+  2: >
+    Christian celebration
+  3: >
+    Holiday
+  4: >
+    Mass of Christ
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: 3814af00-adf5-4ec9-a992-95f3aeccc6c7
 
 Question: |
@@ -1002,6 +1366,34 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: bda8aff4-5801-40a4-a053-3fd85ff15f8f
+
+Question: |
+  Which of these greetings in different languages is more proper for Christmas than for New Year?
+
+Answers:
+  1: >
+    Felice anno nuovo
+  2: >
+    Wesołych Świąt
+  3: >
+    Ein gutes Neues Jahr
+  4: >
+    Farsælt nýtt ár
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: 6acc63ea-5d18-46a6-b269-53597d6f861b
 
 Question: |
@@ -1016,6 +1408,34 @@ Answers:
     Cuneiform
   4: >
     Hangul
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 03e0ddbe-9f2b-4af2-bfa9-f7b59421b3c2
+
+Question: |
+  How are nouns classified in Native American languages?
+
+Answers:
+  1: >
+    Formal and group
+  2: >
+    Male and female
+  3: >
+    Animate and inanimate
+  4: >
+    Singular and plural
 
 Correct: 3
 
@@ -4518,6 +4938,34 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: 7b90cefd-8744-45f6-8a99-cc3a661a5fa5
+
+Question: |
+  What does a philologist study?
+
+Answers:
+  1: >
+    signs and symbols
+  2: >
+    art
+  3: >
+    detectives
+  4: >
+    language
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: 1ec0d1bd-8f46-4f34-8604-f201488b6ba9
 
 Question: |
@@ -4602,6 +5050,62 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: 80c0c68f-8432-47ce-bfc4-39e31b18b917
+
+Question: |
+  Which Latin expression means actions speak louder than words?
+
+Answers:
+  1: >
+    quid edere posseum
+  2: >
+    mei capelli sunt flagrantes
+  3: >
+    non rape me si placet
+  4: >
+    facta non verba
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 2a3f9f97-1657-4183-89c3-2ceedd00bdc0
+
+Question: |
+  This is a ground-breaking law of linguistics first formulated in 1822. It highlights in a most intriguing way how European languages may have evolved since ancient times.
+
+Answers:
+  1: >
+    Grimm's Law
+  2: >
+    Kissinger's Law
+  3: >
+    Einstein's Law
+  4: >
+    Schwarzenegger's Law
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: be0092c0-394c-4e1b-873a-8a0d17db466e
 
 Question: |
@@ -4618,6 +5122,90 @@ Answers:
     tenebrous
 
 Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: a753de77-a8e2-452a-a3b8-1eea00f4d3c0
+
+Question: |
+  Which is an example of a *spoonerism*?
+
+Answers:
+  1: >
+    Round and round the ragged rock the ragged rascal ran.
+  2: >
+    Able was I ere I saw Elba.
+  3: >
+    He is at the pineapple of his career.
+  4: >
+    It is kisstomery to cuss the bride.
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: c8c1d15f-f846-4abe-b922-5740b044f115
+
+Question: |
+  The origin of the name for a simple but powerful bomb made out of a gas filled bottle, is the name of a Soviet politician and diplomat. What is that name?
+
+Answers:
+  1: >
+    A Khrushchev cocktail
+  2: >
+    A Lenin bomb
+  3: >
+    A Molotov cocktail
+  4: >
+    A Kerensky surprise
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 835fefdf-2de1-4bb8-b52b-d960224f750a
+
+Question: |
+  What is "lethologica"?
+
+Answers:
+  1: >
+    Any word used incorrectly in a sentence.
+  2: >
+    A physical disease in which the patient does not have enough energy to speak.
+  3: >
+    A psychological disease first identified as a serious condition by Carl Jung.
+  4: >
+    A religious practice involving saying certain Biblical names to counter a sin.
+
+Correct: 3
 
 Explanation: |
   None
@@ -4712,6 +5300,146 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: a773eda9-af2a-4d68-8326-35d21309e80a
+
+Question: |
+  What is a doula?
+
+Answers:
+  1: >
+    A non-professional person who assists a woman during the time of giving birth and during the postpartum period
+  2: >
+    A summer home in Russia.
+  3: >
+    A ballet movement
+  4: >
+    A highly-trained computer technician who advises web designers in the silicon-valley of France
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 82197eef-fe4e-440c-95cd-6d9760c849e3
+
+Question: |
+  A very common greeting in India is namaste or namaskar. What does it mean?
+
+Answers:
+  1: >
+    I bow to you.
+  2: >
+    I pray your family is complete.
+  3: >
+    May you be blessed.
+  4: >
+    How are you?
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 3816272e-d055-4eec-a08f-5d4751d8c66d
+
+Question: |
+  What does *irrupt* mean?
+
+Answers:
+  1: >
+    Irrupt means to break up.
+  2: >
+    Irrupt is not a real English word.
+  3: >
+    Irrupt means to break in or rush in.
+  4: >
+    Irrupt means to come before.
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 010eed99-d49b-406d-a35b-3fb9707f4411
+
+Question: |
+  The expression The dog days of summer was first used because of this.
+
+Answers:
+  1: >
+    A false idea about the effect of animals on the world
+  2: >
+    A description of how dogs pant
+  3: >
+    An astronomical idea
+  4: >
+    A superstition
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 50ac4862-4985-4153-b54f-f56d2a72c909
+
+Question: |
+  Brian Hayes coined the term *umop-apisdn*. What does it mean?
+
+Answers:
+  1: >
+    A computer glitch
+  2: >
+    Alien language
+  3: >
+    Topsy-turvy
+  4: >
+    A mishmash of languages
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: fe8582e0-231d-4e71-b36a-f37ee727c8d4
 
 Question: |
@@ -4728,6 +5456,60 @@ Answers:
     ringmaster
 
 Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 94aa4402-6f73-4839-bffb-c171a8a57406
+
+Question: |
+  The month of August was renamed after the Roman emperor Augustus. What was the Roman name for this month before it was renamed?
+
+Answers:
+  1: >
+    Aprilis
+  2: >
+    Quintilis
+  3: >
+    Martius
+  4: >
+    Sextilis
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 19eedf7e-8b4f-4b25-a843-0c90f4b7b0d3
+
+Question: |
+  Is this a Chinese proverb?
+  
+  > If  we don't change the direction were going, were likely to end up where were headed?
+
+Answers:
+  1: >
+    No
+  2: >
+    Yes
+
+Correct: 2
 
 Explanation: |
   None
@@ -4764,6 +5546,60 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: 6a153fcb-b603-446d-97e1-90bd479a4e83
+
+Question: |
+  Having in mind the word's meaning, does it  fit in the following analogy:
+  
+  > Juvenile is to young as *geriatric* is to aged.
+
+Answers:
+  1: >
+    No
+  2: >
+    Yes
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 7c4b8f94-56ff-4122-af2e-93ed25a53fdc
+
+Question: |
+  The word tycoon means a wealthy businessperson. What language does it come from?
+
+Answers:
+  1: >
+    Greek
+  2: >
+    Latin
+  3: >
+    Russian
+  4: >
+    Japanese
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: 3ec95869-0f53-4b97-8315-6f66bf59c57a
 
 Question: |
@@ -4788,6 +5624,34 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: d9f370fc-e2bb-4180-9b6b-fae6b1a5efac
+
+Question: |
+  All but one of the following suffixes changes the word from an adjective or a verb into a noun. Which is the odd one?
+
+Answers:
+  1: >
+    -ous
+  2: >
+    -ion
+  3: >
+    -ity
+  4: >
+    -ness
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: 863527e3-7213-4600-a7a1-fef0d7f8387c
 
 Question: |
@@ -4798,6 +5662,426 @@ Answers:
     False
   2: >
     True
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 0abe87a1-5264-4d4d-8eee-d7bfd50db966
+
+Question: |
+  What does anatine mean?
+
+Answers:
+  1: >
+    duck-like
+  2: >
+    naval or marine
+  3: >
+    unusually large and/or fat
+  4: >
+    reptile like
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: dd16e7e5-1e8a-4518-b508-3159960c2ab1
+
+Question: |
+  A quorum has to do with a group of which of these?
+
+Answers:
+  1: >
+    flowers
+  2: >
+    words
+  3: >
+    animals
+  4: >
+    people
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 384b945e-23c2-4166-99d6-8b76b2ef64e6
+
+Question: |
+  The word for lawyer in Spanish is ...
+
+Answers:
+  1: >
+    peluquero
+  2: >
+    abogado
+  3: >
+    conductor
+  4: >
+    cocinero
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 0d1f1fbf-3ea8-4806-ac2a-0dba5bbfc77c
+
+Question: |
+  If you wanted to be the mayor of your town, what would that profession be called in Spanish?
+
+Answers:
+  1: >
+    clerigo
+  2: >
+    tabernero
+  3: >
+    alcalde
+  4: >
+    carnicero
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 3aa9f352-8273-41af-8151-796f6c001165
+
+Question: |
+  If you became a baker, you would be called a what in Spanish?
+
+Answers:
+  1: >
+    panadero
+  2: >
+    carpintero
+  3: >
+    marinero
+  4: >
+    cerrajero
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 99b19873-cb93-4bd6-8b49-88aaced13c85
+
+Question: |
+  How would you say cowboy in Spanish?
+
+Answers:
+  1: >
+    contador
+  2: >
+    escultor
+  3: >
+    vaquero
+  4: >
+    taquillero
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: c1f41118-6621-4118-aadd-a0fd1ee11293
+
+Question: |
+  If you were a Spanish fisherman, what would your profession be called?
+
+Answers:
+  1: >
+    florista
+  2: >
+    cartero
+  3: >
+    pescador
+  4: >
+    artesano
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 459a62de-cd46-4670-8172-9c9bf203df4b
+
+Question: |
+  What would the Spanish word for cobbler be?
+
+Answers:
+  1: >
+    criado
+  2: >
+    zapatero
+  3: >
+    jardinero
+  4: >
+    camarero
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 9b57d520-7b8a-4a46-b7ff-a4ebad14abad
+
+Question: |
+  You want to become a judge in Madrid. What word would you be called?
+
+Answers:
+  1: >
+    juez
+  2: >
+    plomero
+  3: >
+    cambiadiscos
+  4: >
+    borracho
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 0b285189-de8a-44d3-84fe-1b40dd31d4ef
+
+Question: |
+  My brother wants to be a trainer. What would his job be called in Spanish?
+
+Answers:
+  1: >
+    enfermero
+  2: >
+    droguero
+  3: >
+    entrenador
+  4: >
+    fraile
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 541ea565-12fb-4955-bab8-680ee8b2c4e1
+
+Question: |
+  Which of these proverbs the reverse of Wise men think alike?
+
+Answers:
+  1: >
+    Fools seldom differ
+  2: >
+    An idle brain is the devils workshop
+  3: >
+    Birds of a feather flock together
+  4: >
+    There is a black sheep in every flock
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 6cb883b2-7604-4efc-b919-c2b33bfdf7d4
+
+Question: |
+  What is the missing word in the popular proverb, If you chase two ...  you will not catch either one?
+
+Answers:
+  1: >
+    Deers
+  2: >
+    Rabbits
+  3: >
+    Tigers
+  4: >
+    Colds
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 16d9c536-5ead-4828-a00e-4951bedc4a0d
+
+Question: |
+  What does the Farsi phrase شب بخير  (shab bekheyr) mean in English?
+
+Answers:
+  1: >
+    Good Luck
+  2: >
+    Good night
+  3: >
+    Good Morning
+  4: >
+    Goodbye
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 456c00bc-648b-43df-8f3e-8085842f7662
+
+Question: |
+  Grammatically correct gender terminology includes which of the following?
+
+Answers:
+  1: >
+    All of these
+  2: >
+    Neuter
+  3: >
+    Masculine
+  4: >
+    Feminine
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: ca4e35dc-e972-4e60-a7ae-ec96c33ddb94
+
+Question: |
+  In India dacoit is a synonym for what word?
+
+Answers:
+  1: >
+    bandit
+  2: >
+    miner
+  3: >
+    wagon
+  4: >
+    mongoose
 
 Correct: 1
 

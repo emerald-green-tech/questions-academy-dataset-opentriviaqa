@@ -10017,7 +10017,7 @@ SchemaVersion: 1
 ID: 97c03c5d-5c4a-4081-8214-e1e56ffb0694
 
 Question: |
-  Which British writer wrote the novel  The Island of Sheep, which is partly set on a thinly disguised version of the Faroe Islands?
+  Which British writer wrote the novel The Island of Sheep, which is partly set on a thinly disguised version of the Faroe Islands?
 
 Answers:
   1: >
@@ -13346,6 +13346,34 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: 86866fe0-b8cf-40b4-a9e3-bae6898d9f90
+
+Question: |
+  Who wrote the novels on which the Bourne movies are based?
+
+Answers:
+  1: >
+    John La Carre
+  2: >
+    William Blake Herron
+  3: >
+    Robert Ludlum
+  4: >
+    Robert Gilroy
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: 064974f2-d99f-4f17-8956-9ed3f72c4413
 
 Question: |
@@ -13398,6 +13426,34 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: 5f338781-94cd-4164-95db-f493e0fb1229
+
+Question: |
+  This Scandinavian author wrote a cheerless Christmas story in which a poor girl walks barefoot along snow-covered streets on Christmas Eve.
+
+Answers:
+  1: >
+    Tove Ditlevsen
+  2: >
+    Hans Christian Andersen
+  3: >
+    Erik Mesterton
+  4: >
+    Astrid Lindgren
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: 129957ca-774b-4a48-848e-4d5d23810081
 
 Question: |
@@ -13414,6 +13470,118 @@ Answers:
     She is invited by a rich family to celebrate the holiday with them
 
 Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 7319e26e-6722-4f5c-84d8-600d1adf6f27
+
+Question: |
+  A Christmas Carol is a novella, telling us the story of Ebenezer Scrooge, who is visited by the spirits of Christmas Past, Christmas Present and Christmas Yet to Come. Who wrote this famous book?
+
+Answers:
+  1: >
+    Charles Dickens
+  2: >
+    John Leech
+  3: >
+    Mark Twain
+  4: >
+    Clement Moore
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: b4c4b1fe-706d-4f97-8d38-7ff5fd86c70d
+
+Question: |
+  On Christmas Day in 1939, this popular Christmas play written by Charles Dickens, was read on radio for the first time.
+
+Answers:
+  1: >
+    A Christmas Carol
+  2: >
+    Twelfth Night
+  3: >
+    Twas the Night Before Christmas
+  4: >
+    A Christmas Story
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 83ddf2d6-2b37-485c-ae6c-6df3b14a69f6
+
+Question: |
+  This charming southern city has the second largest St. Patrick's Day parade in the nation. Paula Deenes Lady and Two Sons restaurant first opened in this city. UGA, the white bulldog that is the mascot for the University of Georgia lives here, in Savanna. But Savanna has a darker and more secret side that is revealed in John Berndt's best selling book about the murder of Danny Hansord. What is the name of the book that introduces Lady Chablis and John Williams to the nation?
+
+Answers:
+  1: >
+    Dark Secret: The Murder of Danny Hansford
+  2: >
+    Voodoo and Murder in Old Savanna
+  3: >
+    Murder in the Mercer House
+  4: >
+    Midnight in the Garden of Good and Evil
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 7a2a6e26-0a8d-4ac6-b4a2-4dd2074810e7
+
+Question: |
+  What is the title of Mark Twain's first story, which was printed in the New York Saturday Evening Post on November 18 in 1865?
+
+Answers:
+  1: >
+    Tom Sawyer
+  2: >
+    Life Along the Mississippi
+  3: >
+    The Celebrated Jumping Frog of Calaveras County
+  4: >
+    A Connecticut Yankee in King Arthurs Court
+
+Correct: 3
 
 Explanation: |
   None
@@ -13498,6 +13666,34 @@ Answers:
     Adam Smith
 
 Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 9041e03d-bcd4-41b8-a8a1-bd0ddd82594a
+
+Question: |
+  This Romantic poet lived 1788-1824. Among his best works are Don Juan and When We Two Parted.
+
+Answers:
+  1: >
+    Matthew Arnold
+  2: >
+    Robert Browning
+  3: >
+    Alfred Lord Tennyson
+  4: >
+    Lord Byron
+
+Correct: 4
 
 Explanation: |
   None
@@ -52693,6 +52889,34 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: 02a87bfd-2db5-4205-a47d-61b9ade13530
+
+Question: |
+  What book is said to be the most shoplifted?
+
+Answers:
+  1: >
+    The Bible
+  2: >
+    Webster's Dictionary
+  3: >
+    Thesaurus of English Words Phrases
+  4: >
+    National Geographic Atlas of the World
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: 3144566c-e211-43c2-b5c7-a4537c864b91
 
 Question: |
@@ -52917,6 +53141,34 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: 010de8bf-56b4-4a66-8121-f68c69c26591
+
+Question: |
+  Which two cats are the main characters in the Lillian Jackson Braun series of novels?
+
+Answers:
+  1: >
+    Koko and Yumyum
+  2: >
+    Yin and Yang
+  3: >
+    Kitty Jones and Kat Smith
+  4: >
+    Rin and Tintin
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: f968e3d9-2d2d-4221-8152-09e0f74c7395
 
 Question: |
@@ -53017,6 +53269,34 @@ Answers:
     The Caine Mutiny
 
 Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 6aba2cf0-78a4-4615-b190-932033200c93
+
+Question: |
+  This American writer and teacher became the first woman US Senator, although she occupied the position for only one day.
+
+Answers:
+  1: >
+    Jeanne Rankin
+  2: >
+    Hatie Caraway
+  3: >
+    Rebecca Latimer Felton
+  4: >
+    Nellie Taylor Rose
+
+Correct: 3
 
 Explanation: |
   None
@@ -53141,6 +53421,34 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: 80beb096-5bbf-4142-a438-afdcdf21e21c
+
+Question: |
+  Thomas Harris created this terrible fictional murderer.
+
+Answers:
+  1: >
+    Michael Everett
+  2: >
+    Garland Saunderson
+  3: >
+    Jason Thomas
+  4: >
+    Hannibal Lecter
+
+Correct: 4
+
+Explanation: |
+  Dr. Hannibal Lecter first appeared in the 1981 novel Red Dragon.
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: 1c404ca2-44c2-4615-98e6-9dfd7de82590
 
 Question: |
@@ -53185,6 +53493,428 @@ Answers:
     John Milton
 
 Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 56d6b994-d294-4d2b-8308-5d3011b7ce27
+
+Question: |
+  Paul Eluard was the birth name of a major exponent of surrealism. Many of his poems reflect the hardship after his separation with his first wife Gala, who left him for Salvador Dali. What was his pen name?
+
+Answers:
+  1: >
+    Jacques Anatole François Thibault
+  2: >
+    Lucy Beatrice Malleson
+  3: >
+    Harry Hart Frank
+  4: >
+    Eugène Grindel
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: c2409a17-4f77-40b3-918f-bed26017d680
+
+Question: |
+  Pablo Neruda was a poet, and also a diplomat and a Communist leader. He changed his original name because he didn't want his father to find out he was a poet. What was his birth name?
+
+Answers:
+  1: >
+    Hector Hugh Munro
+  2: >
+    Louis Cha
+  3: >
+    Ricardo Eliecer Neftalí Reyes Basoalto
+  4: >
+    Eric Arthur Blair
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: eb2b289a-e02f-4106-8657-368d9e78d379
+
+Question: |
+  Anatole France was probably the most famous French man of letters of his time. In 1921 he was awarded the Nobel Prize in Literature. What was his birth name?
+
+Answers:
+  1: >
+    Jacques Anatole Thibault
+  2: >
+    Charles Lutwidge Dodgson
+  3: >
+    William Sidney Porter
+  4: >
+    John Dickson Carr
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 3db526b3-84dc-49c4-ad2b-026eb3e1fe3e
+
+Question: |
+  Saki was a master of short stories. It is said that his pen name could be a reference to a monkey with the same name. What was his real name?
+
+Answers:
+  1: >
+    Hector Hugh Munro
+  2: >
+    Frederic Dannay
+  3: >
+    Theodore Seuss Geisel
+  4: >
+    Natsume Kinnosuke
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 54b775a5-b2d5-457d-88c3-d5da497e54c2
+
+Question: |
+  O. Henry was working as a bank teller when he was sent to jail for embezzlement. He spent 3 years in jail where he started writing his short stories. What was his real name?
+
+Answers:
+  1: >
+    Georges Remi
+  2: >
+    William Sydney Porter
+  3: >
+    Harry Hart Frank
+  4: >
+    Stanley Martin Lieber
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 30831eee-b0b3-4c3a-aedb-ddf4aba4e45f
+
+Question: |
+  Some of this poet's better known poems are Ode to a Nightingale and Ode to a Grecian Urn. Whose epitaph ends with the line Here Lies One Whose Name Was Writ In Water?
+
+Answers:
+  1: >
+    William Bulter Yeats
+  2: >
+    John Keats
+  3: >
+    Percy Bysshe Shelly
+  4: >
+    Lord Byron
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 4427b8e9-361a-4653-a7d2-02494d3221fe
+
+Question: |
+  Which New Zealand-born author wrote the following?
+  
+  > Do not imagine, because you find these lines in your journal that I have been trespassing. You know I have not - and where else shall I leave a love letter? For I long to write you a love-letter tonight.
+
+Answers:
+  1: >
+    Mary Wordsworth
+  2: >
+    Virginia Wolf
+  3: >
+    Katherine Mansfield
+  4: >
+    George Elliot
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 420b301f-776d-4b14-b60e-0e8de0e80643
+
+Question: |
+  We know that a scrooge is a miserly, unhappy person. From which Dickens novel do we get this word?
+
+Answers:
+  1: >
+    A Tale of Two Cities
+  2: >
+    A Christmas Carol
+  3: >
+    Nickolas Nickalby
+  4: >
+    The Pickwick Papers
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 72b8fd31-468a-4360-a47f-63068e557d02
+
+Question: |
+  What were the last words of the eloquent English romantic poet Lord Byron?
+
+Answers:
+  1: >
+    There is nothing but death
+  2: >
+    Good night
+  3: >
+    The rest is silence
+  4: >
+    I am still in love with life and words.
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 20f60042-1f42-4c16-aeb6-60b45a602e8e
+
+Question: |
+  Name the author of "A Dog's Tale", "The Notorious Jumping Frog of Calaveras County", and "The True Story".
+
+Answers:
+  1: >
+    Bernard Capes
+  2: >
+    Mark Twain
+  3: >
+    Bret Harte
+  4: >
+    Harte Crane
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 3904f741-deb2-4c64-8173-8ccd0962b255
+
+Question: |
+  In 1956, this poet and writer received the Pulitzer Prize for her collection of poetry, North & South.
+
+Answers:
+  1: >
+    Elizabeth Alexander
+  2: >
+    Elizabeth Gaskell
+  3: >
+    Elizabeth Bishop
+  4: >
+    Elizabeth Barret Browning
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: de980ebd-090c-4599-becc-4351e2aa3121
+
+Question: |
+  Did John Loren Sandford write a book titled Dark of the Moon?
+
+Answers:
+  1: >
+    No
+  2: >
+    Yes
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 4565645e-3ac4-4148-9366-d67927b52804
+
+Question: |
+  To whom are these last words attributed?
+  
+  > Do not  go gentle... but I've had 18 straight whiskies. I think that's the record.
+
+Answers:
+  1: >
+    Lionel Atwill
+  2: >
+    Sean OCasey
+  3: >
+    Dylan Thomas
+  4: >
+    James Thurber
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 0f1c8b94-858b-4748-aae4-cb82e8281467
+
+Question: |
+  Which magazine stated this?
+  
+  > We are sorry to announce that Mr. Albert Brown has been quite unwell, owing to his recent death, and is taking a short holiday to recover.
+
+Answers:
+  1: >
+    Time
+  2: >
+    Cosmopolitan
+  3: >
+    People
+  4: >
+    Parish
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 0a0419ec-8d18-45ee-ae15-2b66045ba159
+
+Question: |
+  One of the best-known tales of Arthurian times is The Sword in the Stone, written by T. H. White. In the book, the soon-to-be-king, Arthur, is lives with which of these people?
+
+Answers:
+  1: >
+    King Pellinore
+  2: >
+    Merlyn
+  3: >
+    Sir Grummore Grummursum
+  4: >
+    Sir Ector
+
+Correct: 4
 
 Explanation: |
   None
@@ -53365,6 +54095,34 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: b2f4232b-a77c-49b7-a130-773f402a7f98
+
+Question: |
+  Where did Harry buy his wand?
+
+Answers:
+  1: >
+    Flourish & Blott's
+  2: >
+    Ollivander's
+  3: >
+    J.C. Penney's
+  4: >
+    Madame Malkin's
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: cc2001af-45aa-4e3d-9327-a08afc51bfb2
 
 Question: |
@@ -53409,6 +54167,62 @@ Answers:
     the Prince
 
 Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 5ae99849-1808-4233-82e1-e62e539a4dc6
+
+Question: |
+  Which magic object is not correctly matched with the fairy tale?
+
+Answers:
+  1: >
+    Aladdin - a lamp
+  2: >
+    The Little Mermaid - a key with drops of blood on it
+  3: >
+    Snow White - a mirror
+  4: >
+    The Wild Swans - nettle shirts
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: ba07adaa-522a-4bd2-b0fb-90e0cdc3999d
+
+Question: |
+  Which characters are not correctly matched with the author who created them?
+
+Answers:
+  1: >
+    Lucy Pevensie, Caspian - C. S. Lewis
+  2: >
+    Mowgly, Raksha - Edgar Rice Burroughs
+  3: >
+    Joe Harper, Becky Thatcher - Mark Twain
+  4: >
+    Meg March, Amy March - Louisa May Alcott
+
+Correct: 2
 
 Explanation: |
   None

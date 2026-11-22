@@ -666,6 +666,67 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: 63337e6a-ed8c-4b05-ad82-3dac156deaea
+
+Question: |
+  Here is the refrain of the state song of Florida, The Swanee River. However, its lines are jumbled. Can you put them in the right order?
+  
+  1) Far from the old folks at home<br />
+  2) Everywhere I roam.<br />
+  3) All the world is sad and dreary<br />
+  4) O brothers, how my heart grows weary
+
+Answers:
+  1: >
+    4, 2, 3, 1
+  2: >
+    1, 4, 2, 3
+  3: >
+    3, 2, 4, 1
+  4: >
+    2, 3, 1, 4
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: bd3ad414-dc4d-4812-a4c0-8248b7424ed5
+
+Question: |
+  When reciting the United States Pledge of Allegiance, what should you do?
+
+Answers:
+  1: >
+    Stay seated
+  2: >
+    Stand, face the flag and cover your heart with your right hand.
+  3: >
+    Kneel
+  4: >
+    Dance
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: 319bc5f4-b5aa-4f76-8006-5bedfdcfd253
 
 Question: |
@@ -722,6 +783,34 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: 1c36f442-9574-4447-8633-ba6a60ce7e06
+
+Question: |
+  Who wrote the The Star-Spangled Banner, the national anthem of the United States of America?
+
+Answers:
+  1: >
+    Benjamin Frankllin
+  2: >
+    Francis Scott Key
+  3: >
+    John Hancock
+  4: >
+    George Washington
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: fab11ba5-a792-4f55-b7f6-8cbd102e8724
 
 Question: |
@@ -738,6 +827,118 @@ Answers:
     434 feet by 211 feet
 
 Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 021bab19-8940-4b37-94a1-c6d56282a15c
+
+Question: |
+  Which US state has an official piece of neckwear?
+
+Answers:
+  1: >
+    Connecticut
+  2: >
+    Arizona
+  3: >
+    Utah
+  4: >
+    Massachusetts
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 55081ba9-9d44-4613-803b-ddc682a76eee
+
+Question: |
+  What is the state tree of California?
+
+Answers:
+  1: >
+    Redwood
+  2: >
+    Douglas fir
+  3: >
+    Spruce
+  4: >
+    Oak
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 2354316f-265f-4296-b0e9-7f358e7f564d
+
+Question: |
+  What is the state flower of Alaska?
+
+Answers:
+  1: >
+    Golden poppy
+  2: >
+    Forget-me-not
+  3: >
+    Aster
+  4: >
+    Lilac
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 838e888c-60d7-4326-8a98-94ae7ea86ca8
+
+Question: |
+  What is the motto of Republic of Sudan, the African country with the largest area?
+
+Answers:
+  1: >
+    Victory is ours.
+  2: >
+    In Union and Liberty.
+  3: >
+    God is with us.
+  4: >
+    Unity is strength.
+
+Correct: 1
 
 Explanation: |
   None

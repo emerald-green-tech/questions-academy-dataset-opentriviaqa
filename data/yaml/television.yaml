@@ -3880,8 +3880,9 @@ ID: 604a445f-eae7-45e1-b138-13fc67340672
 
 Question: |
   Complete these lyrics from the theme song of a western that was on TV in the 1960s:
-  A soldier of fortune is a man called______________.
-  _______________  ______________ where do you roam?.
+  
+  > A soldier of fortune is a man called _ _ _ _ _ .<br />
+  > _ _ _ _ _ , _ _ _ _ _ , where do you roam?.
 
 Answers:
   1: >
@@ -3990,8 +3991,8 @@ ID: f15a12d0-10fa-478d-ba16-7da04a6791f1
 
 Question: |
   Complete the lyrics of the theme song of the TV show The Rebel:
-  ______________________Was a rebel, he roamed through the west.   He got fighting mad, this
-  rebel lad.  He was panther quick, and leather tough and he knew when hed been pushed enough.
+  
+  > _ _ _ _ _ was a rebel, he roamed through the west. He got fighting mad, this rebel lad. He was panther quick, and leather tough and he knew when he'd been pushed enough.
 
 Answers:
   1: >
@@ -4286,6 +4287,114 @@ Answers:
     False
   2: >
     True
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 851863c9-cd20-4a24-a531-fcdadd715e88
+
+Question: |
+  Frank Gorshin plays the Joker in the 1960s Batman TV series.
+
+Answers:
+  1: >
+    True
+  2: >
+    False
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 09a6b5a0-f62e-4540-9a0b-bc1705afbcf6
+
+Question: |
+  What title was initially considered for the Grey's Anatomy TV series?
+
+Answers:
+  1: >
+    She's Meredith
+  2: >
+    Flesh And Bones
+  3: >
+    Complications
+  4: >
+    The Human Heart
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 6fc8de06-6ccf-43c0-b9db-5782c5dd63bb
+
+Question: |
+  From 1993-1996 John Larroquette starred in a TV comedy show about a man who runs a bus terminal in St. Louis, Missouri. What was the name of this show? It also had Chi McBride, Liz Torres, Darryl Mitchell, Omri Katz, and Mayik Bialik in the cast.
+
+Answers:
+  1: >
+    Now Boarding
+  2: >
+    Going Home
+  3: >
+    McBride
+  4: >
+    The John Larroquette Show
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 0faf60dd-2c27-427e-9d31-e7a8b5d9b1c8
+
+Question: |
+  John Larroquette has won many acting awards. How many *consecutive* Emmys did he win?
+
+Answers:
+  1: >
+    4
+  2: >
+    5
+  3: >
+    6
+  4: >
+    3
 
 Correct: 1
 
@@ -146945,6 +147054,338 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: ca6a5445-622f-4ec2-b7ac-df4f9035d362
+
+Question: |
+  What favorite television show did the film A Christmas Story inspire?
+
+Answers:
+  1: >
+    That '70s Show
+  2: >
+    Full House
+  3: >
+    Happy Days
+  4: >
+    The Wonder Years
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 4321a1a1-8ffc-445c-8c50-314ea1b1b8f1
+
+Question: |
+  In what year did Rudolph the Red-Nosed Reindeer first run on American television?
+
+Answers:
+  1: >
+    1962
+  2: >
+    1960
+  3: >
+    1964
+  4: >
+    1958
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 24198c81-0e28-4045-b12d-20f4ecdec32c
+
+Question: |
+  Which of Santa's eight legendary reindeer is Rudolph's father according to the Rudolph Christmas classic?
+
+Answers:
+  1: >
+    Blitzen
+  2: >
+    Donner
+  3: >
+    Prancer
+  4: >
+    Dancer
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 6d195588-b229-4dfb-a8b0-822c8c3c009b
+
+Question: |
+  On the Island of Misfit Toys there are many unusual toys in Rudolph the Red-Nosed Reindeer. On that island, what does the water gun shoot that makes it a misfit?
+
+Answers:
+  1: >
+    Jelly
+  2: >
+    Ink
+  3: >
+    Milk
+  4: >
+    Bubbles
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 1b06cd95-5879-4555-8399-8951a07b66cb
+
+Question: |
+  Which of Santa's eight famous Reindeer was the coach of the Reindeer Games in Rudolph the Red-Nosed Reindeer?
+
+Answers:
+  1: >
+    Dasher
+  2: >
+    Vixen
+  3: >
+    Donner
+  4: >
+    Comet
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 603b2a34-5022-4db1-b660-3980ccb939bc
+
+Question: |
+  On the Island of Misfit Toys in Rudolph the Red-Nosed Reindeer, what makes the train a misfit?
+
+Answers:
+  1: >
+    It floats on water.
+  2: >
+    It is pink
+  3: >
+    It has no tracks.
+  4: >
+    It has square wheels.
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 2b9445c1-df91-4866-9677-e8a6e3405392
+
+Question: |
+  Which of these statements about the Abominable Snowmonster is false according to the Rudolph Christmas classic?
+
+Answers:
+  1: >
+    They bounce.
+  2: >
+    They sink.
+  3: >
+    They are very smart.
+  4: >
+    They like to eat pigs.
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: b209dced-4045-421b-bf89-bd3c3cdeeec5
+
+Question: |
+  What did Hermie the elf do to subdue the snowmonster in Rudolph the Red-Nosed Reindeer?
+
+Answers:
+  1: >
+    Shaved off all of its hair.
+  2: >
+    Removed its teeth.
+  3: >
+    Pushed it over a cliff.
+  4: >
+    Tied it up.
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: f4c2a5d4-0c00-42b2-891a-9116f072a0ae
+
+Question: |
+  At the end of Rudolph the Red-Nosed Reindeer, Yukon Cornelius and the snowmonster arrive at Christmastown. What job is the snowmonster given?
+
+Answers:
+  1: >
+    Town guard
+  2: >
+    Lighting the trees
+  3: >
+    Christmas tree erector
+  4: >
+    Putting the stars on top of trees
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 897a0b55-e892-40dc-a596-832cc6a6f839
+
+Question: |
+  In Rudolph the Red-Nosed Reindeer, on the Island of Misfit Toys there is a jack-in-the-box who acts as the island sentry. He is a misfit because his name is Hank and not Jack.
+
+Answers:
+  1: >
+    False
+  2: >
+    True
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 9bf0677b-6152-40d8-ad78-4072484c6a9f
+
+Question: |
+  Which of these is not a misfit from The Island of Misfit Toys in the Rudolph the Red-Nosed Reindeer Christmas special?
+
+Answers:
+  1: >
+    A cat that barks
+  2: >
+    A polka dotted elephant
+  3: >
+    A bird that can swim but not fly
+  4: >
+    A boat that cannot float
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 5c768aa7-2245-4a27-b5c7-79b98fb45983
+
+Question: |
+  What kind of animal did the cowboy from The Island of Misfit Toys ride in Rudolph the Red-Nosed Reindeer?
+
+Answers:
+  1: >
+    Dinosaur
+  2: >
+    Elephant
+  3: >
+    Ostrich
+  4: >
+    Cow
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: 613d909d-4a9e-4f18-827f-7b039809dd6c
 
 Question: |
@@ -154177,6 +154618,34 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: f7d6bb04-c32f-412e-a6bd-6d29072ac8e3
+
+Question: |
+  Who was the first guest host on NBC's Saturday Night Live?
+
+Answers:
+  1: >
+    John Goodman
+  2: >
+    Howard Cosell
+  3: >
+    George Carlin
+  4: >
+    Steve Martin
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: 510b50b1-9a94-405f-ae13-4f4bd42445b7
 
 Question: |
@@ -154233,6 +154702,34 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: 03a8e60e-16c6-454f-8bbf-0687d9e2b9e8
+
+Question: |
+  Which of Jim Henson's Muppets was the first one to be a regular on The Jimmy Dean Show?
+
+Answers:
+  1: >
+    Rowlf the Dog
+  2: >
+    Kermit the Frog
+  3: >
+    Big Bird
+  4: >
+    Oscar the Grouch
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: bb918dd2-d7a3-43cd-8cfd-6c75ab4594a1
 
 Question: |
@@ -154275,6 +154772,120 @@ Answers:
     Hall and Oates
   4: >
     The Bangles
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 9520786d-79e5-4632-8938-c9ba4dd31ac3
+
+Question: |
+  On the sitcom Third Rock from the Sun, John Lithgow plays Dick Solomon. What is his occupation on Earth?
+
+Answers:
+  1: >
+    Advertising writer
+  2: >
+    Professor of Anthropology
+  3: >
+    Professor of Physics
+  4: >
+    Unemployed
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 2dadbc3d-8ce0-4fb5-805e-b4021ecfe9a1
+
+Question: |
+  What fictional character in a romantic drama were the following words addressed to?
+  
+  > Open your eyes and look at me. No, I don't think I will kiss you. Although you need kissing badly. That's what's wrong with you. You should be kissed, and often, and by someone who knows how.
+
+Answers:
+  1: >
+    Ilsa Lund (Casablanca)
+  2: >
+    Scarlett O'Hara (Gone with the Wind)
+  3: >
+    Allie Hamilton (The Notebook)
+  4: >
+    Rose DeWitt (Titanic)
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 0bd092f5-81aa-4d72-a3fb-c076bd4e3e40
+
+Question: |
+  The members of this band included Sgt. Floyd Pepper, Janice, Zoot, Animal, and Lips.
+
+Answers:
+  1: >
+    The  Zoot Sims Big Band
+  2: >
+    Dr. Teeth and Electric Mayhem
+  3: >
+    The Fabulous Baker brothers
+  4: >
+    Nylon
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 6f711d99-1f9b-4ab0-a72b-d05e6c4411ce
+
+Question: |
+  This is the name of the computer program developed by the Hollywood division of the Los Angeles Police Department to create a database of crimes, criminals, and all related information.
+
+Answers:
+  1: >
+    ROBBER-E
+  2: >
+    BEAT/COP
+  3: >
+    HITMAN
+  4: >
+    BOOK-EM
 
 Correct: 3
 
@@ -154541,6 +155152,146 @@ Answers:
     Mae Questel
 
 Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: b833f7f5-cde6-4d9f-b85e-d4fd7eb495ca
+
+Question: |
+  In 1981,this Ed joined the staff of 60 Minutes, an investigative television newsmagazine on CBS News.
+
+Answers:
+  1: >
+    Edward G Robinson
+  2: >
+    Ed Bradley
+  3: >
+    Ed Norton
+  4: >
+    Ed Asner
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: fb8d45d9-7c27-417d-9ee2-94c5965c814a
+
+Question: |
+  Kelly Rippa, host of Live with Regis and Kelly, co-stars with which actress on the sitcom Hope and Faith?
+
+Answers:
+  1: >
+    Hope Ford
+  2: >
+    Faith Ford
+  3: >
+    Hope Shanowski
+  4: >
+    Faith Hill
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 27c4e019-4817-4c06-97cd-9b640e9b4d3e
+
+Question: |
+  This comedienne, named Tracey, hosted a weekly television variety show which ended with the catchphrase Go Home.
+
+Answers:
+  1: >
+    Tracey Gold
+  2: >
+    Tracey Bergman
+  3: >
+    Tracey Harris
+  4: >
+    Tracey Ullman
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 1d1f2628-b669-45bc-9dd1-d15df2326d25
+
+Question: |
+  This eponym comes from the name of a mentally slow character from a cartoon by E.C. Segar, the man who drew Popeye.
+
+Answers:
+  1: >
+    dweeb
+  2: >
+    mobster
+  3: >
+    idiot
+  4: >
+    goon
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 52f67cdc-3695-4f51-b6b4-594bcebb390a
+
+Question: |
+  Tom from the popular Tom & Jerry cartoon was known by what name in his debut short Puss Gets the Boot?
+
+Answers:
+  1: >
+    Oliver
+  2: >
+    Mr. Jingles
+  3: >
+    Jasper
+  4: >
+    Mr. Cat
+
+Correct: 3
 
 Explanation: |
   None

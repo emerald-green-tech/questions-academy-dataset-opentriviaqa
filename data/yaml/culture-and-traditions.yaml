@@ -645,7 +645,7 @@ SchemaVersion: 1
 ID: af5e0f52-71b8-4a5e-a1d8-c1ec44f38471
 
 Question: |
-  In Feng Shui, the cycle fire - earth - metal - water -  wood - fire is known as this.
+  In Feng Shui, the cycle fire - earth - metal - water - wood - fire is known as this.
 
 Answers:
   1: >
@@ -1494,6 +1494,170 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: 2adee5a6-b005-482e-88ea-f076fcf677b2
+
+Question: |
+  Oranges used to be popular in this European country as decorative items, much as gourds are today.
+
+Answers:
+  1: >
+    Turkey
+  2: >
+    England
+  3: >
+    Argentina
+  4: >
+    Portugal
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 5764a8ef-f5e1-42a2-9a59-0f3e13fdc842
+
+Question: |
+  Until recent years this strange custom was practiced: when a husband died, his wife would walk into the funeral pyre and burn to death. Where did they perform it?
+
+Answers:
+  1: >
+    India
+  2: >
+    Madagaskar
+  3: >
+    China
+  4: >
+    Malaysia
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 79909700-d3b9-4264-a8d4-db17f3209976
+
+Question: |
+  Housewarming parties originated in this constituent country of the United Kingdom.
+
+Answers:
+  1: >
+    England
+  2: >
+    Scotland
+  3: >
+    Northern Ireland
+  4: >
+    Wales
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: aea9b890-c23e-46c7-a82f-5638445d7708
+
+Question: |
+  In Ireland, the shamrock, a three-leaved white clover, is a sacred plant which symbolizes what?
+
+Answers:
+  1: >
+    National liberty
+  2: >
+    Good fortune
+  3: >
+    Universal Peace
+  4: >
+    Rebirth of spring
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 3ed09166-15dd-4fac-8818-9f7460c2123a
+
+Question: |
+  Blarney Stone, a block of limestone built in one of the battlements of Blarney Castle in Ireland, is said to give great eloquence to everyone who kisses it.
+
+Answers:
+  1: >
+    True
+  2: >
+    False
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 1da88ad6-c4d9-4752-8c59-8d50c27766fa
+
+Question: |
+  Which ancient Celtic custom, once practiced in Ireland, involved tying the brides and grooms wrists together?
+
+Answers:
+  1: >
+    Celtic Knotting
+  2: >
+    Hand Fastening
+  3: >
+    Celtic Joining
+  4: >
+    Hand Joining
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: 0a6ca1cd-088f-4591-9e56-774cc5a6f29d
 
 Question: |
@@ -1886,6 +2050,34 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: 5de646dc-cb24-4731-859a-cd0250e98f24
+
+Question: |
+  On May 28, 1875, 50 students from the Vicksburg High School heard a lady in distress screaming; Help me in the name of God, the men are hurting me. Since then, hundreds of people have reported hearing the same voice. With which event is this ghostly voice associated?
+
+Answers:
+  1: >
+    Indian retaliation for the desagration of an Ancient burial ground
+  2: >
+    The fall of Vicksburgh during the Civil War
+  3: >
+    The vanishing of a riverboat
+  4: >
+    A student prank
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: 967377aa-d701-4884-b428-104c3c8f4aaa
 
 Question: |
@@ -1902,6 +2094,118 @@ Answers:
     Diamond ring
 
 Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: f38d0761-22d0-4984-97d6-d2e62dca48b8
+
+Question: |
+  In Hindu yogic traditions the brow center is associated with a person's extra-sensory perception and inner vision. It is represented by this color.
+
+Answers:
+  1: >
+    Green
+  2: >
+    Indigo
+  3: >
+    Amber
+  4: >
+    Pink
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 55f8a572-7fb6-4b19-baf6-6bf7264d0bd3
+
+Question: |
+  Each Yoga path is suited to a different temperament or approach to life. How many different main paths are there in Yoga?
+
+Answers:
+  1: >
+    1
+  2: >
+    3
+  3: >
+    4
+  4: >
+    2
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 2b2cb87a-6923-45ef-9c2d-845376e63d06
+
+Question: |
+  In Hindu yogic traditions, that which enters the body is called Prana and that which leaves it is called Apana. What does Prana mean?
+
+Answers:
+  1: >
+    Light
+  2: >
+    Life force
+  3: >
+    Air
+  4: >
+    Body
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 67654acf-3346-433e-bb8c-bdb058a62c1c
+
+Question: |
+  Which of these is a principle of Yoga?
+
+Answers:
+  1: >
+    All of the above
+  2: >
+    Positive Thinking and Meditation
+  3: >
+    Proper Diet, Proper Relaxation
+  4: >
+    Proper Exercise
+
+Correct: 1
 
 Explanation: |
   None

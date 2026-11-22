@@ -1721,7 +1721,7 @@ SchemaVersion: 1
 ID: 2a199c92-1fba-41f0-afa5-ccf3616f310c
 
 Question: |
-  What  vitamin is found in high amounts in the bitter root of the turnip plant?
+  What vitamin is found in high amounts in the bitter root of the turnip plant?
 
 Answers:
   1: >
@@ -2738,6 +2738,62 @@ Answers:
     Intestinal parasites
 
 Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 2e91ac5e-9799-4b76-ae65-0716626fea7c
+
+Question: |
+  In order to prevent jet lag you should follow this time.
+
+Answers:
+  1: >
+    None of these.
+  2: >
+    Local time at the place you are flying to.
+  3: >
+    Local time at the place you took off from.
+  4: >
+    Local time at the places that the airplane passes through.
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 6ae86744-7f7f-4d85-8bf8-0db02f9f00b6
+
+Question: |
+  In which ancient civilization, the cure for epilepsy was to spit on the person having a fit?
+
+Answers:
+  1: >
+    Egypt
+  2: >
+    Rome
+  3: >
+    China
+  4: >
+    Greece
+
+Correct: 2
 
 Explanation: |
   None
@@ -4854,6 +4910,34 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: ba7d44b9-2f62-4635-822e-bac7fcbbdb35
+
+Question: |
+  Which of the following describes the route of pulmonary circulation?
+
+Answers:
+  1: >
+    L atria to R pulmonary artery to R lung
+  2: >
+    L. ventricle to L pulmonary artery to L lung
+  3: >
+    R ventricle to R pulmonary artery to R lung
+  4: >
+    R. ventricle to R. and L. pulmonary arteries to R. L. lung
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: 10fce26e-fea3-495f-a86a-39f055b94527
 
 Question: |
@@ -4906,6 +4990,62 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: 9424908a-331d-4268-9910-51286ea60523
+
+Question: |
+  Cod liver oil is often used in many diets and healthy regimes, as a powerful source of omega-3, vitamin A and D. Some medical specialists believe that in the summer months cod liver oil should not be taken, for what reason?
+
+Answers:
+  1: >
+    Because Vitamin D becomes toxic when heated
+  2: >
+    None of these
+  3: >
+    Because the pills melt in hot weather and it is easy to overdose
+  4: >
+    Because cod liver oil contains vitamin D, and the sun also creates vitamin D. If vitamin D is overdosed, your face may become spotty
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 29ca49d0-1d99-4f95-a2fd-8e7205aea109
+
+Question: |
+  In 1924 who was the German mathematician who developed a proof showing that blood types were genetic?
+
+Answers:
+  1: >
+    Franklin McLean
+  2: >
+    Charles R. Drew
+  3: >
+    Felix Bernstein
+  4: >
+    William Osler
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: 5266f77a-a220-4331-b847-0bdb1f149d5b
 
 Question: |
@@ -4922,6 +5062,34 @@ Answers:
     USA for Africa
 
 Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 91e57da3-a5da-4a01-a2d1-a2ac34644253
+
+Question: |
+  This scale was originally used to determine the level of consciousness after head trauma.
+
+Answers:
+  1: >
+    Johnson Coma Scale
+  2: >
+    Barnes Akathisia Coma Scale
+  3: >
+    Miller Coma Scale
+  4: >
+    Glasgow Coma Scale
+
+Correct: 4
 
 Explanation: |
   None
@@ -5018,6 +5186,34 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: 0d5b2361-362a-4a62-873e-3d225e51033e
+
+Question: |
+  The number of total calories, carbohydrates, fats, and sodium per serving is reported to be highest in which of the following meals?
+
+Answers:
+  1: >
+    Burger King - WHOPPER JR.
+  2: >
+    Hardees Kids Meal - Slammers
+  3: >
+    McDonald's Cheeseburger
+  4: >
+    Wendy's Jr. Hamburger
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: 693f66c4-1ce6-4efd-8ad0-46e7677961af
 
 Question: |
@@ -5062,6 +5258,34 @@ Answers:
     Light skin is more attractive, which makes the person better able to attract a mate.
 
 Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 1e2cd2c8-82c1-40cd-9d1c-7fcfadb2ff70
+
+Question: |
+  In 2009, Thomas R. Frieden, MD assumed office as director of this agency of the U.S. Department of Health and Human Services located just outside of Atlanta, Georgia.
+
+Answers:
+  1: >
+    Mayo Clinic
+  2: >
+    Food and Drug Administration
+  3: >
+    Centers for Disease Control & Prevention (CDC)
+  4: >
+    American Lung Association
+
+Correct: 3
 
 Explanation: |
   None
@@ -5336,6 +5560,118 @@ Answers:
     Russia
   4: >
     India
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 4e33f8a9-6a08-4731-a03e-5b6be9fe3a11
+
+Question: |
+  What is the meaning of dyspepsia?
+
+Answers:
+  1: >
+    Near-sightedness
+  2: >
+    A disease that is characterized by difficulty in reading
+  3: >
+    A recurrent pain, hardness or ache in the upper abdomen
+  4: >
+    A religious calendar used by several non-Western groups
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: d4302460-19fe-41c0-a66b-4999c1ae2832
+
+Question: |
+  What disease do the following famous people share: Menachem Begin, Halle Berry, Carol Channing, Miles Davis, Ella Fitzgerald, Ray Kroc, Arthur Ashe, and Ty Cobb?
+
+Answers:
+  1: >
+    Rheumatic fever
+  2: >
+    Irritated bowel syndrome
+  3: >
+    Dyslexia
+  4: >
+    Diabetes
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 7bdd5367-f297-4106-b02e-e79c526d1492
+
+Question: |
+  Who was the first person to show that blood moved from the heart to the lungs and back?
+
+Answers:
+  1: >
+    ibn-al-Nasif
+  2: >
+    Leonardo Da Vinci
+  3: >
+    William Harvey
+  4: >
+    William Herschel
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 127bed75-4442-4a60-a253-153a5de0460d
+
+Question: |
+  Andreas Gruenintzig was the doctor who first performed this procedure.
+
+Answers:
+  1: >
+    Thyroidectomy
+  2: >
+    Bone marrow transplant
+  3: >
+    Lung transplant
+  4: >
+    Angioplasty
 
 Correct: 4
 

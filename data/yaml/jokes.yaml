@@ -4057,3 +4057,31 @@ Notes: >
   None
 
 SchemaVersion: 1
+---
+ID: 925fbb25-9656-493a-846b-4305995376cd
+
+Question: |
+  Which is the correct version of the joke about these four medical specialists?
+
+Answers:
+  1: >
+    A psychiatrist knows nothing and does nothing. An internist knows everything and does nothing. A pathologist knows nothing and does everything. A surgeon knows everything, and does everything--but too late!
+  2: >
+    A psychiatrist knows nothing and does nothing. A pathologist knows everything and does nothing. An internist knows nothing and does everything. A surgeon knows everything, and does everything--but too late!
+  3: >
+    A psychiatrist knows nothing and does nothing. An internist knows everything and does nothing. A surgeon knows nothing and does everything. A pathologist knows everything, and does everything--but too late!
+  4: >
+    A psychiatrist knows nothing and does nothing. A pathologist knows everything and does nothing. A surgeon knows nothing and does everything. An internist knows everything, and does everything--but too late!
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1

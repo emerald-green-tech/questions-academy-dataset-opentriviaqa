@@ -26,6 +26,62 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: d3248c83-6c0e-43fb-95c3-8f9b8393913a
+
+Question: |
+  The dialectic of this philosopher is most often characterized as a three-step process of thesis, antithesis, synthesis. According to his concept, a thesis would cause the creation of its antithesis and this would eventually result in a synthesis.
+
+Answers:
+  1: >
+    Marx
+  2: >
+    Nietzsche
+  3: >
+    Kant
+  4: >
+    Hegel
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: c9b35f9c-253f-4cef-907a-ef902440d95c
+
+Question: |
+  Philosophy brought together this ancient Greek couple. The wife had a courtesan salon which was frequented by many of the philosophers we now know, but only one of them got to really know her. Noted for her great intellectual power, she gave him inspiration for his work in rhetorics.
+
+Answers:
+  1: >
+    Aspasia and Plutarch
+  2: >
+    Aspasia and Plato
+  3: >
+    Aspasia and Pericles
+  4: >
+    Aspasia and Xenophon
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: 017372fd-21c1-444b-89b5-bc4de6882f64
 
 Question: |

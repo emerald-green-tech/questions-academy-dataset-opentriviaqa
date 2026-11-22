@@ -590,6 +590,34 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: f5d215c4-f5f2-4906-be41-69db3a8c5afb
+
+Question: |
+  This ballet tells the story of a Christmas ornament that comes to life in the dream of a young girl. Pyotr Ilyich Tchaikovsky composed the music for it.
+
+Answers:
+  1: >
+    The Nutcracker and the Mouse King
+  2: >
+    Bolero
+  3: >
+    Agon
+  4: >
+    Swan Lake
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: 110bd4ac-c251-4fab-a97b-4cbceb5e4fd7
 
 Question: |
@@ -914,6 +942,174 @@ Answers:
     The Tempest
 
 Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 65feb006-b6d4-40d8-8275-d107f4a4b02b
+
+Question: |
+  Who wrote the plays Marty, The Tenth Man and Gideon?
+
+Answers:
+  1: >
+    John Updike
+  2: >
+    William Inge
+  3: >
+    Jonathan Larson
+  4: >
+    Paddy Chayefsky
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: f01a0d46-e537-4b7f-a659-acb65c0a04a6
+
+Question: |
+  What prominent playwright wrote the plays A Glass Menagerie, A Streetcar Named Desire, The Rose Tattoo, The Night of the Iguana?
+
+Answers:
+  1: >
+    Tennessee Williams
+  2: >
+    Thornton Wilder
+  3: >
+    Eugene ONeill
+  4: >
+    William Inge
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 14eff2f4-d41e-4c54-a030-b73b57d2b00f
+
+Question: |
+  Who wrote the plays Master Olaf, Swan Blood, Erich XIV?
+
+Answers:
+  1: >
+    Ibsen
+  2: >
+    Strindberg
+  3: >
+    Chekhov
+  4: >
+    none of these
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 8ef94e75-3bca-478d-81f0-b734665b7fd3
+
+Question: |
+  This Irish playwright became a vegetarian at the age of twenty-five, after hearing a lecture by H. F. Lester.
+
+Answers:
+  1: >
+    George Shiels
+  2: >
+    Oscar Wilde
+  3: >
+    George Bernard Shaw
+  4: >
+    Samuel Beckett
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 1e3cd295-3770-446a-876d-e61e76bc7e75
+
+Question: |
+  Whatever Lola Wants is performed by the sultry Lola trying to tempt a faithful husband in which Bob Fosse show?
+
+Answers:
+  1: >
+    Fosse
+  2: >
+    The Pajama Game
+  3: >
+    Chicago
+  4: >
+    Damn Yankees
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 2cd4edec-e2c8-4988-bdf3-c56061a304cd
+
+Question: |
+  The 1960 Broadway play *Inherit the Wind* is based on real life events. During those events, the defense lawyer was able to take the case pro bono because he made his money defending another client. Who was this rich client?
+
+Answers:
+  1: >
+    Billy Mitchell
+  2: >
+    Al Capone
+  3: >
+    Roscoe Fatty Arbuckle
+  4: >
+    Charlie Chaplain
+
+Correct: 2
 
 Explanation: |
   None

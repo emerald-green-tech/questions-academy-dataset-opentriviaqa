@@ -2666,6 +2666,274 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: 9e52a5a2-7370-4bbf-b372-ef210810e8d2
+
+Question: |
+  According to the Druidic religion of the Celts, this winter season began every year on the night of October 31.
+
+Answers:
+  1: >
+    Mabon
+  2: >
+    Samhain
+  3: >
+    Beltaine
+  4: >
+    Imbolc
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 85d038ac-919d-4c18-9e9d-17a64dd801b6
+
+Question: |
+  Before going to see baby Jesus, the wise men met Herod the Great, who wanted to kill Jesus.
+
+Answers:
+  1: >
+    True
+  2: >
+    False
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 5b63be68-8614-40ad-9b39-40780bf11283
+
+Question: |
+  Mary, the betrothed wife of Joseph, gave birth to her child, Jesus in Bethlehem.
+
+Answers:
+  1: >
+    No
+  2: >
+    Yes
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 7017b1a8-216f-45e8-8c5e-2120591eb8c2
+
+Question: |
+  According to some sources, the last one of the Twelve Days of Christmas falls on January 6. What major Christian holiday is celebrated on this date?
+
+Answers:
+  1: >
+    Childermas
+  2: >
+    Epiphany
+  3: >
+    Advent
+  4: >
+    Ascension Day
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 60021538-2afa-44d7-a16d-de1b8c0fca28
+
+Question: |
+  Jehovah's Witnesses identify themselves as Christian, but they don't celebrate Christmas.
+
+Answers:
+  1: >
+    False
+  2: >
+    True
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 85781d8f-9dbb-418e-a615-cd5e7ae0f991
+
+Question: |
+  According to the Bible, this man was the king of Judea, when Jesus Christ was born.
+
+Answers:
+  1: >
+    Herod Agrippa
+  2: >
+    Simon Bar Kokhba
+  3: >
+    Herod the Great
+  4: >
+    Solomon
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: b7605fd9-cfbe-4481-8784-5418d6930fc7
+
+Question: |
+  According to the Bible, after Christ was born in Bethlehem, three Magi visited him. They presented Jesus with all these treasures, but one. Can you spot it?
+
+Answers:
+  1: >
+    Chrism
+  2: >
+    Myrrh
+  3: >
+    Gold
+  4: >
+    Frankincense
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 1995dafd-dcdf-4464-9639-1872f001475e
+
+Question: |
+  In the 1500s translating the Bible was almost illegal. A strong public opinion was widespread that the Bible should not be translated into common languages. Where was that?
+
+Answers:
+  1: >
+    Europe
+  2: >
+    North Africa
+  3: >
+    Asia
+  4: >
+    North America
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: ed3f1c1d-6641-4e94-b150-3da8f53453ca
+
+Question: |
+  According to legends, St. Patrick, the patron saint and national apostle of Ireland, is most well known for doing what?
+
+Answers:
+  1: >
+    Driving all the snakes away from Ireland
+  2: >
+    Spreading enlightenment among people
+  3: >
+    Helping Pope Celestine deal with infidels
+  4: >
+    Setting on fire all statues of pagan gods
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 4cb0e1ad-4338-4eec-8f8e-0877c050b8dc
+
+Question: |
+  Which Orthodox Christian church celebrates Christmas on January 7th?
+
+Answers:
+  1: >
+    The Jerusalem church
+  2: >
+    The Gregorian church
+  3: >
+    All of these
+  4: >
+    The Russian church
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: 7a8111ce-477c-4d8d-badb-b367cfde6258
 
 Question: |
@@ -3257,6 +3525,90 @@ Answers:
     Mark
   4: >
     Thaddaeus
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: a61057b2-2532-41e1-9497-841ad415769a
+
+Question: |
+  Which of these is said to have occurred at Cenacle?
+
+Answers:
+  1: >
+    The Last Supper
+  2: >
+    The crucifixion
+  3: >
+    The wedding at Cana
+  4: >
+    The assassination of Peter
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: a1ea89f2-8688-4efe-913a-9f622d291569
+
+Question: |
+  Which best defines the word Sanhedrin?
+
+Answers:
+  1: >
+    The condition of being without mental faculties
+  2: >
+    The religious book on which the Jain religion is based
+  3: >
+    The ancient spell used in Egypt to counter bad omens
+  4: >
+    The court of 23 judges biblically required to be present in every city
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: b3892155-2778-455c-8c2e-17c34868aabb
+
+Question: |
+  Since its separation from the Roman Catholic church in 1534, this branch of Christianity acts as a mother branch of the worldwide Anglican Communion.
+
+Answers:
+  1: >
+    Lutheranism
+  2: >
+    Sufism
+  3: >
+    Church of England
+  4: >
+    Calvinism
 
 Correct: 3
 

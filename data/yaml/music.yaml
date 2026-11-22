@@ -4783,6 +4783,62 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: 94c50416-c972-4f57-930b-d5278ed9623b
+
+Question: |
+  During the 1969 Altamont Free Concert in California, one of the Hells Angels who were in charge of security for the concert stabbed and killed Meredith Hunter. The incident was captured on the Maysles Brothers film Gimme Shelter what many wrote was the end of the Woodstock Nation. What song were the Stones singing at the moment of the stabbing?
+
+Answers:
+  1: >
+    Sympathy for the Devil
+  2: >
+    Brown Sugar
+  3: >
+    Under My Thumb
+  4: >
+    Jumpin' Jack Flash
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 3bd70c27-1753-47ac-8315-eaf5b3dd7365
+
+Question: |
+  What group starred in the documentary *Turn if the Century*, which has been called a "punk Last Waltz"? The group is featured from their beginnings at the fabled New York City bar CBGB to their induction in the Rock and Roll Hall of Fame.
+
+Answers:
+  1: >
+    Sex Pistols
+  2: >
+    Ramones
+  3: >
+    Joan Jett and the Blackhawks
+  4: >
+    Huey Lewis and the News
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: d0013ee2-0608-40b1-a4b3-6dbd7a1b4164
 
 Question: |
@@ -155288,6 +155344,34 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: 540cd5bf-be11-4be8-bdda-38e47132d87b
+
+Question: |
+  Jingle Bells, undoubtedly one of the most famous Christmas songs in the world, was written in 1857 by this person.
+
+Answers:
+  1: >
+    Joyce Ballantyne
+  2: >
+    Iza Trapani
+  3: >
+    Haddon Sundblom
+  4: >
+    James Pierpont
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: 90c3fbd7-690f-4e38-b464-d044190e1a0c
 
 Question: |
@@ -155319,6 +155403,95 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: 8fdd15b4-1651-498e-9175-da59f4c9d042
+
+Question: |
+  Finish this popular Christmas song about Rudolph the Red-Nosed Reindeer:
+  
+  > All of the other reindeer<br />
+  > Used to laugh and call him names<br />
+  > They never let poor Rudolph<br />
+  > ...
+
+Answers:
+  1: >
+    Join any reindeer games
+  2: >
+    Have any reindeer friends
+  3: >
+    Wear any reindeer pants
+  4: >
+    Be near his reindeer friends
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 3cccd3fe-e073-4465-bf24-7659d9aa9f6a
+
+Question: |
+  At Christmas time radio stations broadcast famous Christmas carols, songs and often, the Hallelujah chorus from the oratorio Messiah, by this composer.
+
+Answers:
+  1: >
+    Ludwig van Beethoven
+  2: >
+    Johann Sebastian Bach
+  3: >
+    Wolfgang Amadeus Mozart
+  4: >
+    George Frideric Handel
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: c59354db-26ba-428a-9bd4-da7d3fdb253f
+
+Question: |
+  On Christmas Day in 1818, this famous carol which has since been translated in more than 300 languages, was performed for the first time, in Austria.
+
+Answers:
+  1: >
+    Jingle Bells
+  2: >
+    O Christmas Tree
+  3: >
+    Angels We Have Heard On High
+  4: >
+    Silent Night
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: d7183f2e-3bc9-41fb-9200-3437f95ec497
 
 Question: |
@@ -155335,6 +155508,34 @@ Answers:
     Ella Fitzgerald
 
 Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 7c869887-0468-4f09-88e6-4323a1b98ca6
+
+Question: |
+  Which of these Scottish bands was named after a character from Wim Wenders movie Paris, Texas?
+
+Answers:
+  1: >
+    Travis
+  2: >
+    Franz Ferdinand
+  3: >
+    Fish
+  4: >
+    Belle & Sebastian
+
+Correct: 1
 
 Explanation: |
   None
@@ -158300,6 +158501,34 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: 77204775-6135-48ef-8b14-230a75012c56
+
+Question: |
+  This English rock musician changed his name to avoid confusion with a singer from the Monkees, who had the same family name.
+
+Answers:
+  1: >
+    Elvis Costello
+  2: >
+    David Crosby
+  3: >
+    Earl The Monkey Hinson
+  4: >
+    David Bowie
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: 860f2785-6db1-489c-9570-3cfd8c52cc4d
 
 Question: |
@@ -158314,6 +158543,34 @@ Answers:
     Luigi Tenco
   4: >
     Peppino Gagliardi
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 9ad1a8df-76b3-4217-b5d6-b491db4ef7dd
+
+Question: |
+  At what event was the opera Aida premiered?
+
+Answers:
+  1: >
+    The opening of the Suez Canal
+  2: >
+    The opening of La Scala in Milan
+  3: >
+    The opening of the Panama Canal
+  4: >
+    The opening of the National Opera House in Rome
 
 Correct: 1
 
@@ -158524,6 +158781,34 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: cfca2e70-5041-4aa8-81f5-97d683fdf865
+
+Question: |
+  Which song was Billy Joel's first US Top Ten Hit?
+
+Answers:
+  1: >
+    Moivin Out
+  2: >
+    Just the Way You Are
+  3: >
+    Piano Man
+  4: >
+    She's Got A Way
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: 26201454-e959-4b22-95bd-798069b3566d
 
 Question: |
@@ -158596,6 +158881,34 @@ Answers:
     Alice Cooper
 
 Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: ad508c38-894c-4429-9414-8bd48598fb27
+
+Question: |
+  What was Beyonce's first hit?
+
+Answers:
+  1: >
+    Take Me as I Am
+  2: >
+    Ring the Alarm
+  3: >
+    Dangerously in Love
+  4: >
+    Let Go
+
+Correct: 3
 
 Explanation: |
   None
@@ -158692,6 +159005,90 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: 2ce04d36-8095-4b7b-a377-aaef24f2ef3e
+
+Question: |
+  Bernard Webb was a pseudonym used by which famous musician and songwriter?
+
+Answers:
+  1: >
+    Paul McCartney
+  2: >
+    John Lennon
+  3: >
+    Peter Asher
+  4: >
+    none of these
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: c09bbb01-d4dc-4720-b0de-969df6703bae
+
+Question: |
+  Can you name the singer who had a big music hit with Mr. Bojangles.
+
+Answers:
+  1: >
+    none of these
+  2: >
+    Ronald Clyde Crosby
+  3: >
+    Tom Waites
+  4: >
+    Willie Nelson
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 5bf723c1-82ce-40d8-9c60-5e3341bd72da
+
+Question: |
+  This composer hired cliquers to boo his son's early works at their premier. Eventually, the popularity of his son's works overcame the insults of the father and his stooges. Name the father.
+
+Answers:
+  1: >
+    Johann Strauss
+  2: >
+    Johannes Brahms
+  3: >
+    Johan Sebastian Bach
+  4: >
+    Franz Lizst
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: 4a1a9a3c-868f-43fa-8c5d-ff2ee59a1331
 
 Question: |
@@ -158736,6 +159133,90 @@ Answers:
     Sibelius
 
 Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 4de3b002-5054-4ecc-ba96-26534b04b734
+
+Question: |
+  What was Bach's reason in writing the Etudes?
+
+Answers:
+  1: >
+    Earn money - they were sold as study pieces
+  2: >
+    Show that the harpsichord was inferior to the piano
+  3: >
+    Show that he could compose easy pieces, thereby promoting a large number of students to his study
+  4: >
+    Keep his children occupied
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 2d3e986b-3586-4efc-b1ee-3698ef767d3a
+
+Question: |
+  What album is considered to be the first rap record?
+
+Answers:
+  1: >
+    Public Enemy's Fight the Power
+  2: >
+    Ike Turner's Jet 88
+  3: >
+    Sugar Hill Gangs's Rappers Delight
+  4: >
+    Yannick Bruynoghe's Big Bills Rap
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: de6c0654-c5ec-45b8-8593-ab22aaf042fc
+
+Question: |
+  Who played keyboards on the Beach Boys hits?
+
+Answers:
+  1: >
+    Pete McIntosch
+  2: >
+    Mike Love
+  3: >
+    Darryl Dragon
+  4: >
+    Stan Gibb
+
+Correct: 3
 
 Explanation: |
   None
@@ -158832,6 +159313,62 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: 0df4318c-f4ec-497a-b909-0445144301c2
+
+Question: |
+  Who was the first woman to have a gold record?
+
+Answers:
+  1: >
+    Teresa Brewer
+  2: >
+    Connie Francis
+  3: >
+    Judy Garland
+  4: >
+    Shirley Temple
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: deafd574-eb71-474b-b8fd-1bcfc2dd55ff
+
+Question: |
+  Who wrote the concertos called The Four Seasons?
+
+Answers:
+  1: >
+    Vivaldi
+  2: >
+    Schumann
+  3: >
+    Mozart
+  4: >
+    Corelli
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: 147c3062-39e8-4f7d-ab80-947a11b5c4f3
 
 Question: |
@@ -158860,6 +159397,34 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: 761645e3-47c1-46d1-8db8-774d34b23784
+
+Question: |
+  Which great composer wrote Wellington's Victory, which included cannons, drums, and a lot of brass?
+
+Answers:
+  1: >
+    Mendelssohn
+  2: >
+    Beethoven
+  3: >
+    Schumann
+  4: >
+    Schubert
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: 605dc76b-634b-48bb-b4f8-4287453a3ae4
 
 Question: |
@@ -158876,6 +159441,262 @@ Answers:
     Motley Crew
 
 Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: c60f3ee0-6e7a-4267-bfca-415e74f99d7a
+
+Question: |
+  This John was a member of one of the most popular bands from the 60s. Earlier, he has formed his own band called The Quarrymen.
+
+Answers:
+  1: >
+    John Lennon
+  2: >
+    John Major
+  3: >
+    John Secada
+  4: >
+    John Bon Jovi
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: b41d11ba-3684-4eeb-9428-a3f0be09a7ef
+
+Question: |
+  This famous American country singer, who is only 5 ft (1,52 m) tall, has a star on the Hollywood Walk of Fame for Recording and owns a theme park.
+
+Answers:
+  1: >
+    Dolly Parton
+  2: >
+    Jessica Andrews
+  3: >
+    Brittany Wells
+  4: >
+    Suzy Bogguss
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 663d1f75-722a-4634-9887-3146e7eeb465
+
+Question: |
+  The Monterey Pop Festival was one of the first big breaks in the U.S. for this guitarist that is ranked #1 on Rolling Stone's 100 Greatest Guitarists. Name this guitarist who had hits such as The Star Spangled Banner to Bob Dylan's All Along the Watchtower.
+
+Answers:
+  1: >
+    Robert Johnson
+  2: >
+    Jimi Hendrix
+  3: >
+    Buddy Guy
+  4: >
+    Howlin Wolf
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 165e8b7b-3332-450a-876d-3322239ecf1e
+
+Question: |
+  What member of the Rat Pack has a tombstone which reads: Everybody Loves Somebody Sometimes?
+
+Answers:
+  1: >
+    Dean Martin
+  2: >
+    Peter Lawford
+  3: >
+    Frank Sinatra
+  4: >
+    Joey Bishop
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 48e53f31-d8ca-4cfc-8226-07cdc7768775
+
+Question: |
+  What were Beethoven's last words?
+
+Answers:
+  1: >
+    Friends applaud - the comedy is over
+  2: >
+    I have lived like a philosopher, and died like a Christian.
+  3: >
+    Drink to me
+  4: >
+    What did you say?
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 12516a68-5330-4cfb-944d-a4c6573be3ec
+
+Question: |
+  This great jazz trumpeter was the only African-American musician in the band on The Tonight Show with Johnny Carson.
+
+Answers:
+  1: >
+    Clark Terry
+  2: >
+    Terry Pritchard
+  3: >
+    Jack Terry
+  4: >
+    Terry Clarke
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 8a6fc454-ab12-4ae2-aba3-e032e9dcd320
+
+Question: |
+  Which famous composer of the 17th and 18th century said:
+  
+  > If I decide to be an idiot, then I'll be an idiot on my own accord.
+
+Answers:
+  1: >
+    Antonio Vivaldi
+  2: >
+    Johann Sebastian Bach
+  3: >
+    Domenico Scarlatti
+  4: >
+    George Frideric Handel
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: a82f934b-286c-496f-ba76-1c259920668b
+
+Question: |
+  What is the name of this song, featured in the movie Rent:
+  
+  > Compassion, to fashion, to passion when its new. To Sontag. To Sondheim. To anything taboo. Ginsberg, Dylan, Cunningham and Cage. Lenny Bruce. Langston Hughes. To the stage. To Uta. To Buddha. Pablo Neruda, too. Why Dorothy and Toto went over the rainbow To blow off Auntie Em...?
+
+Answers:
+  1: >
+    Over The Rainbow
+  2: >
+    Auntie Em
+  3: >
+    La Vie Boheme
+  4: >
+    Famous People
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: b5f0a2a4-7441-4d5a-bf76-e10d0cc1551c
+
+Question: |
+  Who recorded the Academy Award-winning song to which Baby and Johnny performed their final dance in the 1987 movie Dirty Dancing?
+
+Answers:
+  1: >
+    Bill Medley and Jennifer Warnes
+  2: >
+    Maurice Williams & the Zodiacs
+  3: >
+    Otis Redding
+  4: >
+    Patrick Swayze
+
+Correct: 1
 
 Explanation: |
   None

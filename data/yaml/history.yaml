@@ -8419,7 +8419,7 @@ SchemaVersion: 1
 ID: 358f4f62-0917-4f0e-9d25-d8b88e7c5ebf
 
 Question: |
-  This US general was called Old  Fuss and Feathers.
+  This US general was called Old Fuss and Feathers.
 
 Answers:
   1: >
@@ -8971,7 +8971,7 @@ SchemaVersion: 1
 ID: da991bb7-42de-4075-88f2-ec6f180e3cd6
 
 Question: |
-  Although this doctor was found guilty of the murder of his wife Marilyn, ten years later a young lawyer by the name of F Lee Bailey  and a ruling by the United States Supreme Court helped win the doctor his freedom. Which defendant always insisted his wife's murder was committed by a bushy-haired intruder?
+  Although this doctor was found guilty of the murder of his wife Marilyn, ten years later a young lawyer by the name of F Lee Bailey and a ruling by the United States Supreme Court helped win the doctor his freedom. Which defendant always insisted his wife's murder was committed by a bushy-haired intruder?
 
 Answers:
   1: >
@@ -9491,7 +9491,7 @@ SchemaVersion: 1
 ID: f2b585a6-1fff-44ec-b439-b66588b55d8a
 
 Question: |
-  On September 30, 1955, California Poly student Donald Gene Turnupseed  was driving a Ford. Why is this important?
+  On September 30, 1955, California Poly student Donald Gene Turnupseed was driving a Ford. Why is this important?
 
 Answers:
   1: >
@@ -9963,7 +9963,7 @@ SchemaVersion: 1
 ID: 69793aab-d79d-4c40-ab76-0ba70dfc56df
 
 Question: |
-  In 18th Century France the men of  the Sanson family became famous for this occupation.
+  In 18th Century France the men of the Sanson family became famous for this occupation.
 
 Answers:
   1: >
@@ -10211,7 +10211,7 @@ SchemaVersion: 1
 ID: 9a1fc6a2-f524-4606-a058-24f0dca9ed3d
 
 Question: |
-  Mount  Washington in New  Hampshire, is the highest mountain in the Northeastern USA. It is known for its very high winds and bad weather. When was it first climbed?
+  Mount Washington in New Hampshire, is the highest mountain in the Northeastern USA. It is known for its very high winds and bad weather. When was it first climbed?
 
 Answers:
   1: >
@@ -11092,6 +11092,34 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: 57083073-679a-430d-b009-6b3890c1e5bb
+
+Question: |
+  Which country's diamonds were the first ones banned as conflict (or blood) diamonds by the UN?
+
+Answers:
+  1: >
+    Angola's
+  2: >
+    South Africa's
+  3: >
+    Mozambique's
+  4: >
+    Sierra Leone's
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: eb7c402c-bca1-4c5b-8fa1-26f671af0eaa
 
 Question: |
@@ -11444,6 +11472,118 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: 264ae87d-019b-4311-ade0-e4bf524fbd1b
+
+Question: |
+  In what century was the original version of the Seven Wonders of the World list created by Antipater of Sidon?
+
+Answers:
+  1: >
+    6th century BC
+  2: >
+    2nd century BC
+  3: >
+    7th century AD
+  4: >
+    3th century AD
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 84a2b258-9f3e-4462-ae85-f0bddccc7f07
+
+Question: |
+  The Great Pyramid of Giza, the oldest of the Seven Wonders of the Ancient World, was built approximately how long ago?
+
+Answers:
+  1: >
+    1000 years ago
+  2: >
+    2000 years ago
+  3: >
+    700 years ago
+  4: >
+    4500 years ago
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: e6cfc9eb-937e-4f41-b1eb-0fee5b75359f
+
+Question: |
+  Like the Great Pyramid of Giza, the Mausoleum of Maussollos is the burial place of an ancient ruler - king Mausollos of Caria. Who conceived the idea of building this ancient wonder of the world?
+
+Answers:
+  1: >
+    Maussollos's best friend and advisor
+  2: >
+    Maussollos's son
+  3: >
+    Maussollos's sister
+  4: >
+    Maussolloss brother
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 93f05de3-4191-446c-821c-e0a2b16d7131
+
+Question: |
+  The Lighthouse of Alexandria, the only one of the Seven Wonders which had a practical use in addition to architectural elegance, included this remarkable device that astonishes even modern researchers.
+
+Answers:
+  1: >
+    A huge mirror
+  2: >
+    A telescope
+  3: >
+    A heavy catapult
+  4: >
+    A windsock
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: 40f05b22-8c84-4e2d-af40-c50ceac69f5a
 
 Question: |
@@ -11584,6 +11724,614 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: 941cb622-84ab-4d88-8bde-5b49f23d0d77
+
+Question: |
+  Who was the first person to sign the the United States Declaration of Independence?
+
+Answers:
+  1: >
+    John Adams
+  2: >
+    Benjamin Franklin
+  3: >
+    Thomas Jefferson
+  4: >
+    John Hancock
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 6a303518-3a44-4953-b247-b206e383bb72
+
+Question: |
+  What was the last state to join America?
+
+Answers:
+  1: >
+    Alaska
+  2: >
+    Hawaii
+  3: >
+    Florida
+  4: >
+    New Mexico
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 7c6f6346-7bf1-49c8-a72d-a537f00614cd
+
+Question: |
+  In 1776 America declared independence from what country?
+
+Answers:
+  1: >
+    Spain
+  2: >
+    Great Britain
+  3: >
+    Mexico
+  4: >
+    France
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 718ed8d4-da82-4717-b140-90b4ffb51367
+
+Question: |
+  Where did the first people on North America cross to get to America?
+
+Answers:
+  1: >
+    The Atlantic Ocean
+  2: >
+    The Pacific Ocean
+  3: >
+    Theajs
+  4: >
+    Beringa
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: cc9f4804-60b0-4850-be42-297303b23b38
+
+Question: |
+  George Washington signed the Declaration of Independence.
+
+Answers:
+  1: >
+    False
+  2: >
+    True
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 863e8fcd-2cde-4aaa-a382-f35b1b7fc5e9
+
+Question: |
+  What was the first state to ratify the US Constitution and therefore the first state of the United States of America?
+
+Answers:
+  1: >
+    Delaware
+  2: >
+    New Jersey
+  3: >
+    Pennsylvania
+  4: >
+    New York
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 407c42a0-b80d-4b48-a18e-253f14fcd0a2
+
+Question: |
+  Who was the first American on the moon?
+
+Answers:
+  1: >
+    Buzz Aldrin
+  2: >
+    John Young
+  3: >
+    Michael Collins
+  4: >
+    Neil Armstrong
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: a4ec9102-5be2-490f-a92c-e7d6e8bf31e0
+
+Question: |
+  The Azores were discovered by the explorer Amerigo Vespucci.
+
+Answers:
+  1: >
+    False
+  2: >
+    True
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: a0f293e2-f9e2-409b-8ec2-8cc390b5e533
+
+Question: |
+  Which of the Seven Wonders of the Ancient World is the oldest?
+
+Answers:
+  1: >
+    The Statue of Zeus
+  2: >
+    The Lighthouse of Alexandria
+  3: >
+    The Hanging Gardens of Babylon
+  4: >
+    The Great Pyramid of Giza
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 3e65b2d6-b91d-48be-835b-a35104a9da8e
+
+Question: |
+  The Colossus, one of the Seven Wonders of the Ancient World, was a giant statue of which Greek god?
+
+Answers:
+  1: >
+    Dionysus
+  2: >
+    Zeus
+  3: >
+    Helios
+  4: >
+    Ares
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 9a14de80-5f0c-46a3-86d2-0bd50d5360ab
+
+Question: |
+  How many of the Seven Ancient World Wonders exist in the modern world?
+
+Answers:
+  1: >
+    Three
+  2: >
+    None
+  3: >
+    One
+  4: >
+    Five
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 668f3591-89e1-4809-8594-2fce21965347
+
+Question: |
+  Which of the Seven Wonders of the Ancient World was built on the island of Rhodes?
+
+Answers:
+  1: >
+    The Colossus
+  2: >
+    The Hanging Gardens
+  3: >
+    The Lighthouse
+  4: >
+    The Statue of Zeus
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 021d09d1-9936-48d7-9c2b-bb858b0f6056
+
+Question: |
+  Which of the Seven Wonders of the Ancient World was built on the banks of the Euphrates River in present-day Iraq?
+
+Answers:
+  1: >
+    The Statue of Zeus
+  2: >
+    The Hanging Gardens
+  3: >
+    Mausoleum at Halicarnassus
+  4: >
+    The Lighthouse
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 8e59d497-ba6a-4b70-9396-ecaf93017e10
+
+Question: |
+  For which ruler was the Mausoleum at Halicarnassus built?
+
+Answers:
+  1: >
+    King Minos
+  2: >
+    King Mausolus
+  3: >
+    King Memes
+  4: >
+    King Mithris
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 57bdfb87-c637-46e3-9920-d8f8c024e1b9
+
+Question: |
+  Which of the Seven Wonders of the Ancient World was inlaid with ivory, gold, ebony, and precious stones?
+
+Answers:
+  1: >
+    The Statue of Zeus
+  2: >
+    The Temple at Ephesus
+  3: >
+    The Pharos
+  4: >
+    The Colossus
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 46c81f72-ec73-41c4-a780-5990d0943878
+
+Question: |
+  Where was the great Statue of Zeus located?
+
+Answers:
+  1: >
+    Athens
+  2: >
+    Olympia
+  3: >
+    Sparta
+  4: >
+    Cornith
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: ee7ac9cb-b944-4809-bab6-0e7e5a5cf28c
+
+Question: |
+  What is the other name of the Lighthouse at Alexandria?
+
+Answers:
+  1: >
+    Thermopylae
+  2: >
+    The Pharos
+  3: >
+    Trajans Column
+  4: >
+    The Capitoline
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 9cd47147-32bc-42b2-80d4-5e12365d92b4
+
+Question: |
+  Two of Wonders of the Ancient World were built as tombs. Of those listed below, which was one of these tombs?
+
+Answers:
+  1: >
+    The Temple at Ephesus
+  2: >
+    The Great Pyramid of Giza
+  3: >
+    The Hanging Gardens
+  4: >
+    The Lighthouse of Alexandria
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 6fab8653-3211-4f2d-b683-faf0c5712445
+
+Question: |
+  Florida became this number state to enter the union on March 3, 1845.
+
+Answers:
+  1: >
+    34th
+  2: >
+    24th
+  3: >
+    31th
+  4: >
+    27th
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: da524df4-ff3f-4d4d-8106-fbb3be7dcc46
+
+Question: |
+  On Christmas Day, 1868, this U.S. President granted unconditional pardon to all Civil War Confederate soldiers.
+
+Answers:
+  1: >
+    Andrew Johnson
+  2: >
+    Abraham Lincoln
+  3: >
+    Ulysses S. Grant
+  4: >
+    James Buchanan
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 747f414b-8121-4c4a-a160-237ba9f14a47
+
+Question: |
+  In 1914, during World War I, troops from these two hostile countries observed an unofficial Christmas truce.
+
+Answers:
+  1: >
+    Germany and Russia
+  2: >
+    Russia and Turkey
+  3: >
+    France and Germany
+  4: >
+    Germany and Britain
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: a9d13cc7-83e6-45d5-a86d-760a5d1cc0e3
+
+Question: |
+  Which European country adopted the Julian calendar on Christmas Day, 597?
+
+Answers:
+  1: >
+    England
+  2: >
+    Switzerland
+  3: >
+    France
+  4: >
+    Germany
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: be17c008-7bc5-49d5-ae6b-a5d18c5290fa
 
 Question: |
@@ -11684,6 +12432,114 @@ Answers:
     July 4
 
 Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 7ee8e1b5-3788-4845-b5bb-1d226999ccb9
+
+Question: |
+  About 1,400 years ago, a British girl named Bathilde was sold to King Clovis II as a slave. The king fell in love with her and they got married. He made her queen. This is how slavery ended in this country.
+
+Answers:
+  1: >
+    Spain
+  2: >
+    France
+  3: >
+    Great Britain
+  4: >
+    America
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 130d3a82-c81a-4cd0-b57e-1341767f5cec
+
+Question: |
+  During which of these wars was there an epidemic of opium addiction among American soldiers?
+
+Answers:
+  1: >
+    World War II
+  2: >
+    Korean War
+  3: >
+    Vietnam war
+  4: >
+    World War I
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 3323e118-cf70-4910-a265-e8e84eb68c89
+
+Question: |
+  Was Saddam Hussein a Cuban dictator?
+
+Answers:
+  1: >
+    No
+  2: >
+    Yes
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: d9dd4ee9-8618-44fe-a598-ce297facbc40
+
+Question: |
+  What famous female Irish pirate of the 1500s was condemned to death, but later pardoned by Queen Elizabeth?
+
+Answers:
+  1: >
+    Kelley McGee
+  2: >
+    Grace O'Malley
+  3: >
+    Grace McGilley
+  4: >
+    Grace Kelley
+
+Correct: 2
 
 Explanation: |
   None
@@ -11822,6 +12678,34 @@ Answers:
     Virginia and West Virginia
   4: >
     Pennsylvania and Virginia
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: f1814d0a-618e-4acf-b655-c0e2e6bf1ade
+
+Question: |
+  What distinction does Bailey Brown hold?
+
+Answers:
+  1: >
+    He was the first Union soldier killed by the Confederates in the Civil War.
+  2: >
+    He was the first American killed in the War of 1812.
+  3: >
+    He was the first American killed in the Spanish-American War.
+  4: >
+    He was the first American killed in World War I.
 
 Correct: 1
 
@@ -12004,6 +12888,34 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: 6aacae2e-d9c9-4195-95a0-36593e787a1b
+
+Question: |
+  On March 9, 1841 the Supreme Court upheld a lower court decision which ruled that Joseph Cinque and other members of the Mende people had been illegally enslaved and were ordered to be returned to Africa. What replica sails the seas and visits ports as an educational tool and ambassador of goodwill?
+
+Answers:
+  1: >
+    Old Ironsides
+  2: >
+    U.S.S. Constitution
+  3: >
+    Amistad
+  4: >
+    Bonhomme Richard
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: 8a4be52c-8887-4759-bb6d-8d9752b6d09d
 
 Question: |
@@ -12076,6 +12988,62 @@ Answers:
     The Mayan Pyramids
 
 Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 47d9e942-e104-414d-8785-64b5ce76743c
+
+Question: |
+  Two streets in Jerusalem are named after US Presidents. Which two?
+
+Answers:
+  1: >
+    Washington and Lincoln
+  2: >
+    Washington and Kennedy
+  3: >
+    Lincoln and Kennedy
+  4: >
+    Kennedy and Nixon
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 7c6e77e6-ddea-47e0-a60c-f1952dcb6575
+
+Question: |
+  What was the name of the daily newspaper on board the Titanic?
+
+Answers:
+  1: >
+    Atlantic Daily Bulletin
+  2: >
+    White Star Bulletin
+  3: >
+    News of the Day
+  4: >
+    Titanic Daily Bulletin
+
+Correct: 1
 
 Explanation: |
   None
@@ -12172,6 +13140,34 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: 49f5e226-9dab-4e2b-bd55-7d3c3c8f942f
+
+Question: |
+  Which former president and first lady got married on October 11th?
+
+Answers:
+  1: >
+    William & Hillary Clinton
+  2: >
+    George & Barbara Bush
+  3: >
+    James & Rosalynn Carter
+  4: >
+    Ronald & Nancy Reagan
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: 53dc98f4-7c34-4d04-8841-db085ef597d0
 
 Question: |
@@ -12188,6 +13184,34 @@ Answers:
     He wanted to hunt for seals.
 
 Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: e1fe329d-013c-4078-8792-b766bc57646d
+
+Question: |
+  On November 18 in 1913, Lincoln Beachy became the first American to perform which one of the following?
+
+Answers:
+  1: >
+    Heart transplant operations.
+  2: >
+    Double inside one and one-hale dive.
+  3: >
+    Loop-the-loop in a plane.
+  4: >
+    Triple axle on ice skates.
+
+Correct: 3
 
 Explanation: |
   None
@@ -12396,6 +13420,90 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: d3bcc257-5fa8-4d66-8f0d-2bfb8c86c7e2
+
+Question: |
+  Who was the first person to be chosen Man (or Person) of the Year three times?
+
+Answers:
+  1: >
+    Winston Churchill
+  2: >
+    Lyndon Baines Johnson
+  3: >
+    Gerald Ford
+  4: >
+    Franklin Delano Roosevelt
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: c2c56892-4712-495b-a42c-a99423e2e3ea
+
+Question: |
+  He was the first European to be selected Man of the Year by Time magazine. He was also the first winner to be executed in his country for treason.
+
+Answers:
+  1: >
+    Hans von Drucker
+  2: >
+    Konrad Adenauer
+  3: >
+    Pierre Laval
+  4: >
+    Laurence des Lemaussanne
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 9d69bd9b-0c3d-4b6b-84d9-90597f9fdb67
+
+Question: |
+  He was the first person chosen for Time magazine's Man of the Year award two years in a row.
+
+Answers:
+  1: >
+    Richard M. Nixon
+  2: >
+    Bill Gates
+  3: >
+    Vladimir Putin
+  4: >
+    Franklin Delano Roosevelt
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: 4fe26237-75c8-4e43-8535-3da3b5348ac9
 
 Question: |
@@ -12492,6 +13600,34 @@ Answers:
     Saddam Hussein
 
 Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 6a8bb612-3d77-4955-9952-f4905b036985
+
+Question: |
+  They were the first couple to win Time magazine's Man of the Year award?
+
+Answers:
+  1: >
+    Eleanor and Franklin D. Roosevelt
+  2: >
+    Bill and Melinda Gates
+  3: >
+    Chiang Kai-shek and Soong May-Ling
+  4: >
+    King George VIII and Wallis Simpson
+
+Correct: 3
 
 Explanation: |
   None
@@ -12604,6 +13740,34 @@ Answers:
     Coolidge
 
 Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 379f7b84-83c1-4050-8bfd-ccb4295d960e
+
+Question: |
+  This former publisher of the Los Angeles Times, CEO of Times-Mirror Company and CEO of American Airlines, served as U.S. Postmaster General under Ronald Reagan.
+
+Answers:
+  1: >
+    Albert V. Casey
+  2: >
+    Franklin C. Watney
+  3: >
+    Carls B. Caverns
+  4: >
+    Roe Dayo Drive
+
+Correct: 1
 
 Explanation: |
   None
@@ -12744,6 +13908,34 @@ Answers:
     1781
 
 Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 80ba0a61-32b5-4a40-bd75-8a02e57e7d2d
+
+Question: |
+  Lucy Hobbs was the first female dentist in America. From which school did she get her degree?
+
+Answers:
+  1: >
+    Antioch Medical and Dental School
+  2: >
+    Boston General Medical School
+  3: >
+    The Ohio College of Dental Surgery
+  4: >
+    The College of William and Mary Medical Institute
+
+Correct: 3
 
 Explanation: |
   None
@@ -17321,6 +18513,147 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: 7493370e-3ac0-4244-b6f2-41ceba7fefa9
+
+Question: |
+  All telephones in the USA were shut down on August 2, 1922. Why?
+
+Answers:
+  1: >
+    The International Brotherhod of Communications Workers went on strike.
+  2: >
+    The electrical workers in New York, Chicago, and Washington went on strike.
+  3: >
+    It was the day when Alexander Graham Bell died.
+  4: >
+    It was the day for the Orson Welles War of the Worlds radio telecast.
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 18fa26e8-98bb-4b3c-980b-4edb0e0c9ab5
+
+Question: |
+  What important thing did Einstein do on August 2nd, 1939?
+
+Answers:
+  1: >
+    He proved the Theory of Special Relativity
+  2: >
+    He found the speed of light
+  3: >
+    He wrote a letter
+  4: >
+    He proved E=mc^2
+
+Correct: 3
+
+Explanation: |
+  He signed a letter to U.S. President Franklin D. Roosevelt warning of the potential development of "extremely
+  powerful bombs of a new type" using nuclear chain reactions and uranium.
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 5cbef551-8b4e-41dc-8950-ad178b8b3eea
+
+Question: |
+  In 1948 Albert Einstein was offered this new job.
+
+Answers:
+  1: >
+    Head of the Institute for Advanced Study
+  2: >
+    President of Israel
+  3: >
+    Head Dean of Princeton University
+  4: >
+    Chief of the Atomic Energy Commission
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: f8bb8daa-28c4-48a4-9bfe-2aad6b0e90c7
+
+Question: |
+  In 1938 Doug Corrigan set out on a flight from New York to California. What nickname did he get after the flight?
+
+Answers:
+  1: >
+    Day/Night Corrigan
+  2: >
+    California DreaminCorrigan
+  3: >
+    Wrong Way Corrigan
+  4: >
+    All-the-Way Corrigan
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 48e1fd92-6318-4da6-9fb2-edfa0ebe6462
+
+Question: |
+  What distinction does Dennis Tito hold?
+
+Answers:
+  1: >
+    He was the first tourist in space.
+  2: >
+    He was the first person to fly the Shuttle, shoot down an enemy fighter, and fly a balloon across the Atlantic.
+  3: >
+    He was the first person to fly the Shuttle three times.
+  4: >
+    He was the first person to make a space walk.
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: 5acf3e56-6b50-44a9-b77f-e6a4ef3e7a45
 
 Question: |
@@ -17335,6 +18668,34 @@ Answers:
     1953
   4: >
     1955
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 0b63c0d5-d58c-4885-8523-ab06c8300fe4
+
+Question: |
+  On January 31, 2008, China announced that it will recycle these to resurface roads.
+
+Answers:
+  1: >
+    Robbie Williams's Cds
+  2: >
+    Old cars
+  3: >
+    Coal
+  4: >
+    Old tires
 
 Correct: 1
 
@@ -17429,6 +18790,62 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: 004503b5-2b0b-45ff-a91b-db1a300674f3
+
+Question: |
+  King Edward VIII abdicated the English throne for the woman I love. He later became the Gouverneur of what land ?
+
+Answers:
+  1: >
+    Fiji
+  2: >
+    The Bahamas
+  3: >
+    Jamaica
+  4: >
+    Barbados
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 23fb7096-86b5-467b-ac53-349452c66bf6
+
+Question: |
+  What is the name of the historic attack on Normandy on June 6, 1944, which was part of World War II military operations of the Allied Powers against Nazi Germany?
+
+Answers:
+  1: >
+    Operation Overlord
+  2: >
+    Operation Belgrani
+  3: >
+    Operation Barbarosa
+  4: >
+    Operation Neptune
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: e5ae70da-77be-4acb-8e31-9a290dcd68ba
 
 Question: |
@@ -17445,6 +18862,34 @@ Answers:
     The March of the Suffrajets
 
 Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: a324e045-2131-4063-bffe-d5dd0f67a852
+
+Question: |
+  At one time both Canada and Ireland were governed by people of this same name.
+
+Answers:
+  1: >
+    John McKenzie
+  2: >
+    Sarah Mosely
+  3: >
+    Mary Robinson
+  4: >
+    Robert Hall Briscoe
+
+Correct: 3
 
 Explanation: |
   None
@@ -17513,6 +18958,35 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: 5e6726dc-b41e-4cb4-a2ed-d342e0a1bab2
+
+Question: |
+  What award was given to President George W. Bush in 2004?
+
+Answers:
+  1: >
+    The Stillman Award for Leadership
+  2: >
+    The Raspberry Award for worst leading actor
+  3: >
+    The Hendley Award for Great Americans
+  4: >
+    The Thurbridge Award for Freedom
+
+Correct: 2
+
+Explanation: |
+  He received it for appearing as himself through archival footage in Michael Moore’s 2004 documentary, Fahrenheit
+  9/11.
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: 1bd0090b-13ca-4295-a896-adb5cc71b47c
 
 Question: |
@@ -17529,6 +19003,34 @@ Answers:
     Charles the Bald
 
 Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 71d4a0fc-2311-4cc3-87f2-25d4617f774c
+
+Question: |
+  This Irish hero, spurred on by the French Revolution, is widely regarded as the father of Irish republicans.
+
+Answers:
+  1: >
+    Patrick McCormack
+  2: >
+    Brian Clohessy
+  3: >
+    Kevin O'Doul
+  4: >
+    Wolfe Tone
+
+Correct: 4
 
 Explanation: |
   None
@@ -17569,6 +19071,90 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: 71947dee-7a0e-467a-91c1-d350bef48745
+
+Question: |
+  Which of these events happened on April 7, 1927?
+
+Answers:
+  1: >
+    The first long distance Television image was sent.
+  2: >
+    Adolph Hitler made his infamous first attempt to take over Germany.
+  3: >
+    The New York Stock Exchange fell 67 points (29% then)
+  4: >
+    The first Easter Parade in was held in New York City.
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 5f1b5d61-1291-425b-9edf-d0d9c86ab1bf
+
+Question: |
+  Who is Katie Hnida?
+
+Answers:
+  1: >
+    The first female to be a  professional boxer
+  2: >
+    The first female to play NCAA Division 1 football
+  3: >
+    The first  American female to ride on the Space Shuttle
+  4: >
+    The first female Prime Minister of Ecuador
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: baca8604-3683-4f54-9d42-1c8d6a3a9668
+
+Question: |
+  Jose Raul Capablanca of Cuba was the first person from the Western Hemisphere to do what?
+
+Answers:
+  1: >
+    Be President of the U.N. General Assembly
+  2: >
+    Win the World Chess Championship
+  3: >
+    Win an Olympic baseball game
+  4: >
+    Win the Nobel Prize for Literature
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: 775e5f5a-520f-4872-84bd-cdbc91054b01
 
 Question: |
@@ -17585,6 +19171,34 @@ Answers:
     King Richard the Lion Hearted
 
 Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 797fca65-cc6e-4bd6-ace9-e4867f526dd2
+
+Question: |
+  Who was Vice President under President Dwight D. Eisenhower, when the Alaska Statehood Act was signed?
+
+Answers:
+  1: >
+    Richard Nixon
+  2: >
+    Nelson A. Rockafeller
+  3: >
+    Brian V Mitchell
+  4: >
+    John L Truman
+
+Correct: 1
 
 Explanation: |
   None
@@ -17709,6 +19323,34 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: 0c43db53-a6cb-4837-8758-e8289ba949e1
+
+Question: |
+  Why was the battle of Huai-Hai so important in world history?
+
+Answers:
+  1: >
+    It was the battle that gave control of China to the Mongols
+  2: >
+    It was the final battle that drove Japan out of China in WWII
+  3: >
+    It was the last major battle between Chinese Communists and Chinese Nationalists
+  4: >
+    It was the last major Chinese-aided attack of the Vietnam War
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: 7e8b988b-946e-4d7a-96f4-9f02f7977e44
 
 Question: |
@@ -17725,6 +19367,34 @@ Answers:
     He had surprising knowledge of the family background and the military
 
 Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 697667cc-d2c2-4bfd-9ff3-6a16727d3a98
+
+Question: |
+  The death of Lady Salisbury is reenacted at Tower Green, part of the Tower of London complex. How did she die?
+
+Answers:
+  1: >
+    She climbed up jumped from the Tower
+  2: >
+    She was murdered by rebels
+  3: >
+    She was axed to death
+  4: >
+    She was executed by beheading
+
+Correct: 3
 
 Explanation: |
   None
@@ -17809,6 +19479,34 @@ Answers:
     Furman  v. Florida
 
 Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 61437ff9-d746-4363-9445-70404657f156
+
+Question: |
+  Rudolph Abel, considered the greatest Russian spy, was caught in the USA and arrested. What event led to his capture?
+
+Answers:
+  1: >
+    Another spy confessed and gave his name
+  2: >
+    He was caught speeding
+  3: >
+    He two-timed his mistress
+  4: >
+    Somebody picked up a nickel
+
+Correct: 4
 
 Explanation: |
   None
@@ -17961,6 +19659,34 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: 0d5086d5-dc64-4be7-b931-43f9a8a6d47a
+
+Question: |
+  What is true about President Bill Clinton's official portrait?
+
+Answers:
+  1: >
+    He is portrayed as being right-handed instead of left-handed.
+  2: >
+    It is the first official Presidential portrait painted by an African-American.
+  3: >
+    It is the first official Presidential portrait not painted by an American citizen.
+  4: >
+    It is the first official Presidential portrait that had to be redone because of mistakes.
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: af48d2f9-a251-412a-b50b-63453ed88620
 
 Question: |
@@ -17977,6 +19703,34 @@ Answers:
     Minor White
 
 Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 536474fb-fef1-444b-ae05-669ea8b25553
+
+Question: |
+  Who was listed as the richest person in the world on the 2009 Forbes list?
+
+Answers:
+  1: >
+    Carlos Slim Helu
+  2: >
+    Lawrence Ellison
+  3: >
+    Warren Buffett
+  4: >
+    Bill Gates
+
+Correct: 4
 
 Explanation: |
   None
@@ -18031,6 +19785,62 @@ Answers:
     William McKinley
   4: >
     Teddy Roosevelt
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 6d8f6471-3419-4a0c-aae9-b433489dd287
+
+Question: |
+  Which distinction does Annie Moore hold?
+
+Answers:
+  1: >
+    She was the first American woman to win a Nobel Prize.
+  2: >
+    She was the first immigrant to the USA to pass through Ellis Island.
+  3: >
+    She was the first American woman to be a dentist.
+  4: >
+    She was the first American woman to graduate from college.
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 8b694fa0-6982-481d-b89a-d86e4b7c06a5
+
+Question: |
+  What distinction does Sir Timothy Berners-Lee hold?
+
+Answers:
+  1: >
+    He was the first RAF pilot to shoot down a plane.
+  2: >
+    He is the inventor of the World Wide Web.
+  3: >
+    He made the first cell phone call.
+  4: >
+    He was the first non-American to hold a US patent.
 
 Correct: 2
 
@@ -18157,6 +19967,34 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: 0f5031ff-f141-4269-bffa-2f634e9495de
+
+Question: |
+  How many men held the title King of England in 1936?
+
+Answers:
+  1: >
+    1 - George V
+  2: >
+    3 - George V, Edward VIII, and George VI
+  3: >
+    2 - Albert II and George VI
+  4: >
+    0 - There was a queen
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: d77afda2-5823-437a-89d1-e888c7058180
 
 Question: |
@@ -18178,6 +20016,232 @@ Explanation: |
   During his 1909 expedition to the North Pole, the explorer Robert Peary carried an American flag with him and cut it
   into small pieces, leaving pieces along his route. This was meant as a symbolic way of claiming the territory for
   the United States and marking the achievement of reaching the North Pole.
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: d4e2ec89-3f66-4a01-90fe-9aee3fd7137c
+
+Question: |
+  This famous pilot made the first solo flight from Hawaii to the mainland of the USA.
+
+Answers:
+  1: >
+    Amelia Earhart
+  2: >
+    Howard Hughes
+  3: >
+    Tex Johnston
+  4: >
+    Charles Lindbergh
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: e25aaa43-29ba-4dc3-9ed5-206c56ff75b6
+
+Question: |
+  He was the first child born in the White House in Washington, D.C.
+
+Answers:
+  1: >
+    James Franklin Jefferson
+  2: >
+    James Lee Washington
+  3: >
+    James Quincy Adams
+  4: >
+    James Madison Randolph
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: eb4828be-2ed7-4f4a-918b-93eed30b7148
+
+Question: |
+  What was the Dionysia?
+
+Answers:
+  1: >
+    The ancient Athenian celebration in honor of Dionysus
+  2: >
+    The ancient Greek name for what we call The Parthenon
+  3: >
+    A classical Greek drama that was rewritten by Shakespeare as A Midsummers Nights Dream
+  4: >
+    The ancient Spartan creed of the warrior
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 8f039925-6faf-43bb-be37-3ca5173f49df
+
+Question: |
+  The first transcontinental car trip, S.F. to NYC, was made in 1906. How long did it take?
+
+Answers:
+  1: >
+    52 days
+  2: >
+    5 weeks
+  3: >
+    2 weeks
+  4: >
+    52 hours
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 932825f6-fde3-4152-99a5-80aee3681368
+
+Question: |
+  How were the dimensions of American battleships determined?
+
+Answers:
+  1: >
+    They had to be lower than the Golden Gates bridge and small enough to go through the Panama Canal.
+  2: >
+    They had to be large enough to carry the minimum of 278 people but small enough to go through the Suez Canal.
+  3: >
+    They had to be less than 111 feet tall and less than 11 feet wide.
+  4: >
+    They had to be lower than the Brooklyn Bridge and small enough to go through the Panama Canal.
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 14ec3f6f-a951-454b-b45f-4e7050117681
+
+Question: |
+  When did Russia declare war against Japan during World War II?
+
+Answers:
+  1: >
+    Two days after the bombing of Hiroshima
+  2: >
+    The day after the Battle of Kursk
+  3: >
+    The day after the Battle of Stalingrad
+  4: >
+    Two days after Germany surrendered.
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 64803e1d-b04c-4e62-bd72-22f2a9f16506
+
+Question: |
+  Which former US President said:
+  
+  > I know I'm getting better at golf because I hit  fewer spectators.
+
+Answers:
+  1: >
+    George W. Bush
+  2: >
+    Ford
+  3: >
+    Carter
+  4: >
+    Eisenhower
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 1716123e-2ada-4c19-a5aa-fefe2d193fdc
+
+Question: |
+  Why are Cipriano dela Valera and Casiodoro de Reina famous in the Spanish-speaking world?
+
+Answers:
+  1: >
+    They are responsible for the first translation of Don Quixote into English.
+  2: >
+    They are responsible for the most popular Spanish version of the Bible.
+  3: >
+    They are the publishers of the top-selling Spanish-language newspapers in the USA.
+  4: >
+    They are the top stars of Spanish-language television in the USA.
+
+Correct: 2
+
+Explanation: |
+  None
 
 Active:
   True
@@ -18243,6 +20307,34 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: c7064d72-5c06-4794-9a58-d35372c91ed7
+
+Question: |
+  After the death of her lover, Cleopatra found true love. Though Egypt and Rome did not get along, these two people married in 36 B.C, planning to conquer Rome.
+
+Answers:
+  1: >
+    Antony and Cleopatra
+  2: >
+    Ptolemy and Cleopatra
+  3: >
+    Julius Caesar and Cleopatra
+  4: >
+    Octavian and Cleopatra
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: 3bc412a8-307b-4851-b408-cf6aa077a703
 
 Question: |
@@ -18268,6 +20360,371 @@ Active:
 
 Notes: >
   OpenTriviaQA Category was: people
+
+SchemaVersion: 1
+---
+ID: 6d7e7ea3-5423-42e0-a849-cc63a8b4294d
+
+Question: |
+  He is famous for sailing around the world twice. He became the first European to visit the coasts of Hawaii and Australia. Due to his voyages, some colonies were established throughout the Pacific region by several European nations.
+
+Answers:
+  1: >
+    John Franklin
+  2: >
+    Martin Frobisher
+  3: >
+    Henry Hudson
+  4: >
+    James Cook
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: a09ed22c-4874-4bc7-aa7d-00e0f0aca503
+
+Question: |
+  Stendhal hated his father so he took the first opportunity to leave for Paris, where he became a lieutenant in Napoleon’s army. He began his literary career after the fall of Napoleon in 1814. What was his real name?
+
+Answers:
+  1: >
+    Marie Henri Beyle
+  2: >
+    Paul M. A. Linebarger
+  3: >
+    Dan Perkins
+  4: >
+    Johann Kaspar Schmidt
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 9b021a67-9bf8-424a-8124-bac7c9214e6e
+
+Question: |
+  This person was expelled from the Socialist party on the grounds that he advocated Italy's involvement in the Great War. Following the war, he organized the Italian Fascist Party.
+
+Answers:
+  1: >
+    Benito Mussolini
+  2: >
+    Nicolae Ceaucescu
+  3: >
+    George Papadopulos
+  4: >
+    Augusto Pinochet
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: fc20e650-2e31-4e6c-a0ae-89e6bc594559
+
+Question: |
+  Under the rule of this fascist dictator all political parties and labor unions were banned. Books were burned, and dissenters were tortured and executed.
+
+Answers:
+  1: >
+    Francisco Franco
+  2: >
+    Antonio De Oliveira Salazar
+  3: >
+    Benito Mussolini
+  4: >
+    Turgut Ozal
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 049e303c-6b08-426d-8312-50e76494be12
+
+Question: |
+  He claimed that Democracy is the breeding ground of Communism. That is why he ended Chile's 150-years of democracy.
+
+Answers:
+  1: >
+    Alfredo Stroessner
+  2: >
+    Augusto Pinochet
+  3: >
+    Joseph Stalin
+  4: >
+    Francisco Franco
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: af123f87-4dc5-4600-9af2-dd826d4670af
+
+Question: |
+  The name of this Iraqi dictator means one who confronts. He saw himself as a social revolutionary and a modernizer, following the model of Nasser.
+
+Answers:
+  1: >
+    Saddam Hussein
+  2: >
+    Hassanal Bolkiah
+  3: >
+    Ferdinand Marcos
+  4: >
+    Sitiveni Rabuka
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 68564e11-233e-450f-a0e9-16a5b5416edf
+
+Question: |
+  What was the name of the ranch that Charles Manson and his Family stayed at during the spring of 1968?
+
+Answers:
+  1: >
+    Natas
+  2: >
+    Warren
+  3: >
+    Aztec
+  4: >
+    Spahn
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: baf7c06a-12f8-4ad1-b121-17738d1723d2
+
+Question: |
+  Which one of Charles Manson's family members was nicknamed Sadie Mae Glutz?
+
+Answers:
+  1: >
+    Susan Atkins
+  2: >
+    Pat Krenwinkel
+  3: >
+    Squeaky Fromme
+  4: >
+    Leslie Van Houten
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 20bf9eaa-48c5-4bdb-822b-236873dc7b4f
+
+Question: |
+  Born in Brookline, Massachusetts, he was a Roman Catholic President .
+
+Answers:
+  1: >
+    Lyndon Baines Johnson
+  2: >
+    Richard Milhous Nixon
+  3: >
+    Harry Shippe Truman
+  4: >
+    John Fitzgerald  Kennedy
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 17a25a2b-7ff4-40b9-8e0f-c0f900452e32
+
+Question: |
+  What President has an animal named after him, after refusing to shoot one such animal during a hunting party?
+
+Answers:
+  1: >
+    Dwight David Eisenhower
+  2: >
+    Theodore Roosevelt
+  3: >
+    Zachary Taylor
+  4: >
+    Franklin Pierce
+
+Correct: 2
+
+Explanation: |
+  Roosevelt is behind the name "teddy bear", named after he refused to shoot a tied-up black bear during a November
+  1902 hunting trip in Mississippi.
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 8c155c5f-e319-437c-a32a-dce12dca471c
+
+Question: |
+  What U.S. President was first to use atomic weapons (1945) ?
+
+Answers:
+  1: >
+    Gerald Rudolph Ford
+  2: >
+    Harry Truman
+  3: >
+    James Earl Carter
+  4: >
+    Ronald Wilson Reagan
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 19a28e5e-6a5a-489d-90a7-9b9757e8d180
+
+Question: |
+  In 1975, the terrorist group Japanese Red Army attacked the US Consulate in Kuala Lumpur. They made a phone call to notify the US authorities that they had hostages. The man who answered the phone was not a professional negotiator, but he became an accidental one. What was his job?
+
+Answers:
+  1: >
+    A janitor
+  2: >
+    A junior embassy officer
+  3: >
+    The consul's child, who was there at that time
+  4: >
+    A Japanese who was applying for a visa
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 285e46c8-78a3-4396-9a51-67d1c5280d7d
+
+Question: |
+  In 2004, Chechen separatists invaded the Beslan elementary school. What did the Russian government do?
+
+Answers:
+  1: >
+    It ordered an armed assault and some hostages died.
+  2: >
+    It did nothing and three days later the separatists released the hostages.
+  3: >
+    It ordered an armed assault and saved all the hostages.
+  4: >
+    It did nothing and three days later the separatists killed all hostages.
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
 
 SchemaVersion: 1
 ---
@@ -18299,6 +20756,538 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: 7b6edf01-652d-4542-a5cc-b4cb2789f4c3
+
+Question: |
+  1974, Argentina. She became the first ever female president.
+
+Answers:
+  1: >
+    Lydia Gueiler Tejada
+  2: >
+    Isabel Peron
+  3: >
+    Agatha Barbara
+  4: >
+    Finnbogadóttir
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 1f9bee0e-4acb-456b-87f1-b7197c595e52
+
+Question: |
+  Starting in 1966, she was the prime minister of India for 15 years. Her political career was controversial, as she was viewed by some as a dictator.
+
+Answers:
+  1: >
+    Golda Meïr
+  2: >
+    Élisabeth Domitién
+  3: >
+    Indira Gandhi
+  4: >
+    Sirimavo Bandaranaike
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 408d58aa-83d1-444c-b769-9a8a26bf0f32
+
+Question: |
+  She was the first African American woman to become The United States Secretary of State. Her name comes from Italian and means to play with sweetness, a musical term.
+
+Answers:
+  1: >
+    Condoleezza Rice
+  2: >
+    Miriam A. Ferguson
+  3: >
+    Patience Sewell Latting
+  4: >
+    Madeleine Albright
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 3ccb21b0-d502-400a-aa22-1717974c2a16
+
+Question: |
+  In 1988 she became the Prime Minister of Pakistan. She was the first woman to head the government of an Islamic State.
+
+Answers:
+  1: >
+    Silva Pintasilgo
+  2: >
+    Gro Harlem Brundtland
+  3: >
+    Indira Gandhi
+  4: >
+    Benazir Bhutto
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 2241b6f4-874d-4767-ae2b-6854d88afcc7
+
+Question: |
+  This woman was the first female president of the Philippines. She succeeded her husband after his assassination in 1983, and became the leader of the opposition to President Ferdinand Marcos. Three years later, she was elected President.
+
+Answers:
+  1: >
+    Milka Planinc
+  2: >
+    Corazon Aquino
+  3: >
+    Kasimiera Prunskien
+  4: >
+    Benazir Bhutto
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 59900eba-6610-4d44-a77e-6b6dbcc10869
+
+Question: |
+  What U.S. president's campaign slogan was The New Frontier? He wanted to get the nation moving again.
+
+Answers:
+  1: >
+    James Earl Carter
+  2: >
+    Ronald Wilson Reagan
+  3: >
+    John Fitzgerald Kennedy
+  4: >
+    William Jefferson Clinton
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 98973fc8-8716-49fa-8336-796236ae44c2
+
+Question: |
+  He was Commander of the Continental Army during the War of Independence and, later, the first U.S. president to serve two terms.
+
+Answers:
+  1: >
+    Chester Alan Arthur
+  2: >
+    George Washington
+  3: >
+    Stephen Grover Cleveland
+  4: >
+    Warren Gamaliel Harding
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: e63a35e2-0fce-4b8a-adf8-3d4e505fa13f
+
+Question: |
+  It was a popular belief among pirates that a woman aboard the ship brings bad luck. That is why before becoming a pirate, this woman had to disguise herself as a man.
+
+Answers:
+  1: >
+    Anne Bonny
+  2: >
+    Norma Rae Webster
+  3: >
+    Ellen Ripley
+  4: >
+    Atticus Finch
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 407ad159-2fbd-449c-8a2e-96b51d092509
+
+Question: |
+  Pirates who operated in the Caribbean were called this. They were authorized by their governments to attack shipping lines of Christian countries.
+
+Answers:
+  1: >
+    Corsairs
+  2: >
+    Privateers
+  3: >
+    Buccaneers
+  4: >
+    Crusaders
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 9db9085a-127c-42a2-aa5d-b50f9ec03d56
+
+Question: |
+  These pirates preyed upon cattle and pigs in the areas of Haiti and the Dominican Republic. Their name comes from the French word for outdoor roast or barbecue.
+
+Answers:
+  1: >
+    Privateers
+  2: >
+    Buccaneers
+  3: >
+    Corsairs
+  4: >
+    Modern Pirates
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: ed9e44e1-43ef-4cd8-b218-ea23155ae967
+
+Question: |
+  Pirates were squanderers and didn't have much money to bury. So the idea of a buried treasure is a romantic one, initiated by Treasure Island. However, this pirate was known for burying his money.
+
+Answers:
+  1: >
+    Francis Drake
+  2: >
+    Thomas Jones
+  3: >
+    Samuel Bellamy
+  4: >
+    Captain Kidd
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 8b4a2219-8d7f-4f90-a0bd-760651a7cf25
+
+Question: |
+  When pirates were caught, they were brought to trial and sentenced to death by hanging. The hanging was referred to as this.
+
+Answers:
+  1: >
+    Jolly Roger
+  2: >
+    Dancing the hempen jig
+  3: >
+    Hopping on the rope
+  4: >
+    The heavenly call
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 47d46116-fd48-43d3-a7c1-31c852c2bd6f
+
+Question: |
+  This Colombian drug lord was arguably the richest and most violent criminal in history. Forbes Magazine in 1989 listed him as the seventh-richest man in the world.
+
+Answers:
+  1: >
+    George Jung
+  2: >
+    Pablo Escobar
+  3: >
+    Ochoa brothers
+  4: >
+    Howqua
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 5977c052-3414-434a-98c2-0c7c9cdf59ad
+
+Question: |
+  This man was an international marijuana smuggler who refused to work with hard drugs. He spent 7 years at the Terre Haute penitentiary in America.
+
+Answers:
+  1: >
+    Howard Marks
+  2: >
+    Pablo Escobar
+  3: >
+    António Mota Graça
+  4: >
+    Manuel Noriega
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 063f7b8f-d317-4fe1-be4c-3a996b26b583
+
+Question: |
+  He was the de facto military leader of Panama from 1983 to 1989. However, in 1992 he was convicted on eight counts of drug trafficking, money laundering and racketeering -- and sentenced to 40 years in federal prison.
+
+Answers:
+  1: >
+    Manuel Antonio Noriega Moreno
+  2: >
+    William Jardine
+  3: >
+    George Jung
+  4: >
+    Brian ODea
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: e39fd4ef-114d-4276-b45a-6bc4091d9964
+
+Question: |
+  This man led the Cali Cartel and was a rival of Pablo Escobar. At its height, the cartel controlled over 80% of the cocaine exports from Colombia to the USA.
+
+Answers:
+  1: >
+    Antônio Mota Graça
+  2: >
+    Juan Carlos
+  3: >
+    Gilberto Rodríguez Orejuela
+  4: >
+    Manuel Noriega
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 8d14e8ec-b8a4-4d1a-8f96-374b2dd4e461
+
+Question: |
+  One of the most extravagant and cruel emperors of Rome was Gaius Julius Caesar Germanicus, better known as Caligula. Although there is very little information about his reign, many stories and anecdotes can be heard about Caligula. According to one of them, he tried to make his favourite animal Incitatus, a consul. What kind of animal was Incitatus?
+
+Answers:
+  1: >
+    horse
+  2: >
+    dog
+  3: >
+    cat
+  4: >
+    falcon
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 93d328b6-b1fb-4cea-9308-b231e3ce958c
+
+Question: |
+  This man captured one of the largest hauls, which proved to be laden with enough treasure to pay off England's national debt. It took the pirate four days just to transfer the loot from one ship to another. It is known that the Queen of England often referred to him as my pirate.
+
+Answers:
+  1: >
+    Charles Vane
+  2: >
+    Henry Avery
+  3: >
+    Sir Francis Drake
+  4: >
+    Howell Davis
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 933aa700-62c6-4b0e-8256-0a920438fa9c
+
+Question: |
+  He was well-educated and so in love with books, that he made a library aboard his ship. Probably that is why he was called The gentleman pirate. After his capture, he managed to escape from prison dressed as a woman. However, he was captured and put in jail two weeks later.
+
+Answers:
+  1: >
+    Charles Vane
+  2: >
+    Stede Bonnet
+  3: >
+    Howell Davis
+  4: >
+    Samuel Bellamy
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: be2476a1-6158-41ed-81cf-9ab6c5548bb7
 
 Question: |
@@ -18315,6 +21304,834 @@ Answers:
     Murat Rais
 
 Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 835455eb-995e-4d99-b6c1-70ba1d906ce6
+
+Question: |
+  Which of these monarchs is not correctly matched to the country he ruled?
+
+Answers:
+  1: >
+    King Constantine II - Greece
+  2: >
+    King Harald V - Denmark
+  3: >
+    King Carl XVI Gustaf - Sweden
+  4: >
+    King Juan Carlos I - Spain
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 80bbddf1-193b-410e-b723-e29fdb8c5bba
+
+Question: |
+  Who was U.S. President during the terrorist attacks of September 11th, 2001?
+
+Answers:
+  1: >
+    Gerald Rudolph Ford
+  2: >
+    George Walker Bush
+  3: >
+    Ronald Wilson Reagan
+  4: >
+    James Earl (Jimmy) Carter
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: f9d145ad-a410-4228-86c0-49ec9f9a9c5d
+
+Question: |
+  He was the 7th President of the US. He got his nickname "Old Hickory" during the War of 1812, because his troops said he was as rough as hickory wood. His wife's name was Rachel.
+
+Answers:
+  1: >
+    William Henry Harrison
+  2: >
+    Andrew Jackson
+  3: >
+    Andrew Johnson
+  4: >
+    Zachary Taylor
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 10189850-c3dc-42c9-b1e0-3817b7f112c5
+
+Question: |
+  My nickname was Old Rough and Ready. I served just sixteen months in office in 1849-1850. I was succeeded by Millard Fillmore. Who am I?
+
+Answers:
+  1: >
+    Zachary Taylor
+  2: >
+    Andrew Jackson
+  3: >
+    John Quincy Adams
+  4: >
+    Benjamin Harrison
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 740ac598-738b-4e5a-8f40-14f75f32f50e
+
+Question: |
+  Neither Anne Sullivan nor Helen Keller ever married. They lived together from the time Anne came to Helen as a child, until she died.
+
+Answers:
+  1: >
+    False
+  2: >
+    True
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 1528e0f9-784d-497e-9ccd-3a7b2a521242
+
+Question: |
+  At the age of 20 this future general was confident that he would make an efficient adjutant (Major), though he was then without military experience. In November 1752 he was appointed adjutant of the southern district of Virginia by Governor Robert Dinwiddie.
+
+Answers:
+  1: >
+    William Howe
+  2: >
+    George Mason
+  3: >
+    Edward Braddock
+  4: >
+    George Washington
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  OpenTriviaQA Category was: people
+
+SchemaVersion: 1
+---
+ID: 7b3d31bc-f291-4b09-b52d-a42627dafa93
+
+Question: |
+  This future general was educated at the expense of King Louis XVI, at Brienne and the École Militaire in Paris. He graduated in 1785, at the age of 16, and joined the artillery as a second lieutenant.
+
+Answers:
+  1: >
+    Napoleon Bonaparte II
+  2: >
+    Joacham Murat
+  3: >
+    Alexander I
+  4: >
+    Napoleon Bonaparte
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 234264e4-ea50-4a2f-ade2-82e6cdb5505d
+
+Question: |
+  What were the first names of the U.S. presidential couple the Madisons?
+
+Answers:
+  1: >
+    John and Julie
+  2: >
+    James and Dolly
+  3: >
+    Jack and Sally
+  4: >
+    Joshua and Sarah
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 3646ff1f-0840-4b80-a75d-0dfe500f15a4
+
+Question: |
+  Saddam Hussein married Sajida Talfah in 1958. How were they related before the marriage?
+
+Answers:
+  1: >
+    She was his niece
+  2: >
+    She was his cousin
+  3: >
+    She was his aunt
+  4: >
+    She was a friend from school
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 3a2c00a8-17dd-42fc-b12e-7bcfd2b8077e
+
+Question: |
+  Who said: Don't be afraid to take a big step if one is indicated: You can't cross a chasm in two small jumps.?
+
+Answers:
+  1: >
+    Ben Franklin
+  2: >
+    David Lloyd George
+  3: >
+    Michael Phelps
+  4: >
+    Samuel Johnson
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 1340912a-de95-41b9-97b5-9a4bfc020cf1
+
+Question: |
+  Name the cult leader of the People's Temple who was responsible for the suicide/murder of over 900 members of the People's Temple on November 18th 1978.
+
+Answers:
+  1: >
+    Jim Jones
+  2: >
+    Donald Cinque DeeFreeze
+  3: >
+    Randy Weaver
+  4: >
+    David Koresh
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: ef77c9fa-dba4-4119-b88a-91343a14c469
+
+Question: |
+  On October 20, 1973 in an effort to keep the Watergate tapes from the office of Special Prosecutor, Archibald Cox, President Richard Nixon ordered his Attorney General to fire Archibald Cox. What was the name of the Attorney General who resigned rather than break his word to congress that the White House would not interfere with the investigation?
+
+Answers:
+  1: >
+    Elliot Richardson
+  2: >
+    John Sirica
+  3: >
+    Daniel Ellsberg
+  4: >
+    John Dean
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 0b91f139-3237-4092-a093-a9bc57cb9834
+
+Question: |
+  The engineer of engine #382 was trying to make up 95 minutes of lost time when he rounded an s-curve to find four cars of a passenger train stalled on the track. Shouting at the fireman to jump, the engineer began to brake the train. What is the name of the engineer who rode engine #382 to his death in order to save the passengers on the stalled train?
+
+Answers:
+  1: >
+    John Henry
+  2: >
+    Casey Jones
+  3: >
+    Alvin York
+  4: >
+    Johnny Chapman
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 0cea314e-9f83-4b20-a036-4066f32560c6
+
+Question: |
+  There is evidence that incestuous marriage was widespread at some point of Egyptian history. For example, Maatkare Hatshepsut, regarded as the earliest known queen regnant in history, married Thutmose II. What was her relationship to Thutmose II?
+
+Answers:
+  1: >
+    He was her father
+  2: >
+    He was her son
+  3: >
+    He was her grandfather
+  4: >
+    He was her half-brother
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 21008b6c-9723-4189-b9cd-d31777972f45
+
+Question: |
+  Famous Indian spiritual leader Mohandas Karamchand Gandhi is widely known as Mahatma, which means what in Sanskrit?
+
+Answers:
+  1: >
+    Great Son
+  2: >
+    Great King
+  3: >
+    Great Eye
+  4: >
+    Great Soul
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 5baa82e7-cbfe-4cb7-ac65-fbdb97825db1
+
+Question: |
+  In 1894, the Natal Indian Congress was founded by Mahatma Gandhi in South Africa, for what purpose?
+
+Answers:
+  1: >
+    To organize the Indian people in London.
+  2: >
+    To fight with the discrimination against Indians.
+  3: >
+    To spread the teachings of Buddha.
+  4: >
+    To preach vegetarianism.
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 1bd83a3a-e775-49a2-84ab-86887323f5fa
+
+Question: |
+  Was the trial against Joan of Arc, which began in 1431 just and fair?
+
+Answers:
+  1: >
+    Yes
+  2: >
+    No
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: ba0b5084-b68d-4656-8311-83bbae0be409
+
+Question: |
+  This German diplomat, who died on October 6, 2002 was the spouse of Queen Beatrix of the Netherlands.
+
+Answers:
+  1: >
+    Prince Emmanuel
+  2: >
+    Prince Zacharias
+  3: >
+    Prince Ruprecht
+  4: >
+    Prince Claus
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: cd254004-39f8-4409-9472-b7f9be5fee59
+
+Question: |
+  A line in this lawyer's summation to the jury has become a part of pop culture. Who said If the glove doesn't fit, you must acquit.
+
+Answers:
+  1: >
+    Al Sharpton
+  2: >
+    F. Lee Bailey
+  3: >
+    Robert Shapiro
+  4: >
+    Johnnie Cochran
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: c445a189-5e9f-4018-b43d-acccb36fa777
+
+Question: |
+  This flamboyant criminal lawyer said: Say you sue me because you say my dog bit you. Well, now this is my defense: My dog doesn't bite. And second, my dog was tied up that night. And third, I don't believe you were bit. And fourth, I don't have a dog. This lawyer represented T. Cullen Davis, one of the wealthiest men to ever stand trial for murder in the United States. He won two acquittals for Davis for the murder of twelve-year-old Andrea Wilborn and the attempted murder of Judge Joe Eidson.
+
+Answers:
+  1: >
+    Richard Racehorse Haynes
+  2: >
+    Melvin Belli
+  3: >
+    Roy Black
+  4: >
+    Gerry Spence
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: a8be8357-8f39-4b99-96a8-513539150774
+
+Question: |
+  This leader's country has some oil resources but is very poor. Under his rule, we have the terrible genocide going on in Darfur. Who was dictator of the Sudan in 2007?
+
+Answers:
+  1: >
+    Sayid Ali Khomenei
+  2: >
+    Bashar al-Asad
+  3: >
+    Islam Karimov
+  4: >
+    Omar al-Bashir
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: bd390a9c-aa5c-457a-99fe-0b7e5cf7ab46
+
+Question: |
+  Which leader took control of Equatorial Guinea in 1979?
+
+Answers:
+  1: >
+    Vladimir Putin
+  2: >
+    Teodoro Obian Nguema
+  3: >
+    Chourmmaly Sayasone
+  4: >
+    Pervez Musharraf
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: c9aca1d0-cd16-48b7-a85f-15e6d0933523
+
+Question: |
+  What political distinction does former President Gerald Ford hold?
+
+Answers:
+  1: >
+    The youngest president to hold office
+  2: >
+    The first president to visit a foreign country
+  3: >
+    The first president to be appointed (not elected) to the offices of VP and President.
+  4: >
+    The only president to hold the offices of VP and President.
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 60980f4e-05ec-42e1-8c36-18718056cfe9
+
+Question: |
+  William of Normandy lived during what period of time?
+
+Answers:
+  1: >
+    1028 to 1087
+  2: >
+    1035 to 1087
+  3: >
+    1028 to 1066
+  4: >
+    1020 to 1070
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 992ce145-25fb-4de2-a21f-9b3da6ebc9b4
+
+Question: |
+  Who was King of England 1042 to 1066, from whom William, Duke of Normandy, took the Throne of England?
+
+Answers:
+  1: >
+    Ethelred II
+  2: >
+    Godwine
+  3: >
+    Harold II
+  4: >
+    Edward the Confessor
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 8e1e827f-f680-4aec-b0bf-6ced7e9e6c71
+
+Question: |
+  Whose autobiography was titled An Autobiography or My Experiments with Truth?
+
+Answers:
+  1: >
+    Mohandas Gandhi
+  2: >
+    Harry Truman
+  3: >
+    George H.W Bush
+  4: >
+    Winston Churchill
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: f4f2d66d-b3d9-4422-a286-758a5af7c71e
+
+Question: |
+  In 2002, U.S. President George W. Bush told British Prime Minister Tony Blair that the problem with the French is that they don't have a word for entrepreneur.
+
+Answers:
+  1: >
+    False
+  2: >
+    True
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 44c75343-819a-458b-85a1-e37a0bb670bc
+
+Question: |
+  George Washington was related to which King of England?
+
+Answers:
+  1: >
+    Henry VIII
+  2: >
+    King George I
+  3: >
+    William the Conqueror
+  4: >
+    King Edward III
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: b8aed0d7-63a8-4834-9011-cefcfcb90d43
+
+Question: |
+  What was the name of George Washington's wife?
+
+Answers:
+  1: >
+    Martha Dandridge Custice
+  2: >
+    Betsy Fauntleroy
+  3: >
+    Sally Fairfax
+  4: >
+    Mary Philipse
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: e1c48b3e-444f-4a64-8580-b1178a71d1bc
+
+Question: |
+  Alben Barkley served as Vice President under Harry S. Truman from 1949-1953. Who served as Truman's Vice President from 1945-1949?
+
+Answers:
+  1: >
+    George C. Marshall
+  2: >
+    Henry Wallace
+  3: >
+    no one
+  4: >
+    Adlai Stevenson
+
+Correct: 3
 
 Explanation: |
   None
@@ -18411,6 +22228,62 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: 2497e8d2-2f1a-4199-a6b5-93e7b533b9ed
+
+Question: |
+  Malcolm X went to prison for committing which of the following crimes?
+
+Answers:
+  1: >
+    arson, larceny, rape
+  2: >
+    breaking & entering, larceny, carrying firearms
+  3: >
+    kidnapping, breaking & entering, shoplifting
+  4: >
+    assault, murder, larceny
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: add0513a-defe-46c4-b685-d20a43f4dc64
+
+Question: |
+  He lived 1735-1826 and was the first US President to father a President. His last words were Thomas Jefferson still lives.
+
+Answers:
+  1: >
+    James Monroe
+  2: >
+    John Adams
+  3: >
+    James Madison
+  4: >
+    John Hancock
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: ae677fe0-ca54-44f6-bb88-d1b754cf4286
 
 Question: |
@@ -18439,6 +22312,960 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: 95ac4c4e-14ea-4313-b68d-7b713f77649a
+
+Question: |
+  He may not have been the greatest US President in ability but he probably was great in girth. Wilford Brimley played this President in 2008s The Rise  of  Theodore Roosevelt.
+
+Answers:
+  1: >
+    Woodrow Wilson
+  2: >
+    William Howard Taft
+  3: >
+    William McKinley
+  4: >
+    Theodore Roosevelt
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 6f31663a-b63a-4d82-aafc-3f31bf085fc0
+
+Question: |
+  Hal Holbrook toured the country in a one man show about this President. Raymond Massey, Henry Fonda and John Carradine won much fame for playing this great man.
+
+Answers:
+  1: >
+    George Washington
+  2: >
+    Franklin Delano Roosevelt
+  3: >
+    Thomas Jefferson
+  4: >
+    Abraham Lincoln
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: bde9f595-b2e3-4b81-ba9f-a62edd5f1fc7
+
+Question: |
+  Ralph Bellamy played this President in 1960s Sunrise at Campobello and in the stage version of the same name. Edward Herrmann played him in 1982's Annie.
+
+Answers:
+  1: >
+    LBJ
+  2: >
+    HST
+  3: >
+    JFK
+  4: >
+    FDR
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 9a13fe5f-8528-49a9-a143-69d464f4d7ce
+
+Question: |
+  In 1981, Arabs attacked farming settlements in northern Israel by assaults and by shooting missiles into the farms. In order to stop this, Ariel Sharon launched what military operation?
+
+Answers:
+  1: >
+    Operation Peace for the Negev
+  2: >
+    Operation Northern Lights
+  3: >
+    Operation Peace for the Galilee
+  4: >
+    Operation Peace for the Eilat
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 381e2e95-ec23-42c6-b52b-2abdb56ef70f
+
+Question: |
+  What settled the 1962 Cuban Missile Crisis?
+
+Answers:
+  1: >
+    Russia took away its battleships from Cuba and the USA removed its carriers from the North Sea.
+  2: >
+    Russia took away its jet fighters from Cuba and the USA removed their jet fighters from Finland and Holland.
+  3: >
+    Russia removed its missiles in Cuba and the US Army withdrew soldiers from West Germany.
+  4: >
+    Russia took away the missiles in Cuba and the USA took away its missiles and spy equipment in Turkey.
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 9263cd38-8e61-4af3-8d4f-57712ff535d2
+
+Question: |
+  Menachem Begin was a member of the Betar Movement, which is what kind of organization?
+
+Answers:
+  1: >
+    An organization begun in Warsaw that fought against anti-semites in Russia
+  2: >
+    A Zionist youth group formed in 1929 at first to defend Jewish youth in Poland and then throughout Europe
+  3: >
+    An organization formed by Begin to help the legal and political status of Jews in Poland
+  4: >
+    An organization whose aim was to bring as many European Jewish youth to Israel as was possible.
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: dc0b7d54-6ff5-4b51-99af-4db3b1c285b7
+
+Question: |
+  Why was Menachem Begin released from Siberia in 1941?
+
+Answers:
+  1: >
+    He was not released. He escaped and made his way to Turkey and then to Israel.
+  2: >
+    Stalin personally required his knowledge and  abilities
+  3: >
+    Because of the the Sikorski-Mayski Agreement
+  4: >
+    His term was up
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 00f4ef61-d921-49be-9e30-4bae0cb904d3
+
+Question: |
+  When did Prime Minister Menachem Begin retire from public office?
+
+Answers:
+  1: >
+    1992
+  2: >
+    1987
+  3: >
+    1983
+  4: >
+    1997
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 327e2d5e-9a2e-4616-b8da-daf9c6ee938a
+
+Question: |
+  Where did Cuban political leader Fidel Castro meet Ernesto Che Guevara for the first time?
+
+Answers:
+  1: >
+    Argentina
+  2: >
+    Cuba
+  3: >
+    Mexico
+  4: >
+    Bolivia
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 8ee1eda8-3c58-48c1-9198-77edb668a3b5
+
+Question: |
+  According to Soviet records, Kim Jong-il was born on February 16, 1941 near this city.
+
+Answers:
+  1: >
+    Pyongyang, North Korea
+  2: >
+    Khabarovsk, USSR
+  3: >
+    Seoul, South Korea
+  4: >
+    Beijing, China
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 1f96e017-1ca9-40be-a353-52892774a94f
+
+Question: |
+  What office did Joe Biden's son, Beau, hold in 2006?
+
+Answers:
+  1: >
+    Governor of Delaware
+  2: >
+    Attorney General of Delaware
+  3: >
+    Professor of American History at Marshall University
+  4: >
+    Lt. Governor of Delaware
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: f73a304b-85fb-4eca-b484-a0503cd959ee
+
+Question: |
+  These presidents coupled up to discuss their former secretarial jobs. Which pair doesn't fit with the others?
+
+Answers:
+  1: >
+    James Madison & James Buchanan
+  2: >
+    Thomas Jefferson & Martin Van Buren
+  3: >
+    John Adams & John Tyler
+  4: >
+    James Monroe & John Quincy Adams
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 6d0386f4-11cc-4f02-87e6-69fbd35003bb
+
+Question: |
+  As far as inaugurations are concerned, which pair does not belong with the others?
+
+Answers:
+  1: >
+    James Madison & Andrew Jackson
+  2: >
+    John Adams & William Henry Harrison
+  3: >
+    George Washington & John Tyler
+  4: >
+    Thomas Jefferson & Martin Van Buren
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 8696c4d8-d81a-4710-b140-ba57c92c9c94
+
+Question: |
+  Birthdays were discussed amid laughter and merriment. Which two were not on the same page?
+
+Answers:
+  1: >
+    George W. Bush & Bill Clinton
+  2: >
+    Jimmy Carter & George H.W. Bush
+  3: >
+    Ronald Reagan & Barack Obama
+  4: >
+    Gerald Ford & Richard Nixon
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 0607f93d-1cd2-4b09-b533-2c26de267055
+
+Question: |
+  Talking about vice presidents, one pair was at odds and evens with the others. Which pair doesn't fit?
+
+Answers:
+  1: >
+    Martin Van Buren & James K. Polk
+  2: >
+    James Monroe & John Quincy Adams
+  3: >
+    George Washington & John Adams
+  4: >
+    James Madison & Andrew Jackson
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 53bd5bd0-0b60-40cc-8234-e70487c5aab7
+
+Question: |
+  As far as vice presidents are concerned, some were fortunate, some not. Which pair is different from the other three?
+
+Answers:
+  1: >
+    Andrew Johnson & Chester A. Arthur
+  2: >
+    Calvin Coolidge & Harry S. Truman
+  3: >
+    John Tyler & Millard Fillmore
+  4: >
+    Grover Cleveland & Rutherford B. Hayes
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 854c0f65-c0e3-4c88-8950-f1f1bdcde51a
+
+Question: |
+  They began talking about their early childhoods. Which pair couldn't seem to understand references made by each other?
+
+Answers:
+  1: >
+    Andrew Jackson & James K. Polk
+  2: >
+    Lyndon Johnson & George H.W. Bush
+  3: >
+    Zachary Taylor & Chester A. Arthur
+  4: >
+    John Adams & John F. Kennedy
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 8973d007-ff8e-40cb-b4eb-dd8acddf574b
+
+Question: |
+  They all discussed the pros and cons of running a state but one pair was not so current in their views. Which pair seemed too far removed?
+
+Answers:
+  1: >
+    Rutherford B. Hayes & Jimmy Carter
+  2: >
+    William McKinley & Woodrow Wilson
+  3: >
+    Calvin Coolidge & Theodore Roosevelt
+  4: >
+    Franklin D. Roosevelt & Grover Cleveland
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 0f8a1c69-e7dd-4db3-85a2-e55d6ecf69f8
+
+Question: |
+  A discussion ensued about jobs and work before their election to the presidency. Which couple didn't understand each other?
+
+Answers:
+  1: >
+    William H. Harrison & Dwight D. Eisenhower
+  2: >
+    Warren G. Harding & Harry S. Truman
+  3: >
+    Herbert Hoover & Theodore Roosevelt
+  4: >
+    George H.W. Bush & George W. Bush
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 9212586d-077a-4706-b4ee-08f001806f2c
+
+Question: |
+  Everyone was discussing their time in Congress. Which two could not agree on the benefits of certain policies in reference to their individual states?
+
+Answers:
+  1: >
+    Andrew Jackson & Andrew Johnson
+  2: >
+    Franklin Pierce & Martin Van Buren
+  3: >
+    William H. Harrison & Warren Harding
+  4: >
+    John Quincy Adams & John F. Kennedy
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 84338960-696a-4d15-bc19-52298ee975aa
+
+Question: |
+  Legislative discussion took place but which two were not in the same boat when discussing policy?
+
+Answers:
+  1: >
+    Gerald Ford & Millard Fillmore
+  2: >
+    James Madison & John Tyler
+  3: >
+    James A. Garfield & Rutherford B. Hayes
+  4: >
+    Lyndon Johnson & George H.W. Bush
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 519f5849-7192-453c-8d0b-3273fdd1b327
+
+Question: |
+  Talks about wives saddened all but two of these. Which pair did not seem melancholy at all?
+
+Answers:
+  1: >
+    Andrew Jackson & Richard Nixon
+  2: >
+    James Monroe & Rutherford B. Hayes
+  3: >
+    Calvin Coolidge & Ronald Reagan
+  4: >
+    John Adams & Chester A. Arthur
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 43d466e0-e2a9-43a7-a74c-bbea9f8d5de9
+
+Question: |
+  Three pairs totally agreed on policy. Which pair was constantly bickering?
+
+Answers:
+  1: >
+    Zachary Taylor & John Tyler
+  2: >
+    John Adams & James Madison
+  3: >
+    Thomas Jefferson & James Monroe
+  4: >
+    William Henry Harrison & Millard Fillmore
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 2a5a4479-9b27-44e4-a090-cebfe5dac8a1
+
+Question: |
+  They all were concerned with their legacy of learning. What two were sorely disappointed?
+
+Answers:
+  1: >
+    Andrew Jackson & James K. Polk
+  2: >
+    Warren Harding & Franklin Pierce
+  3: >
+    Thomas Jefferson & Harry Truman
+  4: >
+    Martin Van Buren & Millard Fillmore
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 350cd4e6-c85c-4dea-aa30-3d6d6cdd3666
+
+Question: |
+  Discussing their memoirs, one pair found that writing them would not have been as easy if they followed the method of the other three pairs. Which pair would that be?
+
+Answers:
+  1: >
+    Herbert Hoover & Harry Truman
+  2: >
+    Franklin Roosevelt & Richard Nixon
+  3: >
+    George W. Bush & Lyndon Johnson
+  4: >
+    John F. Kennedy & Jimmy Carter
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 0a00da4c-64ba-4e23-bf3e-c411d919c623
+
+Question: |
+  They certainly were a knowledgeable bunch on foreign affairs except one pair. Which two could not draw on much worldly experience?
+
+Answers:
+  1: >
+    William Henry Harrison & James Buchanan
+  2: >
+    James Madison & Andrew Jackson
+  3: >
+    James Monroe & John Quincy Adams
+  4: >
+    John Adams & Thomas Jefferson
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 0db7396c-23f5-4433-9c9a-cfc485bfeb62
+
+Question: |
+  Which late President of the United States said the following?
+  
+  > The world is more like it is now then it ever has before.
+
+Answers:
+  1: >
+    Franklin D. Roosevelt
+  2: >
+    Dwight D. Eisenhower
+  3: >
+    Woodrow Wilson
+  4: >
+    Richard Nixon
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 8870dc1c-7a2a-4569-91a9-7a20b00c6e88
+
+Question: |
+  Martin Luther King, Jr. was president of this civil right organization which he led until his assassination.
+
+Answers:
+  1: >
+    Congress on Racial Equality
+  2: >
+    Southern Christian Leadership Organization
+  3: >
+    Urban League
+  4: >
+    Rainbow Coalition
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 7401a9db-124b-4982-b0b6-c75d783c75a9
+
+Question: |
+  In what year was Dr. Martin Luther King, Jr. awarded the Nobel Peace Prize?
+
+Answers:
+  1: >
+    1964
+  2: >
+    1966
+  3: >
+    1962
+  4: >
+    1965
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 1a627e1e-448d-4440-a5dd-445ec4bf7d91
+
+Question: |
+  Name the  First Lady who reportedly crocheted 3500 pairs of slippers?
+
+Answers:
+  1: >
+    Frances Cleveland
+  2: >
+    Ellen Axson Wilson
+  3: >
+    Helen Herron Taft
+  4: >
+    Ida Saxton McKinley
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 531ebe1c-4bdf-47db-a74f-83d35e601e33
+
+Question: |
+  Where was Al Capone having lunch when the North Side gang shot into his entourage?
+
+Answers:
+  1: >
+    The restaurant of "Hawthorne Hotel"
+  2: >
+    The restaurant of "Hotel Utica"
+  3: >
+    The restaurant of "Warwick New York Hotel"
+  4: >
+    The restaurant of "Jefferson Clinton Hotel"
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 2f7e1221-41b2-4aa9-802d-8698b8f6cb59
+
+Question: |
+  Vlad Dracula was a Romanian who inspired the character of the vampire Dracula. In Romanian Dracul means either Dragon or Devil and therefore Dracula is translated as Son of the Dragon or Son of the Devil. Due to his favorite sadistic punishment, Vlad Dracula was nicknamed Tepes. He preferred to kill those who opposed him in this manner.
+
+Answers:
+  1: >
+    Hanging
+  2: >
+    Disembowelment
+  3: >
+    Impalement
+  4: >
+    Beheading
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 1e738bda-3eb8-40fb-89b3-539d5fcb64ee
+
+Question: |
+  She was arguably the most educated and most famous woman of the 17th century. She spoke Latin, modern European languages, Greek, Hebrew, Arabic, Syriac, Aramaic, and Ethiopian. She also excelled in art, music and literature.
+
+Answers:
+  1: >
+    Luisa Ignacia Roldan
+  2: >
+    Rachel Ruysch
+  3: >
+    Anna Maria van Schurman
+  4: >
+    Teresa Del Po
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: d2f9c733-27fc-406c-a7bb-e6fabdecaea7
+
+Question: |
+  Born in London, she became the most important woman in the silver trade. She and her husband made their reputation with silver in the popular French rococo style.
+
+Answers:
+  1: >
+    Louisa Courtauld
+  2: >
+    Amelia Farnborough
+  3: >
+    Mary Ann Croswell
+  4: >
+    Marie Nicole Dumont
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: ad33a4f4-90ca-4ff9-ae25-0e23f1c89ec6
 
 Question: |
@@ -18455,6 +23282,62 @@ Answers:
     Milton Brooks
 
 Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 1d60ffa5-940e-4a75-9e2f-6c6a71bf6ce5
+
+Question: |
+  In the same year Jesse James was shot and killed, Edward Hopper was born. What was the year?
+
+Answers:
+  1: >
+    1882
+  2: >
+    1895
+  3: >
+    1906
+  4: >
+    1870
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 9e8f9444-c95d-43c7-b2d1-4154e0a24b22
+
+Question: |
+  He was a Seventeenth Century rationalist who invented calculus, put forth the doctrine of Windowless Monads, and believed that this universe was the best possible one God could have created.
+
+Answers:
+  1: >
+    Spinoza
+  2: >
+    Hume
+  3: >
+    Rousseau
+  4: >
+    Leibniz
+
+Correct: 4
 
 Explanation: |
   None

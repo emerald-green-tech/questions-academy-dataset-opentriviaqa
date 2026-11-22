@@ -486,6 +486,118 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: fbfeb3cb-5851-4d97-b035-967b4b735a65
+
+Question: |
+  The Statue of Zeus, a Wonder of the Ancient World created in the ancient city of Olympia in 435 BC, was made primarily of what material?
+
+Answers:
+  1: >
+    Copper
+  2: >
+    Gold
+  3: >
+    Marble
+  4: >
+    Ivory
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: a2a82e1c-8fd9-4e2a-95f0-e57766a3e7d1
+
+Question: |
+  The Colossus of Rhodes was a giant statue, erected at the Greek island Rhodes harbor in 3rd century BC. Which ancient Greek god did the statue depict?
+
+Answers:
+  1: >
+    Ares
+  2: >
+    Helios
+  3: >
+    Zeus
+  4: >
+    Eurus
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: ec9cecfb-b917-4605-8d6a-80eef9bb3ac9
+
+Question: |
+  Which classical Greek sculptor designed the magnificent Statue of Zeus?
+
+Answers:
+  1: >
+    Myron
+  2: >
+    Praxiteles
+  3: >
+    Phidias
+  4: >
+    Isocrates
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 12b39b4a-1331-4cf2-8581-18872a7b8ac8
+
+Question: |
+  Which one of these women is a sculptor famous for works with war-related themes?
+
+Answers:
+  1: >
+    Renee Headings
+  2: >
+    Lin Mae Wang
+  3: >
+    Lisa Picard
+  4: >
+    May Howard Jackson
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: 9b7d2804-ee02-492d-a48d-d6f626161914
 
 Question: |

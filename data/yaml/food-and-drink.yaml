@@ -1502,7 +1502,7 @@ SchemaVersion: 1
 ID: da5222c6-04de-42b2-a5d3-a5327c3bdba7
 
 Question: |
-  Mom always told you to get plenty of iron in your diet, so you order a put out the lights and cry.  What item have you ordered?
+  Mom always told you to get plenty of iron in your diet, so you order a put out the lights and cry. What item have you ordered?
 
 Answers:
   1: >
@@ -1558,7 +1558,7 @@ SchemaVersion: 1
 ID: 8e0cab81-f252-4f28-9f9b-8ccc05a9e571
 
 Question: |
-  The final order of the night is for a Bow - wow, Pittsburgh on the bun, frog sticks, and a 55 with Hail.  What has been ordered?
+  The final order of the night is for a Bow - wow, Pittsburgh on the bun, frog sticks, and a 55 with Hail. What has been ordered?
 
 Answers:
   1: >
@@ -1586,7 +1586,7 @@ SchemaVersion: 1
 ID: afb73a86-cf2b-48e7-878c-471ab5135049
 
 Question: |
-  A fellow comes in on the night shift and orders a Hockey puck with wax, wreck em, frog sticks in the alley, and draw one in the dark.  What on Earth does he want to eat?
+  A customer orders a Hockey puck with wax, wreck em, frog sticks in the alley, and draw one in the dark. What does he want to eat?
 
 Answers:
   1: >
@@ -3662,7 +3662,7 @@ SchemaVersion: 1
 ID: 3cf79e04-9bae-413e-8e58-f8d675fc99c3
 
 Question: |
-  Layer ingredients in a shot glass in the following order: 15 ml Creme De Cacao white liqueur, 15 ml  Blue curacao liqueur, 15 ml Scotch Whisky.
+  Layer ingredients in a shot glass in the following order: 15 ml Creme De Cacao white liqueur, 15 ml Blue curacao liqueur, 15 ml Scotch Whisky.
 
 Answers:
   1: >
@@ -9908,7 +9908,7 @@ SchemaVersion: 1
 ID: c49f206e-e38d-4a7a-adc5-ec3649b0fc52
 
 Question: |
-  This type of  flat pasta, representing medallion or coin, stamped with various patterns originated in Liguria, Northern Italy during the Middle Ages. It was made by local peasants and used by aristocratic families as a display of wealth and status.
+  This type of flat pasta, representing medallion or coin, stamped with various patterns originated in Liguria, Northern Italy during the Middle Ages. It was made by local peasants and used by aristocratic families as a display of wealth and status.
 
 Answers:
   1: >
@@ -18064,6 +18064,90 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: 4f20d426-d5d0-4852-a6eb-c5a30acdca37
+
+Question: |
+  In Celtic parts of western Brittany, the baking of kornigou is still used to proclaim the beginning of the winter season (which begins on the night of Halloween). Kornigou are cakes baked in the shape of this.
+
+Answers:
+  1: >
+    Shoes
+  2: >
+    Antlers
+  3: >
+    Stars
+  4: >
+    Horseshoes
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: fa9125e4-2dd0-4efe-8eb6-79572d827791
+
+Question: |
+  If you mix milk, eggs and sugar you'll get this Christmas drink.
+
+Answers:
+  1: >
+    Zabaglione
+  2: >
+    Eggnog
+  3: >
+    Advocaat
+  4: >
+    Cider
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: f87acb3c-e9ee-40d6-9a8b-f0a6d7668c9a
+
+Question: |
+  What is the main ingredient in Boxty cakes, a traditional Irish dish?
+
+Answers:
+  1: >
+    Vegetables
+  2: >
+    Raw meat
+  3: >
+    Potatoes
+  4: >
+    Sausages
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: da5b0a34-f2b3-4431-abd9-05b74ec7fa5a
 
 Question: |
@@ -19752,6 +19836,34 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: 0bda8499-9d4f-410c-bf52-342f17f9efb9
+
+Question: |
+  Where did the word Melba come from, as in Melba toast and Peach Melba?
+
+Answers:
+  1: >
+    The name of the wife of the owner of Cunard Cruise Line.
+  2: >
+    The name of the proprietress of Del Monico's Steak House.
+  3: >
+    The name of Henry Ford's wife.
+  4: >
+    The name of an Australian singer.
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: c7c9d577-afa5-4698-a4a3-f9743b23e88a
 
 Question: |
@@ -19766,6 +19878,34 @@ Answers:
     M&M
   4: >
     Corny
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 6b911ca5-e8ae-425f-bd76-7de1051c8323
+
+Question: |
+  Who made the first chocolate bar?
+
+Answers:
+  1: >
+    J. S. Fry & Sons
+  2: >
+    Nestle
+  3: >
+    Mars
+  4: >
+    Hershey
 
 Correct: 1
 
@@ -19908,6 +20048,30 @@ Answers:
     Pink
 
 Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 00bcea60-99f6-44bb-9182-c58313726676
+
+Question: |
+  The Ritz cracker gets its name from Cesar Ritz, a famous German hotel owner.
+
+Answers:
+  1: >
+    False
+  2: >
+    True
+
+Correct: 1
 
 Explanation: |
   None

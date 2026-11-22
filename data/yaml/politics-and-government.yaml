@@ -1458,6 +1458,58 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: 1552f285-5720-40db-8ad9-0b86d617cfca
+
+Question: |
+  Denmark is a monarchy.
+
+Answers:
+  1: >
+    True
+  2: >
+    False
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 3889caa6-2d04-4547-8fdc-04a10a10d373
+
+Question: |
+  This leader, then president of one of the most influential countries of the world, resigned from his post on Christmas Day, 1991.
+
+Answers:
+  1: >
+    Gerhard Schröder
+  2: >
+    Mikhail Gorbachev
+  3: >
+    Felipe González
+  4: >
+    Francois Mitterand
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: a16241f3-7076-4f59-b546-a697d3c29c68
 
 Question: |
@@ -1500,6 +1552,34 @@ Answers:
     6 June
   4: >
     14 June
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: bef583d8-868c-4ff4-b7c5-60023d6cb920
+
+Question: |
+  What is the title of the official in charge of running the The Bronx borough?
+
+Answers:
+  1: >
+    The Bronx Commissioner
+  2: >
+    The Bronx Borough Chairman
+  3: >
+    The Bronx Vice Mayor
+  4: >
+    The Bronx Borough President
 
 Correct: 4
 
@@ -1610,6 +1690,34 @@ Answers:
     True
 
 Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 3f062901-4a32-4947-af3c-629bacf69b2f
+
+Question: |
+  The case of Epperson v. State of Arkansas in 1968 dealt primarily with what?
+
+Answers:
+  1: >
+    Whether U.S. state tests may be given to home school children
+  2: >
+    Whether literacy tests are required for advancement into junior high school
+  3: >
+    Whether U.S. states must require a balance of creationism and evolution
+  4: >
+    Whether U.S. states could not forbid the teaching of evolution
+
+Correct: 4
 
 Explanation: |
   None
@@ -1886,6 +1994,92 @@ Answers:
     George Bush
 
 Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: ea81001e-5ad9-477b-9dfb-4a700f656bdc
+
+Question: |
+  Which US Senator, while in a Vice Presidential Debate, stated:
+  
+  > I knew John Kennedy, John Kennedy was a friend of mine and, Senator, you are no John Kennedy.
+
+Answers:
+  1: >
+    Richard Nixon of California
+  2: >
+    Robert Dole of Kansas
+  3: >
+    Lloyd Bentsen of Texas
+  4: >
+    Nelson Rockefeller of New York
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: fe1b5a2a-0448-4e09-afde-a17f2779767c
+
+Question: |
+  You are stopped by a police officer while driving. He gives you a speeding ticket and then searches your car. You protest his right to search. He then alludes to this US Supreme Court Case.
+
+Answers:
+  1: >
+    Lawrence  v Terry
+  2: >
+    Terry v L.A.P.D.
+  3: >
+    Terry v U.S.
+  4: >
+    Terry v Ohio
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: ccb5bf65-5e4f-4c32-9910-c734e2df1074
+
+Question: |
+  TERI is a private, non-profit agency that deals with this subject.
+
+Answers:
+  1: >
+    The support of young actors and actresses
+  2: >
+    None of these
+  3: >
+    The improvement of the lives of people with autism
+  4: >
+    The improvement of the lives of retired persons
+
+Correct: 3
 
 Explanation: |
   None

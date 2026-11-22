@@ -4049,7 +4049,7 @@ SchemaVersion: 1
 ID: d00c707c-729e-43ee-b999-c626b6bf184c
 
 Question: |
-  Since 1977, there has been an annual world championship of this game, which requires a strategy of much planning and looking further ahead in your opponent’s possible moves.  Goro Hasegawa popularized the game in Japan in 1975.
+  Since 1977, there has been an annual world championship of this game, which requires a strategy of much planning and looking further ahead in your opponent’s possible moves. Goro Hasegawa popularized the game in Japan in 1975.
 
 Answers:
   1: >
@@ -4189,7 +4189,7 @@ SchemaVersion: 1
 ID: f6f21923-fb79-44fb-a07e-9b1c125422bb
 
 Question: |
-  What happens if you play all of your letters during the game of Scrabble? (Note:  This would not include the end of the game when your rack is not full)
+  What happens if you play all of your letters during the game of Scrabble? (Note: This would not include the end of the game when your rack is not full)
 
 Answers:
   1: >
@@ -4814,6 +4814,34 @@ Answers:
     One Eyed Cyclops
 
 Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: a08dad53-8e60-455f-a9ac-07e9ffd13fb1
+
+Question: |
+  What is unique about the month of May?
+
+Answers:
+  1: >
+    No other month begins on the same day of the week as May.
+  2: >
+    Spring begins in this month.
+  3: >
+    It is the only month with no holidays.
+  4: >
+    It has 29 days.
+
+Correct: 1
 
 Explanation: |
   None
@@ -5879,6 +5907,34 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: ece876b7-0ae2-4237-8eb6-288f87387de2
+
+Question: |
+  In the American version of Monopoly, which are the two most expensive properties?
+
+Answers:
+  1: >
+    Boardwalk and Fifth Avenue
+  2: >
+    Boardwalk and Park Place
+  3: >
+    Broadway and North Carolina Avenue.
+  4: >
+    Boardwalk and Ventnor Avenue
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: 59bd0ece-46c6-40fc-8e80-4ff19c93d0fc
 
 Question: |
@@ -5898,6 +5954,62 @@ Answers:
     none
 
 Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 47b84959-e2dd-4014-8e3f-4c19d41bf79d
+
+Question: |
+  Who won the first chess tournament in the USA?
+
+Answers:
+  1: >
+    Adolph Anderssen
+  2: >
+    John Marshall
+  3: >
+    Paul Morphy
+  4: >
+    Henry Bird
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 037734bf-96e3-45d7-af5a-221bbf08a297
+
+Question: |
+  You are given a bag with 10 marbles, four red marbles and six blue marbles. You select one at random. What is the probability that the marble you select is either blue or green?
+
+Answers:
+  1: >
+    6 out of ten
+  2: >
+    0
+  3: >
+    4 out of ten
+  4: >
+    2  out of ten
+
+Correct: 1
 
 Explanation: |
   None

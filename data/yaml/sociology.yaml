@@ -270,6 +270,146 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: ff82a3a5-1eb9-419d-baf8-7770dc1a9c8e
+
+Question: |
+  Gary Leon Rigway is known as the Green River Killer, responsible for at least 48 murders. What kind of people did he target?
+
+Answers:
+  1: >
+    Nurses
+  2: >
+    Prostitutes and runaways
+  3: >
+    Schoolboys
+  4: >
+    Schoolgirls
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: ac7f7013-6e33-43f2-928f-9439bd67ab10
+
+Question: |
+  This serial killer, known as The Ripper of Rostov, roamed Russia in the late 1900s. He was later found guilty of 52 murders and sentenced to death.
+
+Answers:
+  1: >
+    Anatoly Onoprieno
+  2: >
+    Vadim Yershov
+  3: >
+    Nikolai Dzhurmongaliev
+  4: >
+    Andrei Chikatilo
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: c3cb6849-615f-474d-8b53-9e5b9bf714eb
+
+Question: |
+  Bruno Ludke was born in 1909. When he was young, he tortured animals for fun. He strangled or stabbed to death 85 women. Where was he from?
+
+Answers:
+  1: >
+    Russia
+  2: >
+    Great Britain
+  3: >
+    America
+  4: >
+    Germany
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: ee0cd0f3-67d4-44fe-b7d7-4ba80972b953
+
+Question: |
+  This man's rampage lasted from 1979 to 1981. He roamed Atlanta and Georgia, taking the lives of 27 innocent boys. At first the police thought he was a white supremacist, because he targeted black boys, but it turned out he was black himself. He was caught on 22 May 1981.
+
+Answers:
+  1: >
+    Kendall Francois
+  2: >
+    Wayne Williams
+  3: >
+    Guy Georges
+  4: >
+    Robert Berdella
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 89c115be-e62f-4b02-8457-5fc9d7002a77
+
+Question: |
+  This serial killer was known as The Candy Man. His partner, Wayne Henley, eventually shot him.
+
+Answers:
+  1: >
+    Richard Angelo
+  2: >
+    Dean Corll
+  3: >
+    Clifford Robert Olson
+  4: >
+    Abdallah al-Hubal
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: b652f0b7-30d7-4eaa-bb61-47fcbac3af73
 
 Question: |
@@ -295,6 +435,172 @@ Active:
 
 Notes: >
   OpenTriviaQA Category was: people
+
+SchemaVersion: 1
+---
+ID: 63678cf5-8580-4b3e-8454-dda636c1ab3c
+
+Question: |
+  There were five dominant families in the American Mafia. The Bonanno family, the Colombo Family, the Gambino family, the Lucchese family and one more. Charles (Lucky) Luchiano was one of the Bosses of this powerful Mafia family.
+
+Answers:
+  1: >
+    The Capone Family
+  2: >
+    The Luchiano Family
+  3: >
+    The Genovese Family
+  4: >
+    The Lucky Family
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 3202b2bb-1d3e-4f4e-a1ba-73b64e55c09d
+
+Question: |
+  This serial killer who believed that his neighbor's dog was possessed by ancient demons, told police that the dog had barked orders for him to kill.
+
+Answers:
+  1: >
+    John Haigh
+  2: >
+    David Berkowitz
+  3: >
+    Albert Fischer
+  4: >
+    Ted Bundy
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 1e67bc51-3aaf-4b41-9a5e-5e1a58a41ef9
+
+Question: |
+  In November of 1983 Angelo Buono Jr . was sentenced to life in prison. He was convicted of killing nine young women and dumping their bodies in the Los Angeles area. Based on the geographical locations where the bodies were found, what was the nickname given to Buono?
+
+Answers:
+  1: >
+    The Hillside Strangler
+  2: >
+    BTK
+  3: >
+    The Avenue Assassin
+  4: >
+    the Green river Killer
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 3ce174dc-1920-47dd-8f9a-9d7e7f85c964
+
+Question: |
+  Only one of these makes kidnapping resemble a typical hostage situation. Which one?
+
+Answers:
+  1: >
+    The criminals are barricaded in an unknown area
+  2: >
+    Communication is one-way - the kidnappers tell authorities what to do
+  3: >
+    The criminals keep their hostages at a secret location
+  4: >
+    Kidnappers usual goals are money, attention, some cause, etc.
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 4f1d591f-5af6-468e-93ca-43738938a650
+
+Question: |
+  The following is a quote from a letter believed to have been sent by which notorious serial killer to the Central News office in London?
+  
+  > Sir I send you half the Kidne I took from one woman prasarved it for you tother piece I fried ate was very nise I may send you the bloody knif that took it out if you only wait a whil longer.
+
+Answers:
+  1: >
+    Jack the Ripper
+  2: >
+    Jack the Stripper
+  3: >
+    Ivan the Ripper
+  4: >
+    Jeremiah Johnston
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 705014b9-0c79-45cd-813c-7cfb82d4bac2
+
+Question: |
+  Mickey Featherstone, member of an organized crime gang the Westies, fled to Canada to avoid being drafted into Vietnam.
+
+Answers:
+  1: >
+    False
+  2: >
+    True
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
 
 SchemaVersion: 1
 ---

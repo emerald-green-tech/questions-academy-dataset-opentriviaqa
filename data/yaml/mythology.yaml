@@ -1830,6 +1830,114 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: a3f929d8-6b48-4b32-8f16-6aee920a9e82
+
+Question: |
+  According to legends, what was the purpose of the most mysterious of the Seven Wonders of the Ancient World -- The Hanging Gardens of Babylon?
+
+Answers:
+  1: >
+    Resemble the Heavens
+  2: >
+    Please the gods
+  3: >
+    Comfort a ruler's wife
+  4: >
+    Provide a place of solace and recreation for the rulers
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: f61c6e39-7a7d-4efc-9bcb-8a7fe9daa4ef
+
+Question: |
+  Built in honor of the Greek goddess Artemis, the Temple of Artemis was an enormous architectural construction for its time. In Greek mythology, Artemis is the goddes of what?
+
+Answers:
+  1: >
+    Wisdom, strategy, and war
+  2: >
+    Beauty and Love
+  3: >
+    Plague, beauty, light, healing, colonists, medicine
+  4: >
+    Hunt and the moon
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: cdbd3e26-f5f8-448b-a9ea-5aac451e9dd6
+
+Question: |
+  Jack Frost, a figure that presumably originated in Viking folklore, personifies crisp, cold, winter weather.
+
+Answers:
+  1: >
+    True
+  2: >
+    False
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 02f16a0d-f531-486a-b1ae-c4758bb28af4
+
+Question: |
+  According to the legend, leprechauns are unfriendly Irish fairies who live alone, possess hidden pots of gold and pass the time making what?
+
+Answers:
+  1: >
+    Hats
+  2: >
+    Bells
+  3: >
+    Shoes
+  4: >
+    Gold
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: c20ab5d9-1bba-4c80-a28f-1285ac83de94
 
 Question: |
@@ -2728,6 +2836,198 @@ Answers:
     Neck
   4: >
     Teeth
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 272ba812-5126-4091-ac31-e75857cb7be9
+
+Question: |
+  According to an urban legend, a teenage girl wears her new pair of shrink-to-fit jeans in the bathtub in order to achieve the perfect fit. Unfortunately, the jeans shrink so much that they kill her with their constricting force. What brand of jeans is responsible?
+
+Answers:
+  1: >
+    Levi's
+  2: >
+    Abercrombie & Fitch
+  3: >
+    Tommy Hilfiger
+  4: >
+    Calvin Klein
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: e6b4777e-8a32-4d54-8434-30742a306daa
+
+Question: |
+  This knight was known as the perfect knight and was the only knight worthy to sit in the Siege Perilous. Which knight was the only one to succeed in the quest for the Holy Grail and free the Fisher King?
+
+Answers:
+  1: >
+    Bedivere
+  2: >
+    Tristan
+  3: >
+    Galahad
+  4: >
+    Perceval
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 729fbd52-92ac-4cd3-a395-911277fa65f3
+
+Question: |
+  He was a Greek who talked incessantly. This got on Zeus's nerves so the talkative one was imprisoned under a fruit tree. Whenever he tried to get one of the fruits, the fruit moved away from him. What was his name?
+
+Answers:
+  1: >
+    Pyhrrus
+  2: >
+    Dazzalus
+  3: >
+    Cicero
+  4: >
+    Tantalus
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 15628793-c485-453f-a917-9b3834ae6021
+
+Question: |
+  Blood Vampires are supposed to be the most type of vampire. They feed on the blood of their victims and prefer sucking it from the neck, the wrist or the groin. But there is another, less known, kind of vampires. What do they feed on?
+
+Answers:
+  1: >
+    Vegetables
+  2: >
+    Flesh
+  3: >
+    Brains
+  4: >
+    Aura
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: e76557a3-7d36-4aaa-a5e5-3204181a11c3
+
+Question: |
+  A brownie is a legendary elf popular in the folklore of which two countries?
+
+Answers:
+  1: >
+    Germany & Austria
+  2: >
+    England & Scotland
+  3: >
+    Ireland & Wales
+  4: >
+    Denmark & Holland
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 7144c412-b591-4323-a9c4-d05b26ffd9fa
+
+Question: |
+  The gods Atum and Ra merged. The dominant of the two was Ra.
+
+Answers:
+  1: >
+    True
+  2: >
+    False
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: f5e8a825-6ff8-4fe6-ab2e-9af3668ec89b
+
+Question: |
+  Osiris had an equivalent in Greek mythology. Who was this counterpart of his?
+
+Answers:
+  1: >
+    Herakles
+  2: >
+    Zeus
+  3: >
+    Hades
+  4: >
+    Hermes
 
 Correct: 3
 

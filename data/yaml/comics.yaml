@@ -1074,6 +1074,30 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: b93d13d8-61f1-4efa-9cc6-7956117cd23e
+
+Question: |
+  Phoenix is the evil side of Marvel Comics character Jean Grey.
+
+Answers:
+  1: >
+    True
+  2: >
+    False
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: 8ffe16aa-4110-429e-941d-53206532f5cc
 
 Question: |

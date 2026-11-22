@@ -2465,7 +2465,7 @@ SchemaVersion: 1
 ID: 4c6a9299-6384-4875-b1ac-8394adb71b3c
 
 Question: |
-  If  two systems are in thermodynamic equilibrium with a third system then they are in thermodynamic equilibrium with each other. Which law is this?
+  If two systems are in thermodynamic equilibrium with a third system then they are in thermodynamic equilibrium with each other. Which law is this?
 
 Answers:
   1: >
@@ -2642,6 +2642,34 @@ Answers:
     In the northern part of our planet
 
 Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 3f2a2fed-3d07-4991-8466-b386c27a4f06
+
+Question: |
+  The highest recorded surface temperature of 136°F (about 58°C) was measured in this African country.
+
+Answers:
+  1: >
+    Morocco
+  2: >
+    Egypt
+  3: >
+    Libya
+  4: >
+    Algeria
+
+Correct: 3
 
 Explanation: |
   None
@@ -3870,6 +3898,34 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: 8ecc087f-fe20-4440-a90e-18f124c29a12
+
+Question: |
+  What do mathematicians call any rectangular table of numbers?
+
+Answers:
+  1: >
+    A Latin square
+  2: >
+    A polynomial
+  3: >
+    A matrix
+  4: >
+    A factorial
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: 1ae4ebb9-cfef-4040-874f-208067768095
 
 Question: |
@@ -4090,6 +4146,34 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: 68206d61-7d51-4a30-b083-517add467fd0
+
+Question: |
+  What is the subject of study of paleoanthropology?
+
+Answers:
+  1: >
+    ancient human fossils
+  2: >
+    the earliest human discoveries and accomplishments
+  3: >
+    older people
+  4: >
+    old cultures and societies
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: c7e7ef71-104f-477b-b331-51fe0506699b
 
 Question: |
@@ -4230,6 +4314,34 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: d1160f76-2f88-41d6-ad03-ff9a8dce8a0e
+
+Question: |
+  How long can a total lunar eclipse last?
+
+Answers:
+  1: >
+    1 hour & 40 minutes
+  2: >
+    4 hours & 30 minutes
+  3: >
+    2 hours & 30 minutes
+  4: >
+    3 hours & 20 minutes
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: b3b04f17-3c8c-4e92-84b1-aa789d67ecca
 
 Question: |
@@ -4268,6 +4380,34 @@ Answers:
     Peking Man
   4: >
     Piltdown Man
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 6fd68cd7-b618-4ab9-8104-dad5f4fe02d8
+
+Question: |
+  The sequence of numbers, appearing within pi's value has been an issue of interest for many professional mathematicians and math lovers. Such pi explorers have found that what occurs at decimal position 2440?
+
+Answers:
+  1: >
+    We reach the last decimal place to which our largest computers can calculate pi.
+  2: >
+    We reach the last decimal place where computer ENIAC calculated pi in 1949.
+  3: >
+    We reach the extent to which pi was known by 1750.
+  4: >
+    We get the first appearance of 666.
 
 Correct: 4
 
@@ -4326,6 +4466,34 @@ Answers:
     Pesticides
 
 Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 6cedf991-9ba4-4474-96a7-07012b8a4f40
+
+Question: |
+  Osteology is an important part of physical and forensic anthropology. What does an osteologist study?
+
+Answers:
+  1: >
+    skulls
+  2: >
+    blood
+  3: >
+    dead bodies
+  4: >
+    bones
+
+Correct: 4
 
 Explanation: |
   None
@@ -4410,6 +4578,34 @@ Answers:
     A one-to-one relationship is a type of function.
 
 Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: af5db47a-d687-4edc-b5b3-1d9744b74f11
+
+Question: |
+  When you study calculus, you usually also study this branch of geometry.
+
+Answers:
+  1: >
+    Bolyai geometry
+  2: >
+    Discrete geometry
+  3: >
+    Analytic geometry
+  4: >
+    Riemannian geometry
+
+Correct: 3
 
 Explanation: |
   None
@@ -4754,6 +4950,34 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: 5c4a8d76-4bbe-479c-a7aa-ec6688bae884
+
+Question: |
+  This is a synonym for neutron star.
+
+Answers:
+  1: >
+    White Dwarf
+  2: >
+    Black hole
+  3: >
+    Pulsar
+  4: >
+    Questars
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: d699d109-d519-4acc-a321-caf1ae4b7c9a
 
 Question: |
@@ -4770,6 +4994,34 @@ Answers:
     Has the same atomic weight as
 
 Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 10557525-c173-44d7-bbf3-e57a58856464
+
+Question: |
+  Which of these waves have the highest wave length?
+
+Answers:
+  1: >
+    Microwaves
+  2: >
+    Infrared waves
+  3: >
+    X-rays
+  4: >
+    Radio waves
+
+Correct: 4
 
 Explanation: |
   None
@@ -4810,6 +5062,34 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: a28f113e-bb50-44fe-813d-3eea62e0ec40
+
+Question: |
+  What are the two twin stars in the constellation Gemini?
+
+Answers:
+  1: >
+    Spica & Arcturus
+  2: >
+    Castor & Pollux
+  3: >
+    Voltron & Yularis
+  4: >
+    Merak & Dubhe
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: bbeaea86-dfb8-459c-962c-9628257a261a
 
 Question: |
@@ -4826,6 +5106,118 @@ Answers:
     Repaving Fleet Street with recycled paper.
 
 Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: ce49419f-ff5c-45af-8e1d-144746233474
+
+Question: |
+  Approximately how much paper does the average American use in one year?
+
+Answers:
+  1: >
+    One ton (2000 pounds)
+  2: >
+    3,400 pounds
+  3: >
+    1,500 pounds
+  4: >
+    580 pounds
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 6cc0144f-f0cf-4626-b650-03b11ce55614
+
+Question: |
+  Carbon dioxide is a very common pollutant. Approximately how much carbon dioxide is produced by the average American each year?
+
+Answers:
+  1: >
+    22 tons
+  2: >
+    5 tons
+  3: >
+    93 tons
+  4: >
+    1 ton
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 32bfab24-0f69-494f-bcea-c4702bfe5727
+
+Question: |
+  Luiz Bispo built a floating house for about $170. How is his house able to float?
+
+Answers:
+  1: >
+    It is made out of recycled cigars and cigarettes.
+  2: >
+    It is made out of recycled tires.
+  3: >
+    It recycles carbon dioxide throughout the house, making it buoyant.
+  4: >
+    It is made out of recycled plastic bottles.
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 9b636139-7b58-4ad8-98aa-8a37f575b86c
+
+Question: |
+  In Mannheim, Germany, people began recycling this.
+
+Answers:
+  1: >
+    Coffee grinds to make jewelry
+  2: >
+    Old PCs to make radar equipment for traffic control
+  3: >
+    Old swords and knives to make I-beams
+  4: >
+    Dead pets to make fertilizer
+
+Correct: 4
 
 Explanation: |
   None
@@ -4878,6 +5270,62 @@ Answers:
     True
 
 Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 2e147cfe-c1b1-4bd1-972e-b71b4490cd89
+
+Question: |
+  Which of these thermal emissions of light is the rarest in nature?
+
+Answers:
+  1: >
+    They are all equally frequent
+  2: >
+    Blue thermal emission
+  3: >
+    Red thermal emission
+  4: >
+    White thermal emission
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 6924e7c9-6c90-4036-9408-ee26c042f718
+
+Question: |
+  Until what century was alchemy considered a serious science in Europe?
+
+Answers:
+  1: >
+    14th century
+  2: >
+    13th century
+  3: >
+    18th century
+  4: >
+    16th century
+
+Correct: 4
 
 Explanation: |
   None
@@ -5002,6 +5450,34 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: f2066d09-2dd1-4274-b901-dc9dc813679c
+
+Question: |
+  In geometry, what is a curve?
+
+Answers:
+  1: >
+    A plane shape that never ends.
+  2: >
+    A plane shape that has no depth.
+  3: >
+    A plane shape that is not straight.
+  4: >
+    Anything that can be drawn in a plane without lifting the writing device.
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: fa8c4527-a290-4f1e-8a30-be933cfb1bf5
 
 Question: |
@@ -5074,6 +5550,34 @@ Answers:
     the origin
 
 Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 6b64d670-f9bb-48d1-9efb-7ea06dffb1fa
+
+Question: |
+  This can be viewed as a generalization of the Pythagorean Theorem.
+
+Answers:
+  1: >
+    Law of Willens
+  2: >
+    Law of Cosines
+  3: >
+    Law of Cotangents
+  4: >
+    Law of Verseed Sines
+
+Correct: 2
 
 Explanation: |
   None
@@ -5198,6 +5702,62 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: 8269f9e9-d0c1-4122-ad61-c4e4371966b4
+
+Question: |
+  The states of Arizona, Utah, New Mexico and Colorado form an exception to what important mathematical theorem?
+
+Answers:
+  1: >
+    Continuum Theorem
+  2: >
+    Fermat's Last Theorem
+  3: >
+    Goldbach's Theorem
+  4: >
+    Four Color Theorem
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: b7653d29-4cb6-4203-9ab4-8026bb057ab1
+
+Question: |
+  Three of these people were competitors and/or critics of Newton. Can you spot the odd one?
+
+Answers:
+  1: >
+    Gottfried Leibnitz
+  2: >
+    Christian Huygens
+  3: >
+    Issac Barrow
+  4: >
+    Robert Hooke
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: 8aa229a5-89cf-48bd-922a-497e160143f5
 
 Question: |
@@ -5310,6 +5870,34 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: 9826a3ff-1206-4705-b46b-f7bfc4e66454
+
+Question: |
+  Find the correct statement about the monsoons.
+
+Answers:
+  1: >
+    They blow East from the Arabian Peninsula in February and West from the South China Sea in August.
+  2: >
+    They blow West from Pakistan in February and East from the Pacific in September.
+  3: >
+    They blow North from Australia in July and South from Asia in January.
+  4: >
+    They blow North from The Indian Ocean in January and South from Asia in August.
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: 5053bc05-d703-4b63-98d4-449c42ef10d8
 
 Question: |
@@ -5376,6 +5964,34 @@ Answers:
     Manganese
   4: >
     Platinum
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 489de391-aed6-40ec-b21a-a06002ba0f3f
+
+Question: |
+  In 1898, three years after their marriage, this scientific couple discovered polonium and radium. Thus, they won the Physics Nobel Prize in 1903 for discovering radioactivity.
+
+Answers:
+  1: >
+    Anthony and Cleopatra
+  2: >
+    Abigail and John Adams
+  3: >
+    John Alden and Priscilla Mullins
+  4: >
+    Marie and Pierre Curie
 
 Correct: 4
 

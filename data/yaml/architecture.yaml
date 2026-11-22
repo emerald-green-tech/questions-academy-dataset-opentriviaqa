@@ -374,6 +374,34 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: a9c6c129-cfda-4f44-8cba-3482b0ff72f2
+
+Question: |
+  To which Greek goddess was the Temple at Ephesus dedicated?
+
+Answers:
+  1: >
+    Athena
+  2: >
+    Artemis
+  3: >
+    Hera
+  4: >
+    Hebe
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: f818cb9e-3cd2-4e7c-bfbd-61d87f88fa23
 
 Question: |

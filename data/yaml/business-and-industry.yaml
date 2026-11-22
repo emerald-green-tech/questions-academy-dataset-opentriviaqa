@@ -2241,7 +2241,7 @@ SchemaVersion: 1
 ID: 703d2be3-cc29-454e-b36a-fdc96bc7a186
 
 Question: |
-  Who are the founders of Popeyes Chicken  Biscuits?
+  Who are the founders of Popeyes Chicken & Biscuits?
 
 Answers:
   1: >
@@ -2370,6 +2370,702 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: 76845554-c3f1-4cef-9e68-4732056d3f1e
+
+Question: |
+  Leave the driving to us! was a phrase advertising which company?
+
+Answers:
+  1: >
+    Pan Am Airlines
+  2: >
+    Amtrak
+  3: >
+    Greyhound
+  4: >
+    Hertz
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: e714c88b-09a8-4f0f-b1d2-ff34976cb79d
+
+Question: |
+  The catchphrase Does she or doesn't she...? was part of the advertising campaign of which of these?
+
+Answers:
+  1: >
+    Summers Eve
+  2: >
+    Secret
+  3: >
+    Clairol
+  4: >
+    Ponds
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 5472c961-5802-4446-8016-d89c58733e86
+
+Question: |
+  Which product was advertised with the slogan: You've come a long way, baby!?
+
+Answers:
+  1: >
+    Weight Watchers
+  2: >
+    Virginia Slims
+  3: >
+    Ford
+  4: >
+    Cover Girl
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: f62a6f7c-7b39-4bfd-b22e-750fa380ce5a
+
+Question: |
+  Which beverage was advertised with the phrase Its the real thing?
+
+Answers:
+  1: >
+    Sprite
+  2: >
+    Coca Cola
+  3: >
+    AW Root Beer
+  4: >
+    7 Up
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: bf4965ff-5e97-475d-a9ae-4313f5a77550
+
+Question: |
+  He likes it! Hey, Mikey!! was a popular phrase that advertised which product?
+
+Answers:
+  1: >
+    Ovaltine
+  2: >
+    Life
+  3: >
+    Quaker Instant Oatmeal
+  4: >
+    Cheerios
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: a11f2e13-4cac-435e-ba24-c3e4563e45bb
+
+Question: |
+  Which product was advertised with the provocative words My wife, I think I'll keep her.?
+
+Answers:
+  1: >
+    Geritol
+  2: >
+    K Mart
+  3: >
+    Lysol
+  4: >
+    Chanel No. 5
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 63f98b9b-0ba6-4699-b0f7-61cd1d7da08f
+
+Question: |
+  They're GRR-eat!! was a slogan advertising which product?
+
+Answers:
+  1: >
+    Froot Loops
+  2: >
+    Frosted Flakes
+  3: >
+    Grapenuts
+  4: >
+    Rice Crispies
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 56c603c3-b38b-472a-bf02-e20ce9083c67
+
+Question: |
+  Your kind of place, You deserve a break today and We do it all for you were advertising slogans used by which company?
+
+Answers:
+  1: >
+    Amtrak
+  2: >
+    Club Med
+  3: >
+    McDonalds
+  4: >
+    Holiday Inn
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: cb04da40-6047-49b2-95d1-975060b92831
+
+Question: |
+  Which product was advertised with the phrase Take it off...take it all off!?
+
+Answers:
+  1: >
+    Sally Hanses Nail Polish Remover
+  2: >
+    Ponds Cold Cream
+  3: >
+    Noxema Shave Cream
+  4: >
+    Weight Watchers
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: ec921bce-fbea-41e8-a583-5e0984ea9ac5
+
+Question: |
+  It's not nice to fool Mother Nature! was the advertising slogan for which product?
+
+Answers:
+  1: >
+    Chiffon
+  2: >
+    Imperial
+  3: >
+    I Can't Believe It's Not Butter
+  4: >
+    Blue Bonnet
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: fc896a35-9f5f-4671-878c-9e562a9bfeb2
+
+Question: |
+  In travel, hospitality, and rate agreements, days or periods of high demand when special rates are not in effect are known as black days.
+
+Answers:
+  1: >
+    False
+  2: >
+    True
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 2d262512-f1a3-488e-ab04-e8bea4c0856e
+
+Question: |
+  The coupon is part of a physical airline ticket. This is what you do with it.
+
+Answers:
+  1: >
+    Keep it in order to prove that you have been on that flight.
+  2: >
+    Receive food on board in return for it.
+  3: >
+    It allows you to use the facilities of the airport free of charge.
+  4: >
+    Surrender it at check-in.
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 7a9282c6-b7b0-4492-8192-77108be1d2ce
+
+Question: |
+  When a hotel room is classified as Double/Double, this is true about the room.
+
+Answers:
+  1: >
+    It has two normal beds and two armchairs that can be used as two additional beds.
+  2: >
+    If you want to have the room you have to pay double.
+  3: >
+    It has two double beds.
+  4: >
+    It has two normal beds and two smaller beds for kids.
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 6419a67b-a619-47ee-8b4a-52cf28658746
+
+Question: |
+  One of these types of rates does not exist.
+
+Answers:
+  1: >
+    Rack Rate
+  2: >
+    Corporate Rate
+  3: >
+    Meeting Rate
+  4: >
+    Standby Rate
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 32c882ae-e9bf-4157-afe9-8343cddab6af
+
+Question: |
+  A window of convenience is generally considered to be this number of hours on either side of ideal departure or arrival time.
+
+Answers:
+  1: >
+    Three
+  2: >
+    Two
+  3: >
+    One and a half
+  4: >
+    One
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: a5b41cfc-7b40-4b5f-99d2-2e51d9e76899
+
+Question: |
+  Look, Ma, no cavities! was the advertising slogan of which product?
+
+Answers:
+  1: >
+    Crest
+  2: >
+    Colgate
+  3: >
+    Pepsodent
+  4: >
+    Gleem
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 6574690c-9e2b-4b0c-a68b-673a1d42d5a3
+
+Question: |
+  Which of these was advertised with the words Think small?
+
+Answers:
+  1: >
+    Volkswagen
+  2: >
+    IBM
+  3: >
+    Sony Walkman
+  4: >
+    Samsonite
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 62903554-2572-4f15-b9b1-0ed4f2db26c8
+
+Question: |
+  We try harder was the motto of which company?
+
+Answers:
+  1: >
+    Maytag
+  2: >
+    Pepsi
+  3: >
+    Avis
+  4: >
+    TWA
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 0370a1f0-ab4d-42bd-8571-aefb79e107a2
+
+Question: |
+  The slogan Is it true blondes have more fun was used by which company?
+
+Answers:
+  1: >
+    Coppertone
+  2: >
+    Clairol
+  3: >
+    Vogue
+  4: >
+    Max Factor
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 3cb0e6d2-9dff-4e69-9740-9302b7aa0795
+
+Question: |
+  Which of these used the advertising slogan, Ring around the collar!?
+
+Answers:
+  1: >
+    Wisk
+  2: >
+    Clorox
+  3: >
+    Fruit of the Loom
+  4: >
+    Van Heusen
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: e9cb0738-f0f3-4816-bc85-18473f22e93e
+
+Question: |
+  Have it your way! was the advertising slogan of which company?
+
+Answers:
+  1: >
+    Hardees
+  2: >
+    Burger King
+  3: >
+    Arbys
+  4: >
+    Long John Silvers
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: ea44cc22-7d85-41a9-8581-446da96a513f
+
+Question: |
+  Which of these used the tagline The ultimate driving machine?
+
+Answers:
+  1: >
+    BMW
+  2: >
+    Cadillac
+  3: >
+    Saab
+  4: >
+    Lincoln Mercury
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 3101f9da-0f16-4caa-bb52-a92f66b62ebf
+
+Question: |
+  Which company used the advertising slogan Reach out and touch someone?
+
+Answers:
+  1: >
+    AT&T
+  2: >
+    US Post Office
+  3: >
+    Hallmark
+  4: >
+    Jergen's moisturizer
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 432c6787-4cbd-4d36-9adf-9a704b33d4a2
+
+Question: |
+  Which brand was advertised with this slogan: I'd rather fight than switch.?
+
+Answers:
+  1: >
+    Rheingold
+  2: >
+    Lucky Strike
+  3: >
+    Tareyton
+  4: >
+    Budweiser
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 0d36c557-055a-4ab3-830c-4268bb13d31d
+
+Question: |
+  The popular phrase Sorry, Charlie is associated with which product?
+
+Answers:
+  1: >
+    Alka Seltzer
+  2: >
+    Trix
+  3: >
+    Starkist
+  4: >
+    GoodnPlenty
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: 3cab4807-38c2-4392-a2a1-7489d9a9a464
 
 Question: |
@@ -2386,6 +3082,314 @@ Answers:
     1935
 
 Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 41b1d02f-abdf-45fb-b10c-708f495fd945
+
+Question: |
+  Complete the advertising slogan: I'd walk a mile for a ...
+
+Answers:
+  1: >
+    Camel
+  2: >
+    Cup of coffee
+  3: >
+    Glass of wine
+  4: >
+    Soup
+
+Correct: 1
+
+Explanation: |
+  Introduced in 1913 by the R.J. Reynolds Tobacco Company for its Camel cigarettes.
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: f5314586-1ce3-43f7-804b-cd8e07648566
+
+Question: |
+  Complete the advertising slogan: Probably the best beer in the ...
+
+Answers:
+  1: >
+    World
+  2: >
+    Neighborhood
+  3: >
+    City
+  4: >
+    Country
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: c7056c0d-d87a-4fd5-8eec-c6ec9fe579ea
+
+Question: |
+  Complete the advertising slogan: A newspaper, not a ...
+
+Answers:
+  1: >
+    Snoozepaper
+  2: >
+    Journal
+  3: >
+    Diary
+  4: >
+    Magazine
+
+Correct: 1
+
+Explanation: |
+  UK slogan used for The Mail on Sunday (and associated with the Daily Mail group) in the 1980s.
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: ac691257-9d3c-4253-b2db-d84ebd38bec0
+
+Question: |
+  Complete the advertising slogan: A Mars a day helps you work, rest and ...
+
+Answers:
+  1: >
+    Keep going this way
+  2: >
+    Play
+  3: >
+    Make your day
+  4: >
+    Say
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 9e0a658b-1180-4afa-918a-6bbe72b1a32d
+
+Question: |
+  Complete the advertising slogan: Between love and madness lies ...
+
+Answers:
+  1: >
+    Forever
+  2: >
+    Sexuality
+  3: >
+    Friendship
+  4: >
+    Obsession
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: e99ba9be-c385-49c1-b80d-d7fcf956b376
+
+Question: |
+  Complete the advertising slogan: We drink all we can. The rest we ...
+
+Answers:
+  1: >
+    Exchange
+  2: >
+    Sell
+  3: >
+    Throw
+  4: >
+    Eat
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 141149f3-9abc-4e02-9fa0-8a7d37eddff5
+
+Question: |
+  Complete the advertising slogan: Melt in your mouth, not in your ...
+
+Answers:
+  1: >
+    Arm
+  2: >
+    Wrist
+  3: >
+    Hand
+  4: >
+    Fist
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: f284b5a8-a64d-403c-8e58-400a8ebe26de
+
+Question: |
+  Complete the advertising slogan: When a man you've never met before suddenly gives you ...
+
+Answers:
+  1: >
+    His watch
+  2: >
+    A kiss
+  3: >
+    A promise
+  4: >
+    Flowers
+
+Correct: 4
+
+Explanation: |
+  A tagline from 1980s and 1990s television commercials for Impulse body spray.
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 2672a3d2-5c0e-46a8-959c-d3e0d102b250
+
+Question: |
+  Complete the advertising slogan: A mind is a terrible thing to ...
+
+Answers:
+  1: >
+    Keep
+  2: >
+    Lose
+  3: >
+    Spoil
+  4: >
+    Waste
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 893e3901-baaa-4c7a-b590-94353a721762
+
+Question: |
+  Complete the advertising slogan: We bring good things to ...
+
+Answers:
+  1: >
+    Success
+  2: >
+    Reality
+  3: >
+    Life
+  4: >
+    You
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: acc765c4-0b63-4bac-b59c-ebbdd56b2798
+
+Question: |
+  Where were eyeglasses known and worn 500 years before they became popular in Europe and America?
+
+Answers:
+  1: >
+    Brazil
+  2: >
+    India
+  3: >
+    China
+  4: >
+    Japan
+
+Correct: 3
 
 Explanation: |
   None
@@ -2436,6 +3440,34 @@ Answers:
     General Mills
   4: >
     Quaker Oats
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 80ad8508-cf6c-40cf-8f5a-8c65081e3dc7
+
+Question: |
+  The actual building of the Titanic took place at what shipyard?
+
+Answers:
+  1: >
+    Cunard
+  2: >
+    Red Star
+  3: >
+    White Star
+  4: >
+    Harland & Wolff
 
 Correct: 4
 
@@ -2586,6 +3618,90 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: 243e5ab8-1ed2-42f1-995c-4487237939bb
+
+Question: |
+  What type of company is called a "closed shop"?
+
+Answers:
+  1: >
+    A company in which you may be employed if you are not a union member
+  2: >
+    A company in which employees have an amount of time when they must join the union
+  3: >
+    A company in which you need not join a union but you must pay union dues only for services provided by the union
+  4: >
+    A company in which you must be a union member before you are employed
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: d0be368b-b943-48e3-8be0-4bbfc091f7b2
+
+Question: |
+  What is the definition of an "open shop"?
+
+Answers:
+  1: >
+    A company in which you have a set an amount of time to join a union after you are hired
+  2: >
+    A company in which you have a choice whether or not to join a union
+  3: >
+    A company which only hires non-union employees
+  4: >
+    A company in which you have a choice of more than one union to join
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 4f02a93d-5c32-446f-a0a2-d52bc59e3095
+
+Question: |
+  What is a "yellow-dog contract"?
+
+Answers:
+  1: >
+    An agreement between a union and an employer in which the employer agrees to help the union form
+  2: >
+    An agreement between an employee and an employer that the employee will not join a union.
+  3: >
+    An agreement between a union and a worker in which the union agrees to help the worker find work
+  4: >
+    An agreement between an employer and a state government in which the state agrees not to enforce union rules on the companys owners
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: 7d39ed06-08a3-4fa6-801f-67b988910669
 
 Question: |
@@ -2602,6 +3718,118 @@ Answers:
     Playboy Enterprises
 
 Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 1d74e2f2-035e-40b5-801f-91afb7c103d0
+
+Question: |
+  A "spinner" in the airline industry refers to this.
+
+Answers:
+  1: >
+    The baggage conveyor belt
+  2: >
+    A last-minute passenger, unable to locate their seat once aboard the aircraft
+  3: >
+    A wet runway, which requires additional braking room
+  4: >
+    A late arriving aircraft, which is reassigned a gate position
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 09e302d6-43bf-4782-ab17-afa24e24de80
+
+Question: |
+  What is an airline hub?
+
+Answers:
+  1: >
+    An interfaced, virtual aircraft tracking system, linked to the FAAs arrival /departure scopes, which monitors a given airport.
+  2: >
+    The central processing control data unit of a particular airlines computers.
+  3: >
+    The cargo cities located around the perimeters of most major airports.
+  4: >
+    A centrally located airport, which contains an airlines facilities, as well as systems operations for the entire system. The majority of airlines flights utilize the hub.
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 0cec6847-53cd-46a9-9b6f-6c879678486c
+
+Question: |
+  PIREPS refers to what in the airline industry?
+
+Answers:
+  1: >
+    Pier reports.
+  2: >
+    Representatives of an airline catering / confectionery group. Hence, Pie reports, or how many pies, pastries, etc. will be catered on any given flight.
+  3: >
+    Pilot reports.
+  4: >
+    A trade lobbying group, representing airline pilots.
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 9f20c686-a4ff-4875-a7ab-900b8dc757f0
+
+Question: |
+  He was the first person involved in the automobile industry to win Time magazine's title Man (or Person) of the Year.
+
+Answers:
+  1: >
+    Walter Percy Chrysler
+  2: >
+    Gottlieb Daimler
+  3: >
+    Otto Benz
+  4: >
+    Henry Ford
+
+Correct: 1
 
 Explanation: |
   None
@@ -2654,6 +3882,90 @@ Answers:
     True
 
 Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: f3daae09-7b4d-4f31-a69b-6e6a6c14073a
+
+Question: |
+  El Al, which is of major importance in Israel, is what kind of organization?
+
+Answers:
+  1: >
+    The government security organization
+  2: >
+    An international Jewish student organization
+  3: >
+    The national airline company of Israel
+  4: >
+    A religious movement in Israel
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 64a94637-af06-4be9-ac7d-cee2b3cdec46
+
+Question: |
+  Ross Perot, a very successful American business man, founded Electronic Data Systems. Which statement about him is untrue?
+
+Answers:
+  1: >
+    He sold EDS to IBM .
+  2: >
+    In 1968 he was called The Fastest, Richest Texan.
+  3: >
+    When two of his employees were taken captive by Iran, he sponsored a successful rescue of the two men.
+  4: >
+    He began as a salesman for IBM.
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 925d1e3e-998c-4ffe-9d0e-875bff6dff5e
+
+Question: |
+  What did AT&T announce in December, 2007?
+
+Answers:
+  1: >
+    It would accept credit cards at payphones.
+  2: >
+    It would be called US SouthWestern Bell.
+  3: >
+    It would raise payphones rates to $1 for the first minute.
+  4: >
+    It would eliminate all of its payphones by the end of 2008.
+
+Correct: 4
 
 Explanation: |
   None
@@ -2743,6 +4055,34 @@ Active:
 
 Notes: >
   OpenTriviaQA Category was: world
+
+SchemaVersion: 1
+---
+ID: 167b4a4f-0a1d-4a59-98f8-3b1ee702d172
+
+Question: |
+  Radio did not die when pictures were added just before World War I (Britain) or just after it (U.S.). How did it survive?
+
+Answers:
+  1: >
+    Aligning with the great movie production houses allowed poor man's television
+  2: >
+    Created the combo-man (engineer and host) and began programming music to specific demographic cells.
+  3: >
+    Started the Top 40 radio format
+  4: >
+    Started Make Believe Ballroom
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
 
 SchemaVersion: 1
 ---
@@ -3540,6 +4880,34 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: 698e8376-5ba1-400d-9a48-6505b94e6ae1
+
+Question: |
+  In 1956, Tennessee businessman David Flexer had this great idea.
+
+Answers:
+  1: >
+    Have airlines transport packages on long flights
+  2: >
+    Show movies on airline flights
+  3: >
+    Build a supersonic airplane
+  4: >
+    Have flotation devices aboard airline flights
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: 88d80a13-2ff5-447c-ac6a-a0317c7ff533
 
 Question: |
@@ -3876,6 +5244,34 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: 7acbeb18-1758-47ec-9672-d39d7c433239
+
+Question: |
+  What happened in the pencil world in 1822?
+
+Answers:
+  1: >
+    The eraser was put onto the pencil.
+  2: >
+    Pencils were made with clips to hold onto a pocket.
+  3: >
+    Pencils that wrote in different colors were made.
+  4: >
+    The mechanical pencil was invented.
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: eeffaa41-8d42-4246-9eed-06d7c0d8dbf6
 
 Question: |
@@ -3928,6 +5324,62 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: 0b9b0ea0-00a9-427d-9170-0b6a318d588c
+
+Question: |
+  Francis Galton, half-cousin of Charles Darwin is credited with doing what, to tremendously help law enforcement agencies?
+
+Answers:
+  1: >
+    Using his knowledge of insects to tell times of death
+  2: >
+    Aiding in the capture of top British criminals
+  3: >
+    Being the first to use fingerprint identification
+  4: >
+    Developing the earliest form of DNA testing
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 6ee369ad-877c-4c8b-abf8-f8b6037dd5ce
+
+Question: |
+  From which radio station was the first national US broadcast made?
+
+Answers:
+  1: >
+    KPHI in Philadelphia
+  2: >
+    WWRL in Chicago
+  3: >
+    WINS in New York
+  4: >
+    KDKA in Pittsburgh
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: 14d4a60f-624b-4a9e-a07e-4b7141693ea2
 
 Question: |
@@ -3942,6 +5394,34 @@ Answers:
     sten gun
   4: >
     tommy gun
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: c8e1f39c-bf86-43ca-b80d-e14f57e4a12c
+
+Question: |
+  In 1565, this German-Swiss naturalist became the first person to document and describe the pencil.
+
+Answers:
+  1: >
+    Edward Naime
+  2: >
+    William Munroe
+  3: >
+    Nicolas Conte
+  4: >
+    Conrad Gesner
 
 Correct: 4
 
@@ -4140,6 +5620,34 @@ Answers:
     Rebound
 
 Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: bbed96e2-c953-47e4-bb5d-665a4e7b9bfa
+
+Question: |
+  Which one of these inventions hit the market in 1982?
+
+Answers:
+  1: >
+    The flying auto
+  2: >
+    The TV remote control
+  3: >
+    The wireless bra
+  4: >
+    The compact disk
+
+Correct: 4
 
 Explanation: |
   None
@@ -4516,6 +6024,62 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: 76d139f5-bff7-474c-aa3d-4de9620332ff
+
+Question: |
+  He was a salesman of tea, coffee, and sugar. Later, in 1876 he invented the gas motor engine.
+
+Answers:
+  1: >
+    John Ott
+  2: >
+    Samuel OReilly
+  3: >
+    Nicolaus August Otto
+  4: >
+    Ellen Ochoa
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 67500e61-c230-450e-801c-5770372b4c0d
+
+Question: |
+  George Washington Gale Ferris, Jr. constructed the modern version of the Ferris wheel in 1893 for what major world exposition?
+
+Answers:
+  1: >
+    California Pacific International Exposition 1893
+  2: >
+    Exposition Universelle, Paris 1893
+  3: >
+    Lewis Clark Centennial Exposition 1893
+  4: >
+    World's Columbian Exposition, Chicago, Illinois 1893
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: 07e87182-2122-400e-84f0-cacac2fd4a4c
 
 Question: |
@@ -4530,6 +6094,34 @@ Answers:
     Scott McNealy
   4: >
     Henry Kravis
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 17349060-5e59-47cb-b8fe-bbc5023df168
+
+Question: |
+  He is from a prominent 400-year old German family, famous for their steel production and manufacture of ammunition and armaments. He launched the family business.
+
+Answers:
+  1: >
+    Friedrich Krupp
+  2: >
+    Henry Kravis
+  3: >
+    Alfred Krupp
+  4: >
+    Alfred Sloan
 
 Correct: 1
 

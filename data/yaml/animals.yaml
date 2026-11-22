@@ -40861,6 +40861,34 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: 68547957-271e-43cd-a4b0-4de94870ffff
+
+Question: |
+  Which of these animals only has molars?
+
+Answers:
+  1: >
+    Adult penguins
+  2: >
+    Adult aardvarks
+  3: >
+    Adult wolves
+  4: >
+    Adult minnows
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: 41d4d8d2-f546-488e-9154-5f25309ab317
 
 Question: |
@@ -40871,6 +40899,34 @@ Answers:
     False
   2: >
     True
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 923f4fb3-0850-4d37-a137-c7ba00246f5e
+
+Question: |
+  Which of the following is correct?
+
+Answers:
+  1: >
+    Primates include Gorillas, Monkeys and Humans. Monkeys include Pro-Simians and Chimpanzees.
+  2: >
+    Primates include Monkeys, Pro-Simians, and Apes. Apes include Orangutans, Gorillas, Chimpanzees and Humans.
+  3: >
+    Primates include Apes and Pro-Simians. Pro-Simians include Humans. Apes include Gorillas, Orangutans and Monkeys.
+  4: >
+    Primates include Humans, Pro-Simians and Apes. Apes include Orangutans, Gorillas, and Monkeys.
 
 Correct: 2
 
@@ -40937,6 +40993,34 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: fcfd8cac-239c-49b0-98a0-2d08df1c24ba
+
+Question: |
+  Which statement is untrue?
+
+Answers:
+  1: >
+    When a gorilla is angry it shows its teeth.
+  2: >
+    Mosquitoes have teeth.
+  3: >
+    The Statue of Liberty's teeth are 3 feet wide.
+  4: >
+    Lemon sharks grow new teeth every two weeks.
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: fc286165-f3b1-4e27-9acc-be3daa4027c9
 
 Question: |
@@ -40981,6 +41065,62 @@ Answers:
     Their incredible orientation skills - they get back to lay eggs where they were born
 
 Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 48900507-26ee-48a8-9d0e-b7cfe307a875
+
+Question: |
+  This red herbivorous mammal is endangered because of habitat loss and human interference.
+
+Answers:
+  1: >
+    The Indian Red Badger
+  2: >
+    Lesser Panda
+  3: >
+    The Red Fox
+  4: >
+    The Asian Red Squirrel
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 936e05bb-d517-42d5-bdb5-fafb35d3c8cb
+
+Question: |
+  Which statement is **not** correct?
+
+Answers:
+  1: >
+    Kermit the Frog spoke at the funeral of ventriloquist Edgar Bergen.
+  2: >
+    Freddie Mercury wrote the Queen song "Delilah" as a tribute to his cat.
+  3: >
+    Isaac Van Amburgh is given credit as the first performer to put his head into the mouth of a living lion.
+  4: >
+    James Bartley was swallowed whole by a whale, but was rescued and lived another 35 years.
+
+Correct: 4
 
 Explanation: |
   None

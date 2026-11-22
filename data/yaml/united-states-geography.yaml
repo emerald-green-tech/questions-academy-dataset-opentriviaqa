@@ -1242,6 +1242,174 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: 17ed2694-2c9b-4ab0-b64d-96569fd94685
+
+Question: |
+  This state, officially nicknamed The Golden State, is situated in the southern half of the west coast of the USA.
+
+Answers:
+  1: >
+    Florida
+  2: >
+    Utah
+  3: >
+    California
+  4: >
+    Miami
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 005e31d0-29dc-4413-9b84-e6e889963432
+
+Question: |
+  This mid-Atlantic state is called The First State due to the fact that it was the first to ratify the US Constitution.
+
+Answers:
+  1: >
+    Columbia
+  2: >
+    Georgia
+  3: >
+    Maine
+  4: >
+    Delaware
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: b05516dc-2a56-49a3-b554-e2df317fa591
+
+Question: |
+  Widely known for huge gambling and the legalization of gambling industry, this states official nickname is The Silver State.
+
+Answers:
+  1: >
+    Kansas
+  2: >
+    Nevada
+  3: >
+    Florida
+  4: >
+    Alaska
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: cc7bc2a7-cb3f-4f43-a625-77512a8a08df
+
+Question: |
+  Due to its natural beauty and relative wilderness, this Southern state is called The Natural State.
+
+Answers:
+  1: >
+    Arkansas
+  2: >
+    Alabama
+  3: >
+    Alaska
+  4: >
+    Arizona
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: c8204071-7c25-4646-a771-40aac6d4ac1c
+
+Question: |
+  This state of the New England region of the United States has the nicknames Pine Tree State and Vacationland.
+
+Answers:
+  1: >
+    Michigan
+  2: >
+    Maryland
+  3: >
+    Massachusetts
+  4: >
+    Maine
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: a077a8ed-fb61-4c09-b5ea-f6a586851056
+
+Question: |
+  Which Southern state of the United States has a nickname The Magnolia State and a name that is the same as that of a big river?
+
+Answers:
+  1: >
+    South Dakota
+  2: >
+    Mississippi
+  3: >
+    South Carolina
+  4: >
+    Colorado
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: 70f28bce-4042-4e23-b005-3ba084f83a3a
 
 Question: |
@@ -1258,6 +1426,118 @@ Answers:
     Tennessee
 
 Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: eac416ca-46d1-42d8-9df2-3fb3527e4250
+
+Question: |
+  What is the real name of the Evergreen State, situated in the Pacific Northwest of the United States.
+
+Answers:
+  1: >
+    Pennsylvania
+  2: >
+    New Jersey
+  3: >
+    Massachusetts
+  4: >
+    Washington
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: f45d41f4-8f05-4dcb-8a09-1b573277df15
+
+Question: |
+  This small Mountain State is located in the region of Appalachia in the Eastern parts of the USA.
+
+Answers:
+  1: >
+    New Jersey
+  2: >
+    Pennsylvania
+  3: >
+    East Virginia
+  4: >
+    West Virginia
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: b0069edf-bffb-4ab6-a4f5-8fdb373ea7a2
+
+Question: |
+  What is the highest mountain peak in the United States?
+
+Answers:
+  1: >
+    Mount McKinley
+  2: >
+    Mount Rushmore
+  3: >
+    Mount Hood
+  4: >
+    Mount St. Helens
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: dec3ddd6-e470-47af-a810-e893af11fbbe
+
+Question: |
+  What country gave the Statue of Liberty to America?
+
+Answers:
+  1: >
+    Italy
+  2: >
+    France
+  3: >
+    Great Britain
+  4: >
+    Spain
+
+Correct: 2
 
 Explanation: |
   None
@@ -1298,6 +1578,278 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: 3afe7bde-94e8-4d66-929a-0b10f1c9d5ab
+
+Question: |
+  Three of these California cities have two popular nicknames each. Which city has just one?
+
+Answers:
+  1: >
+    Gilroy
+  2: >
+    Coachella
+  3: >
+    El Cajon
+  4: >
+    Fresno
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: ae4dc680-d3a1-424d-ba04-8ffe457a0bde
+
+Question: |
+  Does San Francisco have more nicknames than San Diego?
+
+Answers:
+  1: >
+    No
+  2: >
+    Yes
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: b7ebad63-c8fa-468c-9e10-7f17a78cd4f0
+
+Question: |
+  City of the Plains, Convention City, and Gateway to the Rockies are just three of the alternative names of this city.
+
+Answers:
+  1: >
+    Washington DC
+  2: >
+    Denver
+  3: >
+    Colorado Springs
+  4: >
+    Bartow
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 9135de47-155b-4f79-891e-623ae664c842
+
+Question: |
+  Jonesboro (Arkansas), Fort Wayne (Indiana) and Louisville (Kentucky) are three cities whose other names contain these buildings.
+
+Answers:
+  1: >
+    Hospitals
+  2: >
+    Churches
+  3: >
+    Railway Stations
+  4: >
+    Mansions
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 22205096-1fe3-49f4-bcb6-f6ce6a00e53e
+
+Question: |
+  One of these four cities is not referred to as a big fruit.
+
+Answers:
+  1: >
+    Sacramento
+  2: >
+    New Orleans
+  3: >
+    New York City
+  4: >
+    Los Angeles
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: d2c370c6-8945-4b72-b355-ab3c1eaa7a27
+
+Question: |
+  One of Detroit's nicknames is The 313, one of Flint's is That 810. The number in one of Lansing, Michigan nicknames is this.
+
+Answers:
+  1: >
+    823
+  2: >
+    517
+  3: >
+    116
+  4: >
+    666
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 67dc2e0c-f163-4ab1-928f-2b68572553ad
+
+Question: |
+  Florida is a Spanish adjective which means this.
+
+Answers:
+  1: >
+    Fragrant
+  2: >
+    Sunny
+  3: >
+    Flowery
+  4: >
+    Sandy
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 7ec35c9d-d4e1-4223-8a9d-d74a8ce79597
+
+Question: |
+  In God We Trust is Florida's state motto.
+
+Answers:
+  1: >
+    False
+  2: >
+    True
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: ca649a3f-fb49-4202-a6c2-3bb25dc72d41
+
+Question: |
+  This city is the oldest one in the US and is located in Florida.
+
+Answers:
+  1: >
+    St. Augustine
+  2: >
+    Lakeland
+  3: >
+    Immokalee
+  4: >
+    Poinciana
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: d0b56110-6ccf-4538-8e05-0fd1b6fd8801
+
+Question: |
+  One of the first streetcars in this American city was made to resemble a horse.
+
+Answers:
+  1: >
+    San Francisco
+  2: >
+    New York
+  3: >
+    Philadelphia
+  4: >
+    Boston
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: ed9b0d1f-a906-4d02-ac2f-c838749cc7ac
 
 Question: |
@@ -1312,6 +1864,62 @@ Answers:
     Illinois
   4: >
     Iowa
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 829fc9a5-1958-4aac-9247-925c31c8c78d
+
+Question: |
+  Which US state ranks number ten in terms of area?
+
+Answers:
+  1: >
+    Arkansas
+  2: >
+    Wyoming
+  3: >
+    Arizona
+  4: >
+    Utah
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: ea6eab08-fe51-46ea-baa5-78f08b116883
+
+Question: |
+  What is the deepest lake in the United States?
+
+Answers:
+  1: >
+    Lake Tahoe
+  2: >
+    Lake Mead
+  3: >
+    Crater Lake
+  4: >
+    Applegate Lake
 
 Correct: 3
 
@@ -1410,6 +2018,34 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: 588908a5-c834-4d30-a46e-cc97d19a194f
+
+Question: |
+  What was South Carolina's nickname, before it was called the Palmetto State?
+
+Answers:
+  1: >
+    The Constitution State
+  2: >
+    The Freedom  State
+  3: >
+    The Pelican State
+  4: >
+    The Iodine State
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: b8937317-df86-4c7a-91b8-7c92667c9963
 
 Question: |
@@ -1429,6 +2065,34 @@ Correct: 4
 
 Explanation: |
   None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: ae658402-260b-445c-b63e-faa7c94cca1a
+
+Question: |
+  Where is the National Civil Rights Museum?
+
+Answers:
+  1: >
+    In a church
+  2: >
+    Next  to the Lincoln Memorial
+  3: >
+    In a motel
+  4: >
+    On a share croppers farm
+
+Correct: 3
+
+Explanation: |
+  It is built around the former Lorraine Motel, where Dr. Martin Luther King Jr. was assassinated on April 4, 1968.
 
 Active:
   True
@@ -2728,6 +3392,34 @@ Answers:
     Hartford
   4: >
     Bridgeport
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 33772cc0-01d3-4f87-86ee-7bdf9fb5cee8
+
+Question: |
+  What is the state song of Connecticut?
+
+Answers:
+  1: >
+    Connecticut is My Home
+  2: >
+    Long Live the Glories of Old Connecticut
+  3: >
+    Yankee Doodle
+  4: >
+    It's a Grand Old Flag
 
 Correct: 3
 
@@ -4554,6 +5246,34 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: 1518aefc-7b74-4d73-8640-a474c3f82bce
+
+Question: |
+  What is Belle Fourche?
+
+Answers:
+  1: >
+    The geographic center of the United States.
+  2: >
+    A name of a desert in the United States.
+  3: >
+    The resort voted Number One Vacation Destination by Forbes Magazine.
+  4: >
+    A very upscale suburb in which the average house goes for 3,450,000 dollars.
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: 498b9ce3-3473-4721-9c47-b518918108a2
 
 Question: |
@@ -4598,6 +5318,34 @@ Answers:
     Augusta, Maine
 
 Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: fabbe806-49d6-42df-9b20-86dcf774b2e7
+
+Question: |
+  This city, known also as Anvil City, is situated in Northwest Alaska.
+
+Answers:
+  1: >
+    Stockton
+  2: >
+    Palmer
+  3: >
+    Barrow
+  4: >
+    Nome
+
+Correct: 4
 
 Explanation: |
   None

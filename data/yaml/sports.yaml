@@ -2994,6 +2994,34 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: 520d8c21-d102-4469-b980-d50de8f81b1e
+
+Question: |
+  Moe Berg was a professional baseball player, a catcher. Which one of these statements about him is correct?
+
+Answers:
+  1: >
+    He was the only catcher to catch three no hitters.
+  2: >
+    He was the last out in Don Larsens perfect game.
+  3: >
+    He was an international spy.
+  4: >
+    He was on base when Ruth hit home run number 60.
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: a29b9453-f8bc-42cc-b88b-ece2434e5f1f
 
 Question: |
@@ -3038,6 +3066,34 @@ Answers:
     Cliff Hagan and Easy Ed MCCauley
 
 Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 811ed839-4b15-4e3c-869e-e783b8355f50
+
+Question: |
+  American athletes Dave DeBusschere, Gene Conley and Del Rice all have what in common?
+
+Answers:
+  1: >
+    They played pro baseball and pro football
+  2: >
+    They played pro basketball and pro football
+  3: >
+    They played pro basketball and became team owners
+  4: >
+    They played pro basketball and pro baseball
+
+Correct: 4
 
 Explanation: |
   None
@@ -3234,6 +3290,34 @@ Answers:
     Joe Dimaggio
 
 Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 6b4e63c5-1353-4c6e-b7b7-9a62b84ccb44
+
+Question: |
+  Basketball has always been a physical sport. This player is a record breaker for the most personal fouls in one NBA season.
+
+Answers:
+  1: >
+    Darryl Dawkins
+  2: >
+    Moses Malone
+  3: >
+    Joe Dumars
+  4: >
+    Wilt Chamberlin
+
+Correct: 1
 
 Explanation: |
   None
@@ -4122,6 +4206,278 @@ Answers:
     Ed Begley Jr.
 
 Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 1fb46a66-2e0e-4f67-a5aa-6ecea0460319
+
+Question: |
+  Which football coach said: You carry on no matter what the obstacles are. You simply refuse to give up - and, when the going gets tough, you get tougher and you win.?
+
+Answers:
+  1: >
+    Bill Walton
+  2: >
+    Frosty Westering
+  3: >
+    John Wooden
+  4: >
+    Vince Lombardi
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 476b0497-3724-46a8-8356-fdd34d6e216f
+
+Question: |
+  Duke, Dizzy, Peewee, Satchel, Whitey, Yogi: all of these famous baseball handles were nicknames, except for one, which was a given first name.
+
+Answers:
+  1: >
+    True
+  2: >
+    False
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: c857522d-3f32-4f0a-8881-3a224b60c4bf
+
+Question: |
+  Is it true that Pancho Segura and Pancho Gonzalez, who were both kings on the tennis court, were christened with the same first name?
+
+Answers:
+  1: >
+    No
+  2: >
+    Yes
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 82a3c98c-1a1e-4555-aafc-1e341560ebfb
+
+Question: |
+  What are the original first and middle names of former Orioles first baseman Boog Powell? Coincidentally, they are the same as the names of a historic religious figure.
+
+Answers:
+  1: >
+    Jesus H.
+  2: >
+    Martin Luther
+  3: >
+    John Wesley
+  4: >
+    Brigham Young
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 8f57e0ca-b25c-495e-aefa-ccfaf867e6e2
+
+Question: |
+  I attended Indiana University and was drafted 2nd overall in the 1981 NBA draft by the Detroit Pistons. Who am I?
+
+Answers:
+  1: >
+    Joe Dumars
+  2: >
+    Bill Laimbeer
+  3: >
+    Larry Bird
+  4: >
+    Isiah Thomas
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 03be7e73-ff38-4bf1-9836-7912505e0f1f
+
+Question: |
+  In 1988, this recipient of the James E. Sullivan Award ran the 100m distance for the record-breaking 10.49 seconds.
+
+Answers:
+  1: >
+    Michael Johnson
+  2: >
+    Florence Griffith Joyner
+  3: >
+    Jackie Joyner - Kersee
+  4: >
+    Jerome Young
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: ed8c2b30-41e3-4393-844b-f51485c81546
+
+Question: |
+  This heavy athlete, nicknamed The Iranian Hercules, lifted 263.5 kg (589.9 lb) at the 2000 Summer Olympics.
+
+Answers:
+  1: >
+    Mohamad Khatami
+  2: >
+    Hossein Barkhah
+  3: >
+    Hossein Tavakoli
+  4: >
+    Hossein Rezza Zadeh
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 25ebce5a-51a0-4c6d-aa78-c95fb01401ad
+
+Question: |
+  He was a right-handed pitcher for the Yankees, Athletics, Indians and Mets. In 1962 he was the World Series MVP and won the Babe Ruth Award.
+
+Answers:
+  1: >
+    Abner Terry
+  2: >
+    Ralph Terry
+  3: >
+    Terry Pritchard
+  4: >
+    Bill Terry
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 1d3201bd-9350-43e4-887b-b93bf7a5ac45
+
+Question: |
+  He is one of the best quarterbacks in the history of the Pittsburgh Steelers. He has also been a fairly successful actor and sports analyst.
+
+Answers:
+  1: >
+    Brad Terry
+  2: >
+    Terry Clark
+  3: >
+    Terry Bradshaw
+  4: >
+    Stanley Terry
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: b8352716-1682-4735-88d7-a266bd4432f7
+
+Question: |
+  Sometimes people who hike very long distances hide supplies in boxes along their route. What are these boxes called?
+
+Answers:
+  1: >
+    suppliboxes
+  2: >
+    route boxes
+  3: >
+    bounce boxes
+  4: >
+    roadplies
+
+Correct: 3
 
 Explanation: |
   None

@@ -50,6 +50,282 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: 28e7a5c3-8afc-454f-b435-085bf98dcd22
+
+Question: |
+  This country has the Balboa as currency, which is the same as the Dollar. Actually the bills are US dollars and the coins are a mixture of Balboas and US coins.
+
+Answers:
+  1: >
+    Panama
+  2: >
+    Argentina
+  3: >
+    Columbia
+  4: >
+    Chile
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: d3686fa8-61dd-4657-b358-8d5f442df8e3
+
+Question: |
+  The currency of Malta is Maltese franc.
+
+Answers:
+  1: >
+    True
+  2: >
+    False
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: d8597895-9a24-4757-bb3c-656cefa02457
+
+Question: |
+  What currency is used in Bermuda?
+
+Answers:
+  1: >
+    Bermudian dollar
+  2: >
+    Bermudian peso
+  3: >
+    Bermudian euro
+  4: >
+    Bermudian real
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 52d70b1a-e61e-4d66-b691-61766b4e2118
+
+Question: |
+  What currency is used in India?
+
+Answers:
+  1: >
+    Indian rupee
+  2: >
+    Indian dollar
+  3: >
+    Indian tenge
+  4: >
+    Indian yuan
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: e6003d3d-27f5-4318-a1bc-8fc64d311cee
+
+Question: |
+  What currency is used in Pakistan?
+
+Answers:
+  1: >
+    Pakistani tala
+  2: >
+    Pakistani ruble
+  3: >
+    Pakistani rial
+  4: >
+    Pakistani rupee
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 267b1203-7b0a-46cc-9050-4eaf66c728d7
+
+Question: |
+  What currency is used in Japan?
+
+Answers:
+  1: >
+    yen
+  2: >
+    ouguiya
+  3: >
+    won
+  4: >
+    som
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 12cb32d8-8280-459c-846f-7f1a7b5178f0
+
+Question: |
+  What currency is used in South Korea?
+
+Answers:
+  1: >
+    South Korean won
+  2: >
+    South Korean dollar
+  3: >
+    South Korean leu
+  4: >
+    South Korean yen
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: bc02096d-86d7-41e8-9081-4d686eedd644
+
+Question: |
+  What currency is used in Libya?
+
+Answers:
+  1: >
+    Libyan dollar
+  2: >
+    Libyan dinar
+  3: >
+    Libyan rial
+  4: >
+    Libyan franc
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 1ca4137d-ca8d-448a-8249-925508c40c3a
+
+Question: |
+  What currency is used in Kuwait?
+
+Answers:
+  1: >
+    Kuwaiti kwacha
+  2: >
+    Kuwaiti lira
+  3: >
+    Kuwaiti dollar
+  4: >
+    Kuwaiti dinar
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 0e3c815f-a0aa-4aa3-8228-f5ecc0dc4156
+
+Question: |
+  What currency is used in Norway?
+
+Answers:
+  1: >
+    Norwegian shilling
+  2: >
+    Norwegian franc
+  3: >
+    Norwegian pound
+  4: >
+    Norwegian krone
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: 934988a9-b770-4f84-b4dc-91b644fa92e6
 
 Question: |

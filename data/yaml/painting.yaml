@@ -1070,6 +1070,118 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: 686de534-e85e-48d5-9b2e-a1f06fefffe7
+
+Question: |
+  One of the most prominent painters of the 20th century, this Catalan surrealist who was 1.72 m (5 ft 7-3/4 in) tall, is perhaps best-known for his work The Persistence of Memory.
+
+Answers:
+  1: >
+    Giorgio Chirico
+  2: >
+    Max Ernst
+  3: >
+    Pablo Picasso
+  4: >
+    Salvador Dalí
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: c73f15a7-068b-4e6e-adde-8703a4663618
+
+Question: |
+  This Swiss Neoclassicist painter was chosen to paint the portrait of Monsignor Nevroni, bishop of Como, before she turned 12. Later, she became a distinguished portrait painter.
+
+Answers:
+  1: >
+    Elizabeth Blackwell
+  2: >
+    Angelica Kauffmann
+  3: >
+    Ann Bateman
+  4: >
+    Hester Bateman
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 288affd0-bb37-447d-8ff2-1d8d8747179f
+
+Question: |
+  Although she was very young in 1876, she had great success painting the portrait of Sarah Bernhardt.
+
+Answers:
+  1: >
+    Charlotte Bonaparte
+  2: >
+    Maria Bashkirtseff
+  3: >
+    Louise Abbema
+  4: >
+    Anna Bilinska
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: ead0f8ae-0393-4a1e-a809-37e21d63baa1
+
+Question: |
+  Who was the British artist, born in 1839 in France, who painted Street in Moret and Sand Heaps?
+
+Answers:
+  1: >
+    John Sargent
+  2: >
+    Alfred Sisley
+  3: >
+    Walter Sickert
+  4: >
+    Philip Steer
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: 3e9f02fb-e975-45f3-a35a-7b6db1e5736c
 
 Question: |

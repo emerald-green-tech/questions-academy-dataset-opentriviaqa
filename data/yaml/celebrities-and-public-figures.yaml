@@ -4765,7 +4765,7 @@ SchemaVersion: 1
 ID: d4f6634e-1fbd-44db-8936-a6496de86034
 
 Question: |
-  Sylvester Stallone was married to Sasha Czack (1974-1985) and to Brigitte Nielsen (1985-1987).  In 1997 he married this woman.
+  Sylvester Stallone was married to Sasha Czack (1974-1985) and to Brigitte Nielsen (1985-1987). In 1997 he married this woman.
 
 Answers:
   1: >
@@ -5302,6 +5302,90 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: 72de4df8-52b7-4158-a760-da8aed6c8398
+
+Question: |
+  What year did Alfred Hitchcock become a US citizen?
+
+Answers:
+  1: >
+    1956
+  2: >
+    He never became a citizen
+  3: >
+    1946
+  4: >
+    1965
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: d0bc1e58-74bf-4333-80d5-68e776c39506
+
+Question: |
+  Actress and acting teacher Stella Adler broke her teaching relationship with Lee Strasberg because of differing teaching philosophies. Which best describes Adler's teaching philosophy?
+
+Answers:
+  1: >
+    The actor must know the audience and make the scene a real and believable set of actions and events.
+  2: >
+    The actor is really an attractor.
+  3: >
+    The actor must live the moment with his acting partner(s) to make the scene real and believable.
+  4: >
+    The actor must substitute his or her personal life experience and use that to make the characters actions real and believable.
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 4522f885-2f2c-426c-863c-77a827bdec76
+
+Question: |
+  Which of these actors was not a student of Stella Adler?
+
+Answers:
+  1: >
+    Warren Beatty
+  2: >
+    Eli Wallach
+  3: >
+    Robert DeNiro
+  4: >
+    Martin Sheen
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: c2450cd8-fcf1-4dfe-9a2c-fd2a28734628
 
 Question: |
@@ -5374,6 +5458,62 @@ Answers:
     Oliver Hardy
 
 Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 1d5226c6-0bcc-47e4-b778-fd274bea6b1b
+
+Question: |
+  This actress, whose career spanned almost 70 years, has won an Emmy, a Grammy, an Oscar and a Tony Award.
+
+Answers:
+  1: >
+    Helen Hayes
+  2: >
+    Carol Channing
+  3: >
+    Olivia DeHaveland
+  4: >
+    Gloria Stuart
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: dd31accd-ab26-4ea6-8770-0fd984733493
+
+Question: |
+  Which of these people was not born in New Jersey?
+
+Answers:
+  1: >
+    Michael Douglas
+  2: >
+    Buzz Aldrin
+  3: >
+    Chuck Yeager
+  4: >
+    Queen Latifah
+
+Correct: 3
 
 Explanation: |
   None
@@ -5596,6 +5736,34 @@ Answers:
     Matchbook Mine
   4: >
     Broken Women Mine
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: b79f5b72-9ad0-4574-9438-633268c2f9c6
+
+Question: |
+  Baby Doe Tabor, who outlived her husband by many years, died where?
+
+Answers:
+  1: >
+    In a nursing home in Telleride Colorado March 26, 1940
+  2: >
+    In a shack next to the Matchless mine frozen to death March 6, 1935
+  3: >
+    St Vincent Hospital Leadville, Colorado March 2, 1933
+  4: >
+    At the Tabor Opera House in Denver, Colorado March 14, 1935
 
 Correct: 2
 
@@ -9078,6 +9246,34 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: 36755188-66d4-4be5-a402-16ab00f4dd8e
+
+Question: |
+  Which famous actor was Arthur Miller's son-in-law?
+
+Answers:
+  1: >
+    Daniel Day-Lewis
+  2: >
+    Anthony Hopkins
+  3: >
+    Kirk Douglas
+  4: >
+    William Shatner
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: 42d44dd9-f56d-40f6-ac3e-73913989f8a3
 
 Question: |
@@ -9134,6 +9330,62 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: cd03b827-bd01-4e1d-b7c8-29bb2c0952ed
+
+Question: |
+  What do Ronald Reagan, King Henry VIII, Charles Lindbergh, Jerry Stiller, Mel Brooks, and William Shakespeare have in common?
+
+Answers:
+  1: >
+    Each can trace his genealogy to Germany.
+  2: >
+    Each had a sibling named Jane.
+  3: >
+    Each was married to a woman named Anne.
+  4: >
+    Each one was born in a year ending in a 9.
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 8bb58c92-969d-414b-855a-a6a3e32c0cc3
+
+Question: |
+  Which statement is false?
+
+Answers:
+  1: >
+    FDR is famous for saying Nothing is so much to be feared as fear.
+  2: >
+    O. Henry founded a humorous weekly paper named The Rolling Stone.
+  3: >
+    Henry David Thoreau is famous for saying Nothing is so much to be feared as fear.
+  4: >
+    Tennessee Williams was born in Mississippi.
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: 8a5e8f0a-c92e-4acf-a830-dcbf4b2d21b5
 
 Question: |
@@ -9150,6 +9402,34 @@ Answers:
     David Sarnoff
 
 Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 61141919-7be8-42ea-a14f-a2bd418d0d54
+
+Question: |
+  The actress's father created The Today Show, The Wide World of Sports, Your Show of Shows (aka the Sid Caesar Show) and helped create The Tonight Show.
+
+Answers:
+  1: >
+    Sigourney Weaver
+  2: >
+    Diane Lane
+  3: >
+    Debbie Allen
+  4: >
+    Jobeth Williams
+
+Correct: 1
 
 Explanation: |
   None
@@ -9208,6 +9488,62 @@ Answers:
     Lucille Ball
 
 Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 29ac7b4d-9e58-44f4-93c5-ba9ee80a2c96
+
+Question: |
+  Which statement about the name Florence Nightingale Graham is true?
+
+Answers:
+  1: >
+    It is the real name of Billie Holliday.
+  2: >
+    It is the married name of the famous nurse, Florence Nightingale
+  3: >
+    It is a pseudonym for the author Agatha Christie.
+  4: >
+    It is the real name of the famous beauty expert and business woman Elizabeth Arden.
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: e441ccff-6ece-42b0-b0cd-21d99a7e1fcb
+
+Question: |
+  Which of these is **not** a quote by Groucho Marx?
+
+Answers:
+  1: >
+    I have a memory like an elephant. In fact elephants often consult me.
+  2: >
+    The husband who wants a perfect marriage should keep his mouth shut and his checkbook open.
+  3: >
+    Blood's not thicker than money.
+  4: >
+    I was married by a judge. I should have asked for the jury.
+
+Correct: 1
 
 Explanation: |
   None
@@ -9416,6 +9752,34 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: fcfff08e-b69a-4a1a-b399-c01c9cf9e6d3
+
+Question: |
+  Who was Robert Van Winkle ?
+
+Answers:
+  1: >
+    A fictional character who slept for many years
+  2: >
+    Ice-T
+  3: >
+    The first winner of the Congressional Medal of Honor
+  4: >
+    Vanilla Ice
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: 6c655457-3a06-4582-af35-6fbfc69d963e
 
 Question: |
@@ -9528,6 +9892,62 @@ Notes: >
 
 SchemaVersion: 1
 ---
+ID: c10125c4-c908-44a9-b9ea-f524a9ed7af1
+
+Question: |
+  She was a successful Hollywood actress and he was the president of the USA. They never managed to be together legally, but their relationship was a public secret.
+
+Answers:
+  1: >
+    Marilyn Monroe and Joe DiMagio
+  2: >
+    Marilyn Monroe and John Kennedy
+  3: >
+    Ava Gardner and Bobby Kennedy
+  4: >
+    Ava Gardner and Frank Sinatra
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: a0ccf7a8-a819-43c2-8913-e1106bf90805
+
+Question: |
+  He was a famous French conqueror, but this wasn't enough for her to accept the marriage proposal immediately. She hesitated at first, but finally agreed.
+
+Answers:
+  1: >
+    Napoleon and Josephine Baker
+  2: >
+    Napoleon and Josephine
+  3: >
+    Alexander the Great and Cleopatra
+  4: >
+    Amenhotep and Nefertiti
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
 ID: 01f809c9-dc18-441c-b8e8-ce77978c1310
 
 Question: |
@@ -9542,6 +9962,689 @@ Answers:
     Marco Polo
   4: >
     Ferdinand Magellan
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 1b2baad3-0bb8-4c92-84b9-af471ada9b54
+
+Question: |
+  Are your taste buds working over time? If so, this job might be perfect for you. John Harrison did this job for Dreyer's.
+
+Answers:
+  1: >
+    Candy Licker
+  2: >
+    Drugs Tester
+  3: >
+    Ice Cream Taster
+  4: >
+    Fruit Tester
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: bc493456-cc22-4b84-8921-471852b0cf9b
+
+Question: |
+  Known as The Man of a 1,000 Voices , who has as his epitaph THAT'S ALL FOLKS! ?
+
+Answers:
+  1: >
+    Mel Blanc
+  2: >
+    Walt Disney
+  3: >
+    Robert Crumb
+  4: >
+    Mel Brooks
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: ed9455e7-36a7-4241-a19e-33b6538b8bd1
+
+Question: |
+  On March 9, 1982 his friend led his funeral procession riding a motorcycle and wearing a leather jacket and jeans. Two days later at his memorial service this same friend played the Ventures song 2,000 Pound Bee before 1,000 mourners at the Cathedral of St. John the Divine. Whose epitaph reads I May Be Gone But Rock And Roll Lives On?
+
+Answers:
+  1: >
+    Phil Hartman
+  2: >
+    Andy Kaufman
+  3: >
+    Chris Farley
+  4: >
+    John Belushi
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 7b057c11-5357-475d-bc22-3f4669cc6478
+
+Question: |
+  This  blue-eyed soul singer has the following epitaph:
+  
+  > Our Memory Of You And Your<br />
+  > Unchained Melody<br />
+  > Will Live On Through Eternity<br />
+  > If You Believe In Forever Then Life Is But A One Night Stand
+
+Answers:
+  1: >
+    Bill Medley
+  2: >
+    Bobby Hatfield
+  3: >
+    Maurice Gibbs
+  4: >
+    Neil Diamond
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 947825e3-41dd-41e0-b949-a2e11d9e476d
+
+Question: |
+  This conservationist, who along with his good friend Robert U. Johnson got Congress to approve a bill that would lead to the founding of Yosemite Sequoia National Parks, is remembered for the following quote:
+  
+  > When one tugs at a single thing in nature, he finds it attached to the rest of the world.
+
+Answers:
+  1: >
+    Frederick Douglass
+  2: >
+    Carl Sandburg
+  3: >
+    Ansel Adams
+  4: >
+    John Muir
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 5569b543-dbb3-4a79-ae42-6b73743ed740
+
+Question: |
+  The controversial figure who gave us the following quote died of meningitis and is buried in the famed Pere Lachaise Cemetery in Paris.
+  
+  > There are only two kinds of people who are really fascinating: people who know absolutely everything, and people who know absolutely nothing.
+
+Answers:
+  1: >
+    Oscar Wilde
+  2: >
+    Mary Shelley
+  3: >
+    J. R. R. Tolkien
+  4: >
+    Virginia Woolf
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: b0c3f7b6-979e-430b-b82f-3300d33d1112
+
+Question: |
+  This incredibly talented African-American stand-up comedian turned his comic abilities into a successful movie career. He was 65 when he died in December of 2005, after battling a crippling disease during the last several years of his life.
+
+Answers:
+  1: >
+    Joey Bishop
+  2: >
+    Jimmy Walker
+  3: >
+    Mel Blanc
+  4: >
+    Richard Pryor
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 9665c364-884f-41fd-9691-98fd40a4aa22
+
+Question: |
+  Frank Gorshin, the man of 100 faces, was best known as an impressionist. He was often seen on The Dean Martin Celebrity Roasts and played this character on the TV series Batman.
+
+Answers:
+  1: >
+    The Joker
+  2: >
+    The Riddler
+  3: >
+    The Penguin
+  4: >
+    Mr. Freeze
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 66c381cd-bfcb-469e-aa40-ea3437e2db72
+
+Question: |
+  This comedienne who said Sometimes I feel like a figment of my own imagination, is one of the handful of early women to pave the way for future aspiring funny women.
+
+Answers:
+  1: >
+    Ellen Degeneres
+  2: >
+    Paula Poundstone
+  3: >
+    Lily Tomlin
+  4: >
+    Joan Rivers
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: d3554e62-39d5-462e-b528-4cf178f0af76
+
+Question: |
+  Which statement is true about Oofty Goofty, a famous street performer in San Francisco?
+
+Answers:
+  1: >
+    He claimed to be a mime yet did nothing but talk.
+  2: >
+    He performed famous Shakespearean speeches on the streets of San Francisco.
+  3: >
+    By day he played oldies on the street and at night performed at the Filmore East.
+  4: >
+    He was a professional masochist.
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: bdeea912-e0fd-498a-9256-b3b0118b0d5b
+
+Question: |
+  Whose last words were:
+  
+  > The paper burns, but the words fly free.
+
+Answers:
+  1: >
+    Ann Bolyen
+  2: >
+    Rabbi Akiba ben Joseph
+  3: >
+    Jane Seymour
+  4: >
+    Joan of Arc
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 1e7b49b1-0489-4e90-8277-c61dc92d0171
+
+Question: |
+  I don't feel good were the last words of this famous American. Every time I eat an Idaho potato I will remember him, especially when I am in a suburb of Los Angeles.
+
+Answers:
+  1: >
+    Luther Burbank
+  2: >
+    Lester Maddox
+  3: >
+    Larry Fine
+  4: >
+    Louis Pasteur
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: e26fbdbb-7e5c-4dec-8af0-4e352a3cae74
+
+Question: |
+  When was Grigori Rasputin born?
+
+Answers:
+  1: >
+    29 December 1916
+  2: >
+    22 January 1879
+  3: >
+    29 December 1926
+  4: >
+    22 January 1869
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 7b7b95e9-0b2f-4161-b9fc-ae033ea17c87
+
+Question: |
+  This American actress has starred in The Conversation, Young Frankenstein, Close Encounters of the Third Kind and Tootsie. Her career has been adversely affected by Multiple Sclerosis and a brain aneurysm.
+
+Answers:
+  1: >
+    Terri Flynn
+  2: >
+    Teri Quinn
+  3: >
+    Teri Garr
+  4: >
+    Teri Flynn
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: c1c5a0a0-9637-45aa-bb34-91ecbebd2639
+
+Question: |
+  Which famous person was born on October 25, 1912 in Hamilton, Ontario?
+
+Answers:
+  1: >
+    Jack Warner
+  2: >
+    James J Hill
+  3: >
+    Jack Kent Cooke
+  4: >
+    Conrad Black
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 007c6c78-936e-477a-8147-c7857a3de827
+
+Question: |
+  She came out strutting wearing only a button and a bow. But it was the grand finale that got the audience every time. She did a triple somersault and when she hit the ground, she winked at the audience and then she turned around. Who had a tattoo of a cowboy pictured on her spine that said Phoenix, Arizona 1949?
+
+Answers:
+  1: >
+    Gypsy Rose Lee
+  2: >
+    Sally Rand
+  3: >
+    Little Miss Firecracker
+  4: >
+    Little Egypt
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 7323c4d7-c141-44b5-b515-cbde004b0a9f
+
+Question: |
+  This famous photojournalist specialized in war photographs. He covered the Spanish Civil War, The Second Sino-Japanese War, World War II (He landed on Omaha Beach!) ,The Israeli War for Independence, and The French-Indochina War. What was his name?
+
+Answers:
+  1: >
+    Robert Capra
+  2: >
+    Spider Martin
+  3: >
+    Eddie Adams
+  4: >
+    David Eugene Smith
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: cbcec6bf-0633-42d7-ba0c-732589ee1693
+
+Question: |
+  Which statement is untrue about Bill Bojangles Robinson who is regarded as the most famous tap dancer of all time?
+
+Answers:
+  1: >
+    He was once made Honorary Mayor of Harlem in NYC.
+  2: >
+    He was famous for his stair dance.
+  3: >
+    He set a record of 8.2 seconds for the 75 yard backwards dash.
+  4: >
+    When honored by the King of England as the best dancer in the world, he said Thank you , King-Oh.
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: ab31fe0b-c911-4266-b21d-a41f43cf38d6
+
+Question: |
+  Which statement is not true about Bill Robinson?
+
+Answers:
+  1: >
+    He was making $3,500 a week by 1910.
+  2: >
+    He switched names  with his younger  brother.
+  3: >
+    His younger brother became his agent.
+  4: >
+    He appeared in Stormy Weather with Lena Horne.
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: dcdca0bf-794c-43f9-802c-9ede39778977
+
+Question: |
+  Bill Robinson's style of dance emphasizes clean toe taps. Which tap great developed a style that put emphasis on percussive heel stomps?
+
+Answers:
+  1: >
+    Chuck Green
+  2: >
+    John W. Bubbles
+  3: >
+    George Primrose
+  4: >
+    Cholly Atkins
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 1dbd4750-9419-4d54-8bf0-130cd5f1e9bb
+
+Question: |
+  This tap dancing great was born in Fitzgerald, Georgia in 1919. He became a star and toured throughout the South as a youngster. He later formed the successful group Chuck and Chuckles. Who was he?
+
+Answers:
+  1: >
+    Jimmy Doyle
+  2: >
+    Charlie Dixon
+  3: >
+    Chuck Martyn
+  4: >
+    Chuck Green
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 771a7733-a6f8-4380-8df7-566974c5deef
+
+Question: |
+  They were a great tap dancing duo. Their names were Harold and Fayard. They received no formal training but were considered the greatest dancing duo in history. What was the name of their act?
+
+Answers:
+  1: >
+    The Syncopates
+  2: >
+    The Berry Brothers
+  3: >
+    The Nicholas Brothers
+  4: >
+    Hines and Hines
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: ec06d609-18af-4595-afd6-49d553be33aa
+
+Question: |
+  He first became famous dancing with Cholly Atkins but later had a single career. He was in Dirty Dancing and won a Tony Award for My One and Only. Who was he?
+
+Answers:
+  1: >
+    Honi Coles
+  2: >
+    Johnny Browne
+  3: >
+    Fayard Berry
+  4: >
+    Eddie Lee Parker
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 298ecda1-3d5a-4d9d-af7e-a8d0ffd4048e
+
+Question: |
+  Sammy Davis, Jr. was a great tap dancer, actor, singer, comic actor, and a member of the Rat Pack. What was the name of the act that led to his fame?
+
+Answers:
+  1: >
+    The Hoofers
+  2: >
+    The Stylistics
+  3: >
+    The Will Mastin Trio
+  4: >
+    The Tappers
 
 Correct: 3
 
@@ -80871,7 +81974,7 @@ SchemaVersion: 1
 ID: b097a2ae-47d3-48f2-bd2c-e27307a3bdd5
 
 Question: |
-  Chevy Chase turned down a role in National Lampoons Animal House.
+  Chevy Chase turned down a role in National Lampoon's Animal House.
 
 Answers:
   1: >
@@ -80888,7 +81991,7 @@ Active:
   True
 
 Notes: >
-  OpenTriviaQA Category was: celebrities. Pending category review.
+  None
 
 SchemaVersion: 1
 ---
